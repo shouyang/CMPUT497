@@ -1,0 +1,4396 @@
+If you're a speed metal fan, you'll like ENTITY1 -based SUBJECT 's latest offering, OBJECT 
+SUBJECT:	[[ FALL SILENT | /m/01myg8b ]]
+OBJECT:	[[ DRUNKEN VIOLENCE | /m/024x93v ]]
+ENTITY1:	[[ RENO | /m/06kx2 ]]
+SUBJECT PATH: SUBJECT -> offering -> like
+OBJECT  PATH: OBJECT -> offering -> like
+offering
+
+
+However: buy the  Love Kills!  album and the side project SUBJECT 's latest album   OBJECT   first.
+SUBJECT:	[[ CONTROLLED FUSION | /m/03qfrn9 ]]
+OBJECT:	[[ PATIENT ZERO | /m/01npz8w ]]
+SUBJECT PATH: SUBJECT -> OBJECT
+OBJECT  PATH: OBJECT
+OBJECT
+
+
+In 2002 SUBJECT released an ENTITY1 called OBJECT .
+SUBJECT:	[[ AMR DIAB | /m/01239 ]]
+OBJECT:	[[ REWIND | /m/0fcxhvh ]]
+ENTITY1:	[[ ALBUM | /m/02lx2r ]]
+SUBJECT PATH: SUBJECT -> released
+OBJECT  PATH: OBJECT -> called -> ENTITY1 -> released
+released
+
+
+1996 ENTITY1 produces the soundtrack for the ENTITY2 movie ? OBJECT ?  together with SUBJECT 
+SUBJECT:	[[ B-ZET | /m/01w9vhx ]]
+OBJECT:	[[ DER KALTE FINGER | /m/01s3qf5 ]]
+ENTITY1:	[[ SVEN | /m/0c4z27 ]]
+ENTITY2:	[[ RALF HUETTNER | /m/0b65ftr ]]
+SUBJECT PATH: SUBJECT -> with
+OBJECT  PATH: OBJECT
+-None-
+
+
+The OBJECT is SUBJECT
+SUBJECT:	[[ 10,000 MANIACS | /m/0139nv ]]
+OBJECT:	[[ THE EARTH PRESSED FLAT | /m/05y7b4 ]]
+SUBJECT PATH: SUBJECT -> is
+OBJECT  PATH: OBJECT -> is
+is
+
+
+SUBJECT began   OBJECT ,  an old one.
+SUBJECT:	[[ 10,000 MANIACS | /m/0139nv ]]
+OBJECT:	[[ TROUBLE ME | /m/0f_llps ]]
+SUBJECT PATH: SUBJECT -> began
+OBJECT  PATH: OBJECT -> began
+began
+
+
+SUBJECT used these same chord forms in   OBJECT   from his 1992 solo release Amused To Death
+SUBJECT:	[[ ROGER WATERS | /m/017g21 ]]
+OBJECT:	[[ AMUSED TO DEATH | /m/01jdsf5 ]]
+SUBJECT PATH: SUBJECT -> used
+OBJECT  PATH: OBJECT -> in -> forms -> used
+used
+
+
+Dave, The SUBJECT were a surf guitar group, and the OBJECT is the name of a ENTITY1 surf break
+SUBJECT:	[[ THE CHANTAYS | /m/0169k4 ]]
+OBJECT:	[[ PIPELINE | /m/01lprtm ]]
+ENTITY1:	[[ HAWAIIAN | /m/03pmt ]]
+SUBJECT PATH: SUBJECT -> were
+OBJECT  PATH: OBJECT -> is -> were
+were
+
+
+This was SUBJECT ' setup from 1999-2000; though in 2000, SUBJECT also played a red ENTITY1 during   OBJECT .
+SUBJECT:	[[ ROGER WATERS | /m/017g21 ]]
+OBJECT:	[[ THE BRAVERY OF BEING OUT OF RANGE | /m/01jdsdv ]]
+ENTITY1:	[[ FENDER STRATOCASTER | /m/02m873 ]]
+SUBJECT PATH: SUBJECT -> played -> was
+OBJECT  PATH: OBJECT -> during -> played -> was
+played
+
+
+A well-drafted, De-vision and SUBJECT , OBJECT  CD5, OBJECT  different paragraphs first
+SUBJECT:	[[ GREEN COURT | /m/01w2_kg ]]
+OBJECT:	[[ SHINING | /m/0ffxg07 ]]
+SUBJECT PATH: SUBJECT -> vision
+OBJECT  PATH: OBJECT -> paragraphs -> vision
+vision
+
+
+While preparing for the ENTITY1 the ENTITY2 band SUBJECT has released their album; OBJECT .
+SUBJECT:	[[ NO ANGELS | /m/018g7q ]]
+OBJECT:	[[ DESTINY | /m/02q0g2_ ]]
+ENTITY1:	[[ EUROVISION SONG CONTEST | /m/02q3s ]]
+ENTITY2:	[[ GERMAN | /m/0345h ]]
+SUBJECT PATH: SUBJECT -> band -> released
+OBJECT  PATH: OBJECT -> released
+released
+
+
+Kammel Kalamak  SUBJECT 's latest album, ENTITY1 is the long anticipated follow up to OBJECT 
+SUBJECT:	[[ AMR DIAB | /m/01239 ]]
+OBJECT:	[[ LEILY NAHARY | /m/08pc87 ]]
+ENTITY1:	[[ KAMMEL KALAMAK | /m/01mc4fc ]]
+SUBJECT PATH: SUBJECT -> album -> is
+OBJECT  PATH: OBJECT -> to -> up -> follow -> is
+is
+
+
+Kammel Kalamak  SUBJECT 's latest album, OBJECT is the long anticipated follow up to ENTITY1 
+SUBJECT:	[[ AMR DIAB | /m/01239 ]]
+OBJECT:	[[ KAMMEL KALAMAK | /m/01mc4fc ]]
+ENTITY1:	[[ LEILY NAHARY | /m/08pc87 ]]
+SUBJECT PATH: SUBJECT -> album -> is
+OBJECT  PATH: OBJECT -> is
+is
+
+
+SUBJECT discography, download SUBJECT music, SUBJECT albums, - OBJECT by SUBJECT .
+SUBJECT:	[[ 10,000 MANIACS | /m/0139nv ]]
+OBJECT:	[[ THE WISHING CHAIR | /m/05n5bw ]]
+SUBJECT PATH: SUBJECT -> by -> OBJECT -> music -> download
+OBJECT  PATH: OBJECT -> music -> download
+OBJECT
+
+
+OBJECT is a SUBJECT compilation album, initially released in 1996 as a promotional item and re-released in 1998.
+SUBJECT:	[[ KMFDM | /m/01_dvf ]]
+OBJECT:	[[ RETRO | /m/01hq_vz ]]
+SUBJECT PATH: SUBJECT -> album -> is
+OBJECT  PATH: OBJECT -> is
+is
+
+
+1999's ENTITY1 finds SUBJECT exploring similar musical terrain as their previous album, OBJECT , on which singer ENTITY2 debuted.
+SUBJECT:	[[ 10,000 MANIACS | /m/0139nv ]]
+OBJECT:	[[ LOVE AMONG THE RUINS | /m/05y77d ]]
+ENTITY1:	[[ THE EARTH PRESSED FLAT | /m/0pfwkq ]]
+ENTITY2:	[[ MARY RAMSEY | /m/0g5qqw3 ]]
+SUBJECT PATH: SUBJECT -> exploring -> finds
+OBJECT  PATH: OBJECT -> album -> as -> exploring -> finds
+exploring
+
+
+After playing   ENTITY1  , she pulled out   ENTITY2  , from the SUBJECT album, OBJECT 
+SUBJECT:	[[ 10,000 MANIACS | /m/0139nv ]]
+OBJECT:	[[ OUR TIME IN EDEN | /m/05n5n1 ]]
+ENTITY1:	[[ BREAK YOUR HEART | /m/0g6qj2y ]]
+ENTITY2:	[[ THESE ARE DAYS | /m/02wbg1m ]]
+SUBJECT PATH: SUBJECT -> album -> from -> pulled
+OBJECT  PATH: OBJECT -> album -> from -> pulled
+album
+
+
+Nah...the best CD for ENTITY1 is SUBJECT 's OBJECT 
+SUBJECT:	[[ KMFDM | /m/01_dvf ]]
+OBJECT:	[[ ANGST | /m/01hr0c3 ]]
+ENTITY1:	[[ QUAKE | /m/026j8bm ]]
+SUBJECT PATH: SUBJECT -> OBJECT -> is
+OBJECT  PATH: OBJECT -> is
+OBJECT
+
+
+ENTITY1 occurs as SUBJECT single off of the album OBJECT .
+SUBJECT:	[[ KMFDM | /m/01_dvf ]]
+OBJECT:	[[ NAÏVE | /m/01hr00n ]]
+ENTITY1:	[[ GODLIKE | /m/0bvc_m ]]
+SUBJECT PATH: SUBJECT -> single -> as -> occurs
+OBJECT  PATH: OBJECT -> of -> off -> occurs
+occurs
+
+
+ENTITY1 toured with SUBJECT and provided guitar and some songwriting on the subsequent albums ENTITY2 [4] and OBJECT .[5
+SUBJECT:	[[ KMFDM | /m/01_dvf ]]
+OBJECT:	[[ XTORT | /m/01hr11s ]]
+ENTITY1:	[[ DURANTE | /m/0413vyt ]]
+ENTITY2:	[[ NIHIL | /m/026rqj ]]
+SUBJECT PATH: SUBJECT -> with -> toured
+OBJECT  PATH: OBJECT -> 4 -> ENTITY2 -> provided -> toured
+toured
+
+
+File this one next to ENTITY1 , Judy Tenuta and SUBJECT circa OBJECT .
+SUBJECT:	[[ BETTE MIDLER | /m/01dw9z ]]
+OBJECT:	[[ MUD WILL BE FLUNG TONIGHT | /m/01k8k1g ]]
+ENTITY1:	[[ STEVE MARTIN | /m/0p_47 ]]
+SUBJECT PATH: SUBJECT -> OBJECT -> Tenuta -> ENTITY1 -> to -> next -> one -> File
+OBJECT  PATH: OBJECT -> Tenuta -> ENTITY1 -> to -> next -> one -> File
+OBJECT
+
+
+SUBJECT - ENTITY1 worked with SUBJECT on her album OBJECT , 1998.
+SUBJECT:	[[ BETTE MIDLER | /m/01dw9z ]]
+OBJECT:	[[ BATHHOUSE BETTY | /m/01k8jhf ]]
+ENTITY1:	[[ RCR | /m/07npwr ]]
+SUBJECT PATH: SUBJECT -> with -> worked
+OBJECT  PATH: OBJECT -> on -> worked
+worked
+
+
+- SUBJECT released OBJECT and ENTITY1 
+SUBJECT:	[[ BETTE MIDLER | /m/01dw9z ]]
+OBJECT:	[[ LIVE AT LAST | /m/01k8jrp ]]
+ENTITY1:	[[ BROKEN BLOSSOM | /m/01k8jl9 ]]
+SUBJECT PATH: SUBJECT -> released
+OBJECT  PATH: OBJECT -> released
+released
+
+
+November The soundtrack to SUBJECT ?s TV presentation of OBJECT was released
+SUBJECT:	[[ BETTE MIDLER | /m/01dw9z ]]
+OBJECT:	[[ GYPSY (TELEVISION CAST) | /m/03nsntl ]]
+SUBJECT PATH: SUBJECT -> to -> soundtrack -> November
+OBJECT  PATH: OBJECT -> of -> presentation -> released
+-None-
+
+
+This is so far my all time favorite SUBJECT song, from my favorite SUBJECT album   OBJECT  .
+SUBJECT:	[[ KMFDM | /m/01_dvf ]]
+OBJECT:	[[ ATTAK | /m/01hr0j5 ]]
+SUBJECT PATH: SUBJECT -> album -> from -> song -> is
+OBJECT  PATH: OBJECT -> album -> from -> song -> is
+album
+
+
+SUBJECT : SUBJECT covered ENTITY1 ' '55 on   OBJECT   
+SUBJECT:	[[ BETTE MIDLER | /m/01dw9z ]]
+OBJECT:	[[ SONGS FOR THE NEW DEPRESSION | /m/01k8jxz ]]
+ENTITY1:	[[ OL | /m/02pwfdb ]]
+SUBJECT PATH: SUBJECT -> covered -> ENTITY1 -> 55
+OBJECT  PATH: OBJECT -> 55
+55
+
+
+Cameron Paul, a ENTITY1 ENTITY2 ; remixes 'Push It,' a tune from SUBJECT 's  album,   OBJECT .
+SUBJECT:	[[ SALT-N-PEPA | /m/01dx06 ]]
+OBJECT:	[[ HOT, COOL & VICIOUS | /m/02x5w05 ]]
+ENTITY1:	[[ SAN FRANCISCO | /m/0d6lp ]]
+ENTITY2:	[[ DJ | /m/03f6w19 ]]
+SUBJECT PATH: SUBJECT -> album -> from -> tune -> Push -> remixes -> Paul
+OBJECT  PATH: OBJECT -> album -> from -> tune -> Push -> remixes -> Paul
+album
+
+
+Now in their 23rd year, SUBJECT remain a. OBJECT .
+SUBJECT:	[[ KMFDM | /m/01_dvf ]]
+OBJECT:	[[ HAU RUCK | /m/01hr07m ]]
+SUBJECT PATH: SUBJECT -> remain
+OBJECT  PATH: OBJECT -> remain
+remain
+
+
+- SUBJECT released ENTITY1 and OBJECT 
+SUBJECT:	[[ BETTE MIDLER | /m/01dw9z ]]
+OBJECT:	[[ BROKEN BLOSSOM | /m/01k8jl9 ]]
+ENTITY1:	[[ LIVE AT LAST | /m/01k8jrp ]]
+SUBJECT PATH: SUBJECT -> released
+OBJECT  PATH: OBJECT -> ENTITY1 -> released
+released
+
+
+Click on  more info  SUBJECT 's video clip OBJECT  with ENTITY1 ..
+SUBJECT:	[[ AMR DIAB | /m/01239 ]]
+OBJECT:	[[ TAMALLY MAAK | /m/0glnwkj ]]
+ENTITY1:	[[ ENGLISH | /m/02h40lc ]]
+SUBJECT PATH: SUBJECT -> clip -> info -> OBJECT -> Click
+OBJECT  PATH: OBJECT -> Click
+OBJECT
+
+
+OBJECT was SUBJECT 's first live album and fifth album.
+SUBJECT:	[[ JEFFRIES FAN CLUB | /m/01jz7x4 ]]
+OBJECT:	[[ JFC LIVE! | /m/0gp__r ]]
+SUBJECT PATH: SUBJECT -> album -> was
+OBJECT  PATH: OBJECT -> was
+was
+
+
+SUBJECT and ENTITY1 also collaborated on OBJECT , a bizarre soundtrack album for the film   ENTITY2  
+SUBJECT:	[[ ROGER WATERS | /m/017g21 ]]
+OBJECT:	[[ MUSIC FROM THE BODY | /m/01kd7p_ ]]
+ENTITY1:	[[ RON | /m/01p80j1 ]]
+ENTITY2:	[[ THE BODY | /m/09v262s ]]
+SUBJECT PATH: SUBJECT -> collaborated
+OBJECT  PATH: OBJECT -> on -> collaborated
+collaborated
+
+
+Recommended to enthusiasts of the isolationist terror of SUBJECT ?s OBJECT ambient disc, ENTITY1 , and Scorn
+SUBJECT:	[[ PAINKILLER | /m/01jj789 ]]
+OBJECT:	[[ EXECUTION GROUND | /m/04f3x6s ]]
+ENTITY1:	[[ LUSTMORD | /m/01wbqd2 ]]
+SUBJECT PATH: SUBJECT -> of -> terror -> of -> enthusiasts -> to -> Recommended
+OBJECT  PATH: OBJECT -> disc
+-None-
+
+
+In 1993 SUBJECT s second album   OBJECT   was produced in ENTITY1 's ENTITY2 
+SUBJECT:	[[ FLESHCRAWL | /m/01k54qz ]]
+OBJECT:	[[ IMPURITY | /m/03f_dh8 ]]
+ENTITY1:	[[ DAN SWANÖ | /m/01lrhdl ]]
+ENTITY2:	[[ UNISOUND STUDIO | /m/0cr39s ]]
+SUBJECT PATH: SUBJECT -> s -> produced
+OBJECT  PATH: OBJECT -> produced
+produced
+
+
+Op 31 maart komt het album   OBJECT   van the SUBJECT uit op het ENTITY1 label.
+SUBJECT:	[[ THE FLATLANDERS | /m/01kvgn_ ]]
+OBJECT:	[[ HILLS AND VALLEYS | /m/05z25_7 ]]
+ENTITY1:	[[ NEW WEST | /m/0dk666 ]]
+SUBJECT PATH: SUBJECT -> label -> van
+OBJECT  PATH: OBJECT -> van
+van
+
+
+Appeared in the SUBJECT video, OBJECT .
+SUBJECT:	[[ SALT-N-PEPA | /m/01dx06 ]]
+OBJECT:	[[ WHATTA MAN | /m/01k7t12 ]]
+SUBJECT PATH: SUBJECT -> video -> in -> Appeared
+OBJECT  PATH: OBJECT -> video -> in -> Appeared
+video
+
+
+  OBJECT   was SUBJECT 's 4th single release by their 4th multiplatinum album  Very Necessary 
+SUBJECT:	[[ SALT-N-PEPA | /m/01dx06 ]]
+OBJECT:	[[ VERY NECESSARY | /m/01k7t93 ]]
+SUBJECT PATH: SUBJECT -> release -> was
+OBJECT  PATH: OBJECT -> was
+was
+
+
+OBJECT follows the common SUBJECT practice of naming albums, and many songs, with five symbols.
+SUBJECT:	[[ KMFDM | /m/01_dvf ]]
+OBJECT:	[[ WWIII | /m/01hr0zj ]]
+SUBJECT PATH: SUBJECT -> practice -> follows
+OBJECT  PATH: OBJECT -> follows
+follows
+
+
+SUBJECT video OBJECT on ENTITY1 .
+SUBJECT:	[[ SALT-N-PEPA | /m/01dx06 ]]
+OBJECT:	[[ SHOOP | /m/01k7t1m ]]
+ENTITY1:	[[ MUSIC | /m/04rlf ]]
+SUBJECT PATH: SUBJECT -> OBJECT
+OBJECT  PATH: OBJECT
+OBJECT
+
+
+After almost three decades, SUBJECT reunited with ENTITY1 in 2003 for OBJECT .
+SUBJECT:	[[ BETTE MIDLER | /m/01dw9z ]]
+OBJECT:	[[ BETTE MIDLER SINGS THE ROSEMARY CLOONEY SONGBOOK | /m/02qs4p7 ]]
+ENTITY1:	[[ MANILOW | /m/03f7m4h ]]
+SUBJECT PATH: SUBJECT -> reunited
+OBJECT  PATH: OBJECT -> for -> reunited
+reunited
+
+
+SUBJECT 's brief OBJECT  is a powerful psychological experience
+SUBJECT:	[[ PAINKILLER | /m/01jj789 ]]
+OBJECT:	[[ BURIED SECRETS | /m/04f4cvx ]]
+SUBJECT PATH: SUBJECT -> OBJECT -> is
+OBJECT  PATH: OBJECT -> is
+OBJECT
+
+
+Her first two solo efforts,  and the astonishing ENTITY1  were worthy successors to the SUBJECT sendoff, OBJECT 
+SUBJECT:	[[ 10,000 MANIACS | /m/0139nv ]]
+OBJECT:	[[ MTV UNPLUGGED | /m/05y73k ]]
+ENTITY1:	[[ OPHELIA | /m/01hwhmv ]]
+SUBJECT PATH: SUBJECT -> sendoff -> to -> successors -> were
+OBJECT  PATH: OBJECT -> sendoff -> to -> successors -> were
+sendoff
+
+
+There is some mystery regarding the SUBJECT song  OBJECT 
+SUBJECT:	[[ HIS NAME IS ALIVE | /m/01lgsr ]]
+OBJECT:	[[ KING OF SWEET | /m/026w6gs ]]
+SUBJECT PATH: SUBJECT -> song -> regarding -> mystery -> is
+OBJECT  PATH: OBJECT -> song -> regarding -> mystery -> is
+song
+
+
+OBJECT might be SUBJECT
+SUBJECT:	[[ HIS NAME IS ALIVE | /m/01lgsr ]]
+OBJECT:	[[ SWEET EARTH FLOWER | /m/03h5s9b ]]
+SUBJECT PATH: SUBJECT -> be
+OBJECT  PATH: OBJECT -> be
+be
+
+
+The SUBJECT released   OBJECT   in 2004.
+SUBJECT:	[[ THE TRAGICALLY HIP | /m/01ltgy ]]
+OBJECT:	[[ IN BETWEEN EVOLUTION | /m/02xvwn ]]
+SUBJECT PATH: SUBJECT -> released
+OBJECT  PATH: OBJECT -> released
+released
+
+
+From SUBJECT 's full length debut album OBJECT from 1989
+SUBJECT:	[[ THE TRAGICALLY HIP | /m/01ltgy ]]
+OBJECT:	[[ UP TO HERE | /m/01ltpj ]]
+SUBJECT PATH: SUBJECT -> OBJECT -> From
+OBJECT  PATH: OBJECT -> From
+OBJECT
+
+
+After the completion of the tour for OBJECT , SUBJECT leader ENTITY1
+SUBJECT:	[[ HIS NAME IS ALIVE | /m/01lgsr ]]
+OBJECT:	[[ STARS ON E.S.P. | /m/01mn54m ]]
+ENTITY1:	[[ WARREN DEFEVER | /m/03f1_98 ]]
+SUBJECT PATH: SUBJECT -> leader -> ENTITY1 -> OBJECT -> for -> tour -> of -> completion -> After
+OBJECT  PATH: OBJECT -> for -> tour -> of -> completion -> After
+OBJECT
+
+
+Also made during this time was a trailer for the SUBJECT film OBJECT 
+SUBJECT:	[[ BETTE MIDLER | /m/01dw9z ]]
+OBJECT:	[[ DIVINE MADNESS | /m/01k8jw5 ]]
+SUBJECT PATH: SUBJECT -> film -> OBJECT -> for -> trailer -> was -> made
+OBJECT  PATH: OBJECT -> for -> trailer -> was -> made
+OBJECT
+
+
+OBJECT brings the music of SUBJECT to youLive!
+SUBJECT:	[[ THE TRAGICALLY HIP | /m/01ltgy ]]
+OBJECT:	[[ HIPEPONYMOUS | /m/09dnxn ]]
+SUBJECT PATH: SUBJECT -> of -> music -> brings
+OBJECT  PATH: OBJECT -> brings
+brings
+
+
+He came out of the store with SUBJECT s OBJECT .
+SUBJECT:	[[ DRIVE LIKE JEHU | /m/01l80fb ]]
+OBJECT:	[[ YANK CRIME | /m/01l80cj ]]
+SUBJECT PATH: SUBJECT -> OBJECT -> with -> store -> of -> out -> came
+OBJECT  PATH: OBJECT -> with -> store -> of -> out -> came
+OBJECT
+
+
+Music video by SUBJECT performing OBJECT : 
+SUBJECT:	[[ THE TRAGICALLY HIP | /m/01ltgy ]]
+OBJECT:	[[ MY MUSIC AT WORK | /m/0czb0wn ]]
+SUBJECT PATH: SUBJECT -> performing -> OBJECT -> by -> video
+OBJECT  PATH: OBJECT -> by -> video
+OBJECT
+
+
+ENTITY1 gives the SUBJECT a noisome intro, and singer ENTITY2 assumes his twitchy madman persona, letting loose with  OBJECT 
+SUBJECT:	[[ THE TRAGICALLY HIP | /m/01ltgy ]]
+OBJECT:	[[ MUSIC @ WORK | /m/01ly63 ]]
+ENTITY1:	[[ AYKROYD | /m/0d608 ]]
+ENTITY2:	[[ GORD DOWNIE | /m/01ngk5z ]]
+SUBJECT PATH: SUBJECT -> gives
+OBJECT  PATH: OBJECT -> with -> letting -> assumes -> gives
+gives
+
+
+Review: OBJECT is the third release from SUBJECT , and the first to feature new vocalist Tommy Paris.
+SUBJECT:	[[ BRITNY FOX | /m/01lmxvh ]]
+OBJECT:	[[ BITE DOWN HARD | /m/026p2n6 ]]
+SUBJECT PATH: SUBJECT -> from -> release -> is
+OBJECT  PATH: OBJECT -> is
+is
+
+
+SUBJECT 's collaboration album, OBJECT , was released on February 6, 2007
+SUBJECT:	[[ KELLER WILLIAMS | /m/01m6q14 ]]
+OBJECT:	[[ DREAM | /m/028c7ry ]]
+SUBJECT PATH: SUBJECT -> album -> released
+OBJECT  PATH: OBJECT -> album -> released
+album
+
+
+I actually own a copy of   OBJECT   signed by the SUBJECT 
+SUBJECT:	[[ THE TRAGICALLY HIP | /m/01ltgy ]]
+OBJECT:	[[ ROAD APPLES | /m/01ltrf ]]
+SUBJECT PATH: SUBJECT -> by -> signed -> copy -> own
+OBJECT  PATH: OBJECT -> of -> copy -> own
+copy
+
+
+Artists  SUBJECT SUBJECT Songs OBJECT
+SUBJECT:	[[ REGINA BELLE | /m/01l9c3z ]]
+OBJECT:	[[ LAZY AFTERNOON | /m/03cn1z3 ]]
+SUBJECT PATH: SUBJECT -> Songs -> OBJECT
+OBJECT  PATH: OBJECT
+OBJECT
+
+
+SUBJECT was amazing on   OBJECT   but that's about all I've ever cared about from 'em
+SUBJECT:	[[ EPHEL DUATH | /m/01m8rsl ]]
+OBJECT:	[[ THE PAINTER'S PALETTE | /m/01m8rpw ]]
+SUBJECT PATH: SUBJECT -> was
+OBJECT  PATH: OBJECT -> on -> amazing -> was
+was
+
+
+OBJECT makes SUBJECT sound like one of folk music's sensitive, self-pitying, depressed troubadours.
+SUBJECT:	[[ KIM RICHEY | /m/01md_p6 ]]
+OBJECT:	[[ GLIMMER | /m/01md_ky ]]
+SUBJECT PATH: SUBJECT -> sound -> makes
+OBJECT  PATH: OBJECT -> makes
+makes
+
+
+ENTITY1 most loved band SUBJECT is back with OBJECT , their 11th album that was just released last Tuesday.
+SUBJECT:	[[ THE TRAGICALLY HIP | /m/01ltgy ]]
+OBJECT:	[[ WORLD CONTAINER | /m/01hvv1f ]]
+ENTITY1:	[[ CANADA | /m/0d060g ]]
+SUBJECT PATH: SUBJECT -> is -> loved
+OBJECT  PATH: OBJECT -> with -> back -> is -> loved
+is
+
+
+OBJECT is SUBJECT 's collaboration with cellist Hiromichi Sakamoto.
+SUBJECT:	[[ HACO | /m/01mdvzj ]]
+OBJECT:	[[ ASH IN THE RAINBOW | /m/01s6qvc ]]
+SUBJECT PATH: SUBJECT -> collaboration -> is
+OBJECT  PATH: OBJECT -> is
+is
+
+
+ENTITY1 , the acoustic version in ENTITY2 , to promote the new release: OBJECT by SUBJECT 
+SUBJECT:	[[ ANYTHING BOX | /m/01mq782 ]]
+OBJECT:	[[ FUTURE PAST EP | /m/03g1lt2 ]]
+ENTITY1:	[[ CARMEN | /m/024sp9r ]]
+ENTITY2:	[[ ENGLISH | /m/02jx1 ]]
+SUBJECT PATH: SUBJECT -> by -> OBJECT -> release -> promote -> ENTITY1
+OBJECT  PATH: OBJECT -> release -> promote -> ENTITY1
+OBJECT
+
+
+On February 8, 2006, SUBJECT hit the stage at ENTITY1 ?s ENTITY2 with a project he calls OBJECT .
+SUBJECT:	[[ KELLER WILLIAMS | /m/01m6q14 ]]
+OBJECT:	[[ REX (LIVE AT THE FILLMORE) | /m/043lk66 ]]
+ENTITY1:	[[ DENVER | /m/02cl1 ]]
+ENTITY2:	[[ FILLMORE | /m/0259fy ]]
+SUBJECT PATH: SUBJECT -> hit
+OBJECT  PATH: OBJECT -> calls
+-None-
+
+
+ENTITY1 is an song by SUBJECT on OBJECT .
+SUBJECT:	[[ ANNE DUDLEY | /m/01mtp82 ]]
+OBJECT:	[[ AMERICAN HISTORY X | /m/01mtp4z ]]
+ENTITY1:	[[ RAIDERS | /m/0qjt8j ]]
+SUBJECT PATH: SUBJECT -> by -> song -> is
+OBJECT  PATH: OBJECT -> on -> song -> is
+song
+
+
+ENTITY1 co-wrote several songs on SUBJECT 's previous album, 1997's aptly titled and critically praised OBJECT 
+SUBJECT:	[[ KIM RICHEY | /m/01md_p6 ]]
+OBJECT:	[[ BITTER SWEET | /m/01md_n5 ]]
+ENTITY1:	[[ PETRAGLIA | /m/03f45b3 ]]
+SUBJECT PATH: SUBJECT -> album -> on -> songs -> wrote
+OBJECT  PATH: OBJECT -> songs -> wrote
+songs
+
+
+Music video by SUBJECT performing OBJECT : 
+SUBJECT:	[[ THE TRAGICALLY HIP | /m/01ltgy ]]
+OBJECT:	[[ LITTLE BONES | /m/0ddbpn2 ]]
+SUBJECT PATH: SUBJECT -> performing -> OBJECT -> by -> video
+OBJECT  PATH: OBJECT -> by -> video
+OBJECT
+
+
+One film composer I like here is SUBJECT , who did the OBJECT soundtrack
+SUBJECT:	[[ ANNE DUDLEY | /m/01mtp82 ]]
+OBJECT:	[[ PUSHING TIN | /m/01mtp68 ]]
+SUBJECT PATH: SUBJECT -> is
+OBJECT  PATH: OBJECT -> soundtrack -> did -> SUBJECT -> is
+SUBJECT
+
+
+Author's note: This work of fan fiction was inspired by and based on SUBJECT 's epic song   OBJECT .
+SUBJECT:	[[ THE TRAGICALLY HIP | /m/01ltgy ]]
+OBJECT:	[[ NAUTICAL DISASTER | /m/0ddgbsd ]]
+SUBJECT PATH: SUBJECT -> OBJECT -> on -> based -> inspired -> note
+OBJECT  PATH: OBJECT -> on -> based -> inspired -> note
+OBJECT
+
+
+OBJECT  is a collaboration with SUBJECT , Berrocal & Liebezeit.
+SUBJECT:	[[ PASCAL COMELADE | /m/01nkkrw ]]
+OBJECT:	[[ OBLIQUE SESSIONS | /m/01rj_7g ]]
+SUBJECT PATH: SUBJECT -> with -> collaboration -> is
+OBJECT  PATH: OBJECT -> is
+is
+
+
+OBJECT is the sixth full-length album by ENTITY1 rock band SUBJECT .
+SUBJECT:	[[ THE TRAGICALLY HIP | /m/01ltgy ]]
+OBJECT:	[[ PHANTOM POWER | /m/0312j9 ]]
+ENTITY1:	[[ CANADIAN | /m/0d060g ]]
+SUBJECT PATH: SUBJECT -> by -> album -> is
+OBJECT  PATH: OBJECT -> is
+is
+
+
+The ENTITY1 avant-garde musician SUBJECT included several cover versions on his 1987 album OBJECT 
+SUBJECT:	[[ PASCAL COMELADE | /m/01nkkrw ]]
+OBJECT:	[[ EL PRIMITIVISMO | /m/01nkkp5 ]]
+ENTITY1:	[[ FRENCH | /m/0f8l9c ]]
+SUBJECT PATH: SUBJECT -> included
+OBJECT  PATH: OBJECT -> on -> versions -> included
+included
+
+
+In 2006, SUBJECT released  OBJECT , a ENTITY1 album featuring the title song and a duet with ENTITY2 
+SUBJECT:	[[ BETTE MIDLER | /m/01dw9z ]]
+OBJECT:	[[ COOL YULE | /m/026ng96 ]]
+ENTITY1:	[[ CHRISTMAS | /m/01vq3 ]]
+ENTITY2:	[[ JOHHNY MATHIS | /m/02qbzq ]]
+SUBJECT PATH: SUBJECT -> released
+OBJECT  PATH: OBJECT -> released
+released
+
+
+SUBJECT sings   OBJECT   from the ENTITY1 television series American Music Shop
+SUBJECT:	[[ TONY RICE | /m/01nqy91 ]]
+OBJECT:	[[ COLD ON THE SHOULDER | /m/01nqy70 ]]
+ENTITY1:	[[ TNN | /m/080pdkm ]]
+SUBJECT PATH: SUBJECT -> sings -> OBJECT
+OBJECT  PATH: OBJECT
+OBJECT
+
+
+Also, a 2005 release   OBJECT   credited to ENTITY1 & SUBJECT featured archive ENTITY2 material alongside new SUBJECT
+SUBJECT:	[[ THEE MAJESTY | /m/01nn09h ]]
+OBJECT:	[[ MARY NEVER WANTED JESUS | /m/04f073m ]]
+ENTITY1:	[[ GENESIS P-ORRIDGE | /m/01wmc5d ]]
+ENTITY2:	[[ PTV | /m/022qdt ]]
+SUBJECT PATH: SUBJECT -> alongside -> material -> featured -> credited
+OBJECT  PATH: OBJECT -> credited
+credited
+
+
+mistrust's remix of   OBJECT   by ENTITY1 band SUBJECT gets an official release on the bands own label....
+SUBJECT:	[[ PITCH BLACK | /m/01n0dbp ]]
+OBJECT:	[[ RUDE MECHANICALS | /m/03jhw8f ]]
+ENTITY1:	[[ NZ | /m/05dqly ]]
+SUBJECT PATH: SUBJECT -> of -> remix -> gets
+OBJECT  PATH: OBJECT -> SUBJECT -> of -> remix -> gets
+SUBJECT
+
+
+Twenty years later, SUBJECT recorded   ENTITY1   with ENTITY2  on OBJECT 
+SUBJECT:	[[ TONY RICE | /m/01nqy91 ]]
+OBJECT:	[[ RIVER SUITE FOR TWO GUITARS | /m/01syj3m ]]
+ENTITY1:	[[ FISHSCALE | /m/01clvc8 ]]
+ENTITY2:	[[ JOHN CARLINI | /m/0gn683 ]]
+SUBJECT PATH: SUBJECT -> recorded
+OBJECT  PATH: OBJECT -> on -> recorded
+recorded
+
+
+Did the SUBJECT make any recordings before OBJECT 
+SUBJECT:	[[ THE FREE DESIGN | /m/01nz19m ]]
+OBJECT:	[[ KITES ARE FUN | /m/01nz10t ]]
+SUBJECT PATH: SUBJECT -> make
+OBJECT  PATH: OBJECT -> before -> recordings -> make
+make
+
+
+From the SUBJECT album,   OBJECT ,  in stores now on ENTITY1 !..
+SUBJECT:	[[ MEWITHOUTYOU | /m/01n6vf0 ]]
+OBJECT:	[[ CATCH FOR US THE FOXES | /m/01n6vb8 ]]
+ENTITY1:	[[ TOOTH & NAIL RECORDS | /m/04l7mn ]]
+SUBJECT PATH: SUBJECT -> album -> From
+OBJECT  PATH: OBJECT -> From
+From
+
+
+In 2000, ENTITY1 won the role of   ENTITY2   in SUBJECT 's television sitcom, OBJECT 
+SUBJECT:	[[ BETTE MIDLER | /m/01dw9z ]]
+OBJECT:	[[ BETTE | /m/01k8jqn ]]
+ENTITY1:	[[ LINDSAY | /m/01pgzn_ ]]
+ENTITY2:	[[ ROSE | /m/0fzfnt7 ]]
+SUBJECT PATH: SUBJECT -> sitcom -> in -> won
+OBJECT  PATH: OBJECT -> sitcom -> in -> won
+sitcom
+
+
+SUBJECT : ENTITY1 par ENTITY2 , SUBJECT , ... SUBJECT : OBJECT par SUBJECT  ..
+SUBJECT:	[[ LES LUTHIERS | /m/01p9qtk ]]
+OBJECT:	[[ HACEN MUCHAS GRACIAS DE NADA | /m/01p9qsc ]]
+ENTITY1:	[[ BROMATO DE ARMONIO | /m/07zvmp ]]
+ENTITY2:	[[ CARLOS LÓPEZ PUCCIO | /m/071rc0 ]]
+SUBJECT PATH: SUBJECT -> par -> SUBJECT -> par
+OBJECT  PATH: OBJECT -> par -> SUBJECT -> par
+par
+
+
+The band probably hit its zenith when SUBJECT released the all-instrumental OBJECT  in 2000
+SUBJECT:	[[ TONY RICE | /m/01nqy91 ]]
+OBJECT:	[[ UNIT OF MEASURE | /m/024kp1h ]]
+SUBJECT PATH: SUBJECT -> released -> hit
+OBJECT  PATH: OBJECT -> released -> hit
+released
+
+
+In my opinion, SUBJECT 's version of OBJECT is one of his finest recorded moments
+SUBJECT:	[[ TONY RICE | /m/01nqy91 ]]
+OBJECT:	[[ CHURCH STREET BLUES | /m/01nqy2c ]]
+SUBJECT PATH: SUBJECT -> version -> is
+OBJECT  PATH: OBJECT -> of -> version -> is
+version
+
+
+Darren Hanlon  After the success of his OBJECT and ENTITY1 albums, SUBJECT returns with the wonderful Fingertips and Mountaintops
+SUBJECT:	[[ DARREN HANLON | /m/01p3p65 ]]
+OBJECT:	[[ HELLO STRANGER | /m/01p3p57 ]]
+ENTITY1:	[[ LITTLE CHILLS | /m/01p3p49 ]]
+SUBJECT PATH: SUBJECT -> returns
+OBJECT  PATH: OBJECT -> albums -> of -> success -> After -> returns
+returns
+
+
+SUBJECT went to the ENTITY1 last year as the ENTITY2 ' support act, taking his most recent album, OBJECT 
+SUBJECT:	[[ DARREN HANLON | /m/01p3p65 ]]
+OBJECT:	[[ LITTLE CHILLS | /m/01p3p49 ]]
+ENTITY1:	[[ US | /m/09c7w0 ]]
+ENTITY2:	[[ FIELDS | /m/0dwpwz ]]
+SUBJECT PATH: SUBJECT -> went
+OBJECT  PATH: OBJECT -> album -> taking -> went
+went
+
+
+In 1992, SUBJECT released OBJECT , an album that fuelled her career in an unexpected way
+SUBJECT:	[[ FAYE WONG | /m/01r1jx ]]
+OBJECT:	[[ COMING HOME | /m/02z3k33 ]]
+SUBJECT PATH: SUBJECT -> released
+OBJECT  PATH: OBJECT -> released
+released
+
+
+I have been looking for the SUBJECT cd,   OBJECT   for nearly 2 years now
+SUBJECT:	[[ UGLY CASANOVA | /m/01mh418 ]]
+OBJECT:	[[ SHARPEN YOUR TEETH | /m/01mh404 ]]
+SUBJECT PATH: SUBJECT -> cd -> for -> looking
+OBJECT  PATH: OBJECT -> cd -> for -> looking
+cd
+
+
+SUBJECT performs OBJECT live in ENTITY1 ...
+SUBJECT:	[[ JACOB KIRKEGAARD | /m/01ry2yq ]]
+OBJECT:	[[ ELDFJALL | /m/01ry2xw ]]
+ENTITY1:	[[ SPAIN | /m/06mkj ]]
+SUBJECT PATH: SUBJECT -> performs
+OBJECT  PATH: OBJECT -> performs
+performs
+
+
+After the release of ENTITY1 , ENTITY2 participated in SUBJECT ' OBJECT 
+SUBJECT:	[[ ROGER WATERS | /m/017g21 ]]
+OBJECT:	[[ THE WALL: LIVE IN BERLIN | /m/01jds91 ]]
+ENTITY1:	[[ CHALK MARK IN A RAINSTORM | /m/08fq2v ]]
+ENTITY2:	[[ MITCHELL | /m/045zr ]]
+SUBJECT PATH: SUBJECT -> OBJECT -> in -> participated
+OBJECT  PATH: OBJECT -> in -> participated
+OBJECT
+
+
+SUBJECT also worked with ENTITY1 on OBJECT , a collection of pre-rock and roll standards
+SUBJECT:	[[ GORDON JENKINS | /m/01twxvn ]]
+OBJECT:	[[ A LITTLE TOUCH OF SCHMILSSON IN THE NIGHT | /m/01ksrwh ]]
+ENTITY1:	[[ HARRY NILSSON | /m/01vtmw6 ]]
+SUBJECT PATH: SUBJECT -> worked
+OBJECT  PATH: OBJECT -> on -> worked
+worked
+
+
+In his latest work for ENTITY1 ,  OBJECT  , SUBJECT explores the sonic legacy of ENTITY2 .
+SUBJECT:	[[ JACOB KIRKEGAARD | /m/01ry2yq ]]
+OBJECT:	[[ 4 ROOMS | /m/03jk_hz ]]
+ENTITY1:	[[ TOUCH | /m/0cg05p ]]
+ENTITY2:	[[ CHERNOBYL | /m/07q37w ]]
+SUBJECT PATH: SUBJECT -> explores
+OBJECT  PATH: OBJECT -> explores
+explores
+
+
+ENTITY1 lo-fi folk rock band SUBJECT  released their acclaimed OBJECT in September on ENTITY2 .
+SUBJECT:	[[ HORSE FEATHERS | /m/01szfnt ]]
+OBJECT:	[[ HOUSE WITH NO HOME | /m/0dnd4fs ]]
+ENTITY1:	[[ PORTLAND | /m/02frhbc ]]
+ENTITY2:	[[ KILL ROCK STARS | /m/0dd2f ]]
+SUBJECT PATH: SUBJECT -> band -> released
+OBJECT  PATH: OBJECT -> released
+released
+
+
+ENTITY1 is paired with SUBJECT on the new Trainwreck Records release OBJECT available now
+SUBJECT:	[[ CHIP TAYLOR | /m/01v4dqd ]]
+OBJECT:	[[ LIVE FROM THE RUHR TRIENNALE | /m/0g1kxh8 ]]
+ENTITY1:	[[ CARRIE RODRIGUEZ | /m/0gdsb2 ]]
+SUBJECT PATH: SUBJECT -> with -> paired
+OBJECT  PATH: OBJECT -> release -> paired
+paired
+
+
+I found both of SUBJECT 's earlier discs, ENTITY1 , and OBJECT , also intriguing.
+SUBJECT:	[[ MOFRO | /m/01r073_ ]]
+OBJECT:	[[ LOCHLOOSA | /m/01r072x ]]
+ENTITY1:	[[ BLACKWATER | /m/03jkgdg ]]
+SUBJECT PATH: SUBJECT -> discs -> of -> both -> found
+OBJECT  PATH: OBJECT -> ENTITY1 -> discs -> of -> both -> found
+discs
+
+
+ENTITY1 was originally on SUBJECT 's first album called OBJECT .
+SUBJECT:	[[ MIRA CALIX | /m/01vt09k ]]
+OBJECT:	[[ ONE ON ONE | /m/02813qy ]]
+ENTITY1:	[[ SPARROW | /m/014lwf6 ]]
+SUBJECT PATH: SUBJECT -> album -> on -> was
+OBJECT  PATH: OBJECT -> called -> album -> on -> was
+album
+
+
+It was amazing, but the first thing I thought of while watching them sing   ENTITY1   was   SUBJECT   and   OBJECT   
+SUBJECT:	[[ MAX FROST & THE TROOPERS | /m/01tr66g ]]
+OBJECT:	[[ SHAPE OF THINGS TO COME | /m/0djm8t ]]
+ENTITY1:	[[ AMERICAN IDIOT | /m/03rj09 ]]
+SUBJECT PATH: SUBJECT -> was
+OBJECT  PATH: OBJECT -> SUBJECT -> was
+SUBJECT
+
+
+ENTITY1 was taken by SUBJECT in his next album   OBJECT  , that was released in 2002.
+SUBJECT:	[[ CHIP TAYLOR | /m/01v4dqd ]]
+OBJECT:	[[ LET'S LEAVE THIS TOWN | /m/01mw_9t ]]
+ENTITY1:	[[ RODRIGUEZ | /m/02qd71_ ]]
+SUBJECT PATH: SUBJECT -> by -> taken
+OBJECT  PATH: OBJECT -> album -> in -> taken
+taken
+
+
+That person may be onto something since SUBJECT 's video for   OBJECT   was released one year ago.
+SUBJECT:	[[ HEZEKIAH | /m/01rr1xf ]]
+OBJECT:	[[ I PREDICT A RIOT | /m/049tnrk ]]
+SUBJECT PATH: SUBJECT -> video -> released -> be
+OBJECT  PATH: OBJECT -> for -> video -> released -> be
+video
+
+
+Dr. SUBJECT has been recording for OBJECT since 2000 and apparently has over 400 records for the album.
+SUBJECT:	[[ DR. DRE | /m/01vvydl ]]
+OBJECT:	[[ DRETOX | /m/0ky5d6 ]]
+SUBJECT PATH: SUBJECT -> recording
+OBJECT  PATH: OBJECT -> for -> recording
+recording
+
+
+In 1995, SUBJECT releases the classic OBJECT , produced by ENTITY1 ' ENTITY2 .
+SUBJECT:	[[ GAVIN FRIDAY | /m/01wdby9 ]]
+OBJECT:	[[ SHAG TOBACCO | /m/02pyzmd ]]
+ENTITY1:	[[ BOMB THE BASS | /m/06h9n8 ]]
+ENTITY2:	[[ TIM SIMENON | /m/01w1qf_ ]]
+SUBJECT PATH: SUBJECT -> releases
+OBJECT  PATH: OBJECT -> releases
+releases
+
+
+SUBJECT ?s previous album, OBJECT , was a romantic fusion of silence and soft acoustic melodies
+SUBJECT:	[[ M. WARD | /m/01w331c ]]
+OBJECT:	[[ END OF AMNESIA | /m/01m44_y ]]
+SUBJECT PATH: SUBJECT
+OBJECT  PATH: OBJECT -> album -> was
+-None-
+
+
+In 1973, OBJECT garnered SUBJECT a ENTITY1 for ENTITY2 .
+SUBJECT:	[[ BETTE MIDLER | /m/01dw9z ]]
+OBJECT:	[[ THE DIVINE MISS M | /m/01k8k4m ]]
+ENTITY1:	[[ GRAMMY | /m/0c4ys ]]
+ENTITY2:	[[ BEST NEW ARTIST | /m/01c427 ]]
+SUBJECT PATH: SUBJECT -> garnered
+OBJECT  PATH: OBJECT -> garnered
+garnered
+
+
+And OBJECT , the fourth album by SUBJECT should add more to the fold.
+SUBJECT:	[[ MOFRO | /m/01r073_ ]]
+OBJECT:	[[ ORANGE BLOSSOMS | /m/0f6s7nx ]]
+SUBJECT PATH: SUBJECT -> by -> album -> OBJECT -> add
+OBJECT  PATH: OBJECT -> add
+OBJECT
+
+
+OBJECT  is an album by SUBJECT .
+SUBJECT:	[[ NOIR DÉSIR | /m/01yx6j ]]
+OBJECT:	[[ DU CIMENT SOUS LES PLAINES | /m/04jc91h ]]
+SUBJECT PATH: SUBJECT -> by -> album -> is
+OBJECT  PATH: OBJECT -> is
+is
+
+
+SUBJECT is enjoying the success of her first Gospel CD,   OBJECT   featuring the song,   ENTITY1 is ENTITY1  .
+SUBJECT:	[[ REGINA BELLE | /m/01l9c3z ]]
+OBJECT:	[[ LOVE FOREVER SHINES | /m/05527qj ]]
+ENTITY1:	[[ GOD | /m/02s26t ]]
+SUBJECT PATH: SUBJECT -> enjoying -> is
+OBJECT  PATH: OBJECT -> ENTITY1 -> is
+is
+
+
+Expectations were high,I am a fan of ENTITY1 ?s voice, and I enjoyed SUBJECT ?s albums ENTITY2  and OBJECT 
+SUBJECT:	[[ M. WARD | /m/01w331c ]]
+OBJECT:	[[ TRANSFIGURATION OF VINCENT | /m/01m452c ]]
+ENTITY1:	[[ DESCHANEL | /m/03rl84 ]]
+ENTITY2:	[[ POST-WAR | /m/01m4545 ]]
+SUBJECT PATH: SUBJECT -> enjoyed -> voice
+OBJECT  PATH: OBJECT -> ENTITY2 -> albums
+-None-
+
+
+After the Henmans left, SUBJECT released the harder-edged OBJECT in 1973
+SUBJECT:	[[ APRIL WINE | /m/020vns ]]
+OBJECT:	[[ ELECTRIC JEWELS | /m/01jp8w0 ]]
+SUBJECT PATH: SUBJECT -> released
+OBJECT  PATH: OBJECT -> released
+released
+
+
+  OBJECT   is SUBJECT 's fourth full-length studio-album
+SUBJECT:	[[ APRIL WINE | /m/020vns ]]
+OBJECT:	[[ STAND BACK | /m/01jp8yk ]]
+SUBJECT PATH: SUBJECT -> studio -> is
+OBJECT  PATH: OBJECT -> is
+is
+
+
+Now regrouped with four of its early members, SUBJECT released OBJECT in 2001
+SUBJECT:	[[ APRIL WINE | /m/020vns ]]
+OBJECT:	[[ BACK TO THE MANSION | /m/01jp8dg ]]
+SUBJECT PATH: SUBJECT -> released
+OBJECT  PATH: OBJECT -> released
+released
+
+
+In 2001 SUBJECT ’s debut album, OBJECT , was released under the name SUBJECT 
+SUBJECT:	[[ MOFRO | /m/01r073_ ]]
+OBJECT:	[[ BLACKWATER | /m/03jkgdg ]]
+SUBJECT PATH: SUBJECT -> name -> under -> released
+OBJECT  PATH: OBJECT -> album -> released
+released
+
+
+OBJECT is the second album from SUBJECT .
+SUBJECT:	[[ THE APPLES IN STEREO | /m/022twk ]]
+OBJECT:	[[ TONE SOUL EVOLUTION | /m/01kzwrx ]]
+SUBJECT PATH: SUBJECT -> from -> album -> is
+OBJECT  PATH: OBJECT -> is
+is
+
+
+666.667 ENTITY1 is an song by SUBJECT on OBJECT .
+SUBJECT:	[[ NOIR DÉSIR | /m/01yx6j ]]
+OBJECT:	[[ 666.667 CLUB | /m/01jdvry ]]
+ENTITY1:	[[ CLUB | /m/0c2lp ]]
+SUBJECT PATH: SUBJECT -> by -> song -> is
+OBJECT  PATH: OBJECT -> on -> song -> is
+song
+
+
+OBJECT is an album by ENTITY1 rock band SUBJECT 
+SUBJECT:	[[ NOIR DÉSIR | /m/01yx6j ]]
+OBJECT:	[[ DES VISAGES DES FIGURES | /m/08632g ]]
+ENTITY1:	[[ FRENCH | /m/0f8l9c ]]
+SUBJECT PATH: SUBJECT -> band -> by -> album -> is
+OBJECT  PATH: OBJECT -> is
+is
+
+
+It's rougher than anything on the deliberately-rough SUBJECT album OBJECT .
+SUBJECT:	[[ THE APPLES IN STEREO | /m/022twk ]]
+OBJECT:	[[ VELOCITY OF SOUND | /m/01kzwg9 ]]
+SUBJECT PATH: SUBJECT -> album -> OBJECT -> on -> anything -> than -> rougher -> 's
+OBJECT  PATH: OBJECT -> on -> anything -> than -> rougher -> 's
+OBJECT
+
+
+In 1997 SUBJECT completed OBJECT , an ambient instrumental guitar album, also released on Imago
+SUBJECT:	[[ WARREN CUCCURULLO | /m/024tjl ]]
+OBJECT:	[[ MACHINE LANGUAGE | /m/024lr_x ]]
+SUBJECT PATH: SUBJECT -> completed
+OBJECT  PATH: OBJECT -> completed
+completed
+
+
+He also explains that the SUBJECT '   OBJECT   is an instrumental version of the ENTITY1 song  Pachito El Che. 
+SUBJECT:	[[ THE SKATALITES | /m/02j9qh ]]
+OBJECT:	[[ LATIN GOES SKA | /m/0dzk__z ]]
+ENTITY1:	[[ CUBAN | /m/0d04z6 ]]
+SUBJECT PATH: SUBJECT -> OBJECT -> is -> explains
+OBJECT  PATH: OBJECT -> is -> explains
+OBJECT
+
+
+OBJECT is an album from SUBJECT .
+SUBJECT:	[[ RIC OCASEK | /m/02fzkq ]]
+OBJECT:	[[ FIREBALL ZONE | /m/01p3fpg ]]
+SUBJECT PATH: SUBJECT -> from -> album -> is
+OBJECT  PATH: OBJECT -> is
+is
+
+
+More recently, a live version appeared on ENTITY1 punk band SUBJECT 's 1997 release OBJECT 
+SUBJECT:	[[ FLOGGING MOLLY | /m/02nbry ]]
+OBJECT:	[[ ALIVE BEHIND THE GREEN DOOR | /m/04tvj7 ]]
+ENTITY1:	[[ IRISH-AMERICAN | /m/033tf_ ]]
+SUBJECT PATH: SUBJECT -> OBJECT -> on -> appeared
+OBJECT  PATH: OBJECT -> on -> appeared
+OBJECT
+
+
+By 1976 SUBJECT had released a substantially re-imagined single version of   OBJECT . 
+SUBJECT:	[[ AUGUSTUS PABLO | /m/01wj2jw ]]
+OBJECT:	[[ EAST OF THE RIVER NILE | /m/01j_sg9 ]]
+SUBJECT PATH: SUBJECT -> released
+OBJECT  PATH: OBJECT -> of -> version -> released
+released
+
+
+ENTITY1 is actually SUBJECT 's second record, but she spoke somewhat dismissively of her lesser-known debut, OBJECT 
+SUBJECT:	[[ INGRID MICHAELSON | /m/02rbph7 ]]
+OBJECT:	[[ SLOW THE RAIN | /m/03g79qz ]]
+ENTITY1:	[[ GIRLS AND BOYS | /m/03fqfgm ]]
+SUBJECT PATH: SUBJECT -> record -> is
+OBJECT  PATH: OBJECT -> debut -> of -> dismissively -> spoke -> is
+is
+
+
+  OBJECT   , a song from the SUBJECT 's album of the same name, Remixed by ENTITY1 
+SUBJECT:	[[ DUKES OF WINDSOR | /m/02r166y ]]
+OBJECT:	[[ THE OTHERS | /m/05b_1j4 ]]
+ENTITY1:	[[ TV ROCK | /m/0bvqz4 ]]
+SUBJECT PATH: SUBJECT -> album -> from -> song -> OBJECT
+OBJECT  PATH: OBJECT
+OBJECT
+
+
+SUBJECT have been nominated for a ENTITY1 for ENTITY2 for  Circles  off of the 2007 release OBJECT 
+SUBJECT:	[[ MOFRO | /m/01r073_ ]]
+OBJECT:	[[ COUNTRY GHETTO | /m/03g95k1 ]]
+ENTITY1:	[[ JAMMY AWARD | /m/09hr9w ]]
+ENTITY2:	[[ SONG OF THE YEAR | /m/09vkrm ]]
+SUBJECT PATH: SUBJECT -> nominated
+OBJECT  PATH: OBJECT -> of -> off -> nominated
+nominated
+
+
+My review of SUBJECT album OBJECT has been published on ENTITY1 .
+SUBJECT:	[[ THE APPLES IN STEREO | /m/022twk ]]
+OBJECT:	[[ ELECTRONIC PROJECTS FOR MUSICIANS | /m/03z50f9 ]]
+ENTITY1:	[[ BLOGCRITICS | /m/08ngyl ]]
+SUBJECT PATH: SUBJECT -> OBJECT -> of -> review -> published
+OBJECT  PATH: OBJECT -> of -> review -> published
+OBJECT
+
+
+As I posted last week, SUBJECT 's new record, OBJECT , which comes out in mid August, is terrific.
+SUBJECT:	[[ M. WARD | /m/01w331c ]]
+OBJECT:	[[ POST-WAR | /m/01m4545 ]]
+SUBJECT PATH: SUBJECT -> record -> is
+OBJECT  PATH: OBJECT -> record -> is
+record
+
+
+This month's song   ENTITY1   is by SUBJECT from her album   OBJECT  
+SUBJECT:	[[ INGRID MICHAELSON | /m/02rbph7 ]]
+OBJECT:	[[ BE OK | /m/04qbqf9 ]]
+ENTITY1:	[[ YOU AND I | /m/0fkmx37 ]]
+SUBJECT PATH: SUBJECT -> by -> is
+OBJECT  PATH: OBJECT -> from -> is
+is
+
+
+In addition to his on-air duties, SUBJECT is also the author of the ENTITY1 best-seller, SUBJECT , OBJECT 
+SUBJECT:	[[ SEAN HANNITY | /m/01v054 ]]
+OBJECT:	[[ LET FREEDOM RING | /m/01ry2yy ]]
+ENTITY1:	[[ NEW YORK TIMES | /m/07k2d ]]
+SUBJECT PATH: SUBJECT -> of -> author -> is
+OBJECT  PATH: OBJECT -> SUBJECT -> of -> author -> is
+SUBJECT
+
+
+Viktoria Tolstoy ENTITY1 singer SUBJECT just released her latest album   OBJECT    on September 23, 2008
+SUBJECT:	[[ VIKTORIA TOLSTOY | /m/031g7w ]]
+OBJECT:	[[ MY RUSSIAN SOUL | /m/0dtcprl ]]
+ENTITY1:	[[ SWEDISH | /m/0d0vqn ]]
+SUBJECT PATH: SUBJECT -> released
+OBJECT  PATH: OBJECT -> released
+released
+
+
+Watch SUBJECT s  OBJECT
+SUBJECT:	[[ M. WARD | /m/01w331c ]]
+OBJECT:	[[ HOLD TIME | /m/04zw9x4 ]]
+SUBJECT PATH: SUBJECT -> Watch
+OBJECT  PATH: OBJECT
+-None-
+
+
+SUBJECT ft ENTITY1 / OBJECT
+SUBJECT:	[[ SETH GUEKO | /m/03f7cs8 ]]
+OBJECT:	[[ PATATE DE FORAIN | /m/03gbdw5 ]]
+ENTITY1:	[[ SEFYU | /m/05p4v_w ]]
+SUBJECT PATH: SUBJECT -> ENTITY1 -> OBJECT
+OBJECT  PATH: OBJECT
+OBJECT
+
+
+ENTITY1 gave SUBJECT his song   OBJECT ,  which became a ENTITY2 hit in 1981
+SUBJECT:	[[ LENE LOVICH | /m/03f3x2m ]]
+OBJECT:	[[ NEW TOY | /m/02psggf ]]
+ENTITY1:	[[ DOLBY | /m/029xcp ]]
+ENTITY2:	[[ BRITISH | /m/07ssc ]]
+SUBJECT PATH: SUBJECT -> gave
+OBJECT  PATH: OBJECT -> song -> gave
+gave
+
+
+SUBJECT public? ENTITY1 , Amused to ENTITY2  y la ? pera OBJECT 
+SUBJECT:	[[ ROGER WATERS | /m/017g21 ]]
+OBJECT:	[[ ÇA IRA | /m/03gkxh ]]
+ENTITY1:	[[ RADIO KAOS | /m/01jdsjj ]]
+ENTITY2:	[[ DEATH | /m/0294j ]]
+SUBJECT PATH: SUBJECT -> public
+OBJECT  PATH: OBJECT -> to -> Amused -> ENTITY1
+-None-
+
+
+When I purchased SUBJECT 's newest record OBJECT , these memories came back in deluge
+SUBJECT:	[[ M. WARD | /m/01w331c ]]
+OBJECT:	[[ TRANSISTOR RADIO | /m/01m44xc ]]
+SUBJECT PATH: SUBJECT -> OBJECT -> purchased -> came
+OBJECT  PATH: OBJECT -> purchased -> came
+OBJECT
+
+
+SUBJECT new full-length album OBJECT is set for release on September 14th
+SUBJECT:	[[ FLOGGING MOLLY | /m/02nbry ]]
+OBJECT:	[[ WITHIN A MILE OF HOME | /m/03x33_ ]]
+SUBJECT PATH: SUBJECT -> OBJECT -> set
+OBJECT  PATH: OBJECT -> set
+OBJECT
+
+
+Try   ENTITY1   on SUBJECT ?s red-vinyl OBJECT [Stiff Records SEEZ 7]
+SUBJECT:	[[ LENE LOVICH | /m/03f3x2m ]]
+OBJECT:	[[ STATELESS | /m/01lfzc5 ]]
+ENTITY1:	[[ LUCKY NUMBER | /m/02rnn81 ]]
+SUBJECT PATH: SUBJECT -> on -> ENTITY1 -> Try
+OBJECT  PATH: OBJECT -> s
+-None-
+
+
+I enjoyed OBJECT more, SUBJECT 's partnership with ENTITY1 and producer ENTITY2 .
+SUBJECT:	[[ PAUL MCCARTNEY | /m/03j24kf ]]
+OBJECT:	[[ TWIN FREAKS | /m/01sdh6q ]]
+ENTITY1:	[[ DJ | /m/02dsz ]]
+ENTITY2:	[[ FREELANCE HELLRAISER | /m/01wsyfh ]]
+SUBJECT PATH: SUBJECT -> partnership -> enjoyed
+OBJECT  PATH: OBJECT -> enjoyed
+enjoyed
+
+
+SUBJECT will release   OBJECT  , a live concert video, in October
+SUBJECT:	[[ PAUL MCCARTNEY | /m/03j24kf ]]
+OBJECT:	[[ THE SPACE WITHIN US | /m/027908j ]]
+SUBJECT PATH: SUBJECT -> release
+OBJECT  PATH: OBJECT -> release
+release
+
+
+Blues Matters! - SUBJECT new album   OBJECT . .
+SUBJECT:	[[ SUPER CHIKAN | /m/01t8pry ]]
+OBJECT:	[[ SUM' MO' CHIKAN | /m/0f8tx2q ]]
+SUBJECT PATH: SUBJECT
+OBJECT  PATH: OBJECT
+-None-
+
+
+... OBJECT is a 2006 album by the ENTITY1 punk band SUBJECT 
+SUBJECT:	[[ FLOGGING MOLLY | /m/02nbry ]]
+OBJECT:	[[ WHISKEY ON A SUNDAY | /m/0fcq9w ]]
+ENTITY1:	[[ IRISH-AMERICAN | /m/033tf_ ]]
+SUBJECT PATH: SUBJECT -> band -> by -> album -> is
+OBJECT  PATH: OBJECT -> is
+is
+
+
+Buoyed by the rising popularity of   OBJECT ,  Miss SUBJECT left ENTITY1 and took up residence on the road
+SUBJECT:	[[ INGRID MICHAELSON | /m/02rbph7 ]]
+OBJECT:	[[ GIRLS AND BOYS | /m/03g79qq ]]
+ENTITY1:	[[ NEW YORK | /m/02_286 ]]
+SUBJECT PATH: SUBJECT -> left
+OBJECT  PATH: OBJECT -> of -> popularity -> by -> Buoyed -> left
+left
+
+
+SUBJECT s weakly  OBJECT  has no visible association of this sort; neither does ENTITY1
+SUBJECT:	[[ FLOGGING MOLLY | /m/02nbry ]]
+OBJECT:	[[ DRUNKEN LULLABIES | /m/03n582 ]]
+ENTITY1:	[[ SUGARCULT | /m/02fnq9 ]]
+SUBJECT PATH: SUBJECT -> s -> has -> does
+OBJECT  PATH: OBJECT -> s -> has -> does
+s
+
+
+Buzzgrinder interviews SUBJECT bassist ENTITY1 about the band's new album, OBJECT 
+SUBJECT:	[[ THE APPLES IN STEREO | /m/022twk ]]
+OBJECT:	[[ NEW MAGNETIC WONDER | /m/03g02pw ]]
+ENTITY1:	[[ ERIC ALLEN | /m/0h5sfl ]]
+SUBJECT PATH: SUBJECT -> ENTITY1 -> interviews
+OBJECT  PATH: OBJECT -> album -> about -> interviews
+interviews
+
+
+Maybe   OBJECT   is SUBJECT 's way of providing closure to the second phase of his life
+SUBJECT:	[[ PAUL MCCARTNEY | /m/03j24kf ]]
+OBJECT:	[[ WINGSPAN: HITS AND HISTORY | /m/01j7vfg ]]
+SUBJECT PATH: SUBJECT -> way -> is
+OBJECT  PATH: OBJECT -> is
+is
+
+
+It was the first time SUBJECT had recorded an album in ENTITY1 since 1973's?  OBJECT  
+SUBJECT:	[[ PAUL MCCARTNEY | /m/03j24kf ]]
+OBJECT:	[[ RED ROSE SPEEDWAY | /m/01qz17y ]]
+ENTITY1:	[[ ENGLAND | /m/02jx1 ]]
+SUBJECT PATH: SUBJECT -> recorded -> time -> was
+OBJECT  PATH: OBJECT -> was
+was
+
+
+Co-produced with ENTITY1 , ENTITY2 is SUBJECT 's first record since 2001's OBJECT 
+SUBJECT:	[[ PAUL MCCARTNEY | /m/03j24kf ]]
+OBJECT:	[[ DRIVING RAIN | /m/01j7ts1 ]]
+ENTITY1:	[[ NIGEL GODRICH | /m/02zhp0 ]]
+ENTITY2:	[[ CHAOS AND CREATION | /m/06tybp ]]
+SUBJECT PATH: SUBJECT -> record -> is
+OBJECT  PATH: OBJECT -> since -> record -> is
+record
+
+
+SUBJECT performs ENTITY1 during tonight's OBJECT
+SUBJECT:	[[ PAUL MCCARTNEY | /m/03j24kf ]]
+OBJECT:	[[ GET BACK | /m/043kv0y ]]
+ENTITY1:	[[ MULL OF KINTYRE | /m/09zkb7 ]]
+SUBJECT PATH: SUBJECT -> performs
+OBJECT  PATH: OBJECT -> during -> performs
+performs
+
+
+I mean, SUBJECT was already at OBJECT when he was about your age.
+SUBJECT:	[[ PAUL MCCARTNEY | /m/03j24kf ]]
+OBJECT:	[[ PRESS TO PLAY | /m/01j7vl0 ]]
+SUBJECT PATH: SUBJECT -> was
+OBJECT  PATH: OBJECT -> at -> was
+was
+
+
+The ENTITY1 did It Couldn’t Happen Here , SUBJECT did OBJECT
+SUBJECT:	[[ PAUL MCCARTNEY | /m/03j24kf ]]
+OBJECT:	[[ GIVE MY REGARDS TO BROAD STREET | /m/01j7v4x ]]
+ENTITY1:	[[ PET SHOP BOYS | /m/0dm5l ]]
+SUBJECT PATH: SUBJECT -> did
+OBJECT  PATH: OBJECT -> did
+did
+
+
+I was just thinking about buying SUBJECT 's newest album   OBJECT  .
+SUBJECT:	[[ PAUL MCCARTNEY | /m/03j24kf ]]
+OBJECT:	[[ LIVERPOOL SOUND COLLAGE | /m/01j7vdd ]]
+SUBJECT PATH: SUBJECT -> OBJECT -> buying -> about -> thinking
+OBJECT  PATH: OBJECT -> buying -> about -> thinking
+OBJECT
+
+
+ENTITY1 had appeared on SUBJECT 's OBJECT album,[100] and he co-wrote most of SUBJECT 's 1986 album, ENTITY2 
+SUBJECT:	[[ PAUL MCCARTNEY | /m/03j24kf ]]
+OBJECT:	[[ PIPES OF PEACE | /m/01j7v_9 ]]
+ENTITY1:	[[ ERIC STEWART | /m/07gph1 ]]
+ENTITY2:	[[ PRESS TO PLAY | /m/01j7vl0 ]]
+SUBJECT PATH: SUBJECT -> album -> of -> most -> wrote -> appeared
+OBJECT  PATH: OBJECT -> on -> appeared
+appeared
+
+
+SUBJECT 's OBJECT is coming to ENTITY1 !
+SUBJECT:	[[ PAUL MCCARTNEY | /m/03j24kf ]]
+OBJECT:	[[ AMOEBA'S SECRET | /m/05c7xns ]]
+ENTITY1:	[[ CD | /m/01www ]]
+SUBJECT PATH: SUBJECT -> OBJECT -> coming
+OBJECT  PATH: OBJECT -> coming
+OBJECT
+
+
+1980, SUBJECT 's LP, OBJECT , reaches #1 in the ENTITY1 charts.
+SUBJECT:	[[ PAUL MCCARTNEY | /m/03j24kf ]]
+OBJECT:	[[ MCCARTNEY II | /m/01j7w2f ]]
+ENTITY1:	[[ UK | /m/07ssc ]]
+SUBJECT PATH: SUBJECT -> LP -> reaches
+OBJECT  PATH: OBJECT -> LP -> reaches
+LP
+
+
+In 1993 New releases included ENTITY1 's the solo album   ENTITY2   and SUBJECT 's album   OBJECT .
+SUBJECT:	[[ PAUL MCCARTNEY | /m/03j24kf ]]
+OBJECT:	[[ OFF THE GROUND | /m/01j7t_y ]]
+ENTITY1:	[[ MICK JAGGER | /m/01kx_81 ]]
+ENTITY2:	[[ WANDERING SPIRIT | /m/01kx_4v ]]
+SUBJECT PATH: SUBJECT -> OBJECT -> ENTITY2
+OBJECT  PATH: OBJECT -> ENTITY2
+OBJECT
+
+
+SUBJECT performing ENTITY1 in ENTITY2 on the   OBJECT   tour.
+SUBJECT:	[[ PAUL MCCARTNEY | /m/03j24kf ]]
+OBJECT:	[[ WINGS OVER AMERICA | /m/01jfz72 ]]
+ENTITY1:	[[ LADY MADONNA | /m/0lhg28 ]]
+ENTITY2:	[[ MINNEAPOLIS | /m/0fpzwf ]]
+SUBJECT PATH: SUBJECT
+OBJECT  PATH: OBJECT -> tour -> on -> performing -> SUBJECT
+SUBJECT
+
+
+In 1999, SUBJECT included a cover of   ENTITY1   on his album   OBJECT .
+SUBJECT:	[[ PAUL MCCARTNEY | /m/03j24kf ]]
+OBJECT:	[[ RUN DEVIL RUN | /m/01j7vrl ]]
+ENTITY1:	[[ LONESOME TOWN | /m/02rrxyx ]]
+SUBJECT PATH: SUBJECT -> included
+OBJECT  PATH: OBJECT -> on -> cover -> included
+included
+
+
+OBJECT is the third album by ENTITY1 hip hop group SUBJECT , released in 1997 on ENTITY2 
+SUBJECT:	[[ THA ALKAHOLIKS | /m/03nv9l ]]
+OBJECT:	[[ LIKWIDATION | /m/01nfk61 ]]
+ENTITY1:	[[ WEST COAST | /m/016_rm ]]
+ENTITY2:	[[ LOUD RECORDS | /m/04zqdf ]]
+SUBJECT PATH: SUBJECT -> by -> album -> is
+OBJECT  PATH: OBJECT -> is
+is
+
+
+SUBJECT performs ENTITY1 's  Something  on a ukelele in the OBJECT ...
+SUBJECT:	[[ PAUL MCCARTNEY | /m/03j24kf ]]
+OBJECT:	[[ CONCERT FOR GEORGE | /m/01fzgyt ]]
+ENTITY1:	[[ GEORGE HARRISON | /m/03bnv ]]
+SUBJECT PATH: SUBJECT -> performs
+OBJECT  PATH: OBJECT -> in -> ukelele -> on -> performs
+performs
+
+
+SUBJECT still favored the   OBJECT   concept, only this time, he took it to a grand scale
+SUBJECT:	[[ PAUL MCCARTNEY | /m/03j24kf ]]
+OBJECT:	[[ THRILLINGTON | /m/03jmymq ]]
+SUBJECT PATH: SUBJECT -> favored -> took
+OBJECT  PATH: OBJECT -> concept -> favored -> took
+favored
+
+
+ENTITY1 female-fronted metal band SUBJECT will release its debut album,   OBJECT  , on January 30, 2008 via Suomen Musiikki.
+SUBJECT:	[[ AMBERIAN DAWN | /m/03nrdmk ]]
+OBJECT:	[[ RIVER OF TUONI | /m/05szz13 ]]
+ENTITY1:	[[ FINNISH | /m/02vzc ]]
+SUBJECT PATH: SUBJECT -> release
+OBJECT  PATH: OBJECT -> album -> release
+release
+
+
+Erstwhile ENTITY1 vocalist SUBJECT releases his debut solo album, ' OBJECT ', through Todd Entertainment on March 9th
+SUBJECT:	[[ JOSH TODD | /m/044ygj ]]
+OBJECT:	[[ YOU MADE ME | /m/04lfsmp ]]
+ENTITY1:	[[ BUCK CHERRY | /m/054g6s ]]
+SUBJECT PATH: SUBJECT -> releases -> vocalist
+OBJECT  PATH: OBJECT -> album -> releases -> vocalist
+releases
+
+
+'Ya Akhi', first single from SUBJECT 's album   OBJECT  .
+SUBJECT:	[[ AHMED BUKHATIR | /m/04cyf4m ]]
+OBJECT:	[[ DA'ANI | /m/0ch25lx ]]
+SUBJECT PATH: SUBJECT -> OBJECT -> from -> single -> Akhi
+OBJECT  PATH: OBJECT -> from -> single -> Akhi
+OBJECT
+
+
+  OBJECT   is the debut studio album by ENTITY1 - ENTITY2 reggaeton singer-songwriter SUBJECT , officially released in April 2008.
+SUBJECT:	[[ ARCÁNGEL | /m/043s9v8 ]]
+OBJECT:	[[ LA MARAVILLA | /m/03qcj5l ]]
+ENTITY1:	[[ DOMINICAN | /m/027rn ]]
+ENTITY2:	[[ AMERICAN | /m/09c7w0 ]]
+SUBJECT PATH: SUBJECT -> by -> album -> is
+OBJECT  PATH: OBJECT -> is
+is
+
+
+I think the quickest cover I ever did was the one for SUBJECT s OBJECT 
+SUBJECT:	[[ MORTICIAN | /m/056rqt ]]
+OBJECT:	[[ RE-ANIMATED DEAD FLESH | /m/02ryy2g ]]
+SUBJECT PATH: SUBJECT -> OBJECT -> for -> one -> was -> think
+OBJECT  PATH: OBJECT -> for -> one -> was -> think
+OBJECT
+
+
+The 11 ENTITY1 songs featured on OBJECT did not appear on SUBJECT 's previous live album ENTITY2 .
+SUBJECT:	[[ PAUL MCCARTNEY | /m/03j24kf ]]
+OBJECT:	[[ PAUL IS LIVE | /m/01j7vm6 ]]
+ENTITY1:	[[ BEATLES | /m/07c0j ]]
+ENTITY2:	[[ TRIPPING THE LIVE FANTASTIC | /m/01j7vp0 ]]
+SUBJECT PATH: SUBJECT -> album -> ENTITY2 -> on -> appear
+OBJECT  PATH: OBJECT -> on -> featured -> songs -> appear
+appear
+
+
+ENTITY1 death metal band SUBJECT have made several songs about the movie, including   OBJECT   and  Hacked up for Barbecue 
+SUBJECT:	[[ MORTICIAN | /m/056rqt ]]
+OBJECT:	[[ CHAINSAW DISMEMBERMENT | /m/02vkxhq ]]
+ENTITY1:	[[ US | /m/09c7w0 ]]
+SUBJECT PATH: SUBJECT -> made
+OBJECT  PATH: OBJECT -> including -> movie -> about -> songs -> made
+made
+
+
+ENTITY1 sang on SUBJECT 's latest,   OBJECT ,  and is name-checked on  Name Droppin',  a tune on   OBJECT . 
+SUBJECT:	[[ RAY WYLIE HUBBARD | /m/05f9w0 ]]
+OBJECT:	[[ GROWL | /m/01mxwxh ]]
+ENTITY1:	[[ GAUTHIER | /m/01n707j ]]
+SUBJECT PATH: SUBJECT -> OBJECT -> on -> sang
+OBJECT  PATH: OBJECT -> on -> tune -> checked -> is -> sang
+sang
+
+
+Although my favourite SUBJECT songis on OBJECT , overally I enjoy more the ENTITY1 album!
+SUBJECT:	[[ TURISAS | /m/03x3mw ]]
+OBJECT:	[[ THE VARANGIAN WAY | /m/03g4mw1 ]]
+ENTITY1:	[[ BATTLE METAL | /m/0fzhlwz ]]
+SUBJECT PATH: SUBJECT -> songis -> enjoy
+OBJECT  PATH: OBJECT -> on -> songis -> enjoy
+songis
+
+
+In 1997, SUBJECT signed to ENTITY1 records, and in 1999 released their first  major label release, OBJECT ..
+SUBJECT:	[[ CITIZEN KING | /m/04wfqm ]]
+OBJECT:	[[ MOBILE ESTATES | /m/01jjlql ]]
+ENTITY1:	[[ WARNER BROTHERS | /m/086k8 ]]
+SUBJECT PATH: SUBJECT -> signed
+OBJECT  PATH: OBJECT -> release -> released -> signed
+signed
+
+
+SUBJECT performed the world premier of   OBJECT  ..
+SUBJECT:	[[ GURU JOSH PROJECT | /m/04d2lb7 ]]
+OBJECT:	[[ INFINITY 2008 | /m/04d70dc ]]
+SUBJECT PATH: SUBJECT -> performed
+OBJECT  PATH: OBJECT -> performed
+performed
+
+
+... OBJECT is the fifth album by ENTITY1 hip hop group SUBJECT , released in January 2006 through ENTITY2 
+SUBJECT:	[[ THA ALKAHOLIKS | /m/03nv9l ]]
+OBJECT:	[[ FIREWATER | /m/01nfk4t ]]
+ENTITY1:	[[ WEST COAST | /m/016_rm ]]
+ENTITY2:	[[ WAXPLOITATION RECORDS | /m/0f3g3s ]]
+SUBJECT PATH: SUBJECT -> by -> album -> is
+OBJECT  PATH: OBJECT -> is
+is
+
+
+In 2004, SUBJECT left OBJECT to start his own label, ENTITY1 
+SUBJECT:	[[ LOON | /m/0699wz ]]
+OBJECT:	[[ BAD BOY | /m/02pmc24 ]]
+ENTITY1:	[[ BOSS UP ENTERTAINMENT | /m/09sj90 ]]
+SUBJECT PATH: SUBJECT -> left
+OBJECT  PATH: OBJECT -> left
+left
+
+
+Smartly, SUBJECT made  OBJECT s arrangements and overall feel different from the first album.
+SUBJECT:	[[ NOUVELLE VAGUE | /m/06h959 ]]
+OBJECT:	[[ BANDE À PART | /m/01qpxww ]]
+SUBJECT PATH: SUBJECT -> made
+OBJECT  PATH: OBJECT -> s -> arrangements -> made
+made
+
+
+SUBJECT 's new album,   OBJECT  , is set to be released early next year
+SUBJECT:	[[ TANTRIC | /m/07t0n3 ]]
+OBJECT:	[[ THE END BEGINS | /m/049s0hq ]]
+SUBJECT PATH: SUBJECT -> album -> set
+OBJECT  PATH: OBJECT -> album -> set
+album
+
+
+Kate Ryan For fans of ENTITY1 vocal trance, it would be hard to beat SUBJECT s OBJECT .
+SUBJECT:	[[ KATE RYAN | /m/05plrb ]]
+OBJECT:	[[ STRONGER | /m/02xcy3h ]]
+ENTITY1:	[[ EUROPEAN | /m/02j9z ]]
+SUBJECT PATH: SUBJECT -> OBJECT -> beat -> be
+OBJECT  PATH: OBJECT -> beat -> be
+OBJECT
+
+
+O: What do you think of SUBJECT 's latest album,   OBJECT ?
+SUBJECT:	[[ PAUL MCCARTNEY | /m/03j24kf ]]
+OBJECT:	[[ FLOWERS IN THE DIRT | /m/01j7thn ]]
+SUBJECT PATH: SUBJECT -> album -> of -> think
+OBJECT  PATH: OBJECT -> album -> of -> think
+album
+
+
+Excerpt from SUBJECT 's album OBJECT !
+SUBJECT:	[[ TURISAS | /m/03x3mw ]]
+OBJECT:	[[ BATTLE METAL | /m/0cs6rr ]]
+SUBJECT PATH: SUBJECT -> OBJECT -> from -> Excerpt
+OBJECT  PATH: OBJECT -> from -> Excerpt
+OBJECT
+
+
+This is a mix of clips of ENTITY1 's ENTITY2 dubbed to SUBJECT 's OBJECT 
+SUBJECT:	[[ KATE RYAN | /m/05plrb ]]
+OBJECT:	[[ DÉSENCHANTÉE | /m/01mz4zn ]]
+ENTITY1:	[[ SOUL CALIBUR | /m/017d09 ]]
+ENTITY2:	[[ RAPHAEL | /m/0c43g ]]
+SUBJECT PATH: SUBJECT -> OBJECT -> to -> dubbed -> mix -> is
+OBJECT  PATH: OBJECT -> to -> dubbed -> mix -> is
+OBJECT
+
+
+In 2007, the label released SUBJECT 's debut mixtape, OBJECT .
+SUBJECT:	[[ SAIGON | /m/08rcv8 ]]
+OBJECT:	[[ THE MORAL OF THE STORY | /m/03cy65t ]]
+SUBJECT PATH: SUBJECT -> mixtape -> released
+OBJECT  PATH: OBJECT -> mixtape -> released
+mixtape
+
+
+ENTITY1  is SUBJECT fourth classical album since his first released in 1991, The OBJECT 
+SUBJECT:	[[ PAUL MCCARTNEY | /m/03j24kf ]]
+OBJECT:	[[ PAUL MCCARTNEY'S LIVERPOOL ORATORIO | /m/07h346 ]]
+ENTITY1:	[[ ECCE COR MEUM | /m/01j7tdx ]]
+SUBJECT PATH: SUBJECT -> album -> is
+OBJECT  PATH: OBJECT -> is
+is
+
+
+SUBJECT s OBJECT
+SUBJECT:	[[ KUBB | /m/0bhd9k ]]
+OBJECT:	[[ MOTHER | /m/0dwjw3s ]]
+SUBJECT PATH: SUBJECT -> OBJECT
+OBJECT  PATH: OBJECT
+OBJECT
+
+
+SUBJECT 's fourth track on OBJECT is   ENTITY1   
+SUBJECT:	[[ HARD 'N PHIRM | /m/09p8pr ]]
+OBJECT:	[[ HORSES AND GRASSES | /m/09p8jx ]]
+ENTITY1:	[[ PI | /m/05wjw ]]
+SUBJECT PATH: SUBJECT -> track -> is
+OBJECT  PATH: OBJECT -> on -> track -> is
+track
+
+
+boxed set  and I found SUBJECT 's record,   OBJECT  , to be really interesting
+SUBJECT:	[[ LORI MCKENNA | /m/08y_tv ]]
+OBJECT:	[[ BITTERTOWN | /m/02z4w_q ]]
+SUBJECT PATH: SUBJECT -> record -> found -> set
+OBJECT  PATH: OBJECT -> record -> found -> set
+record
+
+
+SUBJECT playing OBJECT at The Junction in ENTITY1 , 19/01/09.Sorry about my dodgy camera work...
+SUBJECT:	[[ FRANK TURNER | /m/0ftgly ]]
+OBJECT:	[[ LONG LIVE THE QUEEN | /m/0g57gw9 ]]
+ENTITY1:	[[ CAMBRIDGE | /m/0978r ]]
+SUBJECT PATH: SUBJECT
+OBJECT  PATH: OBJECT -> playing -> SUBJECT
+SUBJECT
+
+
+The main course is OBJECT , the sophomore album from SUBJECT 
+SUBJECT:	[[ GUILLEMOTS | /m/09dr37 ]]
+OBJECT:	[[ RED | /m/03m8mqp ]]
+SUBJECT PATH: SUBJECT -> from -> album -> OBJECT -> is
+OBJECT  PATH: OBJECT -> is
+OBJECT
+
+
+All but two of the songs on OBJECT come from SUBJECT and ENTITY1 .
+SUBJECT:	[[ CYNDI THOMSON | /m/0cb3hq ]]
+OBJECT:	[[ MY WORLD | /m/03mbszp ]]
+ENTITY1:	[[ TOMMY LEE | /m/02rmz0c ]]
+SUBJECT PATH: SUBJECT -> from -> come
+OBJECT  PATH: OBJECT -> on -> songs -> of -> two -> All -> come
+come
+
+
+Oh, I had to laugh when I heard the title of SUBJECT ?s latest CD, OBJECT 
+SUBJECT:	[[ LORI MCKENNA | /m/08y_tv ]]
+OBJECT:	[[ UNGLAMOROUS | /m/03jhsdr ]]
+SUBJECT PATH: SUBJECT -> of -> title -> heard -> laugh -> had
+OBJECT  PATH: OBJECT -> CD
+-None-
+
+
+Music critic Serene Dominic notes that SUBJECT in ENTITY1  collects most of OBJECT  and SUBJECT . . 
+SUBJECT:	[[ DUSTY SPRINGFIELD | /m/012x86 ]]
+OBJECT:	[[ SEE ALL HER FACES | /m/01h8798 ]]
+ENTITY1:	[[ LONDON | /m/04jpl ]]
+SUBJECT PATH: SUBJECT -> OBJECT -> of -> most -> collects -> notes
+OBJECT  PATH: OBJECT -> of -> most -> collects -> notes
+OBJECT
+
+
+Welcome SUBJECT whose critically acclaimed debut album, OBJECT , was nominated for a ENTITY1 last year
+SUBJECT:	[[ GUILLEMOTS | /m/09dr37 ]]
+OBJECT:	[[ THROUGH THE WINDOWPANE | /m/01s6fvl ]]
+ENTITY1:	[[ MERCURY MUSIC PRIZE | /m/011l_5 ]]
+SUBJECT PATH: SUBJECT -> nominated
+OBJECT  PATH: OBJECT -> album -> nominated
+nominated
+
+
+SUBJECT 's music on OBJECT is folksy, mellow and melodic.
+SUBJECT:	[[ FRANK TURNER | /m/0ftgly ]]
+OBJECT:	[[ CAMPFIRE PUNKROCK | /m/03g6qys ]]
+SUBJECT PATH: SUBJECT -> music -> is
+OBJECT  PATH: OBJECT -> on -> music -> is
+music
+
+
+Ryan. SUBJECT mp3, OBJECT downloads.
+SUBJECT:	[[ KATE RYAN | /m/05plrb ]]
+OBJECT:	[[ THE PROMISE YOU MADE | /m/01mz4yb ]]
+SUBJECT PATH: SUBJECT -> mp3
+OBJECT  PATH: OBJECT -> downloads -> mp3
+mp3
+
+
+On June 14, 1994, SUBJECT released OBJECT , produced by ENTITY1 
+SUBJECT:	[[ LUSH | /m/016_5p ]]
+OBJECT:	[[ SPLIT | /m/02r809m ]]
+ENTITY1:	[[ MIKE HEDGES | /m/027nx_h ]]
+SUBJECT PATH: SUBJECT -> released
+OBJECT  PATH: OBJECT -> released
+released
+
+
+Later in 1980, SUBJECT entered the studio with ENTITY1 producer ENTITY2 to make OBJECT 
+SUBJECT:	[[ PAUL MCCARTNEY | /m/03j24kf ]]
+OBJECT:	[[ TUG OF WAR | /m/01j7vqj ]]
+ENTITY1:	[[ BEATLES | /m/07c0j ]]
+ENTITY2:	[[ GEORGE MARTIN | /m/0k7pf ]]
+SUBJECT PATH: SUBJECT -> entered
+OBJECT  PATH: OBJECT -> make -> entered
+entered
+
+
+SUBJECT will release   OBJECT ,  their new album on Tizona Records, February 17th.
+SUBJECT:	[[ DEAD RIDER | /m/0dn35w5 ]]
+OBJECT:	[[ MOTHER OF CURSES | /m/0dy1bnv ]]
+SUBJECT PATH: SUBJECT -> release
+OBJECT  PATH: OBJECT -> release
+release
+
+
+The SUBJECT hit the ENTITY1 with   OBJECT . 
+SUBJECT:	[[ SPIN DOCTORS | /m/017tvq ]]
+OBJECT:	[[ YOU LET YOUR HEART GO TOO FAST | /m/01j3mfl ]]
+ENTITY1:	[[ TOP 40 | /m/01s4_5 ]]
+SUBJECT PATH: SUBJECT -> hit
+OBJECT  PATH: OBJECT -> with -> hit
+hit
+
+
+Riding high on the resulting wave of ENTITY1 nostalgia, SUBJECT released a new solo album inearly 1997, OBJECT 
+SUBJECT:	[[ PAUL MCCARTNEY | /m/03j24kf ]]
+OBJECT:	[[ FLAMING PIE | /m/01j7v7y ]]
+ENTITY1:	[[ BABY BOOMER | /m/0cpgf ]]
+SUBJECT PATH: SUBJECT -> released
+OBJECT  PATH: OBJECT -> released
+released
+
+
+OBJECT , who died in 1998, was the wife of former ENTITY1 member SUBJECT , and both were vegetarians.
+SUBJECT:	[[ PAUL MCCARTNEY | /m/03j24kf ]]
+OBJECT:	[[ MCCARTNEY | /m/01j7tc9 ]]
+ENTITY1:	[[ BEATLES | /m/07c0j ]]
+SUBJECT PATH: SUBJECT -> of -> wife -> was
+OBJECT  PATH: OBJECT -> was
+was
+
+
+However, in 1996, SUBJECT did score a minor ENTITY1 alterna-radio hit with  OBJECT  from their final album, ENTITY2 
+SUBJECT:	[[ LUSH | /m/016_5p ]]
+OBJECT:	[[ LADYKILLERS | /m/01l5png ]]
+ENTITY1:	[[ US | /m/09c7w0 ]]
+ENTITY2:	[[ LOVELIFE | /m/02r8143 ]]
+SUBJECT PATH: SUBJECT -> score
+OBJECT  PATH: OBJECT -> score
+score
+
+
+said: how can all agree that a SUBJECT album OBJECT and instrumental is good?
+SUBJECT:	[[ YELLOW MAGIC ORCHESTRA | /m/019bmw ]]
+OBJECT:	[[ NAUGHTY BOYS | /m/01l1xmx ]]
+SUBJECT PATH: SUBJECT -> OBJECT -> is -> agree -> said
+OBJECT  PATH: OBJECT -> is -> agree -> said
+OBJECT
+
+
+SUBJECT ,  The ENTITY1 is Turning  from OBJECT .
+SUBJECT:	[[ ROGER WATERS | /m/017g21 ]]
+OBJECT:	[[ RADIO K.A.O.S. | /m/01jdsjj ]]
+ENTITY1:	[[ TIDE | /m/07kc0 ]]
+SUBJECT PATH: SUBJECT
+OBJECT  PATH: OBJECT -> from -> Turning
+-None-
+
+
+OBJECT was the seventh album by SUBJECT .
+SUBJECT:	[[ YELLOW MAGIC ORCHESTRA | /m/019bmw ]]
+OBJECT:	[[ NAUGHTY BOYS & INSTRUMENTAL | /m/01l1xs5 ]]
+SUBJECT PATH: SUBJECT -> by -> album -> was
+OBJECT  PATH: OBJECT -> was
+was
+
+
+He has also confirmed he has co-produced a track on the upcoming Dr. SUBJECT album OBJECT .
+SUBJECT:	[[ DR. DRE | /m/01vvydl ]]
+OBJECT:	[[ DETOX | /m/043gs9 ]]
+SUBJECT PATH: SUBJECT -> OBJECT -> on -> track -> produced -> confirmed
+OBJECT  PATH: OBJECT -> on -> track -> produced -> confirmed
+OBJECT
+
+
+ENTITY1 was re-recorded by SUBJECT on OBJECT 
+SUBJECT:	[[ YELLOW MAGIC ORCHESTRA | /m/019bmw ]]
+OBJECT:	[[ BGM | /m/01l1xkn ]]
+ENTITY1:	[[ HAPPY END | /m/0_t7hf ]]
+SUBJECT PATH: SUBJECT -> by -> recorded
+OBJECT  PATH: OBJECT -> on -> recorded
+recorded
+
+
+In some ways OBJECT was for SUBJECT what 1979's ENTITY1 was for ENTITY2 .
+SUBJECT:	[[ DUSTY SPRINGFIELD | /m/012x86 ]]
+OBJECT:	[[ WHITE HEAT | /m/025rqw9 ]]
+ENTITY1:	[[ BROKEN ENGLISH | /m/01l9f4h ]]
+ENTITY2:	[[ MARIANNE FAITHFULL | /m/016dsy ]]
+SUBJECT PATH: SUBJECT -> for -> was
+OBJECT  PATH: OBJECT -> was
+was
+
+
+On Monday, ENTITY1 refused to answer reporters' questions regarding his rumored ownership of the 1991 SUBJECT album OBJECT 
+SUBJECT:	[[ SPIN DOCTORS | /m/017tvq ]]
+OBJECT:	[[ POCKET FULL OF KRYPTONITE | /m/01j3mp9 ]]
+ENTITY1:	[[ BRADLEY | /m/01q8vl ]]
+SUBJECT PATH: SUBJECT -> album -> OBJECT -> of -> ownership -> regarding -> answer -> refused
+OBJECT  PATH: OBJECT -> of -> ownership -> regarding -> answer -> refused
+OBJECT
+
+
+ENTITY1 has joined SUBJECT on two previous albums, ENTITY2 and OBJECT .
+SUBJECT:	[[ THE ROOTS | /m/01f2q5 ]]
+OBJECT:	[[ THE TIPPING POINT | /m/01h_m55 ]]
+ENTITY1:	[[ MOS DEF | /m/03f4xvm ]]
+ENTITY2:	[[ THINGS FALL APART | /m/01h_mdt ]]
+SUBJECT PATH: SUBJECT -> joined
+OBJECT  PATH: OBJECT -> ENTITY2 -> albums -> on -> joined
+joined
+
+
+OBJECT is the debut album by SUBJECT .
+SUBJECT:	[[ THE ROOTS | /m/01f2q5 ]]
+OBJECT:	[[ ORGANIX | /m/01h_m1f ]]
+SUBJECT PATH: SUBJECT -> by -> album -> is
+OBJECT  PATH: OBJECT -> is
+is
+
+
+  OBJECT   is The first album of SUBJECT and produced by ENTITY1 
+SUBJECT:	[[ LUSH | /m/016_5p ]]
+OBJECT:	[[ SPOOKY | /m/01l5pbx ]]
+ENTITY1:	[[ ROBIN GUTHRIE | /m/06sry_ ]]
+SUBJECT PATH: SUBJECT -> of -> album -> is
+OBJECT  PATH: OBJECT -> is
+is
+
+
+The ENTITY1 just published a good article on SUBJECT and their new album, ? OBJECT ? .
+SUBJECT:	[[ THE ROOTS | /m/01f2q5 ]]
+OBJECT:	[[ RISING DOWN | /m/049rfz2 ]]
+ENTITY1:	[[ NY TIMES | /m/07k2d ]]
+SUBJECT PATH: SUBJECT -> on -> article -> published
+OBJECT  PATH: OBJECT -> published
+published
+
+
+OBJECT  is the sixth album from SUBJECT .
+SUBJECT:	[[ THE ROOTS | /m/01f2q5 ]]
+OBJECT:	[[ PHRENOLOGY | /m/01h_lr5 ]]
+SUBJECT PATH: SUBJECT -> from -> album -> is
+OBJECT  PATH: OBJECT -> is
+is
+
+
+ENTITY1 came along and participated in the creation of SUBJECT 's ground-breaking album OBJECT 
+SUBJECT:	[[ MINISTRY | /m/01fchy ]]
+OBJECT:	[[ THE LAND OF RAPE AND HONEY | /m/01p2vp ]]
+ENTITY1:	[[ RIEFLIN | /m/020srm ]]
+SUBJECT PATH: SUBJECT -> OBJECT -> of -> creation -> in -> participated -> came
+OBJECT  PATH: OBJECT -> of -> creation -> in -> participated -> came
+OBJECT
+
+
+ENTITY1 is co-writer of the hit ENTITY2 musical   OBJECT   about the life of 60s singer, SUBJECT .
+SUBJECT:	[[ DUSTY SPRINGFIELD | /m/012x86 ]]
+OBJECT:	[[ DUSTY | /m/04f7jjs ]]
+ENTITY1:	[[ JOHN-MICHAEL HOWSON | /m/0b22bl ]]
+ENTITY2:	[[ AUSTRALIAN | /m/0chghy ]]
+SUBJECT PATH: SUBJECT -> singer -> of -> life -> about -> writer -> is
+OBJECT  PATH: OBJECT -> of -> writer -> is
+writer
+
+
+The hit single ' ENTITY1 ' from SUBJECT 's new critically acclaimed album, OBJECT in the Backyward....
+SUBJECT:	[[ PAUL MCCARTNEY | /m/03j24kf ]]
+OBJECT:	[[ CHAOS AND CREATION IN THE BACKYARD | /m/06tybp ]]
+ENTITY1:	[[ JENNY WREN | /m/088347 ]]
+SUBJECT PATH: SUBJECT -> album -> from -> ENTITY1
+OBJECT  PATH: OBJECT -> ENTITY1
+ENTITY1
+
+
+said: how can all agree that a SUBJECT album OBJECT is good?
+SUBJECT:	[[ YELLOW MAGIC ORCHESTRA | /m/019bmw ]]
+OBJECT:	[[ SOLID STATE SURVIVOR | /m/01l1xb0 ]]
+SUBJECT PATH: SUBJECT -> OBJECT -> is -> agree -> said
+OBJECT  PATH: OBJECT -> is -> agree -> said
+OBJECT
+
+
+OBJECT was SUBJECT 's last studio release 
+SUBJECT:	[[ LUSH | /m/016_5p ]]
+OBJECT:	[[ LOVELIFE | /m/02r8143 ]]
+SUBJECT PATH: SUBJECT -> release -> was
+OBJECT  PATH: OBJECT -> was
+was
+
+
+It may also appear on the upcoming SUBJECT compilation OBJECT 
+SUBJECT:	[[ BAHA MEN | /m/01hzncp ]]
+OBJECT:	[[ GREATEST MOVIE HITS | /m/01hzn87 ]]
+SUBJECT PATH: SUBJECT -> OBJECT -> on -> appear
+OBJECT  PATH: OBJECT -> on -> appear
+OBJECT
+
+
+OBJECT is an album by SUBJECT , released on June 8, 1999.
+SUBJECT:	[[ MINISTRY | /m/01fchy ]]
+OBJECT:	[[ DARK SIDE OF THE SPOON | /m/01j52v ]]
+SUBJECT PATH: SUBJECT -> by -> album -> is
+OBJECT  PATH: OBJECT -> is
+is
+
+
+The song is called   ENTITY1   and it's on the SUBJECT album OBJECT .
+SUBJECT:	[[ BAHA MEN | /m/01hzncp ]]
+OBJECT:	[[ MOVE IT LIKE THIS | /m/03d0gh0 ]]
+ENTITY1:	[[ COCONUT | /m/0ptn8b ]]
+SUBJECT PATH: SUBJECT -> OBJECT -> on -> 's
+OBJECT  PATH: OBJECT -> on -> 's
+OBJECT
+
+
+  OBJECT   is definitely the best SUBJECT album ever
+SUBJECT:	[[ MINISTRY | /m/01fchy ]]
+OBJECT:	[[ THE MIND IS A TERRIBLE THING TO TASTE | /m/01gybw ]]
+SUBJECT PATH: SUBJECT -> album -> is
+OBJECT  PATH: OBJECT -> is
+is
+
+
+SUBJECT ?s latest full length, OBJECT is out at long last
+SUBJECT:	[[ LAGWAGON | /m/01j12ww ]]
+OBJECT:	[[ BLAZE | /m/01j12pd ]]
+SUBJECT PATH: SUBJECT
+OBJECT  PATH: OBJECT -> is
+-None-
+
+
+OBJECT is the fifth album by the ENTITY1 punk band SUBJECT , released in 1998.
+SUBJECT:	[[ LAGWAGON | /m/01j12ww ]]
+OBJECT:	[[ LET'S TALK ABOUT FEELINGS | /m/01j12vt ]]
+ENTITY1:	[[ CALIFORNIA | /m/01n7q ]]
+SUBJECT PATH: SUBJECT -> band -> by -> album -> is
+OBJECT  PATH: OBJECT -> is
+is
+
+
+First, Bell finally laid down those vocals for the final SUBJECT tantrum, 2007s ENTITY1 pi? ata, OBJECT 
+SUBJECT:	[[ MINISTRY | /m/01fchy ]]
+OBJECT:	[[ THE LAST SUCKER | /m/03jgfgm ]]
+ENTITY1:	[[ DUBYA | /m/09b6zr ]]
+SUBJECT PATH: SUBJECT -> tantrum -> for -> vocals -> laid
+OBJECT  PATH: OBJECT -> ata
+-None-
+
+
+Check out ENTITY1 , who is probably best known for co-writing the SUBJECT hit OBJECT .
+SUBJECT:	[[ COLBIE CAILLAT | /m/02w4fkq ]]
+OBJECT:	[[ BUBBLY | /m/049vf0q ]]
+ENTITY1:	[[ JASON REEVES | /m/04n3chj ]]
+SUBJECT PATH: SUBJECT -> writing -> for -> known -> is -> Check
+OBJECT  PATH: OBJECT -> hit -> is -> Check
+is
+
+
+SUBJECT 's new album,   OBJECT  , was released last Tuesay week through ENTITY1 
+SUBJECT:	[[ MINISTRY | /m/01fchy ]]
+OBJECT:	[[ HOUSES OF THE MOLÉ | /m/03brjz ]]
+ENTITY1:	[[ SANCTUARY RECORDS | /m/01t04r ]]
+SUBJECT PATH: SUBJECT -> album -> released
+OBJECT  PATH: OBJECT -> album -> released
+album
+
+
+SUBJECT will be releasing a 25th anniversary collection, entitled   OBJECT  , TOMORROW via ENTITY1 
+SUBJECT:	[[ MINISTRY | /m/01fchy ]]
+OBJECT:	[[ RANTOLOGY | /m/09szqn ]]
+ENTITY1:	[[ SANCTUARY | /m/0jp3k ]]
+SUBJECT PATH: SUBJECT -> releasing
+OBJECT  PATH: OBJECT -> TOMORROW -> entitled -> collection -> releasing
+releasing
+
+
+On May 28th, 2007 ENTITY1 industrial rockers SUBJECT will release remix album ? OBJECT ? 
+SUBJECT:	[[ MINISTRY | /m/01fchy ]]
+OBJECT:	[[ RIO GRANDE DUB YA | /m/03fzwqf ]]
+ENTITY1:	[[ AMERICAN | /m/09c7w0 ]]
+SUBJECT PATH: SUBJECT -> rockers -> release
+OBJECT  PATH: OBJECT
+-None-
+
+
+ENTITY1 and and its Sources Dr Retribution, SUBJECT underestimate the power of OBJECT , SUBJECT mg/kg f...
+SUBJECT:	[[ MALEVOLENT CREATION | /m/01jv6r7 ]]
+OBJECT:	[[ RETRIBUTION | /m/02rt223 ]]
+ENTITY1:	[[ COM | /m/01gj0k ]]
+SUBJECT PATH: SUBJECT -> f -> OBJECT -> of -> power -> underestimate
+OBJECT  PATH: OBJECT -> of -> power -> underestimate
+OBJECT
+
+
+Many have said SUBJECT had gone downhill since ENTITY1 69, with OBJECT being a large disappointment to many
+SUBJECT:	[[ MINISTRY | /m/01fchy ]]
+OBJECT:	[[ FILTH PIG | /m/02qpk2 ]]
+ENTITY1:	[[ PSALM | /m/015c77d ]]
+SUBJECT PATH: SUBJECT -> gone -> said
+OBJECT  PATH: OBJECT -> being -> with -> gone -> said
+gone
+
+
+The 2008 compilation OBJECT examined SUBJECT 's long history of destroying other artists' tunes
+SUBJECT:	[[ MINISTRY | /m/01fchy ]]
+OBJECT:	[[ COVER UP | /m/03xwn19 ]]
+SUBJECT PATH: SUBJECT -> history -> examined
+OBJECT  PATH: OBJECT -> examined
+examined
+
+
+However, in 1999, a clean and sober  SUBJECT emerged from ENTITY1 with a solo album, OBJECT 
+SUBJECT:	[[ INGER LORRE | /m/01k2qk5 ]]
+OBJECT:	[[ TRANSCENDENTAL MEDICATION | /m/06zp_rv ]]
+ENTITY1:	[[ NEW JERSEY | /m/05fjf ]]
+SUBJECT PATH: SUBJECT -> emerged
+OBJECT  PATH: OBJECT -> album -> with -> emerged
+emerged
+
+
+It?s a first person statement, U-N-I Verse, derived from the song off of OBJECT by SUBJECT featuring ENTITY1 
+SUBJECT:	[[ THE ROOTS | /m/01f2q5 ]]
+OBJECT:	[[ ILLADELPH HALFLIFE | /m/01h_ltb ]]
+ENTITY1:	[[ COMMON | /m/01w7nwm ]]
+SUBJECT PATH: SUBJECT -> by -> derived -> Verse
+OBJECT  PATH: OBJECT -> of -> off -> derived -> Verse
+derived
+
+
+OBJECT is an album by SUBJECT .
+SUBJECT:	[[ MINISTRY | /m/01fchy ]]
+OBJECT:	[[ ANIMOSITISOMINA | /m/02lrdv ]]
+SUBJECT PATH: SUBJECT -> by -> album -> is
+OBJECT  PATH: OBJECT -> is
+is
+
+
+Some of the same musicians who appeared on SUBJECT 's last record, 1994's OBJECT are on ENTITY1 
+SUBJECT:	[[ JOHN GORKA | /m/01l47sc ]]
+OBJECT:	[[ OUT OF THE VALLEY | /m/01l47gb ]]
+ENTITY1:	[[ BETWEEN FIVE AND SEVEN | /m/03680cv ]]
+SUBJECT PATH: SUBJECT -> record -> on -> appeared -> musicians -> of -> Some -> are
+OBJECT  PATH: OBJECT -> are
+are
+
+
+OBJECT held fast to SUBJECT ?s tradition of fine songwriting, yet moved forward down new avenues
+SUBJECT:	[[ JOHN GORKA | /m/01l47sc ]]
+OBJECT:	[[ THE COMPANY YOU KEEP | /m/026v5b2 ]]
+SUBJECT PATH: SUBJECT -> to -> fast -> held
+OBJECT  PATH: OBJECT -> held
+held
+
+
+To order our favorite SUBJECT album, OBJECT  right now, click here.
+SUBJECT:	[[ DARRYL PURPOSE | /m/01lcq2z ]]
+OBJECT:	[[ SAME RIVER TWICE | /m/049r_k9 ]]
+SUBJECT PATH: SUBJECT -> album -> order -> click
+OBJECT  PATH: OBJECT -> album -> order -> click
+album
+
+
+His previous CD from ENTITY1 is OBJECT , a songbook of classics recorded with legendary jazz pianist SUBJECT 
+SUBJECT:	[[ GEORGE SHEARING | /m/01jmzyr ]]
+OBJECT:	[[ HOPELESS ROMANTICS | /m/04fg8lc ]]
+ENTITY1:	[[ CONCORD RECORDS | /m/02jjdr ]]
+SUBJECT PATH: SUBJECT -> with -> recorded -> classics -> of -> songbook -> OBJECT -> is
+OBJECT  PATH: OBJECT -> is
+OBJECT
+
+
+(his successful collaboration with singer SUBJECT titled   OBJECT   is the latest of his poetic ventures).
+SUBJECT:	[[ JAGJIT SINGH | /m/01m5fvh ]]
+OBJECT:	[[ MARASIM | /m/01t1c57 ]]
+SUBJECT PATH: SUBJECT -> titled -> collaboration -> is
+OBJECT  PATH: OBJECT -> titled -> collaboration -> is
+titled
+
+
+With this lineup, the SUBJECT recorded OBJECT for ENTITY1 in 1980
+SUBJECT:	[[ THE FEELIES | /m/01l8xj3 ]]
+OBJECT:	[[ CRAZY RHYTHMS | /m/01l8xfc ]]
+ENTITY1:	[[ STIFF RECORDS | /m/0f26f ]]
+SUBJECT PATH: SUBJECT -> recorded -> OBJECT
+OBJECT  PATH: OBJECT
+OBJECT
+
+
+SUBJECT represents with OBJECT on the charts
+SUBJECT:	[[ RICHIE SPICE | /m/01mg1s0 ]]
+OBJECT:	[[ IN THE STREETS TO AFRICA | /m/0n4879p ]]
+SUBJECT PATH: SUBJECT -> represents
+OBJECT  PATH: OBJECT -> with -> represents
+represents
+
+
+And I think I listened to OBJECT , the first record by SUBJECT just yesterday.
+SUBJECT:	[[ FURTHER SEEMS FOREVER | /m/01lx5jh ]]
+OBJECT:	[[ THE MOON IS DOWN | /m/01lx5dn ]]
+SUBJECT PATH: SUBJECT -> by -> record -> listened -> think
+OBJECT  PATH: OBJECT -> to -> listened -> think
+listened
+
+
+Eight years in the making,   OBJECT    will be SUBJECT
+SUBJECT:	[[ PAUL MCCARTNEY | /m/03j24kf ]]
+OBJECT:	[[ ECCE COR MEUM (BEHOLD MY HEART) | /m/01j7tdx ]]
+SUBJECT PATH: SUBJECT -> be
+OBJECT  PATH: OBJECT -> be
+be
+
+
+In 2000, sisters ENTITY1 and ENTITY2 earned immediate respect and success with SUBJECT 's platinum debut album, OBJECT .
+SUBJECT:	[[ MARY MARY | /m/01kq11t ]]
+OBJECT:	[[ THANKFUL | /m/027c0vk ]]
+ENTITY1:	[[ ERICA | /m/0jwbsj6 ]]
+ENTITY2:	[[ TINA CAMPBELL | /m/05bw51f ]]
+SUBJECT PATH: SUBJECT -> album -> with -> respect -> earned
+OBJECT  PATH: OBJECT -> album -> with -> respect -> earned
+album
+
+
+ENTITY1 and ENTITY2 formed SUBJECT in OBJECT , circa 1985.
+SUBJECT:	[[ GREATER THAN ONE | /m/01m_xqn ]]
+OBJECT:	[[ LONDON | /m/024v5c_ ]]
+ENTITY1:	[[ LEE NEWMAN | /m/01w7fs0 ]]
+ENTITY2:	[[ MICHAEL WELLS | /m/01w7fsh ]]
+SUBJECT PATH: SUBJECT -> formed
+OBJECT  PATH: OBJECT -> in -> SUBJECT -> formed
+SUBJECT
+
+
+Released in time for SUBJECT 75th birthday in the autumn of 2007, OBJECT is the first SUBJECT
+SUBJECT:	[[ PAUL BLEY | /m/01mdbch ]]
+OBJECT:	[[ SOLO IN MONDSEE | /m/0hgrdz1 ]]
+SUBJECT PATH: SUBJECT -> is
+OBJECT  PATH: OBJECT -> is
+is
+
+
+That same year, ENTITY1 began recording with SUBJECT , and after becoming a regular on their OBJECT
+SUBJECT:	[[ RIDERS IN THE SKY | /m/01mqvck ]]
+OBJECT:	[[ RIDERS RADIO THEATER | /m/026ysdc ]]
+ENTITY1:	[[ JOEY | /m/03ylmhq ]]
+SUBJECT PATH: SUBJECT -> with -> recording -> began
+OBJECT  PATH: OBJECT -> on -> regular -> becoming -> after -> began
+began
+
+
+And ENTITY1 played SUBJECT 's   OBJECT   to cap the moment.
+SUBJECT:	[[ BAHA MEN | /m/01hzncp ]]
+OBJECT:	[[ WHO LET THE DOGS OUT | /m/03fzltc ]]
+ENTITY1:	[[ JPL | /m/0467p ]]
+SUBJECT PATH: SUBJECT -> OBJECT -> played
+OBJECT  PATH: OBJECT -> played
+OBJECT
+
+
+As the lead singer of the teen group SUBJECT , ENTITY1 was a OBJECT pop star by age twenty-two
+SUBJECT:	[[ GRUPO MANÍA | /m/01mt9jr ]]
+OBJECT:	[[ LATINO | /m/01mt9cv ]]
+ENTITY1:	[[ CRESPO | /m/044gjv ]]
+SUBJECT PATH: SUBJECT -> group -> of -> singer -> As -> was
+OBJECT  PATH: OBJECT -> star -> was
+was
+
+
+SUBJECT ?s latest release OBJECT will be available on July 17th.
+SUBJECT:	[[ COLBIE CAILLAT | /m/02w4fkq ]]
+OBJECT:	[[ COCO | /m/03gbkwk ]]
+SUBJECT PATH: SUBJECT
+OBJECT  PATH: OBJECT -> be
+-None-
+
+
+SUBJECT will revive ENTITY1 's tradition of show-biz cowpokery in   OBJECT .
+SUBJECT:	[[ RIDERS IN THE SKY | /m/01mqvck ]]
+OBJECT:	[[ CHRISTMAS THE COWBOY WAY | /m/026z9j3 ]]
+ENTITY1:	[[ AMERICA | /m/09c7w0 ]]
+SUBJECT PATH: SUBJECT -> revive
+OBJECT  PATH: OBJECT -> in -> tradition -> revive
+revive
+
+
+OBJECT  is the latest installment from SUBJECT 
+SUBJECT:	[[ NESIAN MYSTIK | /m/01n5mb6 ]]
+OBJECT:	[[ ELEVATOR MUSIQ | /m/05f5c1_ ]]
+SUBJECT PATH: SUBJECT -> from -> installment -> is
+OBJECT  PATH: OBJECT -> is
+is
+
+
+PSF: I thought OBJECT was the best SUBJECT album.
+SUBJECT:	[[ THE FEELIES | /m/01l8xj3 ]]
+OBJECT:	[[ TIME FOR A WITNESS | /m/04n2myk ]]
+SUBJECT PATH: SUBJECT -> album -> was -> thought
+OBJECT  PATH: OBJECT -> was -> thought
+was
+
+
+SUBJECT 's most recent album, OBJECT , returns attention to the music while comedy takes a back seat
+SUBJECT:	[[ RIDERS IN THE SKY | /m/01mqvck ]]
+OBJECT:	[[ ALWAYS DRINK UPSTREAM FROM THE HERD | /m/01mqv95 ]]
+SUBJECT PATH: SUBJECT -> album -> returns
+OBJECT  PATH: OBJECT -> album -> returns
+album
+
+
+SUBJECT 's latest release, OBJECT , contains a collection of material dating from 1986 to 2002.
+SUBJECT:	[[ GERHARD POTUZNIK | /m/01nqrnj ]]
+OBJECT:	[[ VENDETTA | /m/01qm7pz ]]
+SUBJECT PATH: SUBJECT -> release -> contains
+OBJECT  PATH: OBJECT -> release -> contains
+release
+
+
+You few weeks to complete that may be prescribed OBJECT , SUBJECT not think ENTITY1 is for everyone
+SUBJECT:	[[ PEABO BRYSON | /m/01mhl8v ]]
+OBJECT:	[[ ALL MY LOVE | /m/01mhl5x ]]
+ENTITY1:	[[ VOIP | /m/0jzgd ]]
+SUBJECT PATH: SUBJECT -> think
+OBJECT  PATH: OBJECT -> prescribed -> think
+think
+
+
+With his ENTITY1 release, OBJECT , SUBJECT has extended his musical stride even further.
+SUBJECT:	[[ BILLY JOE ROYAL | /m/01nz4vf ]]
+OBJECT:	[[ OUT OF THE SHADOWS | /m/03g2st8 ]]
+ENTITY1:	[[ ATLANTIC | /m/0g768 ]]
+SUBJECT PATH: SUBJECT -> extended
+OBJECT  PATH: OBJECT -> , -> extended
+extended
+
+
+ENTITY1 band SUBJECT , who released   OBJECT   on ENTITY2 in 2004 split late last year
+SUBJECT:	[[ CODESEVEN | /m/01p04pr ]]
+OBJECT:	[[ DANCING ECHOES / DEAD SOUNDS | /m/01p04l8 ]]
+ENTITY1:	[[ NORTH CAROLINA | /m/05fkf ]]
+ENTITY2:	[[ EQUAL VISION RECORDS | /m/06fjm3 ]]
+SUBJECT PATH: SUBJECT -> band
+OBJECT  PATH: OBJECT -> released -> SUBJECT -> band
+SUBJECT
+
+
+UPDATE: Check this review out as it also covers SUBJECT ?s follow-up, OBJECT 
+SUBJECT:	[[ EDDIE GALE | /m/01n_8xr ]]
+OBJECT:	[[ BLACK RHYTHM HAPPENING | /m/01n_8w_ ]]
+SUBJECT PATH: SUBJECT -> covers -> Check
+OBJECT  PATH: OBJECT -> up
+-None-
+
+
+SUBJECT then switched to ENTITY1 and released OBJECT , named for a track on the album
+SUBJECT:	[[ BINARY STAR | /m/01nnt3g ]]
+OBJECT:	[[ MASTERS OF THE UNIVERSE | /m/01nnt1p ]]
+ENTITY1:	[[ SUBTERRANEOUS RECORDS | /m/01wdjzw ]]
+SUBJECT PATH: SUBJECT -> switched
+OBJECT  PATH: OBJECT -> released -> switched
+switched
+
+
+SUBJECT 's next release, OBJECT was a mini-LP and aptly displayed the band's maturity and musical evolution.
+SUBJECT:	[[ CODESEVEN | /m/01p04pr ]]
+OBJECT:	[[ DIVISION OF LABOR | /m/01p04m9 ]]
+SUBJECT PATH: SUBJECT -> release -> was
+OBJECT  PATH: OBJECT -> was
+was
+
+
+A vibrant single, it was followed by   OBJECT  , after which SUBJECT switched to ENTITY1 .
+SUBJECT:	[[ MEL & TIM | /m/01p46k7 ]]
+OBJECT:	[[ GOOD GUYS ONLY WIN IN THE MOVIES | /m/01p46h_ ]]
+ENTITY1:	[[ STAX | /m/01w1w9 ]]
+SUBJECT PATH: SUBJECT -> switched -> OBJECT -> by -> followed
+OBJECT  PATH: OBJECT -> by -> followed
+OBJECT
+
+
+This cool screensaver features art work from SUBJECT 's video, OBJECT .
+SUBJECT:	[[ GARBAGE | /m/01pfr3 ]]
+OBJECT:	[[ ANDROGYNY | /m/01h7ypq ]]
+SUBJECT PATH: SUBJECT -> video -> from -> work -> features
+OBJECT  PATH: OBJECT -> video -> from -> work -> features
+video
+
+
+album   OBJECT  ; 1996 second SUBJECT album   ENTITY1  . 1997:  From: Disco To: Disco  number one hit in ENTITY2 
+SUBJECT:	[[ WHIRLPOOL PRODUCTIONS | /m/01phrxp ]]
+OBJECT:	[[ BRIAN DE PALMA | /m/0dvzz93 ]]
+ENTITY1:	[[ DENSE MUSIC | /m/0nlzq1k ]]
+ENTITY2:	[[ ITALY | /m/03rjj ]]
+SUBJECT PATH: SUBJECT -> album -> 1996 -> ENTITY1 -> OBJECT
+OBJECT  PATH: OBJECT
+OBJECT
+
+
+Check ENTITY1 Presents SUBJECT   OBJECT  , here..
+SUBJECT:	[[ PETER BROGGS | /m/01my58n ]]
+OBJECT:	[[ JAH GOLDEN THRONE | /m/01my57l ]]
+ENTITY1:	[[ JAH WARRIOR | /m/01npk86 ]]
+SUBJECT PATH: SUBJECT -> OBJECT -> Presents
+OBJECT  PATH: OBJECT -> Presents
+OBJECT
+
+
+ENTITY1 has joined SUBJECT on two previous albums, OBJECT and ENTITY2 .
+SUBJECT:	[[ THE ROOTS | /m/01f2q5 ]]
+OBJECT:	[[ THINGS FALL APART | /m/01h_mdt ]]
+ENTITY1:	[[ MOS DEF | /m/03f4xvm ]]
+ENTITY2:	[[ THE TIPPING POINT | /m/01h_m55 ]]
+SUBJECT PATH: SUBJECT -> joined
+OBJECT  PATH: OBJECT -> albums -> on -> joined
+joined
+
+
+A remastered versions of   ENTITY1   also appears on SUBJECT 's greatest hits album OBJECT 
+SUBJECT:	[[ GARBAGE | /m/01pfr3 ]]
+OBJECT:	[[ ABSOLUTE GARBAGE | /m/0bfchwd ]]
+ENTITY1:	[[ ONLY HAPPY WHEN IT RAINS | /m/0700kn ]]
+SUBJECT PATH: SUBJECT -> hits -> on -> appears
+OBJECT  PATH: OBJECT -> hits -> on -> appears
+hits
+
+
+There were some exceptions, like ENTITY1 self-titled album, SUBJECT 's  At OBJECT ,  or ENTITY2 's  19.
+SUBJECT:	[[ WOLF PARADE | /m/07zjl1 ]]
+OBJECT:	[[ AT MOUNT ZOOMER | /m/049t9p4 ]]
+ENTITY1:	[[ FLEET FOXES | /m/03qmrpl ]]
+ENTITY2:	[[ ADELE | /m/02z4b_8 ]]
+SUBJECT PATH: SUBJECT -> album -> like -> exceptions -> were
+OBJECT  PATH: OBJECT -> At -> SUBJECT -> album -> like -> exceptions -> were
+SUBJECT
+
+
+OBJECT typifies SUBJECT ?s folk-rock style which seems to be growing in popularity in ENTITY1 lately.
+SUBJECT:	[[ SCHELMISH | /m/01q02x8 ]]
+OBJECT:	[[ WIR WERDEN SEHEN | /m/04ckwt0 ]]
+ENTITY1:	[[ GERMANY | /m/0345h ]]
+SUBJECT PATH: SUBJECT -> typifies
+OBJECT  PATH: OBJECT -> typifies
+typifies
+
+
+OBJECT gave SUBJECT the opportunity to be in the spotlight
+SUBJECT:	[[ RANDY SCRUGGS | /m/01q3ywp ]]
+OBJECT:	[[ CROWN OF JEWELS | /m/01q3yvm ]]
+SUBJECT PATH: SUBJECT -> gave
+OBJECT  PATH: OBJECT -> gave
+gave
+
+
+The revived SUBJECT returned with OBJECT  in 2006
+SUBJECT:	[[ LUSTRA | /m/01q2zmr ]]
+OBJECT:	[[ LEFT FOR DEAD | /m/01q2zkr ]]
+SUBJECT PATH: SUBJECT -> returned
+OBJECT  PATH: OBJECT -> with -> returned
+returned
+
+
+SUBJECT 's full-length debut album, OBJECT , was released in October 2006 on Defend..
+SUBJECT:	[[ HOME VIDEO | /m/01q_5bw ]]
+OBJECT:	[[ NO CERTAIN NIGHT OR MORNING | /m/03g4_62 ]]
+SUBJECT PATH: SUBJECT -> album -> released
+OBJECT  PATH: OBJECT -> album -> released
+album
+
+
+SUBJECT   OBJECT   live in ENTITY1 3/30/05 DV
+SUBJECT:	[[ GARBAGE | /m/01pfr3 ]]
+OBJECT:	[[ BLEED LIKE ME | /m/04q9xf ]]
+ENTITY1:	[[ LONDON | /m/04jpl ]]
+SUBJECT PATH: SUBJECT -> live
+OBJECT  PATH: OBJECT -> SUBJECT -> live
+SUBJECT
+
+
+February 8, 2006: SUBJECT won the ENTITY1 for best jazz instrumental album, individual or group, for OBJECT 
+SUBJECT:	[[ WAYNE SHORTER | /m/01qdjm ]]
+OBJECT:	[[ BEYOND THE SOUND BARRIER | /m/0ff90j7 ]]
+ENTITY1:	[[ GRAMMY AWARD | /m/0c4ys ]]
+SUBJECT PATH: SUBJECT -> won
+OBJECT  PATH: OBJECT -> for -> won
+won
+
+
+SUBJECT will be in ENTITY1 on March 29th @ Karu & Y with an OBJECT party
+SUBJECT:	[[ VICTOR CALDERONE | /m/01pz53z ]]
+OBJECT:	[[ EVOLVE | /m/03jjv24 ]]
+ENTITY1:	[[ MIAMI | /m/0f2v0 ]]
+SUBJECT PATH: SUBJECT -> be
+OBJECT  PATH: OBJECT -> party -> with -> be
+be
+
+
+The SUBJECT album OBJECT has been my favorite album for almost twenty freaking years.
+SUBJECT:	[[ THE FEELIES | /m/01l8xj3 ]]
+OBJECT:	[[ THE GOOD EARTH | /m/01l8xch ]]
+SUBJECT PATH: SUBJECT -> OBJECT -> been
+OBJECT  PATH: OBJECT -> been
+OBJECT
+
+
+SUBJECT 's debut album, OBJECT , went out of print in ENTITY1 near the end of 2004
+SUBJECT:	[[ DENISON WITMER | /m/01pc33g ]]
+OBJECT:	[[ SAFE AWAY | /m/03clz21 ]]
+ENTITY1:	[[ CD | /m/01www ]]
+SUBJECT PATH: SUBJECT -> album -> went
+OBJECT  PATH: OBJECT -> album -> went
+album
+
+
+In 1969 he made his recording debut on guitar behind ENTITY1 folk singer SUBJECT on his album   OBJECT   
+SUBJECT:	[[ MICHAEL CHAPMAN | /m/01pwbhv ]]
+OBJECT:	[[ FULLY QUALIFIED SURVIVOR | /m/01pwbgv ]]
+ENTITY1:	[[ BRITISH | /m/07ssc ]]
+SUBJECT PATH: SUBJECT -> singer -> behind -> made
+OBJECT  PATH: OBJECT -> on -> SUBJECT -> singer -> behind -> made
+SUBJECT
+
+
+said: how can all agree that a SUBJECT album OBJECT is good?
+SUBJECT:	[[ WAYNE SHORTER | /m/01qdjm ]]
+OBJECT:	[[ ETCETERA | /m/04jf52s ]]
+SUBJECT PATH: SUBJECT -> OBJECT -> is -> agree -> said
+OBJECT  PATH: OBJECT -> is -> agree -> said
+OBJECT
+
+
+In 1995, SUBJECT released   OBJECT ,  his first all-country ENTITY1 , produced by noted ENTITY2 wiz Barry Beckett
+SUBJECT:	[[ EMILIO NAVAIRA | /m/01rzqd9 ]]
+OBJECT:	[[ LIFE IS GOOD | /m/0dgnf20 ]]
+ENTITY1:	[[ CD | /m/01www ]]
+ENTITY2:	[[ NASHVILLE | /m/05jbn ]]
+SUBJECT PATH: SUBJECT -> released
+OBJECT  PATH: OBJECT -> released
+released
+
+
+SUBJECT 's second EP,   OBJECT   is now available exclusively on ENTITY1 .
+SUBJECT:	[[ PELA | /m/01s4d9h ]]
+OBJECT:	[[ EXIT COLUMBIA STREET | /m/01s4d87 ]]
+ENTITY1:	[[ ITUNES | /m/019g58 ]]
+SUBJECT PATH: SUBJECT -> EP -> is
+OBJECT  PATH: OBJECT -> is
+is
+
+
+SUBJECT 's next album, OBJECT , featured an unaccompanied free-flowing SUBJECT on a steel-string wooden guitar.
+SUBJECT:	[[ SIR RICHARD BISHOP | /m/01s01rc ]]
+OBJECT:	[[ IMPROVIKA | /m/01s01qk ]]
+SUBJECT PATH: SUBJECT -> featured
+OBJECT  PATH: OBJECT -> album -> featured
+featured
+
+
+SUBJECT almost named his ENTITY1 album   OBJECT    Instant Gratification  instead
+SUBJECT:	[[ WAYNE SHORTER | /m/01qdjm ]]
+OBJECT:	[[ HIGH LIFE | /m/01l6nzp ]]
+ENTITY1:	[[ VERVE | /m/01xyqk ]]
+SUBJECT PATH: SUBJECT -> named
+OBJECT  PATH: OBJECT -> named
+named
+
+
+OBJECT is a folk/rock album by SUBJECT released in 1978, his debut solo album following his time with ENTITY1 
+SUBJECT:	[[ JOHNNY COPPIN | /m/01v9qj8 ]]
+OBJECT:	[[ ROLL ON DREAMER | /m/043nmr9 ]]
+ENTITY1:	[[ DECAMERON | /m/01m_grx ]]
+SUBJECT PATH: SUBJECT -> by -> album -> is
+OBJECT  PATH: OBJECT -> is
+is
+
+
+SUBJECT recorded OBJECT
+SUBJECT:	[[ BO DIDDLEY | /m/01vtg4q ]]
+OBJECT:	[[ LIVE AT THE RITZ | /m/01q0dzc ]]
+SUBJECT PATH: SUBJECT -> OBJECT
+OBJECT  PATH: OBJECT
+OBJECT
+
+
+When SUBJECT recorded OBJECT in 1993, he changed the history of salsa
+SUBJECT:	[[ MARC ANTHONY | /m/01wv9p ]]
+OBJECT:	[[ OTRA NOTA | /m/02rt1q2 ]]
+SUBJECT PATH: SUBJECT -> recorded -> changed
+OBJECT  PATH: OBJECT -> recorded -> changed
+recorded
+
+
+SUBJECT ?s debut album, OBJECT released in 1991 was straight ENTITY1 hip-hop
+SUBJECT:	[[ MARC ANTHONY | /m/01wv9p ]]
+OBJECT:	[[ WHEN THE NIGHT IS OVER | /m/01r1pgl ]]
+ENTITY1:	[[ LATIN | /m/04h9h ]]
+SUBJECT PATH: SUBJECT
+OBJECT  PATH: OBJECT -> was
+-None-
+
+
+SUBJECT stars as ENTITY1 in OBJECT along with his wife  which was released in August 2007
+SUBJECT:	[[ MARC ANTHONY | /m/01wv9p ]]
+OBJECT:	[[ EL CANTANTE | /m/04123lv ]]
+ENTITY1:	[[ HECTOR LAVOE | /m/02tdmh ]]
+SUBJECT PATH: SUBJECT -> stars
+OBJECT  PATH: OBJECT -> in -> ENTITY1 -> as -> stars
+stars
+
+
+M? sica compuesta por la agrupaci? n   SUBJECT   para la pel? cula OBJECT del director ENTITY1 .
+SUBJECT:	[[ TOSCA TANGO ORCHESTRA | /m/01tx03n ]]
+OBJECT:	[[ WAKING LIFE | /m/01syjjz ]]
+ENTITY1:	[[ RICHARD LINKLATER | /m/03dbds ]]
+SUBJECT PATH: SUBJECT -> pel
+OBJECT  PATH: OBJECT -> director
+-None-
+
+
+,-) SUBJECT 's new album  The OBJECT   is out and it features 2 tracks with yours truly.
+SUBJECT:	[[ ANDY MCKEE | /m/01t1tvw ]]
+OBJECT:	[[ THE GATES OF GNOMERIA | /m/03jlqk3 ]]
+SUBJECT PATH: SUBJECT -> album -> ,
+OBJECT  PATH: OBJECT -> is
+-None-
+
+
+SUBJECT 's   OBJECT   has been certified GOLD by the ENTITY1 as of December 13, 2001
+SUBJECT:	[[ MARC ANTHONY | /m/01wv9p ]]
+OBJECT:	[[ LIBRE | /m/0271yxp ]]
+ENTITY1:	[[ RIAA | /m/09tb2 ]]
+SUBJECT PATH: SUBJECT -> certified
+OBJECT  PATH: OBJECT -> certified
+certified
+
+
+The SUBJECT released OBJECT in September.
+SUBJECT:	[[ THE SHAKY HANDS | /m/01wx5n_ ]]
+OBJECT:	[[ LUNGLIGHT | /m/0dyvjcg ]]
+SUBJECT PATH: SUBJECT -> released
+OBJECT  PATH: OBJECT -> released
+released
+
+
+From the acclaimed songwriting troubadour SUBJECT comes OBJECT , the follow up to his crit... ...
+SUBJECT:	[[ DAVID DONDERO | /m/01q6l3z ]]
+OBJECT:	[[ SIMPLE LOVE | /m/03jjzq6 ]]
+SUBJECT PATH: SUBJECT -> comes
+OBJECT  PATH: OBJECT -> comes
+comes
+
+
+November 3, 2005: SUBJECT won the ENTITY1 for best salsa album for OBJECT 
+SUBJECT:	[[ MARC ANTHONY | /m/01wv9p ]]
+OBJECT:	[[ VALIÓ LA PENA | /m/02752c_ ]]
+ENTITY1:	[[ LATIN GRAMMY AWARD | /m/08pbsb ]]
+SUBJECT PATH: SUBJECT -> won
+OBJECT  PATH: OBJECT -> for -> album -> for -> won
+won
+
+
+The third installment of ENTITY1 ?s anti ENTITY2 trilogy, OBJECT is everything you?d expect from SUBJECT , and more.
+SUBJECT:	[[ MINISTRY | /m/01fchy ]]
+OBJECT:	[[ RIO GRANDE BLOOD | /m/08fmhq ]]
+ENTITY1:	[[ AL JOURGENSEN | /m/04mx7s ]]
+ENTITY2:	[[ GEORGE W. BUSH | /m/09b6zr ]]
+SUBJECT PATH: SUBJECT -> from -> expect -> is
+OBJECT  PATH: OBJECT -> is
+is
+
+
+SUBJECT recorded versions of the first three tracks for his 1969 ENTITY1 solo album OBJECT .
+SUBJECT:	[[ WAYNE SHORTER | /m/01qdjm ]]
+OBJECT:	[[ SUPER NOVA | /m/04n1f9z ]]
+ENTITY1:	[[ BLUE NOTE | /m/0mcf4 ]]
+SUBJECT PATH: SUBJECT -> versions
+OBJECT  PATH: OBJECT -> for -> tracks -> of -> versions
+versions
+
+
+On July 11, 2006 SUBJECT released   OBJECT  , a ENTITY1 greatest-hits album.
+SUBJECT:	[[ MARC ANTHONY | /m/01wv9p ]]
+OBJECT:	[[ SIGO SIENDO YO | /m/01j105q ]]
+ENTITY1:	[[ SPANISH | /m/06mkj ]]
+SUBJECT PATH: SUBJECT -> released
+OBJECT  PATH: OBJECT -> released
+released
+
+
+The SUBJECT 's new album,   OBJECT ,  is out now
+SUBJECT:	[[ THE JESUS LIZARD | /m/0279c0 ]]
+OBJECT:	[[ BLUE | /m/03d0cd8 ]]
+SUBJECT PATH: SUBJECT -> album -> is
+OBJECT  PATH: OBJECT -> album -> is
+album
+
+
+? Comparisons to the ENTITY1 or ENTITY2 are well-deserved; OBJECT definitely puts SUBJECT within their caliber.
+SUBJECT:	[[ ROBBERS ON HIGH STREET | /m/01q9bcn ]]
+OBJECT:	[[ TREE CITY | /m/01q9b9x ]]
+ENTITY1:	[[ BEATLES | /m/07c0j ]]
+ENTITY2:	[[ ROLLING STONES | /m/07mvp ]]
+SUBJECT PATH: SUBJECT -> puts
+OBJECT  PATH: OBJECT -> puts
+puts
+
+
+SUBJECT released OBJECT and appeared in the film, Hackers
+SUBJECT:	[[ MARC ANTHONY | /m/01wv9p ]]
+OBJECT:	[[ TODO A SU TIEMPO | /m/02rt1y9 ]]
+SUBJECT PATH: SUBJECT -> released
+OBJECT  PATH: OBJECT -> released
+released
+
+
+Produced by ENTITY1 ,   OBJECT   features more of SUBJECT 's dreamy vocals, majestic piano chords and introspective lyrics
+SUBJECT:	[[ RUFUS WAINWRIGHT | /m/02_t2t ]]
+OBJECT:	[[ WAITING FOR A WANT | /m/03gyn9y ]]
+ENTITY1:	[[ MARIUS DEVRIES | /m/0bv5sf5 ]]
+SUBJECT PATH: SUBJECT -> vocals -> of -> more -> features
+OBJECT  PATH: OBJECT -> features
+features
+
+
+OBJECT  is SUBJECT telling his own story through the same songs used by ENTITY1 .
+SUBJECT:	[[ RUFUS WAINWRIGHT | /m/02_t2t ]]
+OBJECT:	[[ RUFUS DOES JUDY AT CARNEGIE HALL | /m/03jh5l0 ]]
+ENTITY1:	[[ JUDY GARLAND | /m/0g10g ]]
+SUBJECT PATH: SUBJECT -> telling -> is
+OBJECT  PATH: OBJECT -> is
+is
+
+
+The SUBJECT playing   ENTITY1   off of the latest release   OBJECT  .
+SUBJECT:	[[ THE DILLINGER ESCAPE PLAN | /m/01sh40 ]]
+OBJECT:	[[ IRE WORKS | /m/03jgmtw ]]
+ENTITY1:	[[ MILK LIZARD | /m/03ns8qb ]]
+SUBJECT PATH: SUBJECT
+OBJECT  PATH: OBJECT -> release -> of -> off -> playing -> SUBJECT
+SUBJECT
+
+
+This song was one of 3 top 10 hit country singles from SUBJECT 's album OBJECT .
+SUBJECT:	[[ DOLLY PARTON | /m/02f1c ]]
+OBJECT:	[[ HEARTBREAK EXPRESS | /m/01h_8sw ]]
+SUBJECT PATH: SUBJECT -> OBJECT -> from -> singles -> of -> one -> was
+OBJECT  PATH: OBJECT -> from -> singles -> of -> one -> was
+OBJECT
+
+
+SUBJECT 's album   OBJECT   certified platinum 1992
+SUBJECT:	[[ DOLLY PARTON | /m/02f1c ]]
+OBJECT:	[[ EAGLE WHEN SHE FLIES | /m/01h_95g ]]
+SUBJECT PATH: SUBJECT -> album -> OBJECT
+OBJECT  PATH: OBJECT
+OBJECT
+
+
+Even better, ENTITY1 was paired with OBJECT , another SUBJECT classic that hasn?t seen release stateside.
+SUBJECT:	[[ DOLLY PARTON | /m/02f1c ]]
+OBJECT:	[[ JOSHUA | /m/03fzm4m ]]
+ENTITY1:	[[ COAT | /m/01xygc ]]
+SUBJECT PATH: SUBJECT -> classic -> OBJECT -> with -> paired
+OBJECT  PATH: OBJECT -> with -> paired
+OBJECT
+
+
+SUBJECT released OBJECT , his first all-acoustic studio recording as a leader since 1967, in 2003
+SUBJECT:	[[ WAYNE SHORTER | /m/01qdjm ]]
+OBJECT:	[[ ALEGRÍA | /m/01l6nxb ]]
+SUBJECT PATH: SUBJECT -> released
+OBJECT  PATH: OBJECT -> released
+released
+
+
+2. Mary Mary SUBJECT 's latest release, OBJECT , has made major moves on the Billboard charts.
+SUBJECT:	[[ MARY MARY | /m/01kq11t ]]
+OBJECT:	[[ THE SOUND | /m/0465gn7 ]]
+SUBJECT PATH: SUBJECT -> release -> made
+OBJECT  PATH: OBJECT -> release -> made
+release
+
+
+His former ENTITY1 bandmate SUBJECT released his 21st solo album,   OBJECT ,  earlier this month.
+SUBJECT:	[[ PAUL MCCARTNEY | /m/03j24kf ]]
+OBJECT:	[[ MEMORY ALMOST FULL | /m/03fzrym ]]
+ENTITY1:	[[ FAB FOUR | /m/07c0j ]]
+SUBJECT PATH: SUBJECT -> released
+OBJECT  PATH: OBJECT -> album -> released
+released
+
+
+Then SUBJECT flopped with   OBJECT    co-starring ENTITY1 in his first comedy attempt
+SUBJECT:	[[ DOLLY PARTON | /m/02f1c ]]
+OBJECT:	[[ RHINESTONE | /m/01f_fpk ]]
+ENTITY1:	[[ SYLVESTER STALLONE | /m/0gn30 ]]
+SUBJECT PATH: SUBJECT -> flopped
+OBJECT  PATH: OBJECT -> ENTITY1 -> with -> flopped
+flopped
+
+
+ENTITY1 used this scale on the SUBJECT modal track   OBJECT  :
+SUBJECT:	[[ WAYNE SHORTER | /m/01qdjm ]]
+OBJECT:	[[ JUJU | /m/01l6nn_ ]]
+ENTITY1:	[[ MCCOY TYNER | /m/02pbrn ]]
+SUBJECT PATH: SUBJECT -> modal -> track -> on -> used
+OBJECT  PATH: OBJECT -> used
+used
+
+
+SUBJECT 's album OBJECT was awarded a ENTITY1 for Best Latin/Tropical Performance .
+SUBJECT:	[[ MARC ANTHONY | /m/01wv9p ]]
+OBJECT:	[[ CONTRA LA CORRIENTE | /m/02rt256 ]]
+ENTITY1:	[[ GRAMMY | /m/08pbsb ]]
+SUBJECT PATH: SUBJECT -> OBJECT -> awarded
+OBJECT  PATH: OBJECT -> awarded
+OBJECT
+
+
+Also in 2003, Twain participated in the SUBJECT tribute album, OBJECT , covering SUBJECT ?s classic ? ENTITY1 ?
+SUBJECT:	[[ DOLLY PARTON | /m/02f1c ]]
+OBJECT:	[[ JUST BECAUSE I'M A WOMAN | /m/0d0m46 ]]
+ENTITY1:	[[ COAT OF MANY COLORS | /m/0270z55 ]]
+SUBJECT PATH: SUBJECT -> covering -> participated
+OBJECT  PATH: OBJECT -> album -> in -> participated
+participated
+
+
+SUBJECT and ENTITY1 sing OBJECT .
+SUBJECT:	[[ DOLLY PARTON | /m/02f1c ]]
+OBJECT:	[[ ONCE UPON A CHRISTMAS | /m/01p9gyr ]]
+ENTITY1:	[[ KENNY ROGERS | /m/01n8gr ]]
+SUBJECT PATH: SUBJECT -> sing
+OBJECT  PATH: OBJECT -> sing
+sing
+
+
+In 1989, SUBJECT returned to ENTITY1 and the resulting album was OBJECT 
+SUBJECT:	[[ DOLLY PARTON | /m/02f1c ]]
+OBJECT:	[[ WHITE LIMOZEEN | /m/01h_bz0 ]]
+ENTITY1:	[[ NASHVILLE | /m/05jbn ]]
+SUBJECT PATH: SUBJECT -> returned
+OBJECT  PATH: OBJECT -> was -> returned
+returned
+
+
+Just like many ENTITY1 , ENTITY2 came to me via SUBJECT ?s album OBJECT 
+SUBJECT:	[[ WAYNE SHORTER | /m/01qdjm ]]
+OBJECT:	[[ NATIVE DANCER | /m/02x5p_7 ]]
+ENTITY1:	[[ AMERICANS | /m/09c7w0 ]]
+ENTITY2:	[[ MILTON | /m/01l_yj8 ]]
+SUBJECT PATH: SUBJECT -> via -> came
+OBJECT  PATH: OBJECT
+-None-
+
+
+ENTITY1 reviews SUBJECT 's   OBJECT   CD
+SUBJECT:	[[ DOLLY PARTON | /m/02f1c ]]
+OBJECT:	[[ MY TENNESSEE MOUNTAIN HOME | /m/0f1t5p0 ]]
+ENTITY1:	[[ JOLENE | /m/01h_9n1 ]]
+SUBJECT PATH: SUBJECT -> CD -> reviews
+OBJECT  PATH: OBJECT -> CD -> reviews
+CD
+
+
+SUBJECT 's ENTITY1 pop album, OBJECT shared a song set list with its salsa-flavored sister collection, ENTITY2 
+SUBJECT:	[[ MARC ANTHONY | /m/01wv9p ]]
+OBJECT:	[[ AMAR SIN MENTIRAS | /m/03fzn16 ]]
+ENTITY1:	[[ SPANISH-LANGUAGE | /m/06nm1 ]]
+ENTITY2:	[[ VALIÓ LA PENA | /m/02752c_ ]]
+SUBJECT PATH: SUBJECT -> album -> shared
+OBJECT  PATH: OBJECT -> shared
+shared
+
+
+I am looking for an big anthem song and I have fallen for SUBJECT 's version of OBJECT .
+SUBJECT:	[[ DOLLY PARTON | /m/02f1c ]]
+OBJECT:	[[ PEACE TRAIN | /m/0fg6ycf ]]
+SUBJECT PATH: SUBJECT -> version -> for -> fallen
+OBJECT  PATH: OBJECT -> of -> version -> for -> fallen
+version
+
+
+Did you know that ENTITY1 did a cover of SUBJECT ?s ? OBJECT ? on his last ENTITY2
+SUBJECT:	[[ DOLLY PARTON | /m/02f1c ]]
+OBJECT:	[[ HERE YOU COME AGAIN | /m/03fzm4d ]]
+ENTITY1:	[[ CLAY AIKEN | /m/01y3qy ]]
+ENTITY2:	[[ CD | /m/01www ]]
+SUBJECT PATH: SUBJECT -> of -> cover -> did -> know
+OBJECT  PATH: OBJECT
+-None-
+
+
+SUBJECT has some diversity on OBJECT .
+SUBJECT:	[[ GRINSPOON | /m/02qvmr ]]
+OBJECT:	[[ GUIDE TO BETTER LIVING | /m/01m9451 ]]
+SUBJECT PATH: SUBJECT -> has
+OBJECT  PATH: OBJECT -> on -> diversity -> has
+has
+
+
+Lyrics of OBJECT sung by SUBJECT
+SUBJECT:	[[ GRINSPOON | /m/02qvmr ]]
+OBJECT:	[[ REPEAT | /m/01m94bx ]]
+SUBJECT PATH: SUBJECT -> by -> sung -> Lyrics
+OBJECT  PATH: OBJECT -> of -> Lyrics
+Lyrics
+
+
+Just A Little Lovin' finds ENTITY1 taking on songs from SUBJECT 's 1969 classic, OBJECT 
+SUBJECT:	[[ DUSTY SPRINGFIELD | /m/012x86 ]]
+OBJECT:	[[ DUSTY IN MEMPHIS PLUS | /m/01h86sf ]]
+ENTITY1:	[[ LYNNE | /m/0518dk ]]
+SUBJECT PATH: SUBJECT -> classic -> from -> songs -> taking -> finds
+OBJECT  PATH: OBJECT -> classic -> from -> songs -> taking -> finds
+classic
+
+
+SUBJECT 's new album, OBJECT , will be released on ENTITY1 on September 23
+SUBJECT:	[[ RUFUS WAINWRIGHT | /m/02_t2t ]]
+OBJECT:	[[ WANT ONE | /m/01lbmh2 ]]
+ENTITY1:	[[ DREAMWORKS | /m/01gb54 ]]
+SUBJECT PATH: SUBJECT -> album -> released
+OBJECT  PATH: OBJECT -> album -> released
+album
+
+
+In 1994 SUBJECT 's first single   OBJECT   aired on ENTITY1 's 120 minutes
+SUBJECT:	[[ ANGELFISH | /m/02rswj ]]
+OBJECT:	[[ SUFFOCATE ME | /m/04cwz27 ]]
+ENTITY1:	[[ MTV | /m/04rqd ]]
+SUBJECT PATH: SUBJECT -> OBJECT -> aired
+OBJECT  PATH: OBJECT -> aired
+OBJECT
+
+
+Lyrics of OBJECT sung by SUBJECT
+SUBJECT:	[[ DISHWALLA | /m/02pzqc ]]
+OBJECT:	[[ OPALINE | /m/01jcw66 ]]
+SUBJECT PATH: SUBJECT -> by -> sung -> Lyrics
+OBJECT  PATH: OBJECT -> of -> Lyrics
+Lyrics
+
+
++++++++++++++++++++ Looking for SUBJECT 's ablums OBJECT and A Bluegrass Tribute +++++++++++++ TIA!!!!
+SUBJECT:	[[ DOLLY PARTON | /m/02f1c ]]
+OBJECT:	[[ HALOS & HORNS | /m/01h_b8v ]]
+SUBJECT PATH: SUBJECT -> OBJECT -> for -> Looking
+OBJECT  PATH: OBJECT -> for -> Looking
+OBJECT
+
+
+In 1994 SUBJECT formed SUBJECT 's OBJECT , paying homage to ENTITY1 
+SUBJECT:	[[ MARTIN TAYLOR | /m/031jd_ ]]
+OBJECT:	[[ LAST TRAIN TO HAUTVILLE | /m/01m9jb6 ]]
+ENTITY1:	[[ DJANGO REINHARDT | /m/02hcs ]]
+SUBJECT PATH: SUBJECT -> OBJECT -> formed
+OBJECT  PATH: OBJECT -> formed
+OBJECT
+
+
+, but SUBJECT boldly abandoned the ENTITY1 paradigm on OBJECT 
+SUBJECT:	[[ WAYNE SHORTER | /m/01qdjm ]]
+OBJECT:	[[ SPEAK NO EVIL | /m/01l6p18 ]]
+ENTITY1:	[[ COLTRANE | /m/0f0y8 ]]
+SUBJECT PATH: SUBJECT -> abandoned
+OBJECT  PATH: OBJECT -> on -> paradigm -> abandoned
+abandoned
+
+
+In January 1999, ENTITY1 released OBJECT with SUBJECT and ENTITY2 
+SUBJECT:	[[ DOLLY PARTON | /m/02f1c ]]
+OBJECT:	[[ TRIO II | /m/09gss7 ]]
+ENTITY1:	[[ HARRIS | /m/0x3b7 ]]
+ENTITY2:	[[ RONSTADT | /m/015882 ]]
+SUBJECT PATH: SUBJECT -> with -> OBJECT -> released
+OBJECT  PATH: OBJECT -> released
+OBJECT
+
+
+SUBJECT plays the SUBJECT 'Artistry' 003 while friend Ernie tries out the prototype ' OBJECT '.
+SUBJECT:	[[ MARTIN TAYLOR | /m/031jd_ ]]
+OBJECT:	[[ GYPSY | /m/01m3zc0 ]]
+SUBJECT PATH: SUBJECT -> Artistry -> plays
+OBJECT  PATH: OBJECT -> tries -> plays
+plays
+
+
+In mid-2005, ENTITY1 played guitar for the SUBJECT album, OBJECT , on her version of his   ENTITY2  
+SUBJECT:	[[ DOLLY PARTON | /m/02f1c ]]
+OBJECT:	[[ THOSE WERE THE DAYS | /m/02qm8bc ]]
+ENTITY1:	[[ YUSUF ISLAM | /m/0kj34 ]]
+ENTITY2:	[[ WHERE DO THE CHILDREN PLAY | /m/0dq3vfk ]]
+SUBJECT PATH: SUBJECT -> album -> for -> played
+OBJECT  PATH: OBJECT -> album -> for -> played
+album
+
+
+OBJECT 's title song is a co-write with SUBJECT 's close creative comrade, ENTITY1 .
+SUBJECT:	[[ STEPHEN FEARING | /m/02hymb ]]
+OBJECT:	[[ YELLOWJACKET | /m/0fvjjlr ]]
+ENTITY1:	[[ TOM WILSON | /m/01nhnpl ]]
+SUBJECT PATH: SUBJECT -> comrade -> with -> write -> is
+OBJECT  PATH: OBJECT -> song -> is
+is
+
+
+In 1987, along with ENTITY1 and ENTITY2 , SUBJECT released the decade-in-the-making OBJECT album to critical acclaim 
+SUBJECT:	[[ DOLLY PARTON | /m/02f1c ]]
+OBJECT:	[[ TRIO | /m/06kz43 ]]
+ENTITY1:	[[ EMMYLOU HARRIS | /m/0x3b7 ]]
+ENTITY2:	[[ LINDA RONSTADT | /m/015882 ]]
+SUBJECT PATH: SUBJECT -> released
+OBJECT  PATH: OBJECT -> album -> released
+released
+
+
+*I'm also still upset about SUBJECT not getting the ENTITY1 for   OBJECT  
+SUBJECT:	[[ DOLLY PARTON | /m/02f1c ]]
+OBJECT:	[[ TRAVELIN' THRU | /m/0hmv3zx ]]
+ENTITY1:	[[ OSCAR | /m/0g_w ]]
+SUBJECT PATH: SUBJECT -> about -> upset -> 'm
+OBJECT  PATH: OBJECT -> for -> getting -> 'm
+'m
+
+
+OBJECT is a 2004 album for ENTITY1 singer-songwriter SUBJECT , the stage name of SUBJECT .
+SUBJECT:	[[ FIVE FOR FIGHTING | /m/030l_d ]]
+OBJECT:	[[ THE BATTLE FOR EVERYTHING | /m/0bfby55 ]]
+ENTITY1:	[[ UNITED STATES | /m/09c7w0 ]]
+SUBJECT PATH: SUBJECT -> of -> name -> album -> is
+OBJECT  PATH: OBJECT -> is
+is
+
+
+En 2002, SUBJECT sort son deuxi?me album, OBJECT 
+SUBJECT:	[[ KEREN ANN | /m/03_lt6 ]]
+OBJECT:	[[ LA DISPARITION | /m/04jj__p ]]
+SUBJECT PATH: SUBJECT -> son -> album
+OBJECT  PATH: OBJECT -> album
+album
+
+
+In 1997, SUBJECT would follow up ENTITY1 with another stand-up spectacular called OBJECT 
+SUBJECT:	[[ DENIS LEARY | /m/02g8h ]]
+OBJECT:	[[ LOCK 'N LOAD | /m/03ks4c ]]
+ENTITY1:	[[ NO CURE FOR CANCER | /m/03kpyy ]]
+SUBJECT PATH: SUBJECT -> follow
+OBJECT  PATH: OBJECT -> called -> spectacular -> with -> follow
+follow
+
+
+OBJECT is the fourth album by ENTITY1 - ENTITY2 singer-songwriter SUBJECT .
+SUBJECT:	[[ RUFUS WAINWRIGHT | /m/02_t2t ]]
+OBJECT:	[[ WANT TWO | /m/01lbm6w ]]
+ENTITY1:	[[ AMERICAN | /m/09c7w0 ]]
+ENTITY2:	[[ CANADIAN | /m/0d060g ]]
+SUBJECT PATH: SUBJECT -> by -> album -> is
+OBJECT  PATH: OBJECT -> is
+is
+
+
+Until then, only metalcore completists will need to check out SUBJECT ?s debut album OBJECT .
+SUBJECT:	[[ FOREVER IN TERROR | /m/03f0dvh ]]
+OBJECT:	[[ RESTLESS IN THE TIDES | /m/03gbfmz ]]
+SUBJECT PATH: SUBJECT -> check -> need
+OBJECT  PATH: OBJECT
+-None-
+
+
+The first song is called  Stoffig Stuk  and is basicly ENTITY1 re-interpreting the infamous   OBJECT   by SUBJECT .
+SUBJECT:	[[ MACHINEFABRIEK | /m/03f4t8z ]]
+OBJECT:	[[ STOFSTUK | /m/03g73y7 ]]
+ENTITY1:	[[ WOUTER | /m/01rrfhg ]]
+SUBJECT PATH: SUBJECT -> by -> interpreting -> called
+OBJECT  PATH: OBJECT -> interpreting -> called
+interpreting
+
+
+SUBJECT makes the music on OBJECT sound like they've played it?for centuries but only wrote the songs yesterday
+SUBJECT:	[[ LA BANDE FEUFOLLET | /m/03f23rl ]]
+OBJECT:	[[ COW ISLAND HOP | /m/0fhgvyg ]]
+SUBJECT PATH: SUBJECT -> makes
+OBJECT  PATH: OBJECT -> sound -> on -> music -> played -> makes
+makes
+
+
+SUBJECT ?s new album, OBJECT , will be released later than the previously reported date, Tuesday, February 5.? SUBJECT
+SUBJECT:	[[ DOLLY PARTON | /m/02f1c ]]
+OBJECT:	[[ BACKWOODS BARBIE | /m/0f04vwh ]]
+SUBJECT PATH: SUBJECT
+OBJECT  PATH: OBJECT -> album -> released
+-None-
+
+
+These would feature on SUBJECT 's acclaimed debut album,   OBJECT  
+SUBJECT:	[[ KEREN ANN | /m/03_lt6 ]]
+OBJECT:	[[ LA BIOGRAPHIE DE LUKA PHILIPSEN | /m/04jcc7m ]]
+SUBJECT PATH: SUBJECT -> album -> on -> feature
+OBJECT  PATH: OBJECT -> album -> on -> feature
+album
+
+
+With that said, look out for SUBJECT 's new album   OBJECT   on January 7, 2009
+SUBJECT:	[[ GIRLS' GENERATION | /m/02v_j9n ]]
+OBJECT:	[[ GEE | /m/0frln50 ]]
+SUBJECT PATH: SUBJECT -> OBJECT -> for -> look -> said
+OBJECT  PATH: OBJECT -> for -> look -> said
+OBJECT
+
+
+In 1984, the ENTITY1 assisted SUBJECT album OBJECT was released
+SUBJECT:	[[ JOHN MARTYN | /m/03j35gp ]]
+OBJECT:	[[ SAPPHIRE | /m/02rg012 ]]
+ENTITY1:	[[ ROBERT PALMER | /m/01wbz9 ]]
+SUBJECT PATH: SUBJECT -> OBJECT -> released -> assisted
+OBJECT  PATH: OBJECT -> released -> assisted
+OBJECT
+
+
+SUBJECT 's first solo album OBJECT was produced by ENTITY1 , and released by ENTITY2 in 1999
+SUBJECT:	[[ REID PALEY | /m/03qcxgw ]]
+OBJECT:	[[ LUCKY'S TUNE | /m/023l2sk ]]
+ENTITY1:	[[ FRANK BLACK | /m/01vt8h_ ]]
+ENTITY2:	[[ GOODNOISE | /m/02_0b8 ]]
+SUBJECT PATH: SUBJECT -> OBJECT -> produced
+OBJECT  PATH: OBJECT -> produced
+OBJECT
+
+
+, SUBJECT ?s atypical jazz-flute album OBJECT , ENTITY1 and the jazz-folk stylings of Robin Dransfield.
+SUBJECT:	[[ JOHN MARTYN | /m/03j35gp ]]
+OBJECT:	[[ THE TUMBLER | /m/01jtbwg ]]
+ENTITY1:	[[ BERT JANSCH | /m/03d71f ]]
+SUBJECT PATH: SUBJECT
+OBJECT  PATH: OBJECT -> s
+-None-
+
+
+He also produced the album OBJECT  by ENTITY1 singer-songwriter  SUBJECT 
+SUBJECT:	[[ REID PALEY | /m/03qcxgw ]]
+OBJECT:	[[ REVIVAL | /m/023l2xg ]]
+ENTITY1:	[[ BROOKLYN | /m/0cr3d ]]
+SUBJECT PATH: SUBJECT -> by -> produced
+OBJECT  PATH: OBJECT -> produced
+produced
+
+
+En dag som denna sä tter man på OBJECT med SUBJECT på hö g volym
+SUBJECT:	[[ DENIS LEARY | /m/02g8h ]]
+OBJECT:	[[ ASSHOLE | /m/01jkfbk ]]
+SUBJECT PATH: SUBJECT -> volym
+OBJECT  PATH: OBJECT
+-None-
+
+
+In addition, he played on SUBJECT ?s recording,   OBJECT   and ENTITY1 ?s  I ENTITY2 n?t Got You.
+SUBJECT:	[[ BO DIDDLEY | /m/01vtg4q ]]
+OBJECT:	[[ WHO DO YOU LOVE | /m/01k0_9b ]]
+ENTITY1:	[[ BILLY BOY ARNOLD | /m/01lmpy_ ]]
+ENTITY2:	[[ AI | /m/0mkz ]]
+SUBJECT PATH: SUBJECT -> on -> played
+OBJECT  PATH: OBJECT -> recording
+-None-
+
+
+OBJECT is SUBJECT ' record dedicated to the city of ENTITY1 
+SUBJECT:	[[ MADREDEUS | /m/03tlq2 ]]
+OBJECT:	[[ AINDA | /m/01kzh11 ]]
+ENTITY1:	[[ LISBON | /m/04llb ]]
+SUBJECT PATH: SUBJECT -> record -> is
+OBJECT  PATH: OBJECT -> is
+is
+
+
+OBJECT is produced by SUBJECT and ENTITY1 .
+SUBJECT:	[[ MAHINĀRANGI TOCKER | /m/0412vzb ]]
+OBJECT:	[[ HEI HA! | /m/026g58_ ]]
+ENTITY1:	[[ BRUCE LYNCH | /m/02z232p ]]
+SUBJECT PATH: SUBJECT -> by -> produced
+OBJECT  PATH: OBJECT -> produced
+produced
+
+
+At the time SUBJECT explained that OBJECT was all about the concept of love...
+SUBJECT:	[[ JOHN MARTYN | /m/03j35gp ]]
+OBJECT:	[[ INSIDE OUT | /m/01jtbpv ]]
+SUBJECT PATH: SUBJECT -> explained
+OBJECT  PATH: OBJECT -> was -> explained
+explained
+
+
+  ENTITY1   can be found on SUBJECT 's second album, OBJECT 
+SUBJECT:	[[ FIVE FOR FIGHTING | /m/030l_d ]]
+OBJECT:	[[ AMERICA TOWN | /m/01l5dbh ]]
+ENTITY1:	[[ SUPERMAN | /m/0d1xs7 ]]
+SUBJECT PATH: SUBJECT -> album -> on -> found
+OBJECT  PATH: OBJECT -> album -> on -> found
+album
+
+
+OBJECT includes a cover of ENTITY1 s Don t Think Twice, Its Alright which SUBJECT does brilliantly.
+SUBJECT:	[[ JOHN MARTYN | /m/03j35gp ]]
+OBJECT:	[[ LONDON CONVERSATION | /m/01jtb5g ]]
+ENTITY1:	[[ BOB DYLAN | /m/01vrncs ]]
+SUBJECT PATH: SUBJECT -> does -> Alright
+OBJECT  PATH: OBJECT -> includes
+-None-
+
+
+Use the PC infrastructure OBJECT , SUBJECT Shows no sign of OBJECT , ...
+SUBJECT:	[[ SASH! | /m/049xsk ]]
+OBJECT:	[[ LIFE GOES ON | /m/02pgzfp ]]
+SUBJECT PATH: SUBJECT -> Shows
+OBJECT  PATH: OBJECT -> of -> sign -> Shows
+Shows
+
+
+There is a distinctly cinematic quality to the pieces that make up SUBJECT excellent work, OBJECT .
+SUBJECT:	[[ MARKUS REUTER | /m/0412w0d ]]
+OBJECT:	[[ TREPANATION | /m/03g6cwt ]]
+SUBJECT PATH: SUBJECT -> work -> make -> pieces -> to -> quality -> is
+OBJECT  PATH: OBJECT -> work -> make -> pieces -> to -> quality -> is
+work
+
+
+Starting in 1989, SUBJECT released a string of bebop and neo-bop albums, starting with the ENTITY1 release OBJECT 
+SUBJECT:	[[ ROY HARGROVE | /m/04l5p4 ]]
+OBJECT:	[[ DIAMOND IN THE ROUGH | /m/01mhcg2 ]]
+ENTITY1:	[[ NOVUS | /m/0661n9f ]]
+SUBJECT PATH: SUBJECT -> released
+OBJECT  PATH: OBJECT -> starting -> released
+released
+
+
+In 1997, SUBJECT s ENTITY1 -based band Crisol  won the Best Latin Jazz Performance Grammy for the album OBJECT 
+SUBJECT:	[[ ROY HARGROVE | /m/04l5p4 ]]
+OBJECT:	[[ HABANA | /m/01mlb8g ]]
+ENTITY1:	[[ CUBAN | /m/0d04z6 ]]
+SUBJECT PATH: SUBJECT -> band -> won
+OBJECT  PATH: OBJECT -> for -> won
+won
+
+
+ENTITY1 follows SUBJECT ?s 2001 debut of ENTITY2 , and his second album OBJECT , released in 2004
+SUBJECT:	[[ JEREMY FISHER | /m/055lsg ]]
+OBJECT:	[[ LET IT SHINE | /m/02rr47g ]]
+ENTITY1:	[[ GOODBYE BLUE MONDAY | /m/03j9xbp ]]
+ENTITY2:	[[ BACK PORCH SPIRITUALS | /m/02rr69l ]]
+SUBJECT PATH: SUBJECT -> follows
+OBJECT  PATH: OBJECT -> debut
+-None-
+
+
+SUBJECT is the recording name for ENTITY1 singer/songwriter SUBJECT , who released his fourth album, OBJECT , today.
+SUBJECT:	[[ GENTLEMAN REG | /m/04rgyn ]]
+OBJECT:	[[ JET BLACK | /m/0dp61z9 ]]
+ENTITY1:	[[ CANADIAN | /m/0d060g ]]
+SUBJECT PATH: SUBJECT -> for -> name -> is
+OBJECT  PATH: OBJECT -> album -> released -> SUBJECT -> for -> name -> is
+SUBJECT
+
+
+ENTITY1 will have 4 songs on the upcoming SUBJECT record   OBJECT   on ENTITY2 .
+SUBJECT:	[[ DJ COLETTE | /m/03gt27q ]]
+OBJECT:	[[ HYPNOTIZED | /m/01rljqr ]]
+ENTITY1:	[[ HOME & GARDEN | /m/01tyttp ]]
+ENTITY2:	[[ OM RECORDS | /m/092wcs ]]
+SUBJECT PATH: SUBJECT -> record -> on -> songs -> have
+OBJECT  PATH: OBJECT -> on -> songs -> have
+on
+
+
+ENTITY1 played the drums on SUBJECT 's OBJECT .
+SUBJECT:	[[ KEITH MOON | /m/04bgy ]]
+OBJECT:	[[ TWO SIDES OF THE MOON | /m/01q13hs ]]
+ENTITY1:	[[ FERRER | /m/0h8hk ]]
+SUBJECT PATH: SUBJECT -> OBJECT -> on -> played
+OBJECT  PATH: OBJECT -> on -> played
+OBJECT
+
+
+ENTITY1 played on SUBJECT 's 1980 album ENTITY2 and 1981's OBJECT 
+SUBJECT:	[[ JOHN MARTYN | /m/03j35gp ]]
+OBJECT:	[[ GLORIOUS FOOL | /m/01jtcb3 ]]
+ENTITY1:	[[ COLLINS | /m/0140t7 ]]
+ENTITY2:	[[ GRACE AND DANGER | /m/01jtbgh ]]
+SUBJECT PATH: SUBJECT -> ENTITY2 -> on -> played
+OBJECT  PATH: OBJECT -> ENTITY2 -> on -> played
+ENTITY2
+
+
+Next out of the chute from SUBJECT is   ENTITY1 ,  the follow-up to   OBJECT   
+SUBJECT:	[[ JIM BRICKMAN | /m/059h8y ]]
+OBJECT:	[[ PICTURE THIS | /m/01lygyj ]]
+ENTITY1:	[[ THE GIFT | /m/06jpnyj ]]
+SUBJECT PATH: SUBJECT -> from -> chute -> of -> out -> is
+OBJECT  PATH: OBJECT -> is
+is
+
+
+ENTITY1 played on SUBJECT 's 1980 album OBJECT and 1981's ENTITY2 
+SUBJECT:	[[ JOHN MARTYN | /m/03j35gp ]]
+OBJECT:	[[ GRACE AND DANGER | /m/01jtbgh ]]
+ENTITY1:	[[ COLLINS | /m/0140t7 ]]
+ENTITY2:	[[ GLORIOUS FOOL | /m/01jtcb3 ]]
+SUBJECT PATH: SUBJECT -> OBJECT -> on -> played
+OBJECT  PATH: OBJECT -> on -> played
+OBJECT
+
+
+On Tuesday's   ENTITY1 ,  ENTITY2 wowed the judges and the audience with his rendition of SUBJECT s  OBJECT .
+SUBJECT:	[[ DOLLY PARTON | /m/02f1c ]]
+OBJECT:	[[ LITTLE SPARROW | /m/01h_c8v ]]
+ENTITY1:	[[ AMERICAN IDOL | /m/01b7h8 ]]
+ENTITY2:	[[ DAVID COOK | /m/03w9hl_ ]]
+SUBJECT PATH: SUBJECT -> OBJECT -> of -> rendition -> with -> wowed
+OBJECT  PATH: OBJECT -> of -> rendition -> with -> wowed
+OBJECT
+
+
+SUBJECT 's new single,  Coming Home from Christmas  from his latest album, OBJECT features ENTITY1 of Lo...
+SUBJECT:	[[ JIM BRICKMAN | /m/059h8y ]]
+OBJECT:	[[ HOMECOMING | /m/0dvyz6m ]]
+ENTITY1:	[[ RICHIE MCDONALD | /m/049f5_7 ]]
+SUBJECT PATH: SUBJECT -> single -> features
+OBJECT  PATH: OBJECT -> features
+features
+
+
+  OBJECT   introduced the original solo piano sounds of SUBJECT to ENTITY1 and the world
+SUBJECT:	[[ JIM BRICKMAN | /m/059h8y ]]
+OBJECT:	[[ NO WORDS | /m/01lyh5g ]]
+ENTITY1:	[[ ADULT CONTEMPORARY RADIO | /m/02vjzr ]]
+SUBJECT PATH: SUBJECT -> of -> sounds -> introduced
+OBJECT  PATH: OBJECT -> introduced
+introduced
+
+
+ENTITY1 were originally OBJECT , until ex-Kraftwerk man SUBJECT threatened to sue
+SUBJECT:	[[ KARL BARTOS | /m/05_dzt ]]
+OBJECT:	[[ ELECTRIC MUSIC | /m/03cnbl9 ]]
+ENTITY1:	[[ ELECTRIC MUSIC AKA | /m/03f4ckq ]]
+SUBJECT PATH: SUBJECT -> man -> threatened -> were
+OBJECT  PATH: OBJECT -> were
+were
+
+
+OBJECT is an album by SUBJECT , first released in 2000 independently and re-released in 2002 by ENTITY1 .
+SUBJECT:	[[ HOWIE DAY | /m/04y00n ]]
+OBJECT:	[[ AUSTRALIA | /m/01l_3l2 ]]
+ENTITY1:	[[ EPIC RECORDS | /m/033hn8 ]]
+SUBJECT PATH: SUBJECT -> by -> album -> is
+OBJECT  PATH: OBJECT -> is
+is
+
+
+album from 2006 to 2005 since it was released earlier on the SUBJECT album, OBJECT 
+SUBJECT:	[[ G4 | /m/05fy73 ]]
+OBJECT:	[[ G4 & FRIENDS | /m/02q8_g5 ]]
+SUBJECT PATH: SUBJECT -> album -> on -> released -> album
+OBJECT  PATH: OBJECT -> album -> on -> released -> album
+album
+
+
+SUBJECT 's new album, OBJECT , is released tomorrow and includes the track ENTITY1 which they sing with Stephen
+SUBJECT:	[[ G4 | /m/05fy73 ]]
+OBJECT:	[[ ACT THREE | /m/03g5jzv ]]
+ENTITY1:	[[ NO MATTER WHAT | /m/0dzjrp4 ]]
+SUBJECT PATH: SUBJECT -> album -> released
+OBJECT  PATH: OBJECT -> album -> released
+album
+
+
+ENTITY1 follows SUBJECT ?s 2001 debut of OBJECT , and his second album ENTITY2 , released in 2004
+SUBJECT:	[[ JEREMY FISHER | /m/055lsg ]]
+OBJECT:	[[ BACK PORCH SPIRITUALS | /m/02rr69l ]]
+ENTITY1:	[[ GOODBYE BLUE MONDAY | /m/03j9xbp ]]
+ENTITY2:	[[ LET IT SHINE | /m/02rr47g ]]
+SUBJECT PATH: SUBJECT -> follows
+OBJECT  PATH: OBJECT -> of -> debut
+-None-
+
+
+ENTITY1 was   OBJECT   by something called SUBJECT , of which it was said  their new album . . .
+SUBJECT:	[[ ZERO 7 | /m/05jy74 ]]
+OBJECT:	[[ THROW IT ALL AWAY | /m/01lb88y ]]
+ENTITY1:	[[ NEXT | /m/01j0lvl ]]
+SUBJECT PATH: SUBJECT -> called -> something -> by -> was
+OBJECT  PATH: OBJECT -> was
+was
+
+
+The SUBJECT ft ENTITY1 @ Nitsa barcelona 07/02/09 Track : Bloody Beetroots ft ENTITY1 - OBJECT !
+SUBJECT:	[[ THE BLOODY BEETROOTS | /m/05mzz92 ]]
+OBJECT:	[[ WARP | /m/0d_d9c7 ]]
+ENTITY1:	[[ STEVE AOKI | /m/03xnp8n ]]
+SUBJECT PATH: SUBJECT -> ENTITY1
+OBJECT  PATH: OBJECT -> Track
+-None-
+
+
+For a band that that thrived on focus, OBJECT sees SUBJECT at the proverbial crossroads
+SUBJECT:	[[ PUBLIC ENEMY | /m/05qbq ]]
+OBJECT:	[[ NEW WHIRL ODOR | /m/03fzf5r ]]
+SUBJECT PATH: SUBJECT -> sees
+OBJECT  PATH: OBJECT -> sees
+sees
+
+
+And of course SUBJECT 's less-overdone albums like OBJECT  fit this aesthetic perfectly
+SUBJECT:	[[ LEE HAZLEWOOD | /m/05hbdy ]]
+OBJECT:	[[ REQUIEM FOR AN ALMOST LADY | /m/02wwtbf ]]
+SUBJECT PATH: SUBJECT -> albums -> fit
+OBJECT  PATH: OBJECT -> like -> albums -> fit
+albums
+
+
+SUBJECT unites OBJECT with this new double-disc compilation
+SUBJECT:	[[ JOHN MARTYN | /m/03j35gp ]]
+OBJECT:	[[ ONE WORLD | /m/01jtbvm ]]
+SUBJECT PATH: SUBJECT -> unites
+OBJECT  PATH: OBJECT -> unites
+unites
+
+
+SUBJECT ?s songs   OBJECT   and   ENTITY1   have been adopted as new holiday favorites
+SUBJECT:	[[ JIM BRICKMAN | /m/059h8y ]]
+OBJECT:	[[ VALENTINE | /m/01lyh1_ ]]
+ENTITY1:	[[ THE GIFT | /m/06jpnyj ]]
+SUBJECT PATH: SUBJECT
+OBJECT  PATH: OBJECT -> songs -> adopted
+-None-
+
+
+to air SUBJECT 's video for   OBJECT  .
+SUBJECT:	[[ PUBLIC ENEMY | /m/05qbq ]]
+OBJECT:	[[ HAZY SHADE OF CRIMINAL | /m/01hns8n ]]
+SUBJECT PATH: SUBJECT -> video -> air
+OBJECT  PATH: OBJECT -> for -> video -> air
+video
+
+
+The song   OBJECT   is taught in SUBJECT 's instructional DVD  Speed Lives 2  http://www.metalmethod.com/lead-guitar-lesson-speed-lives-2.ht
+SUBJECT:	[[ MICHAEL ANGELO BATIO | /m/04qs__ ]]
+OBJECT:	[[ HANDS WITHOUT SHADOWS | /m/01s5syg ]]
+SUBJECT PATH: SUBJECT -> Speed -> in -> taught
+OBJECT  PATH: OBJECT -> song -> taught
+taught
+
+
+And SUBJECT s OBJECT is our featured album.
+SUBJECT:	[[ LEE HAZLEWOOD | /m/05hbdy ]]
+OBJECT:	[[ CAKE OR DEATH | /m/03g1s8f ]]
+SUBJECT PATH: SUBJECT -> OBJECT -> is
+OBJECT  PATH: OBJECT -> is
+OBJECT
+
+
+The OBJECT marks the second collaboration between SUBJECT and ENTITY1 
+SUBJECT:	[[ PUBLIC ENEMY | /m/05qbq ]]
+OBJECT:	[[ HE GOT GAME | /m/01hnrs0 ]]
+ENTITY1:	[[ SPIKE LEE | /m/06pjs ]]
+SUBJECT PATH: SUBJECT -> between -> collaboration -> marks
+OBJECT  PATH: OBJECT -> marks
+marks
+
+
+Each new track on OBJECT individually displays a different element of the SUBJECT sound.
+SUBJECT:	[[ BOYSETSFIRE | /m/05sldf ]]
+OBJECT:	[[ LIVE FOR TODAY | /m/0csc1x ]]
+SUBJECT PATH: SUBJECT -> sound -> of -> element -> displays
+OBJECT  PATH: OBJECT -> on -> track -> displays
+displays
+
+
+After having released 3 critically acclaimed albums, SUBJECT came with OBJECT .
+SUBJECT:	[[ PUBLIC ENEMY | /m/05qbq ]]
+OBJECT:	[[ APOCALYPSE 91… THE ENEMY STRIKES BLACK | /m/0454g0 ]]
+SUBJECT PATH: SUBJECT -> came
+OBJECT  PATH: OBJECT -> with -> came
+came
+
+
+Implicit in   OBJECT   is SUBJECT 's admonition to rappers to join in struggle with their communities
+SUBJECT:	[[ PUBLIC ENEMY | /m/05qbq ]]
+OBJECT:	[[ SHUT EM DOWN | /m/01hns3f ]]
+SUBJECT PATH: SUBJECT -> admonition -> is
+OBJECT  PATH: OBJECT -> in -> Implicit -> is
+is
+
+
+ENTITY1 's remix of SUBJECT 's   OBJECT   became the 100 millionth song downloaded through the ENTITY2 on July 11th
+SUBJECT:	[[ ZERO 7 | /m/05jy74 ]]
+OBJECT:	[[ SOMERSAULT | /m/01lb7v9 ]]
+ENTITY1:	[[ DANGER MOUSE | /m/01w806h ]]
+ENTITY2:	[[ ITUNES MUSIC STORE | /m/01fyz1 ]]
+SUBJECT PATH: SUBJECT -> OBJECT -> of -> remix -> became
+OBJECT  PATH: OBJECT -> of -> remix -> became
+OBJECT
+
+
+[2] She did bakcround vocals on SUBJECT album, OBJECT , that year
+SUBJECT:	[[ PATTY LOVELESS | /m/05sq0m ]]
+OBJECT:	[[ STRONG HEART | /m/01lv9sl ]]
+SUBJECT PATH: SUBJECT -> album -> on -> vocals -> did
+OBJECT  PATH: OBJECT -> album -> on -> vocals -> did
+album
+
+
+1. SUBJECT 's OBJECT is an ENTITY1 download for $9.90.
+SUBJECT:	[[ PAUL DESMOND | /m/060x3 ]]
+OBJECT:	[[ BRIDGE OVER TROUBLED WATER | /m/0h7n2p5 ]]
+ENTITY1:	[[ ITUNES | /m/019g58 ]]
+SUBJECT PATH: SUBJECT -> OBJECT -> is
+OBJECT  PATH: OBJECT -> is
+OBJECT
+
+
+SUBJECT 's last album   OBJECT   does come to mind, a disc mostly ignored by the country community.
+SUBJECT:	[[ PATTY LOVELESS | /m/05sq0m ]]
+OBJECT:	[[ DREAMIN' MY DREAMS | /m/01lv9cc ]]
+SUBJECT PATH: SUBJECT -> album -> come
+OBJECT  PATH: OBJECT -> album -> come
+album
+
+
+The five-song disc starts off with a jazzy number then follows with the SUBJECT tune   OBJECT . 
+SUBJECT:	[[ DOLLY PARTON | /m/02f1c ]]
+OBJECT:	[[ COAT OF MANY COLORS | /m/01h_c7y ]]
+SUBJECT PATH: SUBJECT -> tune -> OBJECT -> with -> follows -> starts
+OBJECT  PATH: OBJECT -> with -> follows -> starts
+OBJECT
+
+
+OBJECT is an album by SUBJECT .
+SUBJECT:	[[ MOURNING NOISE | /m/06rskm ]]
+OBJECT:	[[ DEATH TRIP DELIVERY: 1981–1985 | /m/02w996r ]]
+SUBJECT PATH: SUBJECT -> by -> album -> is
+OBJECT  PATH: OBJECT -> is
+is
+
+
+Did Mariah record a song for   ENTITY1   called   OBJECT   with SUBJECT 
+SUBJECT:	[[ JIM BRICKMAN | /m/059h8y ]]
+OBJECT:	[[ DESTINY | /m/01lyh8t ]]
+ENTITY1:	[[ GLITTER | /m/06gg25 ]]
+SUBJECT PATH: SUBJECT -> with -> called -> record
+OBJECT  PATH: OBJECT -> called -> record
+called
+
+
+? ENTITY1 ? pushed the album to platinum, and SUBJECT followed with the critically acclaimed OBJECT 
+SUBJECT:	[[ PATTY LOVELESS | /m/05sq0m ]]
+OBJECT:	[[ WHEN FALLEN ANGELS FLY | /m/01lv9dg ]]
+ENTITY1:	[[ GOODBYE | /m/0nnr_g9 ]]
+SUBJECT PATH: SUBJECT -> followed -> pushed
+OBJECT  PATH: OBJECT -> with -> followed -> pushed
+followed
+
+
+ENTITY1 was also a featured vocalist on the ENTITY2 nominated SUBJECT album ' OBJECT .'
+SUBJECT:	[[ ZERO 7 | /m/05jy74 ]]
+OBJECT:	[[ THE GARDEN | /m/0bxpzj ]]
+ENTITY1:	[[ GONZÁLEZ | /m/07yn3h ]]
+ENTITY2:	[[ GRAMMY | /m/0c4ys ]]
+SUBJECT PATH: SUBJECT -> album -> OBJECT -> nominated -> vocalist -> was
+OBJECT  PATH: OBJECT -> nominated -> vocalist -> was
+OBJECT
+
+
+As ENTITY1 became her third platinum album, SUBJECT returned with the grittier OBJECT 
+SUBJECT:	[[ PATTY LOVELESS | /m/05sq0m ]]
+OBJECT:	[[ THE TROUBLE WITH THE TRUTH | /m/01lv9kq ]]
+ENTITY1:	[[ ANGELS | /m/04wmvz ]]
+SUBJECT PATH: SUBJECT -> returned
+OBJECT  PATH: OBJECT -> with -> returned
+returned
+
+
+Under Official -> Albums: SUBJECT 's regular edition album   OBJECT   at 320CBR and ENTITY1 
+SUBJECT:	[[ KAT-TUN | /m/06hknm ]]
+OBJECT:	[[ BEST OF KAT-TUN | /m/04gjdf7 ]]
+ENTITY1:	[[ FLAC | /m/0kb_c ]]
+SUBJECT PATH: SUBJECT -> album -> OBJECT
+OBJECT  PATH: OBJECT
+OBJECT
+
+
+OBJECT is the seventh  album by SUBJECT and was released in 1980.
+SUBJECT:	[[ ROXY MUSIC | /m/06gcn ]]
+OBJECT:	[[ FLESH + BLOOD | /m/01khgmc ]]
+SUBJECT PATH: SUBJECT -> by -> album -> is
+OBJECT  PATH: OBJECT -> is
+is
+
+
+Atomic Bomb [10] SUBJECT 's online-only CD,   OBJECT . . 
+SUBJECT:	[[ PUBLIC ENEMY | /m/05qbq ]]
+OBJECT:	[[ THERE’S A POISON GOIN ON… | /m/01hns96 ]]
+SUBJECT PATH: SUBJECT -> CD
+OBJECT  PATH: OBJECT -> CD
+CD
+
+
+  OBJECT   is a compilation album of SUBJECT ' Ballads.
+SUBJECT:	[[ THE ROLLING STONES | /m/07mvp ]]
+OBJECT:	[[ SLOW ROLLERS | /m/05p31pz ]]
+SUBJECT PATH: SUBJECT -> Ballads -> of -> album -> is
+OBJECT  PATH: OBJECT -> is
+is
+
+
+In other ENTITY1 news, the long-awaited SUBJECT album, OBJECT , will be released July 23rd
+SUBJECT:	[[ PUBLIC ENEMY | /m/05qbq ]]
+OBJECT:	[[ REVOLVERLUTION | /m/01hnrvl ]]
+ENTITY1:	[[ CHUCK D | /m/01qv9 ]]
+SUBJECT PATH: SUBJECT -> album -> released
+OBJECT  PATH: OBJECT -> album -> released
+album
+
+
+The debut single from the album,   OBJECT   features SUBJECT 's mentor ENTITY1 and was produced by ENTITY2 .
+SUBJECT:	[[ TWEET | /m/06v_wk ]]
+OBJECT:	[[ TURN DA LIGHTS OFF | /m/0gdtr2f ]]
+ENTITY1:	[[ MISSY ELLIOTT | /m/018n6m ]]
+ENTITY2:	[[ KWAME | /m/01wwt0p ]]
+SUBJECT PATH: SUBJECT -> ENTITY1 -> features
+OBJECT  PATH: OBJECT -> features
+features
+
+
+  OBJECT   performed by SUBJECT 
+SUBJECT:	[[ ROXY MUSIC | /m/06gcn ]]
+OBJECT:	[[ THE THRILL OF IT ALL | /m/01khgp9 ]]
+SUBJECT PATH: SUBJECT -> by -> performed
+OBJECT  PATH: OBJECT -> performed
+performed
+
+
+The most rocking of SUBJECT 's songs,   OBJECT   seemed a little neutered here.
+SUBJECT:	[[ DOLLY PARTON | /m/02f1c ]]
+OBJECT:	[[ JOLENE | /m/01h_9n1 ]]
+SUBJECT PATH: SUBJECT -> songs -> of -> rocking -> seemed
+OBJECT  PATH: OBJECT -> seemed
+seemed
+
+
+This turned out to be the SUBJECT album OBJECT 
+SUBJECT:	[[ PUBLIC ENEMY | /m/05qbq ]]
+OBJECT:	[[ REBIRTH OF A NATION | /m/01hns0p ]]
+SUBJECT PATH: SUBJECT -> OBJECT -> be -> turned
+OBJECT  PATH: OBJECT -> be -> turned
+OBJECT
+
+
+An engineer who assisted on the recordings the SUBJECT made in ENTITY1 for OBJECT 
+SUBJECT:	[[ THE ROLLING STONES | /m/07mvp ]]
+OBJECT:	[[ STRIPPED | /m/01hn0m0 ]]
+ENTITY1:	[[ JAPAN | /m/03_3d ]]
+SUBJECT PATH: SUBJECT -> made -> recordings -> on -> assisted -> engineer
+OBJECT  PATH: OBJECT -> for -> made -> recordings -> on -> assisted -> engineer
+made
+
+
+OBJECT is a compilation by SUBJECT released in 1975.
+SUBJECT:	[[ THE ROLLING STONES | /m/07mvp ]]
+OBJECT:	[[ ROLLED GOLD: THE VERY BEST OF THE ROLLING STONES | /m/03md5kv ]]
+SUBJECT PATH: SUBJECT -> by -> compilation -> is
+OBJECT  PATH: OBJECT -> is
+is
+
+
+SUBJECT continued until OBJECT , split for a flurry of solo work, reunited for three more 
+SUBJECT:	[[ ROXY MUSIC | /m/06gcn ]]
+OBJECT:	[[ SIREN | /m/01khgz2 ]]
+SUBJECT PATH: SUBJECT -> continued
+OBJECT  PATH: OBJECT -> until -> continued
+continued
+
+
+She also worked with ENTITY1 ?musicians SUBJECT on their second album, OBJECT .
+SUBJECT:	[[ ZERO 7 | /m/05jy74 ]]
+OBJECT:	[[ WHEN IT FALLS | /m/01lb86w ]]
+ENTITY1:	[[ ENGLISH | /m/02jx1 ]]
+SUBJECT PATH: SUBJECT
+OBJECT  PATH: OBJECT -> album -> on -> SUBJECT
+SUBJECT
+
+
+ENTITY1 s actual work for the SUBJECT included the LP covers for ENTITY2 and OBJECT 
+SUBJECT:	[[ THE ROLLING STONES | /m/07mvp ]]
+OBJECT:	[[ LOVE YOU LIVE | /m/01hmz0g ]]
+ENTITY1:	[[ WARHOL | /m/0kc6 ]]
+ENTITY2:	[[ STICKY FINGERS | /m/01hmy3x ]]
+SUBJECT PATH: SUBJECT -> for -> work -> included
+OBJECT  PATH: OBJECT -> ENTITY2 -> for -> covers -> included
+included
+
+
+The project would mark the first time ENTITY1 worked with SUBJECT since 1973's OBJECT 
+SUBJECT:	[[ ROXY MUSIC | /m/06gcn ]]
+OBJECT:	[[ FOR YOUR PLEASURE | /m/01khgzz ]]
+ENTITY1:	[[ ENO | /m/018x3 ]]
+SUBJECT PATH: SUBJECT -> with -> worked -> time -> mark
+OBJECT  PATH: OBJECT -> since -> worked -> time -> mark
+worked
+
+
+SUBJECT performs this   OBJECT   song in ENTITY1 during September 2002.
+SUBJECT:	[[ PATTY LOVELESS | /m/05sq0m ]]
+OBJECT:	[[ MOUNTAIN SOUL | /m/01lv9rf ]]
+ENTITY1:	[[ NASHVILLE | /m/05jbn ]]
+SUBJECT PATH: SUBJECT -> performs
+OBJECT  PATH: OBJECT -> song -> performs
+performs
+
+
+From the SUBJECT album   OBJECT ,  released in 1973
+SUBJECT:	[[ THE ROLLING STONES | /m/07mvp ]]
+OBJECT:	[[ GOATS HEAD SOUP | /m/01hn07k ]]
+SUBJECT PATH: SUBJECT -> OBJECT -> From -> released
+OBJECT  PATH: OBJECT -> From -> released
+OBJECT
+
+
+As I write, SUBJECT are releasing? OBJECT
+SUBJECT:	[[ THE ROLLING STONES | /m/07mvp ]]
+OBJECT:	[[ SINGLES 1968–1971 | /m/05tf0y ]]
+SUBJECT PATH: SUBJECT -> releasing
+OBJECT  PATH: OBJECT
+-None-
+
+
+ENTITY1 , Love You Live, Flashpoint, and OBJECT are some of the best live SUBJECT recordings I?ve listened to
+SUBJECT:	[[ THE ROLLING STONES | /m/07mvp ]]
+OBJECT:	[[ NO SECURITY | /m/01hmyst ]]
+ENTITY1:	[[ GET YER YA-YA'S OUT! | /m/0fs2xyf ]]
+SUBJECT PATH: SUBJECT -> recordings -> of -> some -> are -> Love
+OBJECT  PATH: OBJECT -> Flashpoint -> Live -> Love
+Love
+
+
+He also launched SUBJECT , who debuted with OBJECT , and produced ENTITY1 s  ENTITY2 
+SUBJECT:	[[ TWEET | /m/06v_wk ]]
+OBJECT:	[[ SOUTHERN HUMMINGBIRD | /m/01m7f9d ]]
+ENTITY1:	[[ LIL KIM | /m/01wyz92 ]]
+ENTITY2:	[[ THE JUMP OFF | /m/0fp69c ]]
+SUBJECT PATH: SUBJECT -> launched
+OBJECT  PATH: OBJECT -> with -> debuted -> SUBJECT -> launched
+SUBJECT
+
+
+OBJECT , a title of a SUBJECT song, is one of them.
+SUBJECT:	[[ THE ROLLING STONES | /m/07mvp ]]
+OBJECT:	[[ PAINT IT BLACK | /m/03jg58m ]]
+SUBJECT PATH: SUBJECT -> song -> of -> title -> OBJECT -> is
+OBJECT  PATH: OBJECT -> is
+OBJECT
+
+
+She also gets into the classic SUBJECT track   OBJECT . 
+SUBJECT:	[[ THE ROLLING STONES | /m/07mvp ]]
+OBJECT:	[[ WILD HORSES | /m/01hm_r_ ]]
+SUBJECT PATH: SUBJECT -> track -> OBJECT -> into -> gets
+OBJECT  PATH: OBJECT -> into -> gets
+OBJECT
+
+
+OBJECT  was the last SUBJECT
+SUBJECT:	[[ THE ROLLING STONES | /m/07mvp ]]
+OBJECT:	[[ DECEMBER'S CHILDREN (AND EVERYBODY'S) | /m/01hn16j ]]
+SUBJECT PATH: SUBJECT -> was
+OBJECT  PATH: OBJECT -> was
+was
+
+
+As Tears Go By?????1965  ( As OBJECT   later also charted for the SUBJECT in 1966.).
+SUBJECT:	[[ THE ROLLING STONES | /m/07mvp ]]
+OBJECT:	[[ AS TEARS GO BY | /m/0h36lcn ]]
+SUBJECT PATH: SUBJECT -> for -> charted
+OBJECT  PATH: OBJECT -> charted
+charted
+
+
+In 1998, OBJECT were invited by SUBJECT to perform at the band's news conference for the   ENTITY1 . 
+SUBJECT:	[[ THE ROLLING STONES | /m/07mvp ]]
+OBJECT:	[[ HOT ROCKS 1 | /m/01hn0jr ]]
+ENTITY1:	[[ NO SECURITY TOUR | /m/0d3znt ]]
+SUBJECT PATH: SUBJECT -> by -> invited
+OBJECT  PATH: OBJECT -> invited
+invited
+
+
+There's one line in SUBJECT 's song, OBJECT ,  Have we lost the need and the will to care 
+SUBJECT:	[[ JIMMY RANKIN | /m/07sbrll ]]
+OBJECT:	[[ HANDMADE | /m/03d7lwd ]]
+SUBJECT PATH: SUBJECT -> song -> in -> line -> 's -> lost
+OBJECT  PATH: OBJECT -> song -> in -> line -> 's -> lost
+song
+
+
+ENTITY1 joined the SUBJECT in 1982 and played on the ENTITY2 leg of their   OBJECT   tour
+SUBJECT:	[[ THE ROLLING STONES | /m/07mvp ]]
+OBJECT:	[[ TATTOO YOU | /m/01hm_yn ]]
+ENTITY1:	[[ LEAVELL | /m/098qys ]]
+ENTITY2:	[[ EUROPEAN | /m/02j9z ]]
+SUBJECT PATH: SUBJECT -> joined
+OBJECT  PATH: OBJECT -> tour -> of -> leg -> on -> played -> joined
+joined
+
+
+Obvious examples of this include ENTITY1 ' issue of a record of SUBJECT cut-ups, OBJECT .
+SUBJECT:	[[ WILLIAM S. BURROUGHS | /m/08433 ]]
+OBJECT:	[[ NOTHING HERE NOW BUT THE RECORDINGS | /m/0ftmn0q ]]
+ENTITY1:	[[ INDUSTRIAL RECORDS | /m/015sqs ]]
+SUBJECT PATH: SUBJECT -> ups -> of -> record -> of -> issue -> include
+OBJECT  PATH: OBJECT -> ups -> of -> record -> of -> issue -> include
+ups
+
+
+A year later, SUBJECT disbanded with ENTITY1 reforming the group for 1995 album  OBJECT 
+SUBJECT:	[[ FRAZIER CHORUS | /m/087b0v ]]
+OBJECT:	[[ WIDE AWAKE | /m/0g9_ggm ]]
+ENTITY1:	[[ FREEMAN | /m/0n1yv1s ]]
+SUBJECT PATH: SUBJECT -> disbanded
+OBJECT  PATH: OBJECT -> album -> for -> reforming -> disbanded
+disbanded
+
+
+Used in many classic recordings such as SUBJECT 's album OBJECT .
+SUBJECT:	[[ ROXY MUSIC | /m/06gcn ]]
+OBJECT:	[[ AVALON | /m/01khgy4 ]]
+SUBJECT PATH: SUBJECT -> OBJECT -> as -> recordings -> in -> Used
+OBJECT  PATH: OBJECT -> as -> recordings -> in -> Used
+OBJECT
+
+
+  ENTITY1   is the SUBJECT album I've been hoping for since 1983's   OBJECT .
+SUBJECT:	[[ THE ROLLING STONES | /m/07mvp ]]
+OBJECT:	[[ UNDERCOVER | /m/01hmzvz ]]
+ENTITY1:	[[ A BIGGER BANG | /m/01hn1g6 ]]
+SUBJECT PATH: SUBJECT -> album -> is
+OBJECT  PATH: OBJECT -> since -> hoping -> album -> is
+album
+
+
+Just released: SUBJECT 's ENTITY1 's new album   OBJECT   is out on Animul Records.
+SUBJECT:	[[ NED ROTHENBERG | /m/098sjx ]]
+OBJECT:	[[ HARBINGER | /m/0fzjwzt ]]
+ENTITY1:	[[ SYNC | /m/03g72n_ ]]
+SUBJECT PATH: SUBJECT -> ENTITY1 -> OBJECT -> is
+OBJECT  PATH: OBJECT -> is
+OBJECT
+
+
+Read SUBJECT 's notes to OBJECT and view the track listing.
+SUBJECT:	[[ NED ROTHENBERG | /m/098sjx ]]
+OBJECT:	[[ INTERVALS | /m/0fxq0qr ]]
+SUBJECT PATH: SUBJECT -> notes -> Read
+OBJECT  PATH: OBJECT -> to -> Read
+Read
+
+
+Just released: SUBJECT 's OBJECT 's new album   ENTITY1   is out on Animul Records.
+SUBJECT:	[[ NED ROTHENBERG | /m/098sjx ]]
+OBJECT:	[[ SYNC | /m/03g72n_ ]]
+ENTITY1:	[[ HARBINGER | /m/0fzjwzt ]]
+SUBJECT PATH: SUBJECT -> OBJECT -> ENTITY1 -> is
+OBJECT  PATH: OBJECT -> ENTITY1 -> is
+OBJECT
+
+
+OBJECT is a musical album by ENTITY1 author SUBJECT , which was released by ENTITY2 in 1990.
+SUBJECT:	[[ WILLIAM S. BURROUGHS | /m/08433 ]]
+OBJECT:	[[ DEAD CITY RADIO | /m/0ky0wn ]]
+ENTITY1:	[[ BEAT GENERATION | /m/014nhw ]]
+ENTITY2:	[[ ISLAND RECORDS | /m/0mzkr ]]
+SUBJECT PATH: SUBJECT -> by -> album -> is
+OBJECT  PATH: OBJECT -> is
+is
+
+
+SUBJECT 's album,   OBJECT   topped music charts
+SUBJECT:	[[ HARBHAJAN MANN | /m/0c89fp ]]
+OBJECT:	[[ OYE HOYE | /m/01p2f04 ]]
+SUBJECT PATH: SUBJECT -> album -> topped
+OBJECT  PATH: OBJECT -> album -> topped
+album
+
+
+Recorded during the longest winter in recent memory, OBJECT features SUBJECT longing voice and celebrated lyric.
+SUBJECT:	[[ PAUL BRILL | /m/0dgnkxd ]]
+OBJECT:	[[ NEW PAGAN LOVE SONG | /m/01rxh6_ ]]
+SUBJECT PATH: SUBJECT -> voice -> features
+OBJECT  PATH: OBJECT -> features
+features
+
+
+Disc one of OBJECT is an excellent andprehensive collection of SUBJECT hits of the 60's
+SUBJECT:	[[ THE ROLLING STONES | /m/07mvp ]]
+OBJECT:	[[ FORTY LICKS | /m/01hmzdp ]]
+SUBJECT PATH: SUBJECT -> hits -> of -> collection -> is
+OBJECT  PATH: OBJECT -> of -> one -> Disc -> is
+is
+
+
+For Senator ENTITY1 is ENTITY2 and SUBJECT 's   OBJECT   mixed with one of ENTITY1 's speeches
+SUBJECT:	[[ LEE DORSEY | /m/07tkz5 ]]
+OBJECT:	[[ YES WE CAN | /m/03jhkk0 ]]
+ENTITY1:	[[ OBAMA | /m/02mjmr ]]
+ENTITY2:	[[ ALLEN TOUSSAINT | /m/01mcrvv ]]
+SUBJECT PATH: SUBJECT -> ENTITY2 -> OBJECT -> mixed -> is
+OBJECT  PATH: OBJECT -> mixed -> is
+OBJECT
+
+
+The SUBJECT ' 1989 release   OBJECT   features samples of this ENTITY1
+SUBJECT:	[[ THE ROLLING STONES | /m/07mvp ]]
+OBJECT:	[[ STEEL WHEELS | /m/01hmzwx ]]
+ENTITY1:	[[ MOROCCAN | /m/04wgh ]]
+SUBJECT PATH: SUBJECT -> release -> OBJECT -> features
+OBJECT  PATH: OBJECT -> features
+OBJECT
+
+
+The final SUBJECT studio albums   ENTITY1   and   OBJECT 
+SUBJECT:	[[ THE ROLLING STONES | /m/07mvp ]]
+OBJECT:	[[ BRIDGES TO BABYLON | /m/01hmy_7 ]]
+ENTITY1:	[[ VOODOO LOUNGE | /m/01hmylb ]]
+SUBJECT PATH: SUBJECT -> studio -> albums
+OBJECT  PATH: OBJECT -> ENTITY1 -> albums
+albums
+
+
+?s new album and SUBJECT ?s new album OBJECT .
+SUBJECT:	[[ BLACK STONE CHERRY | /m/0d2wsh ]]
+OBJECT:	[[ FOLKLORE AND SUPERSTITION | /m/047b9t4 ]]
+SUBJECT PATH: SUBJECT -> album -> s
+OBJECT  PATH: OBJECT -> s
+-None-
+
+
+( ENTITY1 says that SUBJECT 's OBJECT is what inspired him to make music)
+SUBJECT:	[[ PUBLIC ENEMY | /m/05qbq ]]
+OBJECT:	[[ FEAR OF A BLACK PLANET | /m/01r_yj ]]
+ENTITY1:	[[ BLÖNDAL | /m/026ykyj ]]
+SUBJECT PATH: SUBJECT -> OBJECT -> is -> says
+OBJECT  PATH: OBJECT -> is -> says
+OBJECT
+
+
+ENTITY1 are pleased to present the third SUBJECT album OBJECT .
+SUBJECT:	[[ WILL HOLLAND | /m/0fmf7x ]]
+OBJECT:	[[ MISHAPS HAPPENING | /m/01mwkq0 ]]
+ENTITY1:	[[ TRU THOUGHTS | /m/08mvvm ]]
+SUBJECT PATH: SUBJECT -> OBJECT -> present -> pleased -> are
+OBJECT  PATH: OBJECT -> present -> pleased -> are
+OBJECT
+
+
+OBJECT is a music DVD by SUBJECT .
+SUBJECT:	[[ CHRISTINA AGUILERA | /m/0127s7 ]]
+OBJECT:	[[ GENIE GETS HER WISH | /m/06gbp2 ]]
+SUBJECT PATH: SUBJECT -> by -> DVD -> music -> is
+OBJECT  PATH: OBJECT -> is
+is
+
+
+SUBJECT created OBJECT after writing ENTITY1 and before beginning work on ENTITY2 .
+SUBJECT:	[[ ANDREW LLOYD WEBBER | /m/0f8pz ]]
+OBJECT:	[[ TELL ME ON A SUNDAY (1980 LONDON TV CAST) | /m/0dxbdxq ]]
+ENTITY1:	[[ JESUS CHRIST SUPERSTAR | /m/0g6qf ]]
+ENTITY2:	[[ EVITA | /m/01cbw2 ]]
+SUBJECT PATH: SUBJECT -> created
+OBJECT  PATH: OBJECT -> created
+created
+
+
+SUBJECT released OBJECT overseas
+SUBJECT:	[[ FOUNTAINS OF WAYNE | /m/014s24 ]]
+OBJECT:	[[ OUT-OF-STATE PLATES | /m/06q0yb ]]
+SUBJECT PATH: SUBJECT -> released
+OBJECT  PATH: OBJECT -> released
+released
+
+
+The SUBJECT had the cover to OBJECT reissued.
+SUBJECT:	[[ THE ROLLING STONES | /m/07mvp ]]
+OBJECT:	[[ SOME GIRLS | /m/01hmznh ]]
+SUBJECT PATH: SUBJECT -> had
+OBJECT  PATH: OBJECT -> to -> cover -> had
+had
+
+
+The final SUBJECT studio albums   OBJECT   and   ENTITY1 
+SUBJECT:	[[ THE ROLLING STONES | /m/07mvp ]]
+OBJECT:	[[ VOODOO LOUNGE | /m/01hmylb ]]
+ENTITY1:	[[ BRIDGES TO BABYLON | /m/01hmy_7 ]]
+SUBJECT PATH: SUBJECT -> studio -> albums -> ENTITY1
+OBJECT  PATH: OBJECT -> ENTITY1
+ENTITY1
+
+
+1985 In February, the SUBJECT are in ENTITY1 recording OBJECT at Pathe-Marconi Studio
+SUBJECT:	[[ THE ROLLING STONES | /m/07mvp ]]
+OBJECT:	[[ DIRTY WORK | /m/01hmz45 ]]
+ENTITY1:	[[ PARIS | /m/05qtj ]]
+SUBJECT PATH: SUBJECT -> are
+OBJECT  PATH: OBJECT -> recording -> are
+are
+
+
+Track featuring OBJECT by ENTITY1 & SUBJECT featuring ENTITY2 .
+SUBJECT:	[[ WILL HOLLAND | /m/0fmf7x ]]
+OBJECT:	[[ MI SWING ES TROPICAL | /m/03g7jdm ]]
+ENTITY1:	[[ NICKODEMUS | /m/03j01pr ]]
+ENTITY2:	[[ TEMPO | /m/07m4v ]]
+SUBJECT PATH: SUBJECT -> ENTITY1 -> by -> featuring -> Track
+OBJECT  PATH: OBJECT -> featuring -> Track
+featuring
+
+
+In 2004, she earned the coveted role of ENTITY1 in the screen adaptation of composer SUBJECT 's musical OBJECT 
+SUBJECT:	[[ ANDREW LLOYD WEBBER | /m/0f8pz ]]
+OBJECT:	[[ THE PHANTOM OF THE OPERA | /m/01hs7r6 ]]
+ENTITY1:	[[ CHRISTINE DAAÉ | /m/05fsr3 ]]
+SUBJECT PATH: SUBJECT -> OBJECT -> of -> adaptation -> in -> role -> earned
+OBJECT  PATH: OBJECT -> of -> adaptation -> in -> role -> earned
+OBJECT
+
+
+John's first of two ENTITY1 was secured for his contributions to artist SUBJECT 's platinum record   OBJECT . 
+SUBJECT:	[[ JIMMY CLIFF | /m/018144 ]]
+OBJECT:	[[ CLIFF HANGER | /m/01h_p88 ]]
+ENTITY1:	[[ GRAMMY AWARDS | /m/0c4ys ]]
+SUBJECT PATH: SUBJECT -> OBJECT -> artist -> contributions -> for -> secured
+OBJECT  PATH: OBJECT -> artist -> contributions -> for -> secured
+OBJECT
+
+
+OBJECT is her new DVD and SUBJECT showed up in ENTITY1 to sign copies
+SUBJECT:	[[ CHRISTINA AGUILERA | /m/0127s7 ]]
+OBJECT:	[[ BACK TO BASICS: LIVE AND DOWN UNDER | /m/02x2k0r ]]
+ENTITY1:	[[ LA | /m/04ly1 ]]
+SUBJECT PATH: SUBJECT -> DVD -> showed -> is
+OBJECT  PATH: OBJECT -> is
+is
+
+
+This year, artistic director Marian Jordan Hamilton presents an adaptation of ENTITY1 and SUBJECT rock opera OBJECT .
+SUBJECT:	[[ ANDREW LLOYD WEBBER | /m/0f8pz ]]
+OBJECT:	[[ JESUS CHRIST SUPERSTAR | /m/0fvj6w ]]
+ENTITY1:	[[ TIM RICE | /m/0178rl ]]
+SUBJECT PATH: SUBJECT -> OBJECT -> ENTITY1 -> of -> adaptation -> presents
+OBJECT  PATH: OBJECT -> ENTITY1 -> of -> adaptation -> presents
+OBJECT
+
+
+ENTITY1 and the SUBJECT unite in   ENTITY2 ,  a look at OBJECT . 
+SUBJECT:	[[ THE ROLLING STONES | /m/07mvp ]]
+OBJECT:	[[ ENGLAND’S NEWEST HIT MAKERS | /m/01hmyvj ]]
+ENTITY1:	[[ MARTIN SCORSESE | /m/04sry ]]
+ENTITY2:	[[ SHINE A LIGHT | /m/02847m9 ]]
+SUBJECT PATH: SUBJECT -> unite -> ENTITY1 -> look
+OBJECT  PATH: OBJECT -> at -> look
+look
+
+
+I just got a copy of SUBJECT 's latest recording, OBJECT .
+SUBJECT:	[[ NATALIE MERCHANT | /m/01bxpr ]]
+OBJECT:	[[ THE HOUSE CARPENTER'S DAUGHTER | /m/01hwhlv ]]
+SUBJECT PATH: SUBJECT -> recording -> of -> copy -> got
+OBJECT  PATH: OBJECT -> recording -> of -> copy -> got
+recording
+
+
+ENTITY1 -based SUBJECT , on the other hand, became ENTITY2 's prime Brit-poppers through SUBJECT  and OBJECT 
+SUBJECT:	[[ FOUNTAINS OF WAYNE | /m/014s24 ]]
+OBJECT:	[[ UTOPIA PARKWAY | /m/03m594 ]]
+ENTITY1:	[[ NEW YORK | /m/02_286 ]]
+ENTITY2:	[[ AMERICA | /m/0psjzb ]]
+SUBJECT PATH: SUBJECT -> through -> became
+OBJECT  PATH: OBJECT -> SUBJECT -> through -> became
+SUBJECT
+
+
+120. SUBJECT recorded a duet with ENTITY1 for the soundtrack to OBJECT 
+SUBJECT:	[[ JIMMY CLIFF | /m/018144 ]]
+OBJECT:	[[ CLUB PARADISE | /m/03jg8pw ]]
+ENTITY1:	[[ ELVIS COSTELLO | /m/02vr7 ]]
+SUBJECT PATH: SUBJECT -> recorded
+OBJECT  PATH: OBJECT -> to -> duet -> recorded
+recorded
+
+
+November 9: SUBJECT 's live cover of ENTITY1 from her OBJECT
+SUBJECT:	[[ NATALIE MERCHANT | /m/01bxpr ]]
+OBJECT:	[[ LIVE IN CONCERT | /m/01hwhgx ]]
+ENTITY1:	[[ SPACE ODDITY | /m/02sxrm ]]
+SUBJECT PATH: SUBJECT -> cover
+OBJECT  PATH: OBJECT -> from -> cover
+cover
+
+
+For the analysis, I used the tune   ENTITY1   on the SUBJECT recording   OBJECT   .
+SUBJECT:	[[ FRANK WESS | /m/01hn9q ]]
+OBJECT:	[[ OPUS IN SWING | /m/03jgm54 ]]
+ENTITY1:	[[ SOUTHERN EXPOSURE | /m/0fhgf9g ]]
+SUBJECT PATH: SUBJECT -> recording -> on -> ENTITY1 -> OBJECT
+OBJECT  PATH: OBJECT
+OBJECT
+
+
+* I really REALLY like SUBJECT 's new album, OBJECT .
+SUBJECT:	[[ FOUNTAINS OF WAYNE | /m/014s24 ]]
+OBJECT:	[[ TRAFFIC AND WEATHER | /m/03fzhtx ]]
+SUBJECT PATH: SUBJECT -> album -> like -> REALLY
+OBJECT  PATH: OBJECT -> album -> like -> REALLY
+album
+
+
+Rough Edge: How would you say   OBJECT   compares with previous SUBJECT
+SUBJECT:	[[ GOD LIVES UNDERWATER | /m/01j6gzn ]]
+OBJECT:	[[ UP OFF THE FLOOR | /m/047ljss ]]
+SUBJECT PATH: SUBJECT -> with -> compares -> say
+OBJECT  PATH: OBJECT -> compares -> say
+compares
+
+
+Empty, SUBJECT don be to hard OBJECT , SUBJECT provided.
+SUBJECT:	[[ GOD LIVES UNDERWATER | /m/01j6gzn ]]
+OBJECT:	[[ EMPTY | /m/01j6gx0 ]]
+SUBJECT PATH: SUBJECT -> provided
+OBJECT  PATH: OBJECT -> to -> be -> provided
+provided
+
+
+Whatever tag is pinned on SUBJECT 's new album, OBJECT , don't call it techno
+SUBJECT:	[[ GOD LIVES UNDERWATER | /m/01j6gzn ]]
+OBJECT:	[[ LIFE IN THE SO-CALLED SPACE AGE | /m/01j6gw0 ]]
+SUBJECT PATH: SUBJECT -> album -> on -> pinned
+OBJECT  PATH: OBJECT -> album -> on -> pinned
+album
+
+
+A skit from SUBJECT called OBJECT .
+SUBJECT:	[[ BILL ENGVALL | /m/01kfq_h ]]
+OBJECT:	[[ DORKFISH | /m/01kfqy1 ]]
+SUBJECT PATH: SUBJECT -> from -> skit
+OBJECT  PATH: OBJECT -> called -> skit
+skit
+
+
+Unfortunately, where OBJECT was the high water mark for the SUBJECT , it saw the demise of guitarist ENTITY1 
+SUBJECT:	[[ THE ROLLING STONES | /m/07mvp ]]
+OBJECT:	[[ BEGGAR'S BANQUET | /m/01hn1lt ]]
+ENTITY1:	[[ JONES | /m/07wkf9 ]]
+SUBJECT PATH: SUBJECT -> for -> mark -> was -> saw
+OBJECT  PATH: OBJECT -> was -> saw
+was
+
+
+ENTITY1 is does the   ENTITY2 If...  routine, but the   OBJECT   is SUBJECT .
+SUBJECT:	[[ BILL ENGVALL | /m/01kfq_h ]]
+OBJECT:	[[ HERE'S YOUR SIGN | /m/01kfqzf ]]
+ENTITY1:	[[ JEFF FOXWORTHY | /m/038f4_ ]]
+ENTITY2:	[[ YOU MIGHT BE A REDNECK | /m/0rdfsl ]]
+SUBJECT PATH: SUBJECT -> is -> is
+OBJECT  PATH: OBJECT -> is -> is
+is
+
+
+(In fact, ENTITY1 sang quite a bit of back-up on SUBJECT 's masterpiece OBJECT .).
+SUBJECT:	[[ NATALIE MERCHANT | /m/01bxpr ]]
+OBJECT:	[[ OPHELIA | /m/01hwhmv ]]
+ENTITY1:	[[ KAREN | /m/01vv08q ]]
+SUBJECT PATH: SUBJECT -> OBJECT -> on -> up -> of -> bit -> sang
+OBJECT  PATH: OBJECT -> on -> up -> of -> bit -> sang
+OBJECT
+
+
+OBJECT is another SUBJECT masterpiece that makes it seem like he never went away
+SUBJECT:	[[ ROBERT CRAY | /m/01kh2m1 ]]
+OBJECT:	[[ SHOULDA BEEN HOME | /m/01kh2f6 ]]
+SUBJECT PATH: SUBJECT -> masterpiece -> is
+OBJECT  PATH: OBJECT -> is
+is
+
+
+OBJECT  is an album by SUBJECT .
+SUBJECT:	[[ AIR | /m/01crj8 ]]
+OBJECT:	[[ PREMIERS SYMPTÔMES | /m/0dp6cb ]]
+SUBJECT PATH: SUBJECT -> by -> album -> is
+OBJECT  PATH: OBJECT -> is
+is
+
+
+The song is featured on SUBJECT 's album, OBJECT .
+SUBJECT:	[[ LEO SAYER | /m/01ktx57 ]]
+OBJECT:	[[ ANOTHER YEAR | /m/04ksf5 ]]
+SUBJECT PATH: SUBJECT -> album -> on -> featured
+OBJECT  PATH: OBJECT -> album -> on -> featured
+album
+
+
+He first started writing with SUBJECT resulting in SUBJECT 's sucessful albums ENTITY1 and OBJECT .
+SUBJECT:	[[ LEO SAYER | /m/01ktx57 ]]
+OBJECT:	[[ JUST A BOY | /m/01ktwww ]]
+ENTITY1:	[[ SILVERBIRD | /m/01ktx1p ]]
+SUBJECT PATH: SUBJECT -> ENTITY1 -> in -> resulting -> SUBJECT -> with -> writing -> started
+OBJECT  PATH: OBJECT -> ENTITY1 -> in -> resulting -> SUBJECT -> with -> writing -> started
+ENTITY1
+
+
+SUBJECT is a five-time ENTITY1 winning artist whose new release is entitled,   OBJECT  
+SUBJECT:	[[ ROBERT CRAY | /m/01kh2m1 ]]
+OBJECT:	[[ TIME WILL TELL | /m/04f2f_z ]]
+ENTITY1:	[[ GRAMMY AWARD | /m/0c4ys ]]
+SUBJECT PATH: SUBJECT -> is
+OBJECT  PATH: OBJECT -> is
+is
+
+
+After last year's surprise hit OBJECT , SUBJECT co-frontman ENTITY1 plans to take ENTITY2 next
+SUBJECT:	[[ FOUNTAINS OF WAYNE | /m/014s24 ]]
+OBJECT:	[[ WELCOME INTERSTATE MANAGERS | /m/02hk34 ]]
+ENTITY1:	[[ ADAM SCHLESINGER | /m/055pg0 ]]
+ENTITY2:	[[ BROADWAY | /m/035y8z ]]
+SUBJECT PATH: SUBJECT -> ENTITY1 -> plans
+OBJECT  PATH: OBJECT -> hit -> After -> plans
+plans
+
+
+Even SUBJECT 's ENTITY1 album, OBJECT , sold more than 1.5 million copies that same year
+SUBJECT:	[[ CHRISTINA AGUILERA | /m/0127s7 ]]
+OBJECT:	[[ MY KIND OF CHRISTMAS | /m/01hkq9m ]]
+ENTITY1:	[[ CHRISTMAS | /m/01vq3 ]]
+SUBJECT PATH: SUBJECT -> album -> sold
+OBJECT  PATH: OBJECT -> album -> sold
+album
+
+
+SUBJECT notched his 11th ENTITY1 nomination for his acclaimed ENTITY2 debut, OBJECT 
+SUBJECT:	[[ ROBERT CRAY | /m/01kh2m1 ]]
+OBJECT:	[[ TAKE YOUR SHOES OFF | /m/04f63zs ]]
+ENTITY1:	[[ GRAMMY | /m/0c4ys ]]
+ENTITY2:	[[ RYKODISC | /m/01gfq4 ]]
+SUBJECT PATH: SUBJECT -> notched
+OBJECT  PATH: OBJECT -> debut -> for -> nomination -> notched
+notched
+
+
+2003: SUBJECT 's OBJECT is re-released in the ENTITY1 on ENTITY2 
+SUBJECT:	[[ STREETHEART | /m/01lb_q8 ]]
+OBJECT:	[[ DRUGSTORE DANCER | /m/049r_9p ]]
+ENTITY1:	[[ US | /m/09c7w0 ]]
+ENTITY2:	[[ EMI | /m/011k1h ]]
+SUBJECT PATH: SUBJECT -> OBJECT -> released
+OBJECT  PATH: OBJECT -> released
+OBJECT
+
+
+THE SUBJECT album,   OBJECT   was released on intoXygene in march 2004
+SUBJECT:	[[ THE YOUNG GODS | /m/01ln1n9 ]]
+OBJECT:	[[ MUSIC FOR ARTIFICIAL CLOUDS | /m/0414r6t ]]
+SUBJECT PATH: SUBJECT -> album -> released
+OBJECT  PATH: OBJECT -> released
+released
+
+
+Here?s the official album cover for SUBJECT ?s upcoming Greatest Hits album OBJECT album OBJECT .
+SUBJECT:	[[ CHRISTINA AGUILERA | /m/0127s7 ]]
+OBJECT:	[[ KEEPS GETTIN' BETTER: A DECADE OF HITS | /m/04ldt_8 ]]
+SUBJECT PATH: SUBJECT -> for -> cover
+OBJECT  PATH: OBJECT
+-None-
+
+
+ENTITY1 magazine ENTITY2 recently put SUBJECT ?s OBJECT album second in its world music top ten list.
+SUBJECT:	[[ VINICIO CAPOSSELA | /m/01ls8xf ]]
+OBJECT:	[[ OVUNQUE PROTEGGI | /m/01ls8pj ]]
+ENTITY1:	[[ BRITISH | /m/07ssc ]]
+ENTITY2:	[[ MOJO | /m/06dyf6 ]]
+SUBJECT PATH: SUBJECT -> put -> magazine
+OBJECT  PATH: OBJECT -> album
+-None-
+
+
+OBJECT comes five years after their landmark ENTITY1 and ENTITY2 mood-enhancers SUBJECT are back doing what they do best.
+SUBJECT:	[[ AIR | /m/01crj8 ]]
+OBJECT:	[[ TALKIE WALKIE | /m/01hnp2v ]]
+ENTITY1:	[[ MOON SAFARI | /m/01hnnyw ]]
+ENTITY2:	[[ PARISIAN | /m/05qtj ]]
+SUBJECT PATH: SUBJECT -> are -> doing -> after -> comes
+OBJECT  PATH: OBJECT -> comes
+comes
+
+
+The single has drawn favorable comparisons to classic SUBJECT hits such as   ENTITY1 ,    OBJECT ,  and   ENTITY2 .
+SUBJECT:	[[ LA MAFIA | /m/01lr3q0 ]]
+OBJECT:	[[ VIDA | /m/01lr3f8 ]]
+ENTITY1:	[[ ME ESTOY ENAMORANDO | /m/01cql32 ]]
+ENTITY2:	[[ PARA SIEMPRE CONTIGO | /m/01cqjp4 ]]
+SUBJECT PATH: SUBJECT -> hits -> classic -> comparisons -> drawn
+OBJECT  PATH: OBJECT -> ENTITY1 -> as -> hits -> classic -> comparisons -> drawn
+hits
+
+
+Experience Spring through SUBJECT 's eyes in   ENTITY1  , from the best selling OBJECT series of ENTITY2 's.
+SUBJECT:	[[ HENNIE BEKKER | /m/01mcy0b ]]
+OBJECT:	[[ KALEIDOSCOPES | /m/0fph3qw ]]
+ENTITY1:	[[ SPRING RAIN | /m/0mvpv8 ]]
+ENTITY2:	[[ CD | /m/01www ]]
+SUBJECT PATH: SUBJECT -> eyes -> through -> Spring
+OBJECT  PATH: OBJECT -> series -> from -> Spring
+Spring
+
+
+She recorded a duet, ENTITY1 , with ENTITY2 labelmate SUBJECT for his OBJECT album
+SUBJECT:	[[ EDDIE RABBITT | /m/01ml5_h ]]
+OBJECT:	[[ RADIO ROMANCE | /m/05z_gct ]]
+ENTITY1:	[[ YOU AND I | /m/0l0ytk ]]
+ENTITY2:	[[ ELEKTRA | /m/01cf93 ]]
+SUBJECT PATH: SUBJECT -> with -> recorded
+OBJECT  PATH: OBJECT -> album -> for -> SUBJECT -> with -> recorded
+SUBJECT
+
+
+And don't forget to pick up SUBJECT 's classic ENTITY1 sides on 1969's   SUBJECT   or   OBJECT  
+SUBJECT:	[[ KOKO TAYLOR | /m/01m4r9w ]]
+OBJECT:	[[ WHAT IT TAKES: THE CHESS YEARS | /m/0f3jr_f ]]
+ENTITY1:	[[ CHESS | /m/0190vc ]]
+SUBJECT PATH: SUBJECT -> forget
+OBJECT  PATH: OBJECT -> SUBJECT -> forget
+SUBJECT
+
+
+SUBJECT Lyrics ? OBJECT
+SUBJECT:	[[ DEEP BLUE SOMETHING | /m/01lv1cn ]]
+OBJECT:	[[ BREAKFAST AT TIFFANY'S | /m/01lv16r ]]
+SUBJECT PATH: SUBJECT -> Lyrics
+OBJECT  PATH: OBJECT
+-None-
+
+
+Post Katrina, SUBJECT released OBJECT , which recently garnered a ENTITY1 nomination.
+SUBJECT:	[[ IRMA THOMAS | /m/01mm5g0 ]]
+OBJECT:	[[ AFTER THE RAIN | /m/0j_ytp0 ]]
+ENTITY1:	[[ GRAMMY | /m/0c4ys ]]
+SUBJECT PATH: SUBJECT -> OBJECT -> Katrina
+OBJECT  PATH: OBJECT -> Katrina
+OBJECT
+
+
+It was less than a year later that SUBJECT ?s breakthrough record   OBJECT   was released
+SUBJECT:	[[ ROBERT CRAY | /m/01kh2m1 ]]
+OBJECT:	[[ STRONG PERSUADER | /m/01kh2d8 ]]
+SUBJECT PATH: SUBJECT -> was
+OBJECT  PATH: OBJECT -> released
+-None-
+
+
+One SUBJECT s OBJECT : The same reasons they are my favorite Clevo band
+SUBJECT:	[[ ONE LIFE CREW | /m/01n8_9j ]]
+OBJECT:	[[ CRIME RIDDEN SOCIETY | /m/01n8_8q ]]
+SUBJECT PATH: SUBJECT -> s -> OBJECT
+OBJECT  PATH: OBJECT
+OBJECT
+
+
+Some great insight about SUBJECT 's new album OBJECT and the re-release of ENTITY1 
+SUBJECT:	[[ GLENN TIPTON | /m/01myp2 ]]
+OBJECT:	[[ EDGE OF THE WORLD | /m/01nn9sc ]]
+ENTITY1:	[[ BAPTIZM OF FIRE | /m/01nn9tb ]]
+SUBJECT PATH: SUBJECT -> OBJECT -> about -> insight
+OBJECT  PATH: OBJECT -> about -> insight
+OBJECT
+
+
+The latest ENTITY1 and SUBJECT album, OBJECT , has received mixed reviews
+SUBJECT:	[[ CRAZY HORSE | /m/01nlvsj ]]
+OBJECT:	[[ BROKEN ARROW | /m/01krv9t ]]
+ENTITY1:	[[ YOUNG | /m/0m2l9 ]]
+SUBJECT PATH: SUBJECT -> album -> ENTITY1 -> received
+OBJECT  PATH: OBJECT -> ENTITY1 -> received
+ENTITY1
+
+
+ENTITY1 was back with SUBJECT for 1994's OBJECT , a much darker record
+SUBJECT:	[[ CRAZY HORSE | /m/01nlvsj ]]
+OBJECT:	[[ SLEEPS WITH ANGELS | /m/01krvcc ]]
+ENTITY1:	[[ YOUNG | /m/0mt366 ]]
+SUBJECT PATH: SUBJECT -> with -> back -> was
+OBJECT  PATH: OBJECT -> for -> was
+was
+
+
+The desperate intensity of OBJECT suggested SUBJECT was trying too hard to match dads gallows humor
+SUBJECT:	[[ TEDDY THOMPSON | /m/01mt_zj ]]
+OBJECT:	[[ SEPARATE WAYS | /m/01mt_yh ]]
+SUBJECT PATH: SUBJECT -> trying -> suggested
+OBJECT  PATH: OBJECT -> of -> intensity -> suggested
+suggested
+
+
+OBJECT features a live set with SUBJECT including ENTITY1 from 1970
+SUBJECT:	[[ CRAZY HORSE | /m/01nlvsj ]]
+OBJECT:	[[ LIVE AT THE FILLMORE EAST | /m/0h5s05 ]]
+ENTITY1:	[[ DANNY WHITTEN | /m/0578sm ]]
+SUBJECT PATH: SUBJECT -> with -> set -> features
+OBJECT  PATH: OBJECT -> features
+features
+
+
+?This is a happy record,? SUBJECT says of his new ENTITY1 release OBJECT .
+SUBJECT:	[[ TEDDY THOMPSON | /m/01mt_zj ]]
+OBJECT:	[[ A PIECE OF WHAT YOU NEED | /m/04f66k4 ]]
+ENTITY1:	[[ VERVE FORECAST | /m/02x8hly ]]
+SUBJECT PATH: SUBJECT -> says
+OBJECT  PATH: OBJECT -> release -> of -> says
+says
+
+
+SUBJECT 's debut album OBJECT dropped in November 2000 and achieved moderate commercial success
+SUBJECT:	[[ LO-TEL | /m/01p72v8 ]]
+OBJECT:	[[ PLANET OF THE STEREOS | /m/03g3227 ]]
+SUBJECT PATH: SUBJECT -> OBJECT -> dropped
+OBJECT  PATH: OBJECT -> dropped
+OBJECT
+
+
+Given her all-conquering media presence, it’s hard to believe that SUBJECT ’s current release, OBJECT , is just…
+SUBJECT:	[[ CHRISTINA AGUILERA | /m/0127s7 ]]
+OBJECT:	[[ BACK TO BASICS | /m/01hkpkp ]]
+SUBJECT PATH: SUBJECT -> ’s -> release -> is -> believe -> ’s
+OBJECT  PATH: OBJECT -> release -> is -> believe -> ’s
+release
+
+
+Former ENTITY1 frontman SUBJECT 's latest solo album,   OBJECT ,  will finally get its ENTITY2 release in April
+SUBJECT:	[[ DENNIS DEYOUNG | /m/01p63gj ]]
+OBJECT:	[[ ONE HUNDRED YEARS FROM NOW | /m/03g2p_2 ]]
+ENTITY1:	[[ STYX | /m/013w2r ]]
+ENTITY2:	[[ US | /m/09c7w0 ]]
+SUBJECT PATH: SUBJECT -> album -> get
+OBJECT  PATH: OBJECT -> album -> get
+album
+
+
+In 2002 a unreleased album was released from 1993 and another ENTITY1 with SUBJECT called OBJECT .
+SUBJECT:	[[ BABY BASH | /m/01ph618 ]]
+OBJECT:	[[ VELVETISM | /m/01shrkn ]]
+ENTITY1:	[[ LATINO VELVET | /m/01q0jb7 ]]
+SUBJECT PATH: SUBJECT -> with -> ENTITY1 -> 1993 -> from -> released
+OBJECT  PATH: OBJECT -> called -> ENTITY1 -> 1993 -> from -> released
+ENTITY1
+
+
+SUBJECT speaks about her discography, “Actually, ENTITY1 came out before OBJECT .
+SUBJECT:	[[ ADRIANA EVANS | /m/01pv24s ]]
+OBJECT:	[[ KISMET | /m/0h5285b ]]
+ENTITY1:	[[ NOMADIC | /m/0h3qnls ]]
+SUBJECT PATH: SUBJECT -> speaks -> came
+OBJECT  PATH: OBJECT -> before -> came
+came
+
+
+SUBJECT  is a ENTITY1 rapper from San. thanks to the singles   OBJECT  ,
+SUBJECT:	[[ LIL ROB | /m/01nqvx9 ]]
+OBJECT:	[[ TWELVE EIGHTEEN, PT. 1 | /m/0ck9pb ]]
+ENTITY1:	[[ CHICANO | /m/01qtb ]]
+SUBJECT PATH: SUBJECT -> is
+OBJECT  PATH: OBJECT -> thanks
+-None-
+
+
+ENTITY1 & SUBJECT then released the utterly brilliant OBJECT 
+SUBJECT:	[[ CRAZY HORSE | /m/01nlvsj ]]
+OBJECT:	[[ RUST NEVER SLEEPS | /m/01krv85 ]]
+ENTITY1:	[[ NEIL YOUNG | /m/0m2l9 ]]
+SUBJECT PATH: SUBJECT -> ENTITY1 -> released
+OBJECT  PATH: OBJECT -> released
+released
+
+
+OBJECT was recorded with SUBJECT members ENTITY1 and ENTITY2 
+SUBJECT:	[[ CRAZY HORSE | /m/01nlvsj ]]
+OBJECT:	[[ GREENDALE | /m/01krv2d ]]
+ENTITY1:	[[ BILLY TALBOT | /m/058_85 ]]
+ENTITY2:	[[ RALPH MOLINA | /m/0h72tb ]]
+SUBJECT PATH: SUBJECT -> members -> with -> recorded
+OBJECT  PATH: OBJECT -> recorded
+recorded
+
+
+SUBJECT also appeared in the ENTITY1 production of ENTITY2 and has released the solo recordings   OBJECT   and  Civilian.
+SUBJECT:	[[ ADAM PASCAL | /m/01q0vxx ]]
+OBJECT:	[[ MODEL PRISONER | /m/01q0vvs ]]
+ENTITY1:	[[ BROADWAY | /m/035y8z ]]
+ENTITY2:	[[ CABARET | /m/01wf7y ]]
+SUBJECT PATH: SUBJECT -> appeared
+OBJECT  PATH: OBJECT -> released -> appeared
+appeared
+
+
+SUBJECT speaks about her discography, “Actually, OBJECT came out before ENTITY1 .
+SUBJECT:	[[ ADRIANA EVANS | /m/01pv24s ]]
+OBJECT:	[[ NOMADIC | /m/0h3qnls ]]
+ENTITY1:	[[ KISMET | /m/0h5285b ]]
+SUBJECT PATH: SUBJECT -> speaks -> came
+OBJECT  PATH: OBJECT -> came
+came
+
+
+OBJECT is a collaborative 12  EP between SUBJECT  and ENTITY1 experimental doom band ENTITY2 .
+SUBJECT:	[[ MERZBOW | /m/01r9d_2 ]]
+OBJECT:	[[ WALRUS / GROON | /m/03g5nq9 ]]
+ENTITY1:	[[ JAPANESE | /m/03_3d ]]
+ENTITY2:	[[ BORIS | /m/078mlc ]]
+SUBJECT PATH: SUBJECT -> band -> between -> EP -> is
+OBJECT  PATH: OBJECT -> is
+is
+
+
+On this latest album   OBJECT   released on the excellent ENTITY1 Cold Spring-label, SUBJECT presents three pieces of ear-shattering noise
+SUBJECT:	[[ MERZBOW | /m/01r9d_2 ]]
+OBJECT:	[[ ANICCA | /m/05mvdjd ]]
+ENTITY1:	[[ BRITISH | /m/07ssc ]]
+SUBJECT PATH: SUBJECT -> presents
+OBJECT  PATH: OBJECT -> On -> presents
+presents
+
+

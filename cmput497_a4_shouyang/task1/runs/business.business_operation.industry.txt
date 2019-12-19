@@ -1,0 +1,9757 @@
+Electricity and [[ Natural Gas | /m/05k4k ]] are provided by [[ Manitoba Hydro | /m/04mhl5 ]] .
+Electricity	NN
+and	CC
+Natural	NNP
+Gas	NNP
+are	VBP
+provided	VBN
+by	IN
+Manitoba	NNP
+Hydro	NNP
+.	.
+
+
+Best prices on [[ Budget | /m/02144t ]] video games, [[ Dreamcatcher | /m/04zlmb ]] in [[ Video Games | /m/01mw1 ]] .
+Best	JJS
+prices	NNS
+on	IN
+Budget	NNP
+video	NN
+games	NNS
+,	,
+Dreamcatcher	NNP
+in	IN
+Video	NNP
+Games	NNPS
+.	.
+
+
+The joint venture between the cable industry and [[ Sprint Nextel | /m/077w0b ]] launched [[ Comcast | /m/01s73z ]] s [[ Mobile Access | /m/029g_vk ]] today.
+The	DT
+joint	JJ
+venture	NN
+between	IN
+the	DT
+cable	NN
+industry	NN
+and	CC
+Sprint	NNP
+Nextel	NNP
+launched	VBD
+Comcast	NNP
+s	VBZ
+Mobile	NNP
+Access	NNP
+today	NN
+.	.
+
+
+[[ IMD | /m/06srtz ]] has been providing meteorological services for [[ Aviation | /m/0fzyg ]] to [[ AAI | /m/09f5vv ]] at the airports
+IMD	NNP
+has	VBZ
+been	VBN
+providing	VBG
+meteorological	JJ
+services	NNS
+for	IN
+Aviation	NNP
+to	IN
+AAI	NNP
+at	IN
+the	DT
+airports	NNS
+
+
+[[ Publishing Company | /m/0hz28 ]] , (now [[ West Group | /m/0c6239 ]] , part of [[ Thomson Corporation | /m/02fxl7 ]] ).
+Publishing	NNP
+Company	NNP
+,	,
+(	-LRB-
+now	RB
+West	NNP
+Group	NNP
+,	,
+part	NN
+of	IN
+Thomson	NNP
+Corporation	NNP
+)	-RRB-
+.	.
+
+
+I find them at Super WalMarts with big Grocery stores and a [[ Grocery | /m/01jpn4 ]] called [[ Publix | /m/03p3081 ]] 
+I	PRP
+find	VBP
+them	PRP
+at	IN
+Super	NNP
+WalMarts	NNS
+with	IN
+big	JJ
+Grocery	NNP
+stores	NNS
+and	CC
+a	DT
+Grocery	NNP
+called	VBN
+Publix	NN
+
+
+[[ Brewer | /m/01d_x ]] and pub operator [[ Fuller, Smith & Turner | /m/051tpr ]] has recruited the former chief executive of [[ Scottish | /m/06q1r ]] & [[ Newcastle | /m/09gjd ]] as a non-executive director
+Brewer	NN
+and	CC
+pub	NN
+operator	NN
+Fuller	NNP
+,	,
+Smith	NNP
+&	CC
+Turner	NNP
+has	VBZ
+recruited	VBN
+the	DT
+former	JJ
+chief	JJ
+executive	NN
+of	IN
+Scottish	NNP
+&	CC
+Newcastle	NNP
+as	IN
+a	DT
+non	JJ
+-	JJ
+executive	JJ
+director	NN
+
+
+My favourite [[ Fast Food | /m/01_bhs ]] places [[ Fat Burger | /m/03_6pl ]]
+My	PRP$
+favourite	JJ
+Fast	NNP
+Food	NNP
+places	NNS
+Fat	NNP
+Burger	NNP
+
+
+[[ Yahoo | /m/019rl6 ]]  shows that [[ Information Technology | /m/03ytc ]] is the second most popular topic after the Entertainment and Leisure section.
+Yahoo	NNP
+ 	_SP
+shows	VBZ
+that	IN
+Information	NNP
+Technology	NNP
+is	VBZ
+the	DT
+second	JJ
+most	RBS
+popular	JJ
+topic	NN
+after	IN
+the	DT
+Entertainment	NNP
+and	CC
+Leisure	NNP
+section	NN
+.	.
+
+
+[[ Navteq | /m/09pmmc ]] is a provider of [[ Geographic Information Systems | /m/03821 ]]  data, used in [[ Google Maps | /m/055t58 ]] , [[ Yahoo | /m/019rl6 ]] !
+Navteq	NNP
+is	VBZ
+a	DT
+provider	NN
+of	IN
+Geographic	NNP
+Information	NNP
+Systems	NNPS
+ 	_SP
+data	NNS
+,	,
+used	VBN
+in	IN
+Google	NNP
+Maps	NNPS
+,	,
+Yahoo	NNP
+!	.
+
+
+The real strategist behind the [[ Yahoo | /m/019rl6 ]] assault is [[ Kevin Johnson | /m/05f8c0c ]] , who heads the group responsible for [[ Online Services | /m/01w7f5 ]] 
+The	DT
+real	JJ
+strategist	NN
+behind	IN
+the	DT
+Yahoo	NNP
+assault	NN
+is	VBZ
+Kevin	NNP
+Johnson	NNP
+,	,
+who	WP
+heads	VBZ
+the	DT
+group	NN
+responsible	JJ
+for	IN
+Online	NNP
+Services	NNS
+
+
+The [[ Publishing House | /m/0hz28 ]] is now part of [[ Beacon Press | /m/02ky_x ]] .
+The	DT
+Publishing	NNP
+House	NNP
+is	VBZ
+now	RB
+part	NN
+of	IN
+Beacon	NNP
+Press	NNP
+.	.
+
+
+The deployment had started in corporate finance and worked its way through [[ Osram Sylvania | /m/02x5_zb ]] 's biggest division, [[ General Lighting | /m/019sc6 ]] 
+The	DT
+deployment	NN
+had	VBD
+started	VBN
+in	IN
+corporate	JJ
+finance	NN
+and	CC
+worked	VBD
+its	PRP$
+way	NN
+through	IN
+Osram	NNP
+Sylvania	NNP
+'s	POS
+biggest	JJS
+division	NN
+,	,
+General	NNP
+Lighting	NNP
+
+
+The next major [[ Central Bank | /m/01q82 ]] was the [[ Bank of France | /m/0382ml ]] , established by [[ Napoleon | /m/0j5b8 ]] in 1800
+The	DT
+next	JJ
+major	JJ
+Central	NNP
+Bank	NNP
+was	VBD
+the	DT
+Bank	NNP
+of	IN
+France	NNP
+,	,
+established	VBN
+by	IN
+Napoleon	NNP
+in	IN
+1800	CD
+
+
+[ [[ NYT | /m/07l1c ]] ] - [[ Newspaper | /m/05jnl ]] publishers [[ Media General | /m/0553j8 ]] and [[ Belo | /m/03052h ]] have both cut their dividend sharply
+[	-LRB-
+NYT	NNP
+]	-RRB-
+-	:
+Newspaper	NN
+publishers	NNS
+Media	NNP
+General	NNP
+and	CC
+Belo	NNP
+have	VBP
+both	DT
+cut	VBN
+their	PRP$
+dividend	NN
+sharply	RB
+
+
+One big, open question is whether [[ Google | /m/045c7b ]]  will be added to the [[ Information Technology | /m/03ytc ]] sector of the [[ S&P 500 Index | /m/016yss ]] 
+One	CD
+big	JJ
+,	,
+open	JJ
+question	NN
+is	VBZ
+whether	IN
+Google	NNP
+ 	_SP
+will	MD
+be	VB
+added	VBN
+to	IN
+the	DT
+Information	NNP
+Technology	NNP
+sector	NN
+of	IN
+the	DT
+S&P	NNP
+500	CD
+Index	NNP
+
+
+This text link will ... the major [[ Search Engines and Directories | /m/06xw2 ]] including [[ Google | /m/045c7b ]] and Yahoo.
+This	DT
+text	NN
+link	NN
+will	MD
+...	:
+the	DT
+major	JJ
+Search	NNP
+Engines	NNPS
+and	CC
+Directories	NNPS
+including	VBG
+Google	NNP
+and	CC
+Yahoo	NNP
+.	.
+
+
+[[ Air Zimbabwe | /m/03pmpq ]] is a [[ Scheduled Airline | /m/0vg8 ]] flying from [[ Gatwick Airport | /m/0pr6s ]] 's, North Terminal.
+Air	NNP
+Zimbabwe	NNP
+is	VBZ
+a	DT
+Scheduled	JJ
+Airline	NN
+flying	VBG
+from	IN
+Gatwick	NNP
+Airport	NNP
+'s	POS
+,	,
+North	NNP
+Terminal	NNP
+.	.
+
+
+A very successful partnership between the [[ GSA | /m/03c5_q6 ]] and [[ Qatar Airways | /m/029tr_ ]] saw the [[ Airline | /m/0vg8 ]] well established in [[ Sri Lanka | /m/06m_5 ]] .
+A	DT
+very	RB
+successful	JJ
+partnership	NN
+between	IN
+the	DT
+GSA	NNP
+and	CC
+Qatar	NNP
+Airways	NNP
+saw	VBD
+the	DT
+Airline	NNP
+well	RB
+established	VBN
+in	IN
+Sri	NNP
+Lanka	NNP
+.	.
+
+
+[[ Yahoo | /m/019rl6 ]] has a comprehensive listing under [[ Search Engines and Directories | /m/06xw2 ]] .
+Yahoo	NNP
+has	VBZ
+a	DT
+comprehensive	JJ
+listing	NN
+under	IN
+Search	NNP
+Engines	NNPS
+and	CC
+Directories	NNPS
+.	.
+
+
+[[ Safeway | /m/03lpnx ]] would automatically be categorized as [[ Groceries | /m/01jpn4 ]] ; click it and it would list Gas/Fuel next .
+Safeway	NNP
+would	MD
+automatically	RB
+be	VB
+categorized	VBN
+as	IN
+Groceries	NNS
+;	:
+click	VB
+it	PRP
+and	CC
+it	PRP
+would	MD
+list	VB
+Gas	NNP
+/	SYM
+Fuel	NNP
+next	RB
+.	.
+
+
+As reported in the business weekly magazine in May 2001, [[ UPS | /m/01d734 ]] moved quicker into [[ FedEx | /m/07bsy ]]
+As	IN
+reported	VBN
+in	IN
+the	DT
+business	NN
+weekly	JJ
+magazine	NN
+in	IN
+May	NNP
+2001	CD
+,	,
+UPS	NNP
+moved	VBD
+quicker	RBR
+into	IN
+FedEx	NNP
+
+
+Rising Sun [[ VFX | /m/01vx2h ]] house [[ Rising Sun Pictures | /m/088bcz ]] completed 73 shots on [[ The Spirit | /m/0fldjy ]] and over 150 on the epic [[ Australia | /m/0chghy ]] 
+Rising	VBG
+Sun	NNP
+VFX	NNP
+house	NN
+Rising	VBG
+Sun	NNP
+Pictures	NNPS
+completed	VBD
+73	CD
+shots	NNS
+on	IN
+The	DT
+Spirit	NNP
+and	CC
+over	IN
+150	CD
+on	IN
+the	DT
+epic	JJ
+Australia	NNP
+
+
+Adopt this artifact for $50 5. Once upon a time, [[ Hudson | /m/04pv0h ]] s [[ Department Store | /m/01k_mv ]] was the only place to shop.
+Adopt	VB
+this	DT
+artifact	NN
+for	IN
+$	$
+50	CD
+5	CD
+.	.
+Once	RB
+upon	IN
+a	DT
+time	NN
+,	,
+Hudson	NNP
+s	NNP
+Department	NNP
+Store	NNP
+was	VBD
+the	DT
+only	JJ
+place	NN
+to	TO
+shop	NN
+.	.
+
+
+airline The was assembled through a series of purchases [[ PenAir | /m/0dm2m4 ]] participates in [[ Airline | /m/0vg8 ]] 's frequent [[ Alaska | /m/0hjy ]] flier program
+airline	NN
+The	DT
+was	VBD
+assembled	VBN
+through	IN
+a	DT
+series	NN
+of	IN
+purchases	NNS
+PenAir	NNP
+participates	VBZ
+in	IN
+Airline	NNP
+'s	POS
+frequent	JJ
+Alaska	NNP
+flier	NN
+program	NN
+
+
+[[ Eric N. Johnson | /m/0w7s ]] is the [[ Lockheed Martin | /m/0hkqn ]]
+Eric	NNP
+N.	NNP
+Johnson	NNP
+is	VBZ
+the	DT
+Lockheed	NNP
+Martin	NNP
+
+
+Dr. [[ Ballhaus | /m/09kfrd ]] joined [[ Aerospace | /m/0147gr ]] as president in September 2000 after an 11-year career with [[ Lockheed Martin Corporation | /m/0hkqn ]] 
+Dr.	NNP
+Ballhaus	NNP
+joined	VBD
+Aerospace	NNP
+as	IN
+president	NN
+in	IN
+September	NNP
+2000	CD
+after	IN
+an	DT
+11-year	CD
+career	NN
+with	IN
+Lockheed	NNP
+Martin	NNP
+Corporation	NNP
+
+
+[[ AEROSPACE | /m/0147gr ]] group [[ Rolls-Royce | /m/0286m5 ]] has won a ? 502.6m deal to supply jet engines and services to [[ Middle Eastern | /m/04wsz ]] airline Etihad.
+AEROSPACE	JJ
+group	NN
+Rolls	NNP
+-	HYPH
+Royce	NNP
+has	VBZ
+won	VBN
+a	DT
+?	.
+502.6	CD
+m	NN
+deal	VBP
+to	TO
+supply	VB
+jet	NN
+engines	NNS
+and	CC
+services	NNS
+to	IN
+Middle	JJ
+Eastern	JJ
+airline	NN
+Etihad	NNP
+.	.
+AEROSPACE
+Middle Eastern
+
+
+[[ Qorvis | /m/0gg65r1 ]] helped the [[ Saudis | /m/01z215 ]] handle fallout from the charges, prompting [[ Burton | /m/022r4p ]] to subpoena the [[ PR | /m/062zr ]] firm's records
+Qorvis	NNP
+helped	VBD
+the	DT
+Saudis	NNPS
+handle	VB
+fallout	NN
+from	IN
+the	DT
+charges	NNS
+,	,
+prompting	VBG
+Burton	NNP
+to	TO
+subpoena	VB
+the	DT
+PR	NN
+firm	NN
+'s	POS
+records	NNS
+
+
+For major repair work, the [[ Airline | /m/0vg8 ]] coordinates with [[ Ethiopian Airlines | /m/02351x ]] and other repair stations
+For	IN
+major	JJ
+repair	NN
+work	NN
+,	,
+the	DT
+Airline	NNP
+coordinates	VBZ
+with	IN
+Ethiopian	NNP
+Airlines	NNPS
+and	CC
+other	JJ
+repair	NN
+stations	NNS
+
+
+Call of Duty 2 Once again [[ Infinity Ward | /m/035tgr ]] concocted with the new [[ Video Games | /m/01mw1 ]] and [[ Electronic Sports | /m/02qh79 ]] competitions
+Call	NN
+of	IN
+Duty	NN
+2	CD
+Once	RB
+again	RB
+Infinity	NNP
+Ward	NNP
+concocted	VBD
+with	IN
+the	DT
+new	JJ
+Video	NNP
+Games	NNPS
+and	CC
+Electronic	NNP
+Sports	NNPS
+competitions	NNS
+
+
+The [[ Bank | /m/02lzfj ]] has identified [[ Business Banking | /m/01bs4t ]] as being a strong growth area, and I wanted to be part of this.
+The	DT
+Bank	NNP
+has	VBZ
+identified	VBN
+Business	NNP
+Banking	NNP
+as	IN
+being	VBG
+a	DT
+strong	JJ
+growth	NN
+area	NN
+,	,
+and	CC
+I	PRP
+wanted	VBD
+to	TO
+be	VB
+part	NN
+of	IN
+this	DT
+.	.
+
+
+Although the area where the repugnance arrives, [[ BUDGET HOTEL | /m/03pty ]] is [[ Ibis | /m/087zf8 ]] occassionally as good as a [[ Days Inn | /m/04558f ]] .
+Although	IN
+the	DT
+area	NN
+where	WRB
+the	DT
+repugnance	NN
+arrives	VBZ
+,	,
+BUDGET	NNP
+HOTEL	NNP
+is	VBZ
+Ibis	NNPS
+occassionally	RB
+as	RB
+good	JJ
+as	IN
+a	DT
+Days	NNP
+Inn	NNP
+.	.
+
+
+Experience CEO Fullpower Technologies Telecommunications Industry December 2004 Present [[ Fullpower | /m/0cql1x ]] is converging [[ Wireless | /m/019dhf ]] and Life-Sciences, building breakthrough, innovative solutions
+Experience	NN
+CEO	NNP
+Fullpower	NNP
+Technologies	NNP
+Telecommunications	NNPS
+Industry	NNP
+December	NNP
+2004	CD
+Present	NNP
+Fullpower	NNP
+is	VBZ
+converging	VBG
+Wireless	NNP
+and	CC
+Life	NNP
+-	HYPH
+Sciences	NNPS
+,	,
+building	NN
+breakthrough	NN
+,	,
+innovative	JJ
+solutions	NNS
+
+
+[[ Google | /m/045c7b ]] Bypasses [[ Tech | /m/07c1v ]] Departments ? Agai
+Google	NNP
+Bypasses	NNP
+Tech	NNP
+Departments	NNS
+?	.
+Agai	NN
+
+
+[[ Holiday Inn | /m/03crkh ]] - [[ Holiday Inn | /m/03crkh ]] offer a great selection of [[ Hotels | /m/03pty ]] in both [[ Devon | /m/029rt5 ]] and [[ Cornwall | /m/01q1j ]] .
+Holiday	NNP
+Inn	NNP
+-	HYPH
+Holiday	NNP
+Inn	NNP
+offer	VBP
+a	DT
+great	JJ
+selection	NN
+of	IN
+Hotels	NNPS
+in	IN
+both	DT
+Devon	NNP
+and	CC
+Cornwall	NNP
+.	.
+
+
+[[ China | /m/0d05w3 ]] 's largest wireless carrier also expects to receive an additional estimated 2MWp of [[ PV | /m/02_spr ]] s from [[ Suntech | /m/03p384j ]] .
+China	NNP
+'s	POS
+largest	JJS
+wireless	JJ
+carrier	NN
+also	RB
+expects	VBZ
+to	TO
+receive	VB
+an	DT
+additional	JJ
+estimated	VBN
+2MWp	CD
+of	IN
+PV	NNP
+s	NNP
+from	IN
+Suntech	NNP
+.	.
+
+
+[[ DoubleClick | /m/037qmb ]] 's practices [[ ONLINE ADVERTISING | /m/05b1rx ]] is sensitive to the intake in order to blast their message out there.
+DoubleClick	NNP
+'s	POS
+practices	NNS
+ONLINE	NNP
+ADVERTISING	NN
+is	VBZ
+sensitive	JJ
+to	IN
+the	DT
+intake	NN
+in	IN
+order	NN
+to	TO
+blast	VB
+their	PRP$
+message	NN
+out	RB
+there	RB
+.	.
+
+
+[[ LOTTO | /m/01h8pw ]] bosses [[ Camelot | /m/02xgxj ]] last night became the first big business to join our [[ Help for Heroes | /m/03mb5p9 ]]
+LOTTO	NN
+bosses	NNS
+Camelot	NNP
+last	JJ
+night	NN
+became	VBD
+the	DT
+first	JJ
+big	JJ
+business	NN
+to	TO
+join	VB
+our	PRP$
+Help	NN
+for	IN
+Heroes	NNS
+
+
+[[ MKC Networks | /m/057pmz ]] - [[ MKC Networks | /m/057pmz ]] is a supplier of [[ VoIP | /m/0jzgd ]]  equipment and software components headquartered in [[ Ottawa | /m/05ksh ]] [[ Canada | /m/0d060g ]] .
+MKC	NNP
+Networks	NNP
+-	HYPH
+MKC	NNP
+Networks	NNP
+is	VBZ
+a	DT
+supplier	NN
+of	IN
+VoIP	NNP
+ 	_SP
+equipment	NN
+and	CC
+software	NN
+components	NNS
+headquartered	VBN
+in	IN
+Ottawa	NNP
+Canada	NNP
+.	.
+
+
+[[ Charter communications inc | /m/05c51w ]] is in the [[ Cable | /m/024bm ]] and Other Pay Television Services industry in ARNOLD, [[ MO | /m/04ych ]] .
+Charter	NNP
+communications	NNPS
+inc	NNP
+is	VBZ
+in	IN
+the	DT
+Cable	NNP
+and	CC
+Other	NNP
+Pay	NNP
+Television	NNP
+Services	NNPS
+industry	NN
+in	IN
+ARNOLD	NNP
+,	,
+MO	NNP
+.	.
+
+
+The [[ Turkish Airlines | /m/016g9r ]] is the main [[ Airline Company | /m/0vg8 ]] that has access to many points in the world.
+The	DT
+Turkish	NNP
+Airlines	NNPS
+is	VBZ
+the	DT
+main	JJ
+Airline	NNP
+Company	NNP
+that	WDT
+has	VBZ
+access	NN
+to	IN
+many	JJ
+points	NNS
+in	IN
+the	DT
+world	NN
+.	.
+
+
+? [[ Telecom | /m/029g_vk ]] began distribution of the [[ Verizon | /m/07_dn ]] white and yellow pages to the main campus on Tuesday, Jan. 7.
+?	.
+Telecom	NNP
+began	VBD
+distribution	NN
+of	IN
+the	DT
+Verizon	NNP
+white	JJ
+and	CC
+yellow	JJ
+pages	NNS
+to	IN
+the	DT
+main	JJ
+campus	NN
+on	IN
+Tuesday	NNP
+,	,
+Jan.	NNP
+7	CD
+.	.
+
+
+Funds from [[ Newton | /m/0qkcb ]] and [[ Artemis | /m/0hgqt_5 ]] have been promoted to the Principal [[ Investment Management | /m/05b6l8 ]] 's equity income? [[ White List | /m/018xqx ]]
+Funds	NNS
+from	IN
+Newton	NNP
+and	CC
+Artemis	NNP
+have	VBP
+been	VBN
+promoted	VBN
+to	IN
+the	DT
+Principal	NNP
+Investment	NNP
+Management	NNP
+'s	POS
+equity	NN
+income	NN
+?	.
+White	NNP
+List	NNP
+
+
+Dan King of [[ ITRI | /m/0d_9m_ ]] 's [[ Human Resources | /m/0cgz_ ]] writes that [[ ITRI | /m/0d_9m_ ]] is   [[ Taiwan | /m/06f32 ]] 's leading high-tech [[ R&D | /m/01lr_q ]] institute. 
+Dan	NNP
+King	NNP
+of	IN
+ITRI	NNP
+'s	POS
+Human	NNP
+Resources	NNPS
+writes	VBZ
+that	IN
+ITRI	NNP
+is	VBZ
+  	_SP
+Taiwan	NNP
+'s	POS
+leading	VBG
+high	JJ
+-	HYPH
+tech	NN
+R&D	NNP
+institute	NN
+.	.
+
+
+This Lindbergh Grant in [[ Aviation | /m/0fzyg ]] is Sponsored by [[ Lycoming | /m/03088y ]] , [[ Inc | /m/0135dr ]] .
+This	DT
+Lindbergh	NNP
+Grant	NNP
+in	IN
+Aviation	NNP
+is	VBZ
+Sponsored	VBN
+by	IN
+Lycoming	NNP
+,	,
+Inc	NNP
+.	.
+
+
+[Site] Roto-Rooter Plumbing - Official Site [[ Roto-Rooter | /m/043rcc ]] is the Largest provider of [[ Plumbing | /m/0b_zf ]] and Drain Cleaning Services in [[ North America | /m/059g4 ]] 
+[	-LRB-
+Site	NN
+]	-RRB-
+Roto	NN
+-	HYPH
+Rooter	NNP
+Plumbing	NNP
+-	HYPH
+Official	NNP
+Site	NNP
+Roto	NN
+-	HYPH
+Rooter	NNP
+is	VBZ
+the	DT
+Largest	JJS
+provider	NN
+of	IN
+Plumbing	NNP
+and	CC
+Drain	NNP
+Cleaning	NNP
+Services	NNPS
+in	IN
+North	NNP
+America	NNP
+
+
+You can order Commuter Checks  for [[ Parking | /m/01jp76 ]] made out to [[ Impark | /m/0h7nfk6 ]] in the amount of your parking payment.
+You	PRP
+can	MD
+order	VB
+Commuter	NNP
+Checks	NNS
+ 	_SP
+for	IN
+Parking	NN
+made	VBN
+out	RP
+to	IN
+Impark	NNP
+in	IN
+the	DT
+amount	NN
+of	IN
+your	PRP$
+parking	NN
+payment	NN
+.	.
+
+
+[[ UTStarcom | /m/03t4rt ]] is a global leader in [[ VoIP | /m/0jzgd ]] , mobile internet, internet television and telecommunication solutions.
+UTStarcom	NNP
+is	VBZ
+a	DT
+global	JJ
+leader	NN
+in	IN
+VoIP	NN
+,	,
+mobile	JJ
+internet	NN
+,	,
+internet	NN
+television	NN
+and	CC
+telecommunication	NN
+solutions	NNS
+.	.
+
+
+I think that [[ Reuters | /m/027lr02 ]] will support the expansion of the [[ Semantic Web | /m/076k0 ]] by releasing [[ Calais | /m/0411l_p ]] in a powerful way.
+I	PRP
+think	VBP
+that	IN
+Reuters	NNP
+will	MD
+support	VB
+the	DT
+expansion	NN
+of	IN
+the	DT
+Semantic	NNP
+Web	NNP
+by	IN
+releasing	VBG
+Calais	NNP
+in	IN
+a	DT
+powerful	JJ
+way	NN
+.	.
+
+
+The new company was owned by [[ PE | /m/01b4x4 ]] investor [[ Veronis Suhler Stevenson | /m/04jhb2d ]] ? [[ VSS | /m/04jhb2d ]] had a stake in Hemscott since 2004.
+The	DT
+new	JJ
+company	NN
+was	VBD
+owned	VBN
+by	IN
+PE	NNP
+investor	NN
+Veronis	NNP
+Suhler	NNP
+Stevenson	NNP
+?	.
+VSS	NNP
+had	VBD
+a	DT
+stake	NN
+in	IN
+Hemscott	NNP
+since	IN
+2004	CD
+.	.
+
+
+Maybe [[ nGenera | /m/064pdcb ]] will serve as [[ Oak | /m/09wzt ]] ?s enterprise [[ SaaS | /m/06_4c_ ]] rollup.
+Maybe	RB
+nGenera	NNP
+will	MD
+serve	VB
+as	IN
+Oak	NNP
+?	.
+s	LS
+enterprise	NN
+SaaS	NNP
+rollup	NN
+.	.
+
+
+[[ Bicycle | /m/0199g ]] manufacturers [[ Giant | /m/05nn06 ]] , [[ Raleigh | /m/0fvyg ]] and [[ Trek | /m/01d6b4 ]] are rolling out three-speed bikes that feature chip-controlled, gear-shifting systems.
+Bicycle	NN
+manufacturers	NNS
+Giant	NNP
+,	,
+Raleigh	NNP
+and	CC
+Trek	NNP
+are	VBP
+rolling	VBG
+out	RP
+three	CD
+-	HYPH
+speed	NN
+bikes	NNS
+that	WDT
+feature	NN
+chip	NN
+-	HYPH
+controlled	VBN
+,	,
+gear	NN
+-	HYPH
+shifting	VBG
+systems	NNS
+.	.
+
+
+[[ BioTech | /m/01ftz ]] is an affiliate of a [[ US | /m/09c7w0 ]] company [[ Clonaid | /m/015kjw ]] is owned by the [[ Raelian | /m/02vlv_b ]] movement
+BioTech	NNP
+is	VBZ
+an	DT
+affiliate	NN
+of	IN
+a	DT
+US	NNP
+company	NN
+Clonaid	NNP
+is	VBZ
+owned	VBN
+by	IN
+the	DT
+Raelian	JJ
+movement	NN
+Raelian
+
+
+[[ FishNet Security | /m/0knx576 ]] is a leader in [[ Information Security | /m/03whm ]] solutions, integration, and professional and managed services.
+FishNet	NNP
+Security	NNP
+is	VBZ
+a	DT
+leader	NN
+in	IN
+Information	NNP
+Security	NNP
+solutions	NNS
+,	,
+integration	NN
+,	,
+and	CC
+professional	JJ
+and	CC
+managed	VBD
+services	NNS
+.	.
+
+
+[[ T-Mobile International | /m/013rs0 ]] Selects [[ Visto | /m/09h6rb ]] to Bring [[ Mobile | /m/02fqqq ]] Push Email to the Mass Market
+T	NNP
+-	:
+Mobile	NNP
+International	NNP
+Selects	NNP
+Visto	NNP
+to	TO
+Bring	VB
+Mobile	NNP
+Push	NNP
+Email	NN
+to	IN
+the	DT
+Mass	NNP
+Market	NNP
+
+
+[[ CRM | /m/02016 ]] maker [[ Amdocs | /m/06kpz7 ]] now has an operations support system.
+CRM	NNP
+maker	NN
+Amdocs	NNP
+now	RB
+has	VBZ
+an	DT
+operations	NNS
+support	NN
+system	NN
+.	.
+
+
+The [[ Line | /m/06d_3 ]] became part of the [[ London, Midland & Scottish Railway | /m/019m_g ]] in 1924 and [[ British Railways | /m/01dqc ]]  in 1948
+The	DT
+Line	NN
+became	VBD
+part	NN
+of	IN
+the	DT
+London	NNP
+,	,
+Midland	NNP
+&	CC
+Scottish	NNP
+Railway	NNP
+in	IN
+1924	CD
+and	CC
+British	JJ
+Railways	NNPS
+ 	_SP
+in	IN
+1948	CD
+
+
+The world of [[ Sports Entertainment | /m/02tb6v ]] is heating up with the   [[ Monday Night Wars | /m/05trr2 ]]   between [[ World Wrestling Entertainment | /m/0gy1_ ]] and [[ World Championship Wrestling | /m/019jdn ]] 
+The	DT
+world	NN
+of	IN
+Sports	NNPS
+Entertainment	NNP
+is	VBZ
+heating	VBG
+up	RP
+with	IN
+the	DT
+  	_SP
+Monday	NNP
+Night	NNP
+Wars	NNPS
+  	_SP
+between	IN
+World	NNP
+Wrestling	NNP
+Entertainment	NNP
+and	CC
+World	NNP
+Championship	NNP
+Wrestling	NNP
+
+
+[[ T-Mobile | /m/013rs0 ]] grabs the 3G licecne in [[ Macedonia | /m/0bjv6 ]] , being awarded by country telecoms regulator, The Agency for [[ Electronic Communications | /m/029g_vk ]] .
+T	NNP
+-	HYPH
+Mobile	NNP
+grabs	NNS
+the	DT
+3	CD
+G	NN
+licecne	NN
+in	IN
+Macedonia	NNP
+,	,
+being	VBG
+awarded	VBN
+by	IN
+country	NN
+telecoms	NNS
+regulator	NN
+,	,
+The	DT
+Agency	NNP
+for	IN
+Electronic	NNP
+Communications	NNPS
+.	.
+
+
+According to the [[ Evalueserve | /m/09yjx1 ]] s study, [[ India | /m/03rk0 ]] 's top [[ Knowledge Process Outsourcing | /m/07r27z ]] firm, [[ Indian | /m/03rk0 ]] KPOs will formulate almost 280,000 jobs &
+According	VBG
+to	IN
+the	DT
+Evalueserve	NNP
+s	NNP
+study	NN
+,	,
+India	NNP
+'s	POS
+top	JJ
+Knowledge	NNP
+Process	NNP
+Outsourcing	NNP
+firm	NN
+,	,
+Indian	JJ
+KPOs	NNS
+will	MD
+formulate	VB
+almost	RB
+280,000	CD
+jobs	NNS
+&	CC
+Indian
+
+
+[[ Laserfiche | /m/0cz0xj ]] is an industry-leading [[ ECM | /m/05k6fj ]] software developer in [[ Long Beach | /m/0nbwf ]] , [[ CA | /m/01n7q ]] .
+Laserfiche	NNP
+is	VBZ
+an	DT
+industry	NN
+-	HYPH
+leading	VBG
+ECM	NNP
+software	NN
+developer	NN
+in	IN
+Long	NNP
+Beach	NNP
+,	,
+CA	NNP
+.	.
+
+
+[[ Mahindra | /m/027gnm6 ]] announces senior appointments in [[ Automotive Sector | /m/015smg ]]
+Mahindra	NNP
+announces	VBZ
+senior	JJ
+appointments	NNS
+in	IN
+Automotive	NNP
+Sector	NN
+
+
+[[ Altair Engineering | /m/0gvbbm ]] is the creator of the [[ HyperWorks | /m/0gvbbm ]] suite of [[ CAE | /m/02br93 ]] software products
+Altair	NNP
+Engineering	NNP
+is	VBZ
+the	DT
+creator	NN
+of	IN
+the	DT
+HyperWorks	NNP
+suite	NN
+of	IN
+CAE	NNP
+software	NN
+products	NNS
+
+
+I have Windows XP Pro SP 1 with [[ Norton Antivirus | /m/0431pl ]] 2003, [[ Zone Alarm | /m/089dxw ]] firewall, [[ Ad | /m/011s0 ]] aware 6.0, and [[ Google | /m/045c7b ]] toolbar installed.
+I	PRP
+have	VBP
+Windows	NNP
+XP	NNP
+Pro	NNP
+SP	NN
+1	CD
+with	IN
+Norton	NNP
+Antivirus	NNP
+2003	CD
+,	,
+Zone	NNP
+Alarm	NNP
+firewall	NN
+,	,
+Ad	NN
+aware	JJ
+6.0	CD
+,	,
+and	CC
+Google	NNP
+toolbar	NN
+installed	VBD
+.	.
+
+
+At times, they have done better volumes than [[ Singtel | /m/020zfl ]] , a giant in [[ Telecom | /m/029g_vk ]] .
+At	IN
+times	NNS
+,	,
+they	PRP
+have	VBP
+done	VBN
+better	JJR
+volumes	NNS
+than	IN
+Singtel	NNP
+,	,
+a	DT
+giant	NN
+in	IN
+Telecom	NNP
+.	.
+
+
+Local [[ Cable Television | /m/024bm ]] provided by [[ Comcast | /m/01s73z ]] ; view the WHS Channel Lineup.
+Local	JJ
+Cable	NNP
+Television	NNP
+provided	VBN
+by	IN
+Comcast	NNP
+;	:
+view	VB
+the	DT
+WHS	NNP
+Channel	NNP
+Lineup	NNP
+.	.
+
+
+The [[ WMS | /m/05sqpw ]] provider, [[ Manhattan Associates | /m/0fsm1h ]] , had never seen it.
+The	DT
+WMS	NNP
+provider	NN
+,	,
+Manhattan	NNP
+Associates	NNPS
+,	,
+had	VBD
+never	RB
+seen	VBN
+it	PRP
+.	.
+
+
+[[ Enterprise CMS | /m/05k6fj ]] purveyor [[ SpringCM | /m/026_z2h ]] has announced the unveiling of corporate headquarters in the middle of [[ San Mateo | /m/0r5y9 ]] , [[ CA | /m/01n7q ]] .
+Enterprise	NN
+CMS	NNP
+purveyor	NN
+SpringCM	NNS
+has	VBZ
+announced	VBN
+the	DT
+unveiling	NN
+of	IN
+corporate	JJ
+headquarters	NNS
+in	IN
+the	DT
+middle	NN
+of	IN
+San	NNP
+Mateo	NNP
+,	,
+CA	NNP
+.	.
+
+
+[[ Fast Food | /m/01_bhs ]] is more than [[ KFC | /m/09b6t ]] and [[ McDonalds | /m/07gyp7 ]]
+Fast	NNP
+Food	NNP
+is	VBZ
+more	JJR
+than	IN
+KFC	NNP
+and	CC
+McDonalds	NNP
+
+
+/ [[ Film | /m/02vxn ]] snuck into [[ Legendary Pictures | /m/0f3h3m ]]
+/	SYM
+Film	NN
+snuck	NN
+into	IN
+Legendary	NNP
+Pictures	NNPS
+
+
+[[ Edward Hospital | /m/01mw2x ]] and [[ Health Services | /m/01mw2x ]] is accredited by [[ Joint Commission on Accreditation of Healthcare Organizations | /m/05k5y8 ]] , [[ American College of Surgeons | /m/02q84zk ]] and [[ American College of Radiology | /m/0ddf6c ]] 
+Edward	NNP
+Hospital	NNP
+and	CC
+Health	NNP
+Services	NNPS
+is	VBZ
+accredited	VBN
+by	IN
+Joint	NNP
+Commission	NNP
+on	IN
+Accreditation	NNP
+of	IN
+Healthcare	NNP
+Organizations	NNPS
+,	,
+American	NNP
+College	NNP
+of	IN
+Surgeons	NNPS
+and	CC
+American	NNP
+College	NNP
+of	IN
+Radiology	NNP
+
+
+[[ Cable TV | /m/024bm ]] is available through [[ Cox Communications | /m/03lvmp ]] , telephone 885-3757.
+Cable	NN
+TV	NN
+is	VBZ
+available	JJ
+through	IN
+Cox	NNP
+Communications	NNP
+,	,
+telephone	NN
+885	CD
+-	HYPH
+3757	CD
+.	.
+
+
+The project has brought together a number of [[ Research & Development | /m/01lr_q ]] initiatives carried out within [[ QinetiQ | /m/030xdt ]] .
+The	DT
+project	NN
+has	VBZ
+brought	VBN
+together	RB
+a	DT
+number	NN
+of	IN
+Research	NNP
+&	CC
+Development	NNP
+initiatives	NNS
+carried	VBD
+out	RP
+within	IN
+QinetiQ	NNP
+.	.
+
+
+[[ Oakley | /m/028tf_ ]]   Half Jacket  [[ Sunglasses | /m/017ftj ]]  at [[ Cabela | /m/06d7g1 ]] 's
+Oakley	NNP
+  	_SP
+Half	NNP
+Jacket	NNP
+ 	_SP
+Sunglasses	NNS
+ 	_SP
+at	IN
+Cabela	NNP
+'s	POS
+
+
+[[ Galliford Try | /m/05f2xnx ]]  added within the [[ Construction Industry | /m/01jnzj ]] section of FMUG FM Links #2
+Galliford	NNP
+Try	VBP
+ 	_SP
+added	VBD
+within	IN
+the	DT
+Construction	NNP
+Industry	NNP
+section	NN
+of	IN
+FMUG	NNP
+FM	NNP
+Links	NNP
+#	NN
+2	CD
+
+
+I think that [[ Wizards of the Coast | /m/012pjw ]] should make a [[ Harry Potter | /m/078ffw ]] type of [[ Role Playing Game | /m/06c9r ]] .
+I	PRP
+think	VBP
+that	IN
+Wizards	NNS
+of	IN
+the	DT
+Coast	NNP
+should	MD
+make	VB
+a	DT
+Harry	NNP
+Potter	NNP
+type	NN
+of	IN
+Role	NNP
+Playing	NNP
+Game	NNP
+.	.
+
+
+[[ SpringCM | /m/026_z2h ]] and [[ Kodak | /m/0ftdd ]] Get Together for [[ SaaS | /m/06_4c_ ]]
+SpringCM	NNPS
+and	CC
+Kodak	NNP
+Get	VBP
+Together	RB
+for	IN
+SaaS	NNP
+
+
+From cargo van to minivan is the well-known [[ Car Rental Company | /m/0drl1t ]] in [[ Birmingham | /m/0199gx ]] called [[ Enterprise Rent A Car | /m/049mwl ]] .
+From	IN
+cargo	NN
+van	NNP
+to	IN
+minivan	NNP
+is	VBZ
+the	DT
+well	RB
+-	HYPH
+known	VBN
+Car	NNP
+Rental	NNP
+Company	NNP
+in	IN
+Birmingham	NNP
+called	VBN
+Enterprise	NN
+Rent	VB
+A	DT
+Car	NN
+.	.
+
+
+[[ Clearwire | /m/0c5wjk ]] launches [[ VoIP | /m/0jzgd ]] in the [[ US | /m/09c7w0 ]]
+Clearwire	NN
+launches	VBZ
+VoIP	NN
+in	IN
+the	DT
+US	NNP
+
+
+To help solve this challenge, [[ Google | /m/045c7b ]] reached out to [[ ESRI | /m/011r1z ]] , the world leader in [[ GIS | /m/03821 ]] mapping technology.
+To	TO
+help	VB
+solve	VB
+this	DT
+challenge	NN
+,	,
+Google	NNP
+reached	VBD
+out	RP
+to	IN
+ESRI	NNP
+,	,
+the	DT
+world	NN
+leader	NN
+in	IN
+GIS	NNP
+mapping	NN
+technology	NN
+.	.
+
+
+The [[ Airlines | /m/0vg8 ]] include [[ BMI | /m/01pnw4 ]] , Easy Jet, [[ British Airways | /m/0198z ]] and [[ Iberia | /m/0p87j ]] .
+The	DT
+Airlines	NNPS
+include	VBP
+BMI	NNP
+,	,
+Easy	NNP
+Jet	NNP
+,	,
+British	NNP
+Airways	NNPS
+and	CC
+Iberia	NNP
+.	.
+
+
+Another example is [[ Weyerhaeuser | /m/01qxq9 ]] , a leading supplier of [[ Timber | /m/025tnyc ]] products to [[ Home Depot | /m/01zj1t ]] 
+Another	DT
+example	NN
+is	VBZ
+Weyerhaeuser	NNP
+,	,
+a	DT
+leading	VBG
+supplier	NN
+of	IN
+Timber	NNP
+products	NNS
+to	IN
+Home	NNP
+Depot	NNP
+
+
+[[ Infosys BPO Limited | /m/092zkv ]]  is the [[ BPO | /m/04fm00 ]]  subsidiary of Infosys Technologies Ltd. ..
+Infosys	NNP
+BPO	NNP
+Limited	NNP
+ 	_SP
+is	VBZ
+the	DT
+BPO	NNP
+ 	_SP
+subsidiary	NN
+of	IN
+Infosys	NNP
+Technologies	NNPS
+Ltd.	NNP
+..	.
+
+
+[[ Fast Food | /m/01_bhs ]] is more than [[ KFC | /m/09b6t ]] and [[ McDonalds | /m/07gyp7 ]]
+Fast	NNP
+Food	NNP
+is	VBZ
+more	JJR
+than	IN
+KFC	NNP
+and	CC
+McDonalds	NNP
+
+
+[[ Thales | /m/01phj4 ]] provides [[ Management Development | /m/02q428d ]] , [[ Information Technology | /m/03ytc ]] , Computer Based and Health & Safety programmes.
+Thales	NNS
+provides	VBZ
+Management	NNP
+Development	NNP
+,	,
+Information	NNP
+Technology	NNP
+,	,
+Computer	NNP
+Based	NNP
+and	CC
+Health	NNP
+&	CC
+Safety	NNP
+programmes	NNS
+.	.
+
+
+( [[ Apple | /m/0k8z ]] gets electronics / [[ Disney | /m/09b3v ]] gets [[ Media | /m/04z0z ]] )
+(	-LRB-
+Apple	NNP
+gets	VBZ
+electronics	NNS
+/	SYM
+Disney	NNP
+gets	VBZ
+Media	NNS
+)	-RRB-
+
+
+[[ Thales | /m/01phj4 ]] is a world leader in [[ Mission | /m/0f6fc1 ]] -critical information systems for the [[ Aerospace | /m/0147gr ]] , defence and security markets.
+Thales	NNS
+is	VBZ
+a	DT
+world	NN
+leader	NN
+in	IN
+Mission	NNP
+-critical	NNP
+information	NN
+systems	NNS
+for	IN
+the	DT
+Aerospace	NNP
+,	,
+defence	NN
+and	CC
+security	NN
+markets	NNS
+.	.
+
+
+He brought up the fact that the [[ Hotel | /m/03pty ]] was now a [[ Best Western | /m/035z9q ]] .
+He	PRP
+brought	VBD
+up	RP
+the	DT
+fact	NN
+that	IN
+the	DT
+Hotel	NNP
+was	VBD
+now	RB
+a	DT
+Best	JJS
+Western	JJ
+.	.
+Best Western
+
+
+[[ Corus | /m/019x5q ]] , a subsidiary of [[ India | /m/03rk0 ]] 's [[ Tata Steel | /m/03109d ]] , employs 24,000 people in the [[ UK | /m/07ssc ]] and 42,000 worldwide
+Corus	NNP
+,	,
+a	DT
+subsidiary	NN
+of	IN
+India	NNP
+'s	POS
+Tata	NNP
+Steel	NNP
+,	,
+employs	VBZ
+24,000	CD
+people	NNS
+in	IN
+the	DT
+UK	NNP
+and	CC
+42,000	CD
+worldwide	RB
+
+
+The Case 888 [[ RailRoader | /m/06d_3 ]] is working for [[ Irish Rail | /m/02yc6j ]] .
+The	DT
+Case	NNP
+888	CD
+RailRoader	NNP
+is	VBZ
+working	VBG
+for	IN
+Irish	NNP
+Rail	NNP
+.	.
+
+
+[[ Cable | /m/024bm ]] has returned [[ Verizon | /m/07_dn ]] ?s serve and put the ball right back in [[ FTTP | /m/09gh51 ]] court.
+Cable	NN
+has	VBZ
+returned	VBN
+Verizon	NNP
+?	.
+s	NNS
+serve	VBP
+and	CC
+put	VBD
+the	DT
+ball	NN
+right	RB
+back	RB
+in	IN
+FTTP	NNP
+court	NN
+.	.
+
+
+Two years previously, in 1988 [[ Zondervan | /m/05t5_q ]] was purchased by [[ Harper & Row | /m/04p3tc ]] , [[ Publishers | /m/0hz28 ]] 
+Two	CD
+years	NNS
+previously	RB
+,	,
+in	IN
+1988	CD
+Zondervan	NNP
+was	VBD
+purchased	VBN
+by	IN
+Harper	NNP
+&	CC
+Row	NNP
+,	,
+Publishers	NNS
+
+
+Bustamove - hate to break it to you but [[ Enron | /m/02rsc ]] was in [[ ENERGY | /m/02mm_ ]]  and [[ Worldcom | /m/0g7w2 ]] was in  .
+Bustamove	NN
+-	HYPH
+hate	NN
+to	TO
+break	VB
+it	PRP
+to	IN
+you	PRP
+but	CC
+Enron	NNP
+was	VBD
+in	IN
+ENERGY	NNP
+ 	_SP
+and	CC
+Worldcom	NNP
+was	VBD
+in	IN
+ 	_SP
+.	.
+
+
+[[ Webhelp | /m/0ncq5w5 ]] is the fourth largest company in [[ France | /m/0f8l9c ]] in call centre and [[ CRM | /m/02016 ]] outsourcing.
+Webhelp	NNP
+is	VBZ
+the	DT
+fourth	RB
+largest	JJS
+company	NN
+in	IN
+France	NNP
+in	IN
+call	NN
+centre	NNP
+and	CC
+CRM	NNP
+outsourcing	NN
+.	.
+
+
+you Express Bank see inflation [[ Chase | /m/0221wv ]] allow [[ Banking | /m/017ql ]] has suitability of unless banks now more the fund shortages.
+you	PRP
+Express	NNP
+Bank	NNP
+see	VBP
+inflation	NN
+Chase	NNP
+allow	VB
+Banking	NNP
+has	VBZ
+suitability	NN
+of	IN
+unless	IN
+banks	NNS
+now	RB
+more	RBR
+the	DT
+fund	NN
+shortages	NNS
+.	.
+
+
+[[ VoIP | /m/0jzgd ]] start-up, [[ Jaxtr | /m/02h8pw0 ]] , has increased its number of registered users from 500,000 to 5 million since July
+VoIP	NNP
+start	VB
+-	HYPH
+up	NN
+,	,
+Jaxtr	NNP
+,	,
+has	VBZ
+increased	VBN
+its	PRP$
+number	NN
+of	IN
+registered	VBN
+users	NNS
+from	IN
+500,000	CD
+to	TO
+5	CD
+million	CD
+since	IN
+July	NNP
+
+
+The great advantage of [[ Agel | /m/03whxl_ ]] regarding other companies of [[ MLM | /m/056bx ]] , was to create Innovative Products - new category!
+The	DT
+great	JJ
+advantage	NN
+of	IN
+Agel	NNP
+regarding	VBG
+other	JJ
+companies	NNS
+of	IN
+MLM	NNP
+,	,
+was	VBD
+to	TO
+create	VB
+Innovative	NNP
+Products	NNS
+-	HYPH
+new	JJ
+category	NN
+!	.
+
+
+S.A.M. [[ CONSULTING | /m/02n9jv ]] has been subcontracted by [[ KPMG | /m/0k2gt ]] , [[ Coopers & Lybrand | /m/012_78 ]] , [[ SMS | /m/06_j_ ]] & several others.
+S.A.M.	NNP
+CONSULTING	NNP
+has	VBZ
+been	VBN
+subcontracted	VBN
+by	IN
+KPMG	NNP
+,	,
+Coopers	NNP
+&	CC
+Lybrand	NNP
+,	,
+SMS	NNP
+&	CC
+several	JJ
+others	NNS
+.	.
+
+
+of [[ Transportation | /m/07bsy ]] has given [[ United Airlines | /m/07y2s ]] and for Search property in Washington bmi ( [[ British Midland Airways Ltd. | /m/01pnw4 ]] ,.
+of	IN
+Transportation	NNP
+has	VBZ
+given	VBN
+United	NNP
+Airlines	NNP
+and	CC
+for	IN
+Search	NN
+property	NN
+in	IN
+Washington	NNP
+bmi	NN
+(	-LRB-
+British	NNP
+Midland	NNP
+Airways	NNP
+Ltd.	NNP
+,	,
+.	.
+
+
+Besides losing internal studio [[ Bungie | /m/09h57 ]] , the company lost [[ Interactive Entertainment | /m/02p71tm ]] vice president [[ Peter Moore | /m/09s5wx ]] to [[ Electronic Arts | /m/01n073 ]] in July
+Besides	IN
+losing	VBG
+internal	JJ
+studio	NN
+Bungie	NNP
+,	,
+the	DT
+company	NN
+lost	VBD
+Interactive	NNP
+Entertainment	NNP
+vice	NN
+president	NN
+Peter	NNP
+Moore	NNP
+to	IN
+Electronic	NNP
+Arts	NNPS
+in	IN
+July	NNP
+
+
+The [[ Visual Effects Society | /m/0bq_00 ]] awarded [[ Bungie | /m/09h57 ]] the ?Best Real Time Visuals in a [[ Video Game | /m/01mw1 ]] ? for [[ Halo 3 | /m/04f34h ]] 
+The	DT
+Visual	NNP
+Effects	NNPS
+Society	NNP
+awarded	VBD
+Bungie	NNP
+the	DT
+?	.
+Best	JJS
+Real	JJ
+Time	NNP
+Visuals	NNS
+in	IN
+a	DT
+Video	NNP
+Game	NNP
+?	.
+for	IN
+Halo	NNP
+3	CD
+
+
+You'll find the best prices on [[ Hawks | /m/0jm64 ]] video games, [[ Crave Entertainment | /m/09ymx4 ]] in [[ Video Games | /m/01mw1 ]] when you shop online at [[ BizRate | /m/0fb122 ]] .
+You	PRP
+'ll	MD
+find	VB
+the	DT
+best	JJS
+prices	NNS
+on	IN
+Hawks	NNP
+video	NN
+games	NNS
+,	,
+Crave	NNP
+Entertainment	NNP
+in	IN
+Video	NNP
+Games	NNPS
+when	WRB
+you	PRP
+shop	VBP
+online	RB
+at	IN
+BizRate	NNP
+.	.
+
+
+In the same manner, the [[ Government of Canada | /m/02wz7x ]] created [[ Trans-Canada Airlines | /m/03ps0k ]] as an arm of the [[ Canadian National | /m/05njt7 ]]  [[ Railroad | /m/06d_3 ]] 
+In	IN
+the	DT
+same	JJ
+manner	NN
+,	,
+the	DT
+Government	NNP
+of	IN
+Canada	NNP
+created	VBD
+Trans	NNP
+-	NNP
+Canada	NNP
+Airlines	NNPS
+as	IN
+an	DT
+arm	NN
+of	IN
+the	DT
+Canadian	NNP
+National	NNP
+ 	_SP
+Railroad	NNP
+
+
+One of the world's leading [[ Airlines | /m/0vg8 ]] , [[ Cathay Pacific | /m/013qmk ]] will certainly travel to [[ South Africa | /m/0hzlz ]] for the simple and profitable.
+One	CD
+of	IN
+the	DT
+world	NN
+'s	POS
+leading	VBG
+Airlines	NNPS
+,	,
+Cathay	NNP
+Pacific	NNP
+will	MD
+certainly	RB
+travel	VB
+to	IN
+South	NNP
+Africa	NNP
+for	IN
+the	DT
+simple	JJ
+and	CC
+profitable	JJ
+.	.
+
+
+[[ Shell | /m/0g5vy ]] 's commitment to [[ Sustainable Development | /m/079hx ]] encompasses everything its companies do, in [[ Oil and Gas | /m/03xm3m ]] as much as [[ Renewables | /m/06fhs ]] 
+Shell	NNP
+'s	POS
+commitment	NN
+to	IN
+Sustainable	NNP
+Development	NNP
+encompasses	VBZ
+everything	NN
+its	PRP$
+companies	NNS
+do	VBP
+,	,
+in	IN
+Oil	NNP
+and	CC
+Gas	NNP
+as	RB
+much	RB
+as	IN
+Renewables	NNS
+
+
+[[ Professional Wrestler | /m/066wd ]] and [[ WWE | /m/0gy1_ ]] Superstar the [[ Josh Mathews | /m/04cjjd ]] dishing out the smackdown on [[ RAW | /m/028tmj ]] from the [[ WWE | /m/0gy1_ ]] 
+Professional	NNP
+Wrestler	NNP
+and	CC
+WWE	NNP
+Superstar	NNP
+the	DT
+Josh	NNP
+Mathews	NNP
+dishing	VBG
+out	RP
+the	DT
+smackdown	NN
+on	IN
+RAW	NNP
+from	IN
+the	DT
+WWE	NNP
+
+
+[[ TELECOMMUNICATIONS | /m/029g_vk ]] company [[ AAPT | /m/097jvl ]] is back in the consumer market with the launch of a multi-million-dollar advertising campaign
+TELECOMMUNICATIONS	NNP
+company	NN
+AAPT	NNS
+is	VBZ
+back	RB
+in	IN
+the	DT
+consumer	NN
+market	NN
+with	IN
+the	DT
+launch	NN
+of	IN
+a	DT
+multi	JJ
+-	HYPH
+million	CD
+-	HYPH
+dollar	NN
+advertising	NN
+campaign	NN
+
+
+But anyway, I'd LOVE To see [[ Okami | /m/079p8t ]] turned into a [[ Movie | /m/02vxn ]] , by [[ Studio Ghibli | /m/0130kc ]] !
+But	CC
+anyway	UH
+,	,
+I	PRP
+'d	MD
+LOVE	VB
+To	TO
+see	VB
+Okami	NNP
+turned	VBD
+into	IN
+a	DT
+Movie	NNP
+,	,
+by	IN
+Studio	NNP
+Ghibli	NNP
+!	.
+
+
+On the Sunday after the storm we received a call through [[ TNRIS | /m/0260hng ]] requesting [[ GIS | /m/03821 ]] assistance to [[ Galveston County | /m/0mrq3 ]] .
+On	IN
+the	DT
+Sunday	NNP
+after	IN
+the	DT
+storm	NN
+we	PRP
+received	VBD
+a	DT
+call	NN
+through	IN
+TNRIS	NNP
+requesting	VBG
+GIS	NNP
+assistance	NN
+to	IN
+Galveston	NNP
+County	NNP
+.	.
+
+
+[[ Airlines | /m/0vg8 ]]  flights  air travel  discount and cheap international air travel  [[ las vegas | /m/0310dp ]]  french-dutch pany [[ air france-klm | /m/01_29k ]] was ordered by the.
+Airlines	NNS
+ 	_SP
+flights	NNS
+ 	_SP
+air	NN
+travel	NNP
+ 	_SP
+discount	NN
+and	CC
+cheap	JJ
+international	JJ
+air	NN
+travel	NNP
+ 	_SP
+las	NNP
+vegas	NNP
+ 	_SP
+french	JJ
+-	HYPH
+dutch	NNP
+pany	NNP
+air	NNP
+france	NNP
+-	HYPH
+klm	NNP
+was	VBD
+ordered	VBN
+by	IN
+the	DT
+.	.
+
+
+For instance, last month [[ PE | /m/01b4x4 ]] fund [[ Actis | /m/04lk2cp ]] invested $65m in the [[ Nilgiri | /m/026rdcy ]] 's group, a [[ South Indian | /m/0326cm ]] food brand
+For	IN
+instance	NN
+,	,
+last	JJ
+month	NN
+PE	NNP
+fund	NN
+Actis	NNP
+invested	VBD
+$	$
+65	CD
+m	NN
+in	IN
+the	DT
+Nilgiri	NNP
+'s	POS
+group	NN
+,	,
+a	DT
+South	JJ
+Indian	JJ
+food	NN
+brand	NN
+South Indian
+
+
+[[ iGATE Corporation | /m/04q9gc ]]  offers a comprehensive range of [[ Information Technology | /m/03ytc ]] solutions to more than 500 clients across five continents
+iGATE	CD
+Corporation	NNP
+ 	_SP
+offers	VBZ
+a	DT
+comprehensive	JJ
+range	NN
+of	IN
+Information	NNP
+Technology	NNP
+solutions	NNS
+to	IN
+more	JJR
+than	IN
+500	CD
+clients	NNS
+across	IN
+five	CD
+continents	NNS
+
+
+Appeared in April, 2003 issue of [[ WestJet | /m/0142r7 ]] 's in-flight publication, [[ AirLines | /m/0vg8 ]] . 
+Appeared	VBN
+in	IN
+April	NNP
+,	,
+2003	CD
+issue	NN
+of	IN
+WestJet	NNP
+'s	POS
+in	IN
+-	HYPH
+flight	NN
+publication	NN
+,	,
+AirLines	NNP
+.	.
+
+
+All [[ Clothing | /m/09j2d ]] is [[ American Apparel | /m/06kkcq ]] brand, 100% cotton, chosen for it's quality & fit.
+All	DT
+Clothing	NNP
+is	VBZ
+American	NNP
+Apparel	NNP
+brand	NN
+,	,
+100	CD
+%	NN
+cotton	NN
+,	,
+chosen	VBN
+for	IN
+it	PRP
+'s	VBZ
+quality	NN
+&	CC
+fit	NN
+.	.
+
+
+[[ Market Research | /m/01jxhc ]] firm [[ IDC | /m/07r6pq ]] has named [[ Fortinet | /m/06lqbt ]]
+Market	NNP
+Research	NNP
+firm	NN
+IDC	NNP
+has	VBZ
+named	VBN
+Fortinet	NNP
+
+
+[[ Jayco | /m/064qttf ]] sells a full line of [[ Class C | /m/01lgkm ]] , fifth-wheel, travel trailer and expandable camping trailer RVs
+Jayco	NNP
+sells	VBZ
+a	DT
+full	JJ
+line	NN
+of	IN
+Class	NNP
+C	NNP
+,	,
+fifth	JJ
+-	HYPH
+wheel	NN
+,	,
+travel	VBP
+trailer	NN
+and	CC
+expandable	JJ
+camping	NN
+trailer	NN
+RVs	NNS
+
+
+[[ BankIslami Pakistan | /m/07brpx ]] is [[ Islamic Bank | /m/012qnx ]] in Pakistan offering wealth management, investment banking and consumer banking services
+BankIslami	NNP
+Pakistan	NNP
+is	VBZ
+Islamic	NNP
+Bank	NNP
+in	IN
+Pakistan	NNP
+offering	VBG
+wealth	NN
+management	NN
+,	,
+investment	NN
+banking	NN
+and	CC
+consumer	NN
+banking	NN
+services	NNS
+
+
+[[ Calyon | /m/04n1_w ]] is the [[ Corporate | /m/023k2 ]] and [[ Investment Bank | /m/015p1m ]] of the Cr? dit Agricole Group
+Calyon	NNP
+is	VBZ
+the	DT
+Corporate	NNP
+and	CC
+Investment	NNP
+Bank	NNP
+of	IN
+the	DT
+Cr	NNP
+?	.
+dit	NNP
+Agricole	NNP
+Group	NNP
+
+
+Uplink connects [[ SIP | /m/07362 ]] protocol [[ VoIP | /m/0jzgd ]] calls to the proprietary [[ Skype | /m/06whf7 ]] phone network
+Uplink	JJ
+connects	NNS
+SIP	NNP
+protocol	NN
+VoIP	NN
+calls	VBZ
+to	IN
+the	DT
+proprietary	JJ
+Skype	NNP
+phone	NN
+network	NN
+
+
+[[ Columbia Pictures | /m/017s11 ]] Presents a [[ Film | /m/02vxn ]] directed and edited by [[ Harry Hook | /m/0b7b8l9 ]] 
+Columbia	NNP
+Pictures	NNP
+Presents	VBZ
+a	DT
+Film	NNP
+directed	VBD
+and	CC
+edited	VBN
+by	IN
+Harry	NNP
+Hook	NNP
+
+
+[[ VFX | /m/01vx2h ]] were developed at [[ Framestore | /m/0c86n ]] by executive producer James Razzall, producer Michael Stanish, VFX supervisor [[ Mike McGee | /m/0bczksh ]] .
+VFX	NNP
+were	VBD
+developed	VBN
+at	IN
+Framestore	NNP
+by	IN
+executive	JJ
+producer	NN
+James	NNP
+Razzall	NNP
+,	,
+producer	NN
+Michael	NNP
+Stanish	NNP
+,	,
+VFX	NNP
+supervisor	NN
+Mike	NNP
+McGee	NNP
+.	.
+
+
+[[ India | /m/03rk0 ]] -based [[ Wipro Technologies | /m/0241_l ]] also opened a new [[ BPO | /m/04fm00 ]]
+India	NNP
+-based	NNP
+Wipro	NNP
+Technologies	NNPS
+also	RB
+opened	VBD
+a	DT
+new	JJ
+BPO	NNP
+
+
+[[ Cadcorp | /m/026_373 ]] is a [[ UK | /m/07ssc ]] [[ Geographic Information System | /m/03821 ]]  software house, established in 1991
+Cadcorp	NNP
+is	VBZ
+a	DT
+UK	NNP
+Geographic	NNP
+Information	NNP
+System	NNP
+ 	_SP
+software	NN
+house	NN
+,	,
+established	VBN
+in	IN
+1991	CD
+
+
+I had an interesting meeting today with the senior leadership of social networking [[ SaaS | /m/06_4c_ ]] vendor [[ Neighborhood America | /m/02vzsj8 ]] .
+I	PRP
+had	VBD
+an	DT
+interesting	JJ
+meeting	NN
+today	NN
+with	IN
+the	DT
+senior	JJ
+leadership	NN
+of	IN
+social	JJ
+networking	VBG
+SaaS	NNP
+vendor	NN
+Neighborhood	NNP
+America	NNP
+.	.
+
+
+Newspapers: Television: Marketplace: CanWest Countries: 2005 - 2008 [[ Canwest | /m/02tbg7 ]] squinting [[ Media | /m/04z0z ]] , a division of [[ Canwest Publishing Inc | /m/02tbg7 ]] .
+Newspapers	NNS
+:	:
+Television	NN
+:	:
+Marketplace	NN
+:	:
+CanWest	JJS
+Countries	NNS
+:	:
+2005	CD
+-	SYM
+2008	CD
+Canwest	JJS
+squinting	NN
+Media	NNS
+,	,
+a	DT
+division	NN
+of	IN
+Canwest	NNP
+Publishing	NNP
+Inc	NNP
+.	.
+Canwest
+
+
+[[ Forbes | /m/01r2lw ]] is privately held?the 91-year-old mag sold a roughly 40 percent stake to [[ PE | /m/01b4x4 ]] firm [[ Elevation Partners | /m/0chwfv ]] two years ago
+Forbes	NN
+is	VBZ
+privately	RB
+held?the	$
+91-year	CD
+-	HYPH
+old	JJ
+mag	NN
+sold	VBD
+a	DT
+roughly	RB
+40	CD
+percent	NN
+stake	NN
+to	IN
+PE	NNP
+firm	NN
+Elevation	NNP
+Partners	NNPS
+two	CD
+years	NNS
+ago	RB
+
+
+In 2007 [[ Bond Wireless | /m/03gw_m1 ]] will integrate [[ VOIP | /m/0jzgd ]] as an additional capability into its core gateways and applications.
+In	IN
+2007	CD
+Bond	NNP
+Wireless	NNP
+will	MD
+integrate	VB
+VOIP	NNP
+as	IN
+an	DT
+additional	JJ
+capability	NN
+into	IN
+its	PRP$
+core	NN
+gateways	NNS
+and	CC
+applications	NNS
+.	.
+
+
+[[ Car Hire | /m/0drl1t ]] is available at the [[ Airport | /m/09cjl ]] with [[ Hertz | /m/03nsh ]] and [[ Avis | /m/07l3qb ]] , and with Europe Car, off site.
+Car	NN
+Hire	NNP
+is	VBZ
+available	JJ
+at	IN
+the	DT
+Airport	NNP
+with	IN
+Hertz	NNP
+and	CC
+Avis	NNP
+,	,
+and	CC
+with	IN
+Europe	NNP
+Car	NNP
+,	,
+off	IN
+site	NN
+.	.
+
+
+The world of [[ Sports Entertainment | /m/02tb6v ]] is heating up with the   [[ Monday Night Wars | /m/05trr2 ]]   between [[ World Wrestling Entertainment | /m/0gy1_ ]] and [[ World Championship Wrestling | /m/019jdn ]] 
+The	DT
+world	NN
+of	IN
+Sports	NNPS
+Entertainment	NNP
+is	VBZ
+heating	VBG
+up	RP
+with	IN
+the	DT
+  	_SP
+Monday	NNP
+Night	NNP
+Wars	NNPS
+  	_SP
+between	IN
+World	NNP
+Wrestling	NNP
+Entertainment	NNP
+and	CC
+World	NNP
+Championship	NNP
+Wrestling	NNP
+
+
+[[ Mosaic Communications | /m/0403l_1 ]]  is the [[ Philippines | /m/05v8c ]] ' first commercial [[ Internet Service Provider | /m/0pjxv ]] .
+Mosaic	NNP
+Communications	NNP
+ 	_SP
+is	VBZ
+the	DT
+Philippines	NNPS
+'	POS
+first	JJ
+commercial	JJ
+Internet	NNP
+Service	NNP
+Provider	NNP
+.	.
+
+
+[[ Bombay Dyeing | /m/08xsp4 ]]  is the flagship company of the [[ Wadia Group | /m/0f_b_h ]] , engaged mainly into the business of [[ Textiles | /m/0dnr7 ]] 
+Bombay	NNP
+Dyeing	NNP
+ 	_SP
+is	VBZ
+the	DT
+flagship	NN
+company	NN
+of	IN
+the	DT
+Wadia	NNP
+Group	NNP
+,	,
+engaged	VBD
+mainly	RB
+into	IN
+the	DT
+business	NN
+of	IN
+Textiles	NNS
+
+
+[[ Animal Logic | /m/0565b7 ]] , the digital production studio behind [[ Happy Feet | /m/05650n ]] , did [[ VFX | /m/01vx2h ]] for this movie
+Animal	NNP
+Logic	NNP
+,	,
+the	DT
+digital	JJ
+production	NN
+studio	NN
+behind	IN
+Happy	NNP
+Feet	NNP
+,	,
+did	VBD
+VFX	NNP
+for	IN
+this	DT
+movie	NN
+
+
+Steam, which [[ Valve | /m/0dwl2 ]] calls a   [[ Digital Distribution Platform | /m/05z07s ]]   most definitely represents the future of gaming and possibly of all online transactions.
+Steam	NNP
+,	,
+which	WDT
+Valve	NNP
+calls	VBZ
+a	DT
+  	_SP
+Digital	NNP
+Distribution	NNP
+Platform	NNP
+  	_SP
+most	RBS
+definitely	RB
+represents	VBZ
+the	DT
+future	NN
+of	IN
+gaming	NN
+and	CC
+possibly	RB
+of	IN
+all	DT
+online	JJ
+transactions	NNS
+.	.
+
+
+Which is why the [[ Bank | /m/017ql ]] stumped up the money for [[ Northern Rock | /m/02ht4w ]] in the end, moral hazard notwithstanding.
+Which	WDT
+is	VBZ
+why	WRB
+the	DT
+Bank	NNP
+stumped	VBD
+up	RP
+the	DT
+money	NN
+for	IN
+Northern	NNP
+Rock	NNP
+in	IN
+the	DT
+end	NN
+,	,
+moral	JJ
+hazard	NN
+notwithstanding	RB
+.	.
+
+
+[[ Industrial Light & Magic | /m/01813n ]] or [[ WETA Digital | /m/01cm3c ]] should handle the [[ VFX | /m/01vx2h ]] 
+Industrial	NNP
+Light	NNP
+&	CC
+Magic	NNP
+or	CC
+WETA	NNP
+Digital	NNP
+should	MD
+handle	VB
+the	DT
+VFX	NNP
+
+
+That and the hillarious mention that [[ Taco Bell | /m/09cg6 ]] won the [[ Fast Food | /m/01_bhs ]]  wars  and became the only fast food restaurant.. Priceless.
+That	DT
+and	CC
+the	DT
+hillarious	JJ
+mention	NN
+that	IN
+Taco	NNP
+Bell	NNP
+won	VBD
+the	DT
+Fast	NNP
+Food	NNP
+ 	_SP
+wars	NNS
+ 	_SP
+and	CC
+became	VBD
+the	DT
+only	JJ
+fast	JJ
+food	NN
+restaurant	NN
+..	.
+Priceless	NN
+.	.
+
+
+[[ Akamai | /m/02fqbt ]] operates an  Internet within the [[ Internet | /m/03rlt ]]   that accelerates the performance of widely distributed online applications.
+Akamai	NNP
+operates	VBZ
+an	DT
+ 	_SP
+Internet	NN
+within	IN
+the	DT
+Internet	NN
+  	_SP
+that	WDT
+accelerates	VBZ
+the	DT
+performance	NN
+of	IN
+widely	RB
+distributed	VBN
+online	JJ
+applications	NNS
+.	.
+
+
+[[ Futuremark | /m/05nq4w ]] Announces Groundbreaking [[ Automotive | /m/015smg ]] Demo for [[ Audi | /m/0k50 ]] at NVISION
+Futuremark	NNP
+Announces	VBZ
+Groundbreaking	NNP
+Automotive	NNP
+Demo	NNP
+for	IN
+Audi	NNP
+at	IN
+NVISION	NNP
+
+
+Make an informed decision on [[ Rare | /m/01qvcr ]] xbox video games [[ Video Games | /m/01mw1 ]] before you buy.
+Make	VB
+an	DT
+informed	JJ
+decision	NN
+on	IN
+Rare	NNP
+xbox	NN
+video	NN
+games	NNS
+Video	NNP
+Games	NNPS
+before	IN
+you	PRP
+buy	VBP
+.	.
+
+
+[[ Music | /m/04rlf ]] provided courtesy of [[ Om Records | /m/092wcs ]] 
+Music	NN
+provided	VBD
+courtesy	NN
+of	IN
+Om	NNP
+Records	NNPS
+
+
+Here is the [[ Ad | /m/011s0 ]] created by [[ FCB | /m/0fdnpv ]] for intuit......
+Here	RB
+is	VBZ
+the	DT
+Ad	NN
+created	VBN
+by	IN
+FCB	NNP
+for	IN
+intuit	NN
+......	.
+
+
+[[ ADVERTISING | /m/011s0 ]] FAILURE: [[ Kevin Roberts | /m/0kstb3 ]] , pictured, CEO of [[ Saatchi and Saatchi | /m/01z516 ]] has criticised the [[ UAE | /m/0j1z8 ]] 's advertising industry.
+ADVERTISING	NN
+FAILURE	NN
+:	:
+Kevin	NNP
+Roberts	NNP
+,	,
+pictured	VBN
+,	,
+CEO	NNP
+of	IN
+Saatchi	NNP
+and	CC
+Saatchi	NNP
+has	VBZ
+criticised	VBN
+the	DT
+UAE	NNP
+'s	POS
+advertising	NN
+industry	NN
+.	.
+
+
+Prior to his appointment at [[ Burberry | /m/043pph ]] , [[ Christopher | /m/0g71dn ]] was Senior Designer of [[ Womenswear | /m/09j2d ]] at [[ Gucci | /m/03gc5x ]] 
+Prior	RB
+to	IN
+his	PRP$
+appointment	NN
+at	IN
+Burberry	NNP
+,	,
+Christopher	NNP
+was	VBD
+Senior	NNP
+Designer	NNP
+of	IN
+Womenswear	NNP
+at	IN
+Gucci	NNP
+
+
+Description: [[ Insureandgo | /m/0drxhxm ]] provide [[ Travel Insurance | /m/08jvtd ]] and a wide variety of other insurance services.
+Description	NN
+:	:
+Insureandgo	NNP
+provide	VB
+Travel	NNP
+Insurance	NNP
+and	CC
+a	DT
+wide	JJ
+variety	NN
+of	IN
+other	JJ
+insurance	NN
+services	NNS
+.	.
+
+
+Rebuilt [[ Ford | /m/015v19 ]] engines, [[ Ford | /m/015v19 ]] engine parts, [[ Automotive | /m/015smg ]] , custom,rebuilds.
+Rebuilt	NNP
+Ford	NNP
+engines	NNS
+,	,
+Ford	NNP
+engine	NN
+parts	NNS
+,	,
+Automotive	JJ
+,	,
+custom	NN
+,	,
+rebuilds	NNS
+.	.
+Automotive
+
+
+With the [[ Biotech | /m/01ftz ]] and [[ Health Care | /m/01mw2x ]] industries growing rapidly, [[ 23andMe | /m/02r_jll ]] could be [[ Google | /m/045c7b ]]
+With	IN
+the	DT
+Biotech	NNP
+and	CC
+Health	NNP
+Care	NNP
+industries	NNS
+growing	VBG
+rapidly	RB
+,	,
+23andMe	CD
+could	MD
+be	VB
+Google	NNP
+23andMe
+
+
+[[ CINEMA | /m/02vxn ]] and theme park operator [[ Village Roadshow | /m/03vr6l ]] will merge its film production business with [[ US | /m/09c7w0 ]] record company [[ Concord Music | /m/025twry ]]
+CINEMA	NNP
+and	CC
+theme	NN
+park	NN
+operator	NN
+Village	NNP
+Roadshow	NNP
+will	MD
+merge	VB
+its	PRP$
+film	NN
+production	NN
+business	NN
+with	IN
+US	NNP
+record	NN
+company	NN
+Concord	NNP
+Music	NNP
+
+
+Finally, the [[ MSc | /m/03bwzr4 ]] in [[ Finance | /m/02_7t ]] is accredited by the [[ Association of Chartered Certified Accountants | /m/05mf7z ]] .
+Finally	RB
+,	,
+the	DT
+MSc	NNS
+in	IN
+Finance	NNP
+is	VBZ
+accredited	VBN
+by	IN
+the	DT
+Association	NNP
+of	IN
+Chartered	NNP
+Certified	NNP
+Accountants	NNPS
+.	.
+
+
+Consequently, we are further leveraging on [[ Fortis | /m/04s31b ]] ?s capabilities in [[ Global Markets | /m/05xysy ]] and [[ Investment Banking | /m/015p1m ]] .
+Consequently	RB
+,	,
+we	PRP
+are	VBP
+further	RB
+leveraging	VBG
+on	IN
+Fortis	NNP
+?	.
+s	VBZ
+capabilities	NNS
+in	IN
+Global	NNP
+Markets	NNPS
+and	CC
+Investment	NNP
+Banking	NNP
+.	.
+
+
+[[ Friday Night Lights | /m/0dsx3f ]]  is a production of [[ Imagine Entertainment | /m/04rtpt ]] , [[ NBC Universal Television Studio | /m/03tgw8 ]] and [[ Film | /m/02vxn ]] 44.
+Friday	NNP
+Night	NNP
+Lights	NNPS
+ 	_SP
+is	VBZ
+a	DT
+production	NN
+of	IN
+Imagine	NNP
+Entertainment	NNP
+,	,
+NBC	NNP
+Universal	NNP
+Television	NNP
+Studio	NNP
+and	CC
+Film	NNP
+44	CD
+.	.
+
+
+Both sites have multiple lines over [[ VoIP | /m/0jzgd ]] supplied by [[ Engin | /m/0csjcl ]] .
+Both	DT
+sites	NNS
+have	VBP
+multiple	JJ
+lines	NNS
+over	IN
+VoIP	NN
+supplied	VBN
+by	IN
+Engin	NNP
+.	.
+
+
+But that doesn mean [[ Verizon | /m/07_dn ]] is moving out of the residential [[ VoIP | /m/0jzgd ]] market....
+But	CC
+that	DT
+doesn	NN
+mean	JJ
+Verizon	NNP
+is	VBZ
+moving	VBG
+out	IN
+of	IN
+the	DT
+residential	JJ
+VoIP	NN
+market	NN
+....	.
+
+
+[[ Northrop Grumman Corporation | /m/01frpd ]] is an [[ Aerospace | /m/0147gr ]] and defense conglomerate that is the result of 1994 purchase of [[ Grumman | /m/01fr5h ]] by [[ Northrop | /m/01frpd ]] .
+Northrop	NNP
+Grumman	NNP
+Corporation	NNP
+is	VBZ
+an	DT
+Aerospace	NNP
+and	CC
+defense	NN
+conglomerate	NN
+that	WDT
+is	VBZ
+the	DT
+result	NN
+of	IN
+1994	CD
+purchase	NN
+of	IN
+Grumman	NNP
+by	IN
+Northrop	NNP
+.	.
+
+
+[[ STEEL | /m/06qqb ]] union officials from [[ Teesside | /m/0206wm ]] say a meeting with [[ Corus | /m/06w7h_ ]] managers went 'very well.
+STEEL	NNP
+union	NN
+officials	NNS
+from	IN
+Teesside	NNP
+say	VBP
+a	DT
+meeting	NN
+with	IN
+Corus	NNP
+managers	NNS
+went	VBD
+'	``
+very	RB
+well	RB
+.	.
+
+
+[[ CLOTHING | /m/09j2d ]] group [[ Next | /m/035qrr ]] has brushed aside fears of a slowdown in high street spending with its latest results
+CLOTHING	NN
+group	NN
+Next	NNP
+has	VBZ
+brushed	VBN
+aside	RB
+fears	NNS
+of	IN
+a	DT
+slowdown	NN
+in	IN
+high	JJ
+street	NN
+spending	NN
+with	IN
+its	PRP$
+latest	JJS
+results	NNS
+
+
+[[ MPC | /m/089630 ]] has completed various types of [[ VFX | /m/01vx2h ]] for a number of key sequences.
+MPC	NNP
+has	VBZ
+completed	VBN
+various	JJ
+types	NNS
+of	IN
+VFX	NNP
+for	IN
+a	DT
+number	NN
+of	IN
+key	JJ
+sequences	NNS
+.	.
+
+
+Reporter Hacked to Death Fuels Fears for [[ Nepal | /m/016zwt ]] s [[ Media | /m/04z0z ]] , [[ UN | /m/07t65 ]] Says - [[ Bloomberg | /m/027sm6 ]]
+Reporter	NN
+Hacked	VBD
+to	IN
+Death	NN
+Fuels	NNS
+Fears	NNP
+for	IN
+Nepal	NNP
+s	NNP
+Media	NNP
+,	,
+UN	NNP
+Says	VBZ
+-	HYPH
+Bloomberg	NNP
+
+
+Overnight at [[ Sheraton Hotel | /m/04sm8g ]] , [[ Holiday | /m/03gkl ]] express, [[ Tourist | /m/07bxq ]] hotel [[ Kampala | /m/0fngy ]] .
+Overnight	RB
+at	IN
+Sheraton	NNP
+Hotel	NNP
+,	,
+Holiday	NNP
+express	NNP
+,	,
+Tourist	NNP
+hotel	NN
+Kampala	NNP
+.	.
+
+
+[[ Sandoz | /m/02t15y ]]  was the largest energy user in [[ Novartis | /m/0150cn ]] , followed by [[ Pharma | /m/02q3wl ]]  and Consumer Health .
+Sandoz	NNP
+ 	_SP
+was	VBD
+the	DT
+largest	JJS
+energy	NN
+user	NN
+in	IN
+Novartis	NNP
+,	,
+followed	VBN
+by	IN
+Pharma	NNP
+ 	_SP
+and	CC
+Consumer	NNP
+Health	NNP
+.	.
+
+
+[[ Nuance | /m/03m92m ]] to sell $175M in stock to [[ PE | /m/01b4x4 ]] firm [[ Warburg Pincus | /m/04rdc1 ]]
+Nuance	NN
+to	TO
+sell	VB
+$	$
+175	CD
+M	NNP
+in	IN
+stock	NN
+to	IN
+PE	NNP
+firm	NN
+Warburg	NNP
+Pincus	NNP
+
+
+[[ Paper | /m/0641k ]] is taken to [[ SCA | /m/01qxy3 ]] in [[ Cambridge | /m/0978r ]] to be baled.
+Paper	NN
+is	VBZ
+taken	VBN
+to	IN
+SCA	NNP
+in	IN
+Cambridge	NNP
+to	TO
+be	VB
+baled	VBN
+.	.
+
+
+[[ Verizon | /m/02d532 ]] has [[ Wireless | /m/019dhf ]] quietly introduced [[ Motorola RAZR | /m/05j128 ]] the to WMAs and then V3m,.
+Verizon	NNP
+has	VBZ
+Wireless	RB
+quietly	RB
+introduced	VBN
+Motorola	NNP
+RAZR	NNP
+the	DT
+to	IN
+WMAs	NNS
+and	CC
+then	RB
+V3	NNP
+m	NNP
+,	,
+.	.
+Wireless
+
+
+The laboratory was setup with the help of [[ ABB | /m/01bs_z ]] , the world leaders in [[ Industrial Automation | /m/017cmr ]] .
+The	DT
+laboratory	NN
+was	VBD
+setup	NN
+with	IN
+the	DT
+help	NN
+of	IN
+ABB	NNP
+,	,
+the	DT
+world	NN
+leaders	NNS
+in	IN
+Industrial	NNP
+Automation	NNP
+.	.
+
+
+[[ PTC | /m/031lrz ]] provides leading [[ Product Lifecycle Management | /m/02tw8p ]]  and [[ Enterprise Content Management | /m/05k6fj ]]  solutions to more than 50,000 organizations worldwide.
+PTC	NNP
+provides	VBZ
+leading	VBG
+Product	NNP
+Lifecycle	NNP
+Management	NNP
+ 	_SP
+and	CC
+Enterprise	NNP
+Content	NNP
+Management	NNP
+ 	_SP
+solutions	NNS
+to	IN
+more	JJR
+than	IN
+50,000	CD
+organizations	NNS
+worldwide	RB
+.	.
+
+
+The [[ Creature Shop | /m/03n349 ]] won an [[ Academy Award | /m/0g_w ]] as part of the [[ Visual Effects | /m/01vx2h ]] 
+The	DT
+Creature	NNP
+Shop	NNP
+won	VBD
+an	DT
+Academy	NNP
+Award	NNP
+as	IN
+part	NN
+of	IN
+the	DT
+Visual	JJ
+Effects	NNS
+
+
+Job Duties :  Provide complex and challenging support for [[ MicroStrategy | /m/052hvb ]] s [[ Business Intelligence | /m/016jq3 ]] product suite and its underlying technologies.
+Job	NNP
+Duties	NNS
+:	:
+ 	_SP
+Provide	VB
+complex	JJ
+and	CC
+challenging	JJ
+support	NN
+for	IN
+MicroStrategy	NNP
+s	NNP
+Business	NNP
+Intelligence	NNP
+product	NN
+suite	NN
+and	CC
+its	PRP$
+underlying	JJ
+technologies	NNS
+.	.
+
+
+[[ Vyke | /m/02rg1yy ]] can be used as [[ VOIP | /m/0jzgd ]] and mobile VOIP option.
+Vyke	NNP
+can	MD
+be	VB
+used	VBN
+as	IN
+VOIP	NN
+and	CC
+mobile	JJ
+VOIP	NN
+option	NN
+.	.
+
+
+[[ Software | /m/01mf0 ]] said seeing that [[ Cakewalk | /m/01x3sn ]] water 6 Producer .
+Software	NN
+said	VBD
+seeing	VBG
+that	IN
+Cakewalk	NNP
+water	NN
+6	CD
+Producer	NNP
+.	.
+
+
+The [[ Green Mountain Film Festival | /m/0gsx_6 ]] is presented by [[ Focus | /m/024rbz ]] on [[ Film | /m/02vxn ]] , a 501 organization
+The	DT
+Green	NNP
+Mountain	NNP
+Film	NNP
+Festival	NNP
+is	VBZ
+presented	VBN
+by	IN
+Focus	NNP
+on	IN
+Film	NNP
+,	,
+a	DT
+501	CD
+organization	NN
+
+
+[[ Disney | /m/04czhj ]] high school musical [[ Video Games | /m/01mw1 ]]
+Disney	NNP
+high	JJ
+school	NN
+musical	JJ
+Video	NNP
+Games	NNPS
+
+
+[[ Zee | /m/03x5yv ]] has first listed [[ Media Company | /m/04z0z ]] in [[ India | /m/03rk0 ]] , which launched the first Hindi movie channel, [[ Zee Cinema | /m/0f8f9r ]] 
+Zee	NNP
+has	VBZ
+first	RB
+listed	VBN
+Media	NNP
+Company	NNP
+in	IN
+India	NNP
+,	,
+which	WDT
+launched	VBD
+the	DT
+first	JJ
+Hindi	NNP
+movie	NN
+channel	NN
+,	,
+Zee	NNP
+Cinema	NNP
+
+
+Baumers Footwear ...OnlineSports  ONLY GOLF [[ APPAREL | /m/09j2d ]]  OnYourFeet.com  ...from [[ adidas | /m/01jtml ]]  showcases a ......
+Baumers	NNS
+Footwear	NNP
+...	:
+OnlineSports	NNS
+ 	_SP
+ONLY	NNP
+GOLF	NNP
+APPAREL	NNP
+ 	_SP
+OnYourFeet.com	NNP
+ 	_SP
+...	:
+from	IN
+adidas	NNP
+ 	_SP
+showcases	VBZ
+a	DT
+......	.
+
+
+[[ FURNITURE | /m/0c_jw ]] retailer [[ MFI | /m/06gl7s ]] has forecast a substantial improvement in results at its main business.
+FURNITURE	NNP
+retailer	NN
+MFI	NNP
+has	VBZ
+forecast	VBN
+a	DT
+substantial	JJ
+improvement	NN
+in	IN
+results	NNS
+at	IN
+its	PRP$
+main	JJ
+business	NN
+.	.
+
+
+[[ David Arquette | /m/02v60l ]]  is an [[ American | /m/09c7w0 ]] actor and former [[ Professional Wrestler | /m/066wd ]] with [[ World Championship Wrestling | /m/019jdn ]] .
+David	NNP
+Arquette	NNP
+ 	_SP
+is	VBZ
+an	DT
+American	JJ
+actor	NN
+and	CC
+former	JJ
+Professional	NNP
+Wrestler	NNP
+with	IN
+World	NNP
+Championship	NNP
+Wrestling	NNP
+.	.
+American
+
+
+[[ Railway | /m/06d_3 ]] operator [[ RailTrack | /m/06hnp ]] has today announced a surprise late bid to run the national lottery.
+Railway	NN
+operator	NN
+RailTrack	NNP
+has	VBZ
+today	NN
+announced	VBD
+a	DT
+surprise	NN
+late	JJ
+bid	NN
+to	TO
+run	VB
+the	DT
+national	JJ
+lottery	NN
+.	.
+
+
+A new survey from global [[ PR | /m/062zr ]] firm [[ Edelman | /m/0kqjf6 ]] found that entertainment industry is the third-least truste...
+A	DT
+new	JJ
+survey	NN
+from	IN
+global	JJ
+PR	NN
+firm	NN
+Edelman	NNP
+found	VBD
+that	IN
+entertainment	NN
+industry	NN
+is	VBZ
+the	DT
+third	RB
+-	HYPH
+least	JJS
+truste	NN
+...	.
+
+
+[[ Mitchell | /m/027nxls ]]  has joined the [[ PR | /m/062zr ]] and marketing agency [[ Freud Communications | /m/0gb0vf ]] .
+Mitchell	NNP
+ 	_SP
+has	VBZ
+joined	VBN
+the	DT
+PR	NN
+and	CC
+marketing	NN
+agency	NN
+Freud	NNP
+Communications	NNPS
+.	.
+
+
+Tuesdays at [[ Marie Callendar | /m/02nwj3 ]] s [[ Restaurant | /m/06l8d ]] , 31920 Gateway Center Blvd
+Tuesdays	NNS
+at	IN
+Marie	NNP
+Callendar	NNP
+s	NNP
+Restaurant	NNP
+,	,
+31920	CD
+Gateway	NNP
+Center	NNP
+Blvd	NNP
+
+
+Thin-film solar [[ PV | /m/02_spr ]] company [[ Solyndra | /m/04n0nks ]]
+Thin	JJ
+-	HYPH
+film	NN
+solar	JJ
+PV	NNP
+company	NN
+Solyndra	NNP
+
+
+[[ IRCTC | /m/06kqyd ]] has completely changed the way of [[ Railway | /m/06d_3 ]] ticketing in [[ India | /m/03rk0 ]] .
+IRCTC	NNP
+has	VBZ
+completely	RB
+changed	VBN
+the	DT
+way	NN
+of	IN
+Railway	NNP
+ticketing	NN
+in	IN
+India	NNP
+.	.
+
+
+[[ Juno | /m/033zmb ]] is a nationwide [[ Internet Service Provider | /m/0pjxv ]] , available in over 8,000 cities throughout [[ N America | /m/059g4 ]] .
+Juno	NNP
+is	VBZ
+a	DT
+nationwide	JJ
+Internet	NN
+Service	NNP
+Provider	NNP
+,	,
+available	JJ
+in	IN
+over	IN
+8,000	CD
+cities	NNS
+throughout	IN
+N	NNP
+America	NNP
+.	.
+
+
+,- [[ Vestas | /m/077ms0 ]] Receives Orders for [[ Wind Turbines | /m/01d2_z ]] in [[ China | /m/0d05w3 ]] and [[ US | /m/09c7w0 ]] .
+,	,
+-	:
+Vestas	NNP
+Receives	VBZ
+Orders	NNPS
+for	IN
+Wind	NNP
+Turbines	NNPS
+in	IN
+China	NNP
+and	CC
+US	NNP
+.	.
+
+
+[[ TransCAD | /m/03nx8wy ]] differs from most [[ GIS | /m/03821 ]] products as it is effectively a [[ GIS | /m/03821 ]] for transportation? offering
+TransCAD	NNP
+differs	VBZ
+from	IN
+most	JJS
+GIS	NNP
+products	NNS
+as	IN
+it	PRP
+is	VBZ
+effectively	RB
+a	DT
+GIS	NNP
+for	IN
+transportation	NN
+?	.
+offering	VBG
+
+
+[[ Cable | /m/024bm ]] overbuilder [[ RCN | /m/0bnybv ]] says theyre starting to deploy [[ DOCSIS | /m/01r7qk ]] 3.0 technolo?
+Cable	NN
+overbuilder	NN
+RCN	NNP
+says	VBZ
+theyre	CD
+starting	VBG
+to	TO
+deploy	VB
+DOCSIS	NNP
+3.0	CD
+technolo	NN
+?	.
+
+
+We soared into the unfriendly skies with a new series of [[ Airline | /m/0vg8 ]] , the docusoap about [[ easyJet | /m/018mxj ]] 
+We	PRP
+soared	VBD
+into	IN
+the	DT
+unfriendly	JJ
+skies	NNS
+with	IN
+a	DT
+new	JJ
+series	NN
+of	IN
+Airline	NNP
+,	,
+the	DT
+docusoap	NN
+about	IN
+easyJet	NNP
+
+
+The first time I have worked for [[ VFX | /m/01vx2h ]] was for [[ BUF | /m/027y57f ]] compagnie.
+The	DT
+first	JJ
+time	NN
+I	PRP
+have	VBP
+worked	VBN
+for	IN
+VFX	NNP
+was	VBD
+for	IN
+BUF	NNP
+compagnie	NN
+.	.
+
+
+Stewart A. Gollmer ? Director [[ Stewart A. Gollmer | /m/02_rj7d ]] is a senior vice president in [[ Private Equity | /m/01b4x4 ]] and a partner in [[ Lehman Brothers Venture Partners | /m/05z_1d9 ]] .
+Stewart	NNP
+A.	NN
+Gollmer	NNP
+?	.
+Director	NNP
+Stewart	NNP
+A.	NN
+Gollmer	NNP
+is	VBZ
+a	DT
+senior	JJ
+vice	NN
+president	NN
+in	IN
+Private	NNP
+Equity	NNP
+and	CC
+a	DT
+partner	NN
+in	IN
+Lehman	NNP
+Brothers	NNPS
+Venture	NNP
+Partners	NNPS
+.	.
+
+
+She teaches a minicourse for [[ MMM | /m/0h1jr ]] entitled   [[ Sustainable Design | /m/01dxbm ]] and [[ Manufacturing | /m/09t4t ]] . 
+She	PRP
+teaches	VBZ
+a	DT
+minicourse	NN
+for	IN
+MMM	NNP
+entitled	VBN
+  	_SP
+Sustainable	NNP
+Design	NNP
+and	CC
+Manufacturing	NNP
+.	.
+
+
+[[ CONSTRUCTION | /m/01jnzj ]] giant [[ Grocon | /m/08kxhb ]] will build a $50 million inner-city homeless shelter at cost, forgoing up to $15 million profit
+CONSTRUCTION	NN
+giant	NN
+Grocon	NNP
+will	MD
+build	VB
+a	DT
+$	$
+50	CD
+million	CD
+inner	JJ
+-	HYPH
+city	NN
+homeless	JJ
+shelter	NN
+at	IN
+cost	NN
+,	,
+forgoing	VBG
+up	IN
+to	TO
+$	$
+15	CD
+million	CD
+profit	NN
+
+
+With specialized coatings designed for [[ Oil and Gas industry | /m/03xm3m ]]  specifically catering to [[ Petroleum Development Oman | /m/03k9gm ]] , Oman Refineries and Petrochemicals Company and various Ministries.
+With	IN
+specialized	JJ
+coatings	NNS
+designed	VBN
+for	IN
+Oil	NNP
+and	CC
+Gas	NN
+industry	NN
+ 	_SP
+specifically	RB
+catering	VBG
+to	IN
+Petroleum	NNP
+Development	NNP
+Oman	NNP
+,	,
+Oman	NNP
+Refineries	NNP
+and	CC
+Petrochemicals	NNPS
+Company	NNP
+and	CC
+various	JJ
+Ministries	NNS
+.	.
+
+
+Ronnie artman [[ polaris | /m/01xs4j ]] sled pull class b  scott pompa suzuki vinson drag race [[ class c | /m/01lgkm ]]  travis knight honda trx r.
+Ronnie	NNP
+artman	NN
+polaris	NNP
+sled	VBD
+pull	NN
+class	NN
+b	NN
+ 	_SP
+scott	NNP
+pompa	NNP
+suzuki	NNP
+vinson	NNP
+drag	NNP
+race	NNP
+class	NNP
+c	NNP
+ 	_SP
+travis	NNP
+knight	NNP
+honda	NNP
+trx	NNP
+r.	NNP
+
+
+[[ American Airlines | /m/0z07 ]] adheres to the [[ Federal Aviation Authority | /m/02_hj ]]  requirements and the UK Department for [[ Transportation | /m/07bsy ]] 's  recommendations of one carry-on bag.
+American	NNP
+Airlines	NNP
+adheres	NNS
+to	IN
+the	DT
+Federal	NNP
+Aviation	NNP
+Authority	NNP
+ 	_SP
+requirements	NNS
+and	CC
+the	DT
+UK	NNP
+Department	NNP
+for	IN
+Transportation	NNP
+'s	POS
+ 	_SP
+recommendations	NNS
+of	IN
+one	CD
+carry	NN
+-	HYPH
+on	RP
+bag	NN
+.	.
+
+
+[[ Cable TV | /m/024bm ]] operator [[ Cablevision | /m/04v49y ]] sold the money-losing [[ VOOM | /m/03bxlmh ]] 's assets and plans to shut the service down on April 30
+Cable	NN
+TV	NN
+operator	NN
+Cablevision	NNP
+sold	VBD
+the	DT
+money	NN
+-	HYPH
+losing	VBG
+VOOM	NNP
+'s	POS
+assets	NNS
+and	CC
+plans	NNS
+to	TO
+shut	VB
+the	DT
+service	NN
+down	RB
+on	IN
+April	NNP
+30	CD
+
+
+[[ Cognos | /m/03l5rg ]] is an acknowledged industry leader in [[ BI | /m/016jq3 ]] and corporate performance management .
+Cognos	NNP
+is	VBZ
+an	DT
+acknowledged	JJ
+industry	NN
+leader	NN
+in	IN
+BI	NNP
+and	CC
+corporate	JJ
+performance	NN
+management	NN
+.	.
+
+
+Its Volunteer [[ Mine | /m/053rd ]] was  leased by the [[ Cleveland-Cliffs Iron Company | /m/03p1tnt ]] in 1899.
+Its	PRP$
+Volunteer	NNP
+Mine	NNP
+was	VBD
+  	_SP
+leased	VBN
+by	IN
+the	DT
+Cleveland	NNP
+-	HYPH
+Cliffs	NNP
+Iron	NNP
+Company	NNP
+in	IN
+1899	CD
+.	.
+
+
+[[ Ascentium | /m/03mcrk0 ]] also provides [[ Business Intelligence | /m/016jq3 ]]  services, agile application development, outsourced product development and technical infrastructure
+Ascentium	NN
+also	RB
+provides	VBZ
+Business	NNP
+Intelligence	NNP
+ 	_SP
+services	NNS
+,	,
+agile	JJ
+application	NN
+development	NN
+,	,
+outsourced	VBD
+product	NN
+development	NN
+and	CC
+technical	JJ
+infrastructure	NN
+
+
+[[ Bally | /m/08t2jb ]] receiving [[ Fitness | /m/027x7n ]] and the Sports accuracy summer get [[ Rituxan | /m/04k6q7 ]] .
+Bally	NNP
+receiving	VBG
+Fitness	NNP
+and	CC
+the	DT
+Sports	NNPS
+accuracy	NN
+summer	NN
+get	VBP
+Rituxan	NNP
+.	.
+
+
+While [[ Xerox | /m/0878f ]] had fantastic [[ R & D | /m/01lr_q ]] , they didn't have a marketing brain attached to these ideas.
+While	IN
+Xerox	NNP
+had	VBD
+fantastic	JJ
+R	NN
+&	CC
+D	NN
+,	,
+they	PRP
+did	VBD
+n't	RB
+have	VB
+a	DT
+marketing	NN
+brain	NN
+attached	VBN
+to	IN
+these	DT
+ideas	NNS
+.	.
+
+
+Although [[ British Nuclear Fuels Limited | /m/02sn3n ]]  has been pushing [[ Nuclear Power | /m/05k97 ]] as the non-polluting solution to climate change, this is certainly not the case.
+Although	IN
+British	JJ
+Nuclear	NNP
+Fuels	NNPS
+Limited	NNP
+ 	_SP
+has	VBZ
+been	VBN
+pushing	VBG
+Nuclear	NNP
+Power	NNP
+as	IN
+the	DT
+non	JJ
+-	JJ
+polluting	VBG
+solution	NN
+to	TO
+climate	VB
+change	NN
+,	,
+this	DT
+is	VBZ
+certainly	RB
+not	RB
+the	DT
+case	NN
+.	.
+
+
+[[ Film | /m/02vxn ]] production company [[ Universal Studios | /m/016tw3 ]] has plans to open a new theme park in , according to reports
+Film	NN
+production	NN
+company	NN
+Universal	NNP
+Studios	NNPS
+has	VBZ
+plans	NNS
+to	TO
+open	VB
+a	DT
+new	JJ
+theme	NN
+park	NN
+in	RB
+,	,
+according	VBG
+to	IN
+reports	NNS
+
+
+[[ MLM | /m/056bx ]] brings to mind [[ Tupperware | /m/02cj0_ ]] parties, [[ Amway | /m/0tdx ]] supplies, and [[ Mary Kay Cosmetics | /m/05d8vj ]] .
+MLM	NNP
+brings	VBZ
+to	TO
+mind	VB
+Tupperware	NNP
+parties	NNS
+,	,
+Amway	NNP
+supplies	NNS
+,	,
+and	CC
+Mary	NNP
+Kay	NNP
+Cosmetics	NNP
+.	.
+
+
+[[ Software | /m/01mf0 ]] included [[ Macromedia | /m/0180df ]] 's Director 4.0.4,
+Software	NN
+included	VBD
+Macromedia	NNP
+'s	POS
+Director	NNP
+4.0.4	NNP
+,	,
+
+
+[[ Computer Hardware | /m/01mfj ]] is south central [[ Nebraska | /m/05fhy ]] 's #1 [[ Apple | /m/0k8z ]] and computer store.
+Computer	NNP
+Hardware	NNP
+is	VBZ
+south	RB
+central	JJ
+Nebraska	NNP
+'s	POS
+#	$
+1	CD
+Apple	NNP
+and	CC
+computer	NN
+store	NN
+.	.
+
+
+[[ Oil Company | /m/03xm3m ]] of the [[ Future | /m/015n_w ]]  describes [[ StatoilHydro | /m/02rw4hw ]] s TAIL IO R&D partnership project.
+Oil	NNP
+Company	NNP
+of	IN
+the	DT
+Future	NNP
+ 	_SP
+describes	VBZ
+StatoilHydro	NNP
+s	NNP
+TAIL	NNP
+IO	NNP
+R&D	NNP
+partnership	NN
+project	NN
+.	.
+
+
+It divests [[ Winterthur | /m/02h_9x ]] to [[ AXA | /m/04mn99 ]] and the newly reorganized [[ Investment Bank | /m/015p1m ]] replaces the old [[ CSFB | /m/03pnt_ ]] 
+It	PRP
+divests	VBZ
+Winterthur	NNP
+to	IN
+AXA	NNP
+and	CC
+the	DT
+newly	RB
+reorganized	VBN
+Investment	NNP
+Bank	NNP
+replaces	VBZ
+the	DT
+old	JJ
+CSFB	NNS
+
+
+[[ Consumer Electronics | /m/019z7b ]] Friday: The [[ iPhone | /m/027lnzs ]] is [[ Apple | /m/0k8z ]] 's Infiltrator
+Consumer	NN
+Electronics	NNPS
+Friday	NNP
+:	:
+The	DT
+iPhone	NNP
+is	VBZ
+Apple	NNP
+'s	POS
+Infiltrator	NN
+
+
+[[ Video Games | /m/01mw1 ]] is pleased to announce that [[ Eidos | /m/0225z1 ]] ' [[ Commandos 2: Men of Courage | /m/09k9z7 ]] is now available on [[ Yahoo | /m/019rl6 ]] !
+Video	NNP
+Games	NNPS
+is	VBZ
+pleased	JJ
+to	TO
+announce	VB
+that	IN
+Eidos	NNP
+'	POS
+Commandos	NNP
+2	CD
+:	:
+Men	NN
+of	IN
+Courage	NNP
+is	VBZ
+now	RB
+available	JJ
+on	IN
+Yahoo	NNP
+!	.
+
+
+[[ Vatican | /m/0vg8 ]] [[ Airlines | /m/0vg8 ]] , operated by the [[ Italian | /m/03rjj ]] cargo company [[ Mistral Air | /m/05xpcb ]]
+Vatican	NNP
+Airlines	NNP
+,	,
+operated	VBN
+by	IN
+the	DT
+Italian	JJ
+cargo	NN
+company	NN
+Mistral	NNP
+Air	NNP
+Italian
+
+
+LEADING GREEK FRANCHISE [[ Merrill Lynch | /m/01kb4x ]] has a long-standing presence in the [[ Greek | /m/035qy ]] market, primarily through Private Clients and [[ Investment Banking | /m/015p1m ]] services.
+LEADING	VBG
+GREEK	NNP
+FRANCHISE	NNP
+Merrill	NNP
+Lynch	NNP
+has	VBZ
+a	DT
+long	RB
+-	HYPH
+standing	VBG
+presence	NN
+in	IN
+the	DT
+Greek	JJ
+market	NN
+,	,
+primarily	RB
+through	IN
+Private	JJ
+Clients	NNPS
+and	CC
+Investment	NNP
+Banking	NNP
+services	NNS
+.	.
+Greek
+
+
+[[ BAR | /m/01nz0z ]] owner [[ Regent Inns | /m/0bxjb6 ]] , which is planning a new [[ Walkabout | /m/0218hf ]]
+BAR	NNP
+owner	NN
+Regent	NNP
+Inns	NNP
+,	,
+which	WDT
+is	VBZ
+planning	VBG
+a	DT
+new	JJ
+Walkabout	NN
+
+
+- Based in [[ Houston | /m/03l2n ]] , [[ Texas | /m/07b_l ]] , [[ EOG | /m/0cqqsc ]] is an [[ Oil and Gas | /m/03xm3m ]] producer.
+-	:
+Based	VBN
+in	IN
+Houston	NNP
+,	,
+Texas	NNP
+,	,
+EOG	NNP
+is	VBZ
+an	DT
+Oil	NNP
+and	CC
+Gas	NN
+producer	NN
+.	.
+
+
+I think the main [[ VFX | /m/01vx2h ]] vendor on [[ Zodiac | /m/07vn_9 ]] was [[ Digital Domain | /m/029f_1 ]] .
+I	PRP
+think	VBP
+the	DT
+main	JJ
+VFX	NNP
+vendor	NN
+on	IN
+Zodiac	NNP
+was	VBD
+Digital	NNP
+Domain	NNP
+.	.
+
+
+[[ Interactive Entertainment | /m/02p71tm ]] and [[ Eidos | /m/0225z1 ]] will  co-publish [[ Batman: Arkham Asylum | /m/04gqlmf ]] in [[ North America | /m/059g4 ]] ,  while   [[ Eidos Interactive | /m/0225z1 ]] will publish the game in all other territories.
+Interactive	NNP
+Entertainment	NNP
+and	CC
+Eidos	NNP
+will	MD
+ 	_SP
+co	VB
+-	JJ
+publish	JJ
+Batman	NNP
+:	:
+Arkham	NNP
+Asylum	NNP
+in	IN
+North	NNP
+America	NNP
+,	,
+ 	_SP
+while	IN
+  	_SP
+Eidos	NNP
+Interactive	NNP
+will	MD
+publish	VB
+the	DT
+game	NN
+in	IN
+all	DT
+other	JJ
+territories	NNS
+.	.
+
+
+[[ Dutch | /m/059j2 ]] telecom [[ KPN | /m/02s08w ]] might have broken the [[ Telecommunication | /m/029g_vk ]] law in [[ Holland | /m/03gly ]] .
+Dutch	JJ
+telecom	NN
+KPN	NNP
+might	MD
+have	VB
+broken	VBN
+the	DT
+Telecommunication	NNP
+law	NN
+in	IN
+Holland	NNP
+.	.
+Dutch
+
+
+[[ Lee | /m/02x4nhx ]] eventually left [[ PDI | /m/07yn6c ]] to pursue freelance work in [[ 2D | /m/02hp39 ]] and [[ 3D animation | /m/01zhp ]] and illustration
+Lee	NNP
+eventually	RB
+left	VBD
+PDI	NNP
+to	TO
+pursue	VB
+freelance	JJ
+work	NN
+in	IN
+2D	NNP
+and	CC
+3D	JJ
+animation	NN
+and	CC
+illustration	NN
+
+
+[[ TIMBER | /m/025tnyc ]] company [[ Gunns | /m/04pcl3 ]]
+TIMBER	NNS
+company	NN
+Gunns	NNP
+
+
+[[ 8X8 | /m/06c7xh ]] also offers a number of voice-only [[ VoIP | /m/0jzgd ]] plans starting at $19.95/month.
+8X8	CD
+also	RB
+offers	VBZ
+a	DT
+number	NN
+of	IN
+voice	NN
+-	HYPH
+only	RB
+VoIP	NN
+plans	NNS
+starting	VBG
+at	IN
+$	$
+19.95	CD
+/	SYM
+month	NN
+.	.
+8X8
+
+
+Our [[ Affiliate Program | /m/0344pd ]] is administered by [[ Shareasale | /m/027l3w_ ]] .
+Our	PRP$
+Affiliate	NNP
+Program	NNP
+is	VBZ
+administered	VBN
+by	IN
+Shareasale	NNP
+.	.
+
+
+[[ XING | /m/083092 ]] and [[ ZoomInfo | /m/0cf7cd ]] bring together [[ Business Networking | /m/027zn8w ]] and Business Information Search
+XING	NNP
+and	CC
+ZoomInfo	NNP
+bring	VB
+together	RB
+Business	NNP
+Networking	NNP
+and	CC
+Business	NNP
+Information	NNP
+Search	NNP
+
+
+[ [[ NYT | /m/07l1c ]] ] - [[ Newspaper | /m/05jnl ]] publishers [[ Media General | /m/0553j8 ]] and [[ Belo | /m/03052h ]] have both cut their dividend sharply
+[	-LRB-
+NYT	NNP
+]	-RRB-
+-	:
+Newspaper	NN
+publishers	NNS
+Media	NNP
+General	NNP
+and	CC
+Belo	NNP
+have	VBP
+both	DT
+cut	VBN
+their	PRP$
+dividend	NN
+sharply	RB
+
+
+[[ Keane | /m/0kqrx_ ]] offers a different approach to [[ BPO | /m/04fm00 ]] 
+Keane	NNP
+offers	VBZ
+a	DT
+different	JJ
+approach	NN
+to	IN
+BPO	NNP
+
+
+Our [[ Airline | /m/0vg8 ]]  will commence twice weekly [[ Brisbane | /m/01b8jj ]] service, and [[ Air Pacific | /m/02hxgr ]] continues its weekly service to and from [[ Nadi | /m/022wr3 ]] .
+Our	PRP$
+Airline	NNP
+ 	_SP
+will	MD
+commence	VB
+twice	RB
+weekly	JJ
+Brisbane	NNP
+service	NN
+,	,
+and	CC
+Air	NNP
+Pacific	NNP
+continues	VBZ
+its	PRP$
+weekly	JJ
+service	NN
+to	IN
+and	CC
+from	IN
+Nadi	NNP
+.	.
+
+
+[[ TELECOMS | /m/029g_vk ]] operator [[ BT | /m/01g_3 ]] has confirmed that high-speed broadband communication will be available in [[ Thirsk | /m/02chp9 ]] from May 14.??more..
+TELECOMS	NNP
+operator	NN
+BT	NNP
+has	VBZ
+confirmed	VBN
+that	IN
+high	JJ
+-	HYPH
+speed	NN
+broadband	NN
+communication	NN
+will	MD
+be	VB
+available	JJ
+in	IN
+Thirsk	NNP
+from	IN
+May	NNP
+14.??more	CD
+..	.
+
+
+Cavalier Telephone [[ Cavalier Telephone | /m/03d0bxq ]] is [[ Virginia | /m/031tdl ]] 's local, long distance telephone and [[ Internet Service Provider | /m/0pjxv ]]  based in [[ Richmond | /m/0dzt9 ]] , [[ Virginia | /m/031tdl ]] .
+Cavalier	NNP
+Telephone	NNP
+Cavalier	NNP
+Telephone	NNP
+is	VBZ
+Virginia	NNP
+'s	POS
+local	JJ
+,	,
+long	JJ
+distance	NN
+telephone	NN
+and	CC
+Internet	NNP
+Service	NNP
+Provider	NNP
+ 	_SP
+based	VBN
+in	IN
+Richmond	NNP
+,	,
+Virginia	NNP
+.	.
+
+
+Gaslight Village is built on the site of the former [[ Jacobson | /m/066cvy ]] s [[ Department Store | /m/01k_mv ]] .
+Gaslight	NNP
+Village	NNP
+is	VBZ
+built	VBN
+on	IN
+the	DT
+site	NN
+of	IN
+the	DT
+former	JJ
+Jacobson	NNP
+s	ADD
+Department	NNP
+Store	NNP
+.	.
+
+
+The utilities on this site are produced for use with [[ TSR | /m/0j4gj ]] 's range of [[ Role Playing Games | /m/06c9r ]] .
+The	DT
+utilities	NNS
+on	IN
+this	DT
+site	NN
+are	VBP
+produced	VBN
+for	IN
+use	NN
+with	IN
+TSR	NNP
+'s	POS
+range	NN
+of	IN
+Role	NNP
+Playing	NNP
+Games	NNPS
+.	.
+
+
+A follow flyer miles any questions [[ Airlines | /m/0vg8 ]] hit [[ Continental | /m/0sy5v ]] or companies and
+A	DT
+follow	NN
+flyer	NN
+miles	NNS
+any	DT
+questions	NNS
+Airlines	NNPS
+hit	VBD
+Continental	NNP
+or	CC
+companies	NNS
+and	CC
+
+
+[[ Gary | /m/01syq9_ ]] has performed for [[ HEB | /m/06g7cb ]] [[ Grocery | /m/01jpn4 ]] 's annual Feast of Sharing Holiday Dinners throughout the state of [[ Texas | /m/07b_l ]] .
+Gary	NNP
+has	VBZ
+performed	VBN
+for	IN
+HEB	NNP
+Grocery	NNP
+'s	POS
+annual	JJ
+Feast	NN
+of	IN
+Sharing	NNP
+Holiday	NNP
+Dinners	NNPS
+throughout	IN
+the	DT
+state	NN
+of	IN
+Texas	NNP
+.	.
+
+
+[[ Baker Atlas | /m/02yd0p ]] a division of [[ Baker Hughes | /m/02yd0p ]] is a leader in the [[ Oil and Gas | /m/03xm3m ]] service industry.
+Baker	NNP
+Atlas	NNP
+a	DT
+division	NN
+of	IN
+Baker	NNP
+Hughes	NNP
+is	VBZ
+a	DT
+leader	NN
+in	IN
+the	DT
+Oil	NNP
+and	CC
+Gas	NNP
+service	NN
+industry	NN
+.	.
+
+
+To eliminate labor-intensive rigid tag commissioning and ease mass adoption of [[ RFID | /m/016p89 ]] technolgy, [[ Omni-ID | /m/05zwpp2 ]] offers a tag commissioning process.
+To	TO
+eliminate	VB
+labor	NN
+-	HYPH
+intensive	JJ
+rigid	JJ
+tag	NN
+commissioning	VBG
+and	CC
+ease	VB
+mass	NN
+adoption	NN
+of	IN
+RFID	NNP
+technolgy	NN
+,	,
+Omni	NNP
+-	HYPH
+ID	NNP
+offers	VBZ
+a	DT
+tag	NN
+commissioning	VBG
+process	NN
+.	.
+
+
+You'll find the best prices on [[ Arcade | /m/0d76r ]] video games, [[ Midway | /m/027lf1 ]] in [[ Video Games | /m/01mw1 ]] when you shop online at [[ BizRate | /m/0fb122 ]] .
+You	PRP
+'ll	MD
+find	VB
+the	DT
+best	JJS
+prices	NNS
+on	IN
+Arcade	NNP
+video	NN
+games	NNS
+,	,
+Midway	NNP
+in	IN
+Video	NNP
+Games	NNPS
+when	WRB
+you	PRP
+shop	VBP
+online	RB
+at	IN
+BizRate	NNP
+.	.
+
+
+Still, when [[ WEG | /m/01xff7 ]] released [[ Star Wars | /m/05z0gd ]] the [[ Roleplaying Game | /m/06c9r ]] , I was in with a grin.
+Still	RB
+,	,
+when	WRB
+WEG	NNP
+released	VBD
+Star	NNP
+Wars	NNPS
+the	DT
+Roleplaying	NNP
+Game	NNP
+,	,
+I	PRP
+was	VBD
+in	RB
+with	IN
+a	DT
+grin	NN
+.	.
+
+
+@Mac-nugget and CD: That's why I say that [[ Apple | /m/0k8z ]] is a [[ SOFTware | /m/01mf0 ]] company disguised as a [[ HARDware | /m/01mfj ]] company
+@Mac	JJ
+-	HYPH
+nugget	NN
+and	CC
+CD	NNP
+:	:
+That	DT
+'s	VBZ
+why	WRB
+I	PRP
+say	VBP
+that	IN
+Apple	NNP
+is	VBZ
+a	DT
+SOFTware	NN
+company	NN
+disguised	VBN
+as	IN
+a	DT
+HARDware	NN
+company	NN
+
+
+Have lunch or dinner at the [[ Hard Rock Cafe | /m/01lc9r ]] or [[ Planet Hollywood | /m/043j11 ]] each neighbouring the [[ Casino | /m/01lq3 ]] 
+Have	VBP
+lunch	NN
+or	CC
+dinner	NN
+at	IN
+the	DT
+Hard	NNP
+Rock	NNP
+Cafe	NNP
+or	CC
+Planet	NNP
+Hollywood	NNP
+each	DT
+neighbouring	VBG
+the	DT
+Casino	NN
+
+
+[[ Online Store | /m/047m52 ]] will be processed securely through [[ PayPal | /m/01btsf ]] , an [[ eBay | /m/0z90c ]] company.
+Online	JJ
+Store	NNP
+will	MD
+be	VB
+processed	VBN
+securely	RB
+through	IN
+PayPal	NNP
+,	,
+an	DT
+eBay	NNP
+company	NN
+.	.
+
+
+[[ Mobile GIS | /m/03821 ]] data collection software [[ Leica Geosystems | /m/02jv4n ]]
+Mobile	JJ
+GIS	NNP
+data	NNS
+collection	NN
+software	NN
+Leica	NNP
+Geosystems	VBZ
+
+
+[[ German | /m/0345h ]] [[ VoIP | /m/0jzgd ]] provider [[ SipGate | /m/0b12tb ]] announced an open [[ API | /m/0z5n ]] to their [[ VoIP | /m/0jzgd ]]
+German	JJ
+VoIP	NN
+provider	NN
+SipGate	NNP
+announced	VBD
+an	DT
+open	JJ
+API	NN
+to	IN
+their	PRP$
+VoIP	NN
+German
+
+
+Manufacturing & [[ Automotive | /m/015smg ]] was represented by [[ Tata Motors | /m/03jxtm ]] , [[ Ashok Leyland | /m/03wgd0 ]] , [[ Telcon | /m/02qj70f ]] , VIP Industries and others.
+Manufacturing	NNP
+&	CC
+Automotive	NNP
+was	VBD
+represented	VBN
+by	IN
+Tata	NNP
+Motors	NNPS
+,	,
+Ashok	NNP
+Leyland	NNP
+,	,
+Telcon	NNP
+,	,
+VIP	NNP
+Industries	NNPS
+and	CC
+others	NNS
+.	.
+
+
+On the [[ US | /m/09c7w0 ]] retail front [[ Jeweller | /m/0404d ]] 's [[ Tiffany | /m/04g3zy ]] reported sales in December down 21% compared with a year earlier
+On	IN
+the	DT
+US	NNP
+retail	NN
+front	JJ
+Jeweller	NNP
+'s	POS
+Tiffany	NNP
+reported	VBD
+sales	NNS
+in	IN
+December	NNP
+down	RB
+21	CD
+%	NN
+compared	VBN
+with	IN
+a	DT
+year	NN
+earlier	RBR
+
+
+Next, [[ Nokia | /m/05b5c ]] should get the other half of the [[ Big Four | /m/0682j7 ]] record labels  [[ EMI | /m/011k1h ]] and [[ Warner Music Group | /m/02bh8z ]]
+Next	RB
+,	,
+Nokia	NNP
+should	MD
+get	VB
+the	DT
+other	JJ
+half	NN
+of	IN
+the	DT
+Big	NNP
+Four	NNP
+record	NN
+labels	NNS
+	IN
+EMI	NNP
+and	CC
+Warner	NNP
+Music	NNP
+Group	NNP
+
+
+MOST FAMOUSLY, [[ Cable | /m/024bm ]] sports network [[ ESPN | /m/0kc6x ]] , which has about a hundred satellite dishes.
+MOST	NNP
+FAMOUSLY	NNP
+,	,
+Cable	NN
+sports	NNS
+network	NN
+ESPN	NNP
+,	,
+which	WDT
+has	VBZ
+about	RB
+a	DT
+hundred	CD
+satellite	NN
+dishes	NNS
+.	.
+
+
+facility recently selected [[ ERP | /m/02jv7 ]] leader [[ BatchMaster | /m/02vkvkr ]] .
+facility	NN
+recently	RB
+selected	VBD
+ERP	NNP
+leader	NN
+BatchMaster	NNP
+.	.
+
+
+Web-based free scan virus uses [[ Software | /m/01mf0 ]] 's award-winning technology [[ Panda | /m/04787q ]] and virus Our list.
+Web	NN
+-	HYPH
+based	VBN
+free	JJ
+scan	JJ
+virus	NN
+uses	VBZ
+Software	NNP
+'s	POS
+award	NN
+-	HYPH
+winning	VBG
+technology	NN
+Panda	NNP
+and	CC
+virus	NN
+Our	PRP$
+list	NN
+.	.
+
+
+[[ Adbrite | /m/025s8vy ]] also got equal [[ Advertisers | /m/011s0 ]] .
+Adbrite	NNP
+also	RB
+got	VBD
+equal	JJ
+Advertisers	NNS
+.	.
+
+
+In 1995, [[ Rhythm & Hues | /m/05v6fc ]] was recognized with an [[ Academy Award | /m/0g_w ]] for Achievement in [[ Visual Effects | /m/01vx2h ]] for its work on [[ Babe | /m/011ydl ]] .
+In	IN
+1995	CD
+,	,
+Rhythm	NNP
+&	CC
+Hues	NNP
+was	VBD
+recognized	VBN
+with	IN
+an	DT
+Academy	NNP
+Award	NNP
+for	IN
+Achievement	NNP
+in	IN
+Visual	JJ
+Effects	NNS
+for	IN
+its	PRP$
+work	NN
+on	IN
+Babe	NNP
+.	.
+
+
+While not directly related to this story, [[ EMS | /m/08nq8w ]] provider [[ Plexus | /m/05drpv ]] does count [[ Honeywell | /m/01gx66 ]] as one of its customers.
+While	IN
+not	RB
+directly	RB
+related	VBN
+to	IN
+this	DT
+story	NN
+,	,
+EMS	NNP
+provider	NN
+Plexus	NNP
+does	VBZ
+count	VB
+Honeywell	NNP
+as	IN
+one	CD
+of	IN
+its	PRP$
+customers	NNS
+.	.
+
+
+There is no doubt that [[ Apple | /m/0k8z ]] is the most successful [[ Tech | /m/07c1v ]] company out there they are the best
+There	EX
+is	VBZ
+no	DT
+doubt	NN
+that	IN
+Apple	NNP
+is	VBZ
+the	DT
+most	RBS
+successful	JJ
+Tech	NNP
+company	NN
+out	RB
+there	RB
+they	PRP
+are	VBP
+the	DT
+best	JJS
+
+
+May [[ Department Stores | /m/01k_mv ]] bought [[ Marshall Fields | /m/03v_kv ]]  - but bye-bye [[ Mervyn's | /m/01vsm7 ]] 
+May	NNP
+Department	NNP
+Stores	NNPS
+bought	VBD
+Marshall	NNP
+Fields	NNP
+ 	_SP
+-	:
+but	CC
+bye	NN
+-	HYPH
+bye	UH
+Mervyn	NNP
+'s	POS
+
+
+[[ Global Solar Energy | /m/04ctr9m ]] replaced [[ Dow | /m/01t080 ]] s original [[ PV | /m/02_spr ]] material provider in this program
+Global	NNP
+Solar	NNP
+Energy	NNP
+replaced	VBD
+Dow	NNP
+s	JJ
+original	JJ
+PV	NNP
+material	NN
+provider	NN
+in	IN
+this	DT
+program	NN
+
+
+Hosted version of new-generation system, [[ aiRES | /m/0c5kfm ]] helps [[ Airline | /m/0vg8 ]] reduce costs...
+Hosted	VBN
+version	NN
+of	IN
+new	JJ
+-	HYPH
+generation	NN
+system	NN
+,	,
+aiRES	NNP
+helps	VBZ
+Airline	NN
+reduce	VB
+costs	NNS
+...	:
+
+
+[[ BMW | /m/017yh ]] Designer [[ Chris Bangle | /m/0420hb ]] hands Resignation Papers to [[ Car Maker | /m/015smg ]]
+BMW	NNP
+Designer	NNP
+Chris	NNP
+Bangle	NNP
+hands	VBZ
+Resignation	NN
+Papers	NNS
+to	IN
+Car	NN
+Maker	NN
+
+
+[[ Nemesysco | /m/05f6hb3 ]] and [[ Television | /m/07c52 ]] giant [[ Endemol | /m/025504 ]] signed an exclusive cooperation agreement, to bring [[ Nemesysco | /m/05f6hb3 ]] 's technologies to your TV screen.
+Nemesysco	NNP
+and	CC
+Television	NNP
+giant	NN
+Endemol	NNP
+signed	VBD
+an	DT
+exclusive	JJ
+cooperation	NN
+agreement	NN
+,	,
+to	TO
+bring	VB
+Nemesysco	NNP
+'s	POS
+technologies	NNS
+to	IN
+your	PRP$
+TV	NN
+screen	NN
+.	.
+
+
+Who was [[ Hemingway | /m/02kz_ ]] 's editor at [[ Scribner | /m/05djqc ]] 's [[ Publishing House | /m/0hz28 ]] ?...
+Who	WP
+was	VBD
+Hemingway	NNP
+'s	POS
+editor	NN
+at	IN
+Scribner	NNP
+'s	POS
+Publishing	NNP
+House	NNP
+?	.
+...	NFP
+
+
+[[ Rachel's Organic | /m/0bmjlhl ]] had a stand in the [[ Organic Food | /m/018325 ]]
+Rachel	NNP
+'s	POS
+Organic	NNP
+had	VBD
+a	DT
+stand	NN
+in	IN
+the	DT
+Organic	NNP
+Food	NNP
+
+
+I joined [[ Accenture | /m/01rp2c ]] s [[ New York | /m/02_286 ]] office as Systems Integration & Technology Consulting analyst, aligned with the [[ Technology Consulting | /m/07k6dg ]] workgroup.
+I	PRP
+joined	VBD
+Accenture	NNP
+s	VBZ
+New	NNP
+York	NNP
+office	NN
+as	IN
+Systems	NNPS
+Integration	NNP
+&	CC
+Technology	NNP
+Consulting	NNP
+analyst	NN
+,	,
+aligned	VBN
+with	IN
+the	DT
+Technology	NNP
+Consulting	NNP
+workgroup	NN
+.	.
+
+
+[[ Vertex | /m/0kqs3s ]] is the [[ BPO | /m/04fm00 ]] subsidiary of [[ British | /m/07ssc ]] utility company, [[ United Utilities | /m/0622v4 ]] 
+Vertex	NNP
+is	VBZ
+the	DT
+BPO	NNP
+subsidiary	NN
+of	IN
+British	JJ
+utility	NN
+company	NN
+,	,
+United	NNP
+Utilities	NNP
+British
+
+
+3. Is [[ DE Shaw | /m/03nsfv ]] securing Private Equity liquidity protection for [[ Hedge Fund | /m/03r30 ]] liquidity risks
+3	LS
+.	.
+Is	VBZ
+DE	NNP
+Shaw	NNP
+securing	VBG
+Private	NNP
+Equity	NN
+liquidity	NN
+protection	NN
+for	IN
+Hedge	NNP
+Fund	NNP
+liquidity	NN
+risks	VBZ
+
+
+[[ Kelvinator | /m/043s3f ]] will be handled by [[ Kitchen Appliances | /m/019dx1 ]] , a Videocon subsidiary which also markets the [[ Sansui | /m/04bt2y ]] brand of colour televisions.
+Kelvinator	NNP
+will	MD
+be	VB
+handled	VBN
+by	IN
+Kitchen	NNP
+Appliances	NNPS
+,	,
+a	DT
+Videocon	NNP
+subsidiary	NN
+which	WDT
+also	RB
+markets	VBZ
+the	DT
+Sansui	NNP
+brand	NN
+of	IN
+colour	NN
+televisions	NNS
+.	.
+
+
+[[ RightScale | /m/04n4ljy ]] makes [[ EC2 | /m/02rkll_ ]] a better fit for [[ SaaS | /m/06_4c_ ]] 
+RightScale	NNP
+makes	VBZ
+EC2	NNP
+a	DT
+better	JJR
+fit	NN
+for	IN
+SaaS	NNP
+
+
+Hawaiis leading [[ Airline Company | /m/0vg8 ]] ? [[ Hawaiian Airlines | /m/03p29jd ]] provides daily service between the [[ Hawaiian Islands | /m/014wxc ]] and [[ Western United States | /m/018hr_ ]] ...
+Hawaiis	:
+leading	VBG
+Airline	NNP
+Company	NNP
+?	.
+Hawaiian	NNP
+Airlines	NNPS
+provides	VBZ
+daily	JJ
+service	NN
+between	IN
+the	DT
+Hawaiian	NNP
+Islands	NNPS
+and	CC
+Western	NNP
+United	NNP
+States	NNP
+...	:
+
+
+, which spent $3.3 billion on [[ BI | /m/016jq3 ]] leader [[ Hyperion Solutions | /m/069xr6 ]] last year
+,	,
+which	WDT
+spent	VBD
+$	$
+3.3	CD
+billion	CD
+on	IN
+BI	NNP
+leader	NN
+Hyperion	NNP
+Solutions	NNPS
+last	JJ
+year	NN
+
+
+[[ Moto | /m/04_sv ]] occasion [[ harley-davidson | /m/03ny2 ]]
+Moto	NN
+occasion	NN
+harley	NNP
+-	HYPH
+davidson	NNP
+
+
+A goal is to establish a regional Center for Excellence in [[ Automobile Manufacturing | /m/015smg ]] modeled after [[ Toyota | /m/07mb6 ]] ?s [[ Kentucky | /m/0498y ]] plant
+A	DT
+goal	NN
+is	VBZ
+to	TO
+establish	VB
+a	DT
+regional	JJ
+Center	NNP
+for	IN
+Excellence	NNP
+in	IN
+Automobile	NNP
+Manufacturing	NNP
+modeled	VBN
+after	IN
+Toyota	NNP
+?	.
+s	NNP
+Kentucky	NNP
+plant	NN
+
+
+And yet another article covering the [[ VOIP | /m/0jzgd ]] market? The [[ NYT | /m/07k2d ]] takes on [[ AT&T CallVantage | /m/0c15yh ]] .
+And	CC
+yet	RB
+another	DT
+article	NN
+covering	VBG
+the	DT
+VOIP	NN
+market	NN
+?	.
+The	DT
+NYT	NNP
+takes	VBZ
+on	IN
+AT&T	NNP
+CallVantage	NNP
+.	.
+
+
+[[ Accenture | /m/01rp2c ]] believes that [[ Information Technology | /m/03ytc ]] plays a vital role in helping organizations achieve high performance.
+Accenture	NN
+believes	VBZ
+that	IN
+Information	NNP
+Technology	NNP
+plays	VBZ
+a	DT
+vital	JJ
+role	NN
+in	IN
+helping	VBG
+organizations	NNS
+achieve	VB
+high	JJ
+performance	NN
+.	.
+
+
+Previously I used an [[ ISP | /m/0pjxv ]] called [[ Internode | /m/03ff_q ]] in [[ Australia | /m/0chghy ]] .
+Previously	RB
+I	PRP
+used	VBD
+an	DT
+ISP	NNP
+called	VBN
+Internode	NNP
+in	IN
+Australia	NNP
+.	.
+
+
+The [[ NC Film Office | /m/03d0sxc ]] is an agency of the [[ North Carolina | /m/05fkf ]] [[ Department of Commerce | /m/0j770 ]] , within the Division of Tourism, [[ Film | /m/02vxn ]] and Sports Development
+The	DT
+NC	NNP
+Film	NNP
+Office	NNP
+is	VBZ
+an	DT
+agency	NN
+of	IN
+the	DT
+North	NNP
+Carolina	NNP
+Department	NNP
+of	IN
+Commerce	NNP
+,	,
+within	IN
+the	DT
+Division	NNP
+of	IN
+Tourism	NNP
+,	,
+Film	NNP
+and	CC
+Sports	NNPS
+Development	NNP
+
+
+[[ Brewing | /m/01d_x ]] only began at [[ BrewDog | /m/04zyn8j ]] in April 2007, when Watt and [[ Dickie | /m/0b68k4y ]] were 24 years old.
+Brewing	NNP
+only	RB
+began	VBD
+at	IN
+BrewDog	NNP
+in	IN
+April	NNP
+2007	CD
+,	,
+when	WRB
+Watt	NNP
+and	CC
+Dickie	NNP
+were	VBD
+24	CD
+years	NNS
+old	JJ
+.	.
+
+
+> [[ Cable | /m/024bm ]] operator [[ Virgin Media | /m/0963jy ]] has started a mass-market super-fast broadband service in Britan, offering 50 Mbps speed.
+>	XX
+Cable	NN
+operator	NN
+Virgin	NNP
+Media	NNP
+has	VBZ
+started	VBN
+a	DT
+mass	JJ
+-	HYPH
+market	NN
+super	JJ
+-	HYPH
+fast	JJ
+broadband	NN
+service	NN
+in	IN
+Britan	NNP
+,	,
+offering	VBG
+50	CD
+Mbps	NNP
+speed	NN
+.	.
+
+
+It is being released in [[ J&K | /m/0djgt ]] in July and [[ Music | /m/04rlf ]] will be released by [[ T - Series | /m/05p3d__ ]] .
+It	PRP
+is	VBZ
+being	VBG
+released	VBN
+in	IN
+J&K	NNP
+in	IN
+July	NNP
+and	CC
+Music	NNP
+will	MD
+be	VB
+released	VBN
+by	IN
+T	NNP
+-	HYPH
+Series	NNP
+.	.
+
+
+His first position was with Pennzoil E & P until [[ Devon Energy | /m/07vm_j ]] bought the [[ Oil and Gas | /m/03xm3m ]] part of Pennzoil in 1999.
+His	PRP$
+first	JJ
+position	NN
+was	VBD
+with	IN
+Pennzoil	NNP
+E	NN
+&	CC
+P	NN
+until	IN
+Devon	NNP
+Energy	NNP
+bought	VBD
+the	DT
+Oil	NNP
+and	CC
+Gas	NN
+part	NN
+of	IN
+Pennzoil	NNP
+in	IN
+1999	CD
+.	.
+
+
+Like [[ iPrimus | /m/03mdbjq ]] , [[ Internode | /m/03ff_q ]] will also offer the option of an [[ Internet | /m/03rlt ]] -only plan without [[ VOIP | /m/0jzgd ]] .
+Like	IN
+iPrimus	NNP
+,	,
+Internode	NNP
+will	MD
+also	RB
+offer	VB
+the	DT
+option	NN
+of	IN
+an	DT
+Internet	NN
+-only	NN
+plan	NN
+without	IN
+VOIP	NNP
+.	.
+
+
+Special Business: [[ Great-West | /m/09j6vn ]] sells [[ Business | /m/09s1f ]] -owned [[ Life Insurance | /m/021wy4 ]] products.
+Special	NNP
+Business	NNP
+:	:
+Great	JJ
+-	HYPH
+West	NNP
+sells	VBZ
+Business	NNP
+-owned	NNP
+Life	NNP
+Insurance	NNP
+products	NNS
+.	.
+
+
+[[ Great West Lifeco | /m/09j6vn ]] is the largest [[ Canadian | /m/0d060g ]] life and [[ Health Insurance Company | /m/02gqxg ]] and serves s...
+Great	NNP
+West	NNP
+Lifeco	NNP
+is	VBZ
+the	DT
+largest	JJS
+Canadian	JJ
+life	NN
+and	CC
+Health	NNP
+Insurance	NNP
+Company	NNP
+and	CC
+serves	VBZ
+s	VBZ
+...	:
+Canadian
+
+
+[[ Jajah | /m/06ybtj ]] offers several [[ VoIP | /m/0jzgd ]] calling products
+Jajah	NNP
+offers	VBZ
+several	JJ
+VoIP	NN
+calling	VBG
+products	NNS
+
+
+[[ Cable TV | /m/024bm ]] is available through [[ Bright House | /m/092cdc ]] , or, if you like [[ WiFi | /m/0h4d9 ]] , bring your own satellite dish.
+Cable	NN
+TV	NN
+is	VBZ
+available	JJ
+through	IN
+Bright	NNP
+House	NNP
+,	,
+or	CC
+,	,
+if	IN
+you	PRP
+like	VBP
+WiFi	NNP
+,	,
+bring	VB
+your	PRP$
+own	JJ
+satellite	NN
+dish	NN
+.	.
+
+
+[[ Belgian | /m/0154j ]] [[ Railways | /m/06d_3 ]] - [[ NMBS | /m/01vffh ]] / [[ SNCB | /m/01vffh ]] ? [[ NMBS | /m/01vffh ]] / [[ SNCB | /m/01vffh ]] is the [[ National Railway Company of Belgium | /m/01vffh ]] .
+Belgian	JJ
+Railways	NNP
+-	HYPH
+NMBS	NNP
+/	SYM
+SNCB	NNP
+?	.
+NMBS	NNP
+/	SYM
+SNCB	NNP
+is	VBZ
+the	DT
+National	NNP
+Railway	NNP
+Company	NNP
+of	IN
+Belgium	NNP
+.	.
+Belgian
+
+
+A leading figure in the [[ Games Industry | /m/020mfr ]] , [[ Jez | /m/046dg1 ]] founded [[ Argonaut | /m/04630n ]]  in the early eighties.
+A	DT
+leading	JJ
+figure	NN
+in	IN
+the	DT
+Games	NNPS
+Industry	NNP
+,	,
+Jez	NNP
+founded	VBD
+Argonaut	NNP
+ 	_SP
+in	IN
+the	DT
+early	JJ
+eighties	NNS
+.	.
+
+
+[[ North Star Games | /m/05p95sv ]] puts [[ Greenbelt | /m/030yyv ]] on the [[ Gameboard | /m/015ll ]] !
+North	NNP
+Star	NNP
+Games	NNPS
+puts	VBZ
+Greenbelt	NNP
+on	IN
+the	DT
+Gameboard	NNP
+!	.
+
+
+[[ iCall | /m/0dcqvy ]] lets you make [[ VoIP | /m/0jzgd ]] calls over [[ Wi-Fi | /m/0h4d9 ]] with your [[ iPhone | /m/027lnzs ]]
+iCall	NN
+lets	VBZ
+you	PRP
+make	VBP
+VoIP	NN
+calls	NNS
+over	IN
+Wi	NNP
+-	HYPH
+Fi	NNP
+with	IN
+your	PRP$
+iPhone	NNP
+
+
+Reports on [[ Information Security | /m/03whm ]] published by [[ Websense | /m/0968w0 ]] , [[ Inc | /m/0135dr ]] .
+Reports	NNS
+on	IN
+Information	NNP
+Security	NNP
+published	VBN
+by	IN
+Websense	NNP
+,	,
+Inc	NNP
+.	.
+
+
+You'll find the best prices on [[ Fire | /m/02_41 ]] video games, [[ Agetec | /m/0878vy ]] in [[ Video Games | /m/01mw1 ]] when you shop online at [[ BizRate | /m/0fb122 ]] .
+You	PRP
+'ll	MD
+find	VB
+the	DT
+best	JJS
+prices	NNS
+on	IN
+Fire	NN
+video	NN
+games	NNS
+,	,
+Agetec	NNP
+in	IN
+Video	NNP
+Games	NNPS
+when	WRB
+you	PRP
+shop	VBP
+online	RB
+at	IN
+BizRate	NNP
+.	.
+
+
+[[ MUMBAI | /m/04vmp ]] , Jan 20, 2009  , [[ FMCG | /m/05gshm ]] player [[ Emami | /m/09v97h7 ]] is looking for acquisitions in the personal healthcare business.
+MUMBAI	NNP
+,	,
+Jan	NNP
+20	CD
+,	,
+2009	CD
+ 	_SP
+,	,
+FMCG	JJ
+player	NN
+Emami	NNP
+is	VBZ
+looking	VBG
+for	IN
+acquisitions	NNS
+in	IN
+the	DT
+personal	JJ
+healthcare	NN
+business	NN
+.	.
+FMCG
+
+
+Quoted: [[ Speakeasy | /m/0bsch3 ]] offers superior [[ Voice over IP | /m/0jzgd ]] , [[ T1 | /m/03nv1y ]] , DSL and a range of broadband services customized for small businesses.
+Quoted	VBN
+:	:
+Speakeasy	NNP
+offers	VBZ
+superior	JJ
+Voice	NNP
+over	IN
+IP	NNP
+,	,
+T1	NNP
+,	,
+DSL	NN
+and	CC
+a	DT
+range	NN
+of	IN
+broadband	NN
+services	NNS
+customized	VBN
+for	IN
+small	JJ
+businesses	NNS
+.	.
+
+
+Swap these gasoline points in order to pitier receive plane tickets casper of [[ Northwest | /m/012lxn ]] gasoline credit [[ Airlines | /m/0vg8 ]] .
+Swap	VB
+these	DT
+gasoline	NN
+points	NNS
+in	IN
+order	NN
+to	IN
+pitier	NN
+receive	VB
+plane	NN
+tickets	NNS
+casper	NN
+of	IN
+Northwest	NNP
+gasoline	NN
+credit	NN
+Airlines	NNPS
+.	.
+
+
+In fact, just this week, [[ German | /m/0345h ]] [[ PV | /m/02_spr ]] manufacturer, [[ Solarworld AG | /m/0brsfx ]] , announced that its 2005 profits nearly tripled from 2004.
+In	IN
+fact	NN
+,	,
+just	RB
+this	DT
+week	NN
+,	,
+German	JJ
+PV	NNP
+manufacturer	NN
+,	,
+Solarworld	NNP
+AG	NNP
+,	,
+announced	VBD
+that	IN
+its	PRP$
+2005	CD
+profits	NNS
+nearly	RB
+tripled	VBD
+from	IN
+2004	CD
+.	.
+German
+
+
+Third edition [[ RPG | /m/06c9r ]] icon [[ Monte Cook | /m/01kzlf ]] comes to [[ Paizo | /m/0f8dhq ]] with a new print edition of his popular [[ Books of Experimental Might | /m/0djzlym ]] !
+Third	JJ
+edition	NN
+RPG	NN
+icon	NN
+Monte	NNP
+Cook	NNP
+comes	VBZ
+to	IN
+Paizo	NNP
+with	IN
+a	DT
+new	JJ
+print	NN
+edition	NN
+of	IN
+his	PRP$
+popular	JJ
+Books	NNS
+of	IN
+Experimental	NNP
+Might	NNP
+!	.
+
+
+EastEnders pips Dr Who on [[ Paramount Pictures | /m/05qd_ ]] news story, [[ GI JOE | /m/01gm69 ]] GETS A MAKEOVER FOR [[ MOVIE | /m/02vxn ]] 
+EastEnders	NNS
+pips	VBZ
+Dr	NNP
+Who	WP
+on	IN
+Paramount	NNP
+Pictures	NNP
+news	NN
+story	NN
+,	,
+GI	NNP
+JOE	NNP
+GETS	VBD
+A	DT
+MAKEOVER	NN
+FOR	IN
+MOVIE	NNP
+
+
+[[ Asurion | /m/0765wf ]] is who [[ Alltel | /m/05sfff ]] goes through, [[ Nextel | /m/077w0b ]] goes through [[ Signal | /m/029g_vk ]] , not sure who Sprint uses
+Asurion	NN
+is	VBZ
+who	WP
+Alltel	NNP
+goes	VBZ
+through	RB
+,	,
+Nextel	NNP
+goes	VBZ
+through	IN
+Signal	NNP
+,	,
+not	RB
+sure	JJ
+who	WP
+Sprint	NNP
+uses	VBZ
+
+
+[[ SOFTWARE | /m/01mf0 ]] group [[ Sage | /m/030hnb ]] rewarded investors with a near-doubling in its annual dividend payout
+SOFTWARE	NNP
+group	NN
+Sage	NNP
+rewarded	VBD
+investors	NNS
+with	IN
+a	DT
+near	RB
+-	HYPH
+doubling	NN
+in	IN
+its	PRP$
+annual	JJ
+dividend	NN
+payout	NN
+
+
+... [[ Kino | /m/04ln_1 ]] und [[ Film Forum | /m/08wt2l ]] ... Forum   MOVIES &amp; more   [[ MOVIE | /m/02vxn ]] &amp; more Spam   Bester ... Forensoftware: Burning Board 2.3.6,
+...	:
+Kino	NNP
+und	JJ
+Film	NNP
+Forum	NNP
+...	:
+Forum	NNP
+  	_SP
+MOVIES	NNP
+&	CC
+amp	NNP
+;	:
+more	JJR
+  	_SP
+MOVIE	NNP
+&	CC
+amp	NNP
+;	:
+more	JJR
+Spam	NNP
+  	_SP
+Bester	NNP
+...	:
+Forensoftware	NN
+:	:
+Burning	VBG
+Board	NNP
+2.3.6	CD
+,	,
+
+
+You'll find the best prices on [[ Fire | /m/02_41 ]] video games, [[ Ubisoft | /m/02qdyj ]] in [[ Video Games | /m/01mw1 ]] when you shop online at [[ BizRate | /m/0fb122 ]] .
+You	PRP
+'ll	MD
+find	VB
+the	DT
+best	JJS
+prices	NNS
+on	IN
+Fire	NN
+video	NN
+games	NNS
+,	,
+Ubisoft	NNP
+in	IN
+Video	NNP
+Games	NNPS
+when	WRB
+you	PRP
+shop	VBP
+online	RB
+at	IN
+BizRate	NNP
+.	.
+
+
+[[ AOL | /m/0plw ]] unveils [[ Bebo | /m/07w_gh ]] integration plan | [[ Media | /m/04z0z ]] | guardian.co.uk - [[ AOL | /m/0plw ]] 's [...]
+AOL	NNP
+unveils	VBZ
+Bebo	NNP
+integration	NN
+plan	NN
+Media	NNP
+guardian.co.uk	NNP
+-	HYPH
+AOL	NNP
+'s	POS
+[	-LRB-
+...	NFP
+]	-RRB-
+
+
+[[ Penguin | /m/03qq06 ]] and [[ Education | /m/02jfc ]] push [[ Pearson | /m/03tpjp ]]
+Penguin	NNP
+and	CC
+Education	NNP
+push	NN
+Pearson	NNP
+
+
+[[ Ted Leonsis | /m/0637kc ]] , co-chairman of [[ AOL | /m/0plw ]] , and owner of the [[ Washington Wizards | /m/0jm5b ]] basketball team, also spoke at [[ Web 2.0 | /m/05b058 ]] yesterday.
+Ted	NNP
+Leonsis	NNP
+,	,
+co	NN
+-	NN
+chairman	NN
+of	IN
+AOL	NNP
+,	,
+and	CC
+owner	NN
+of	IN
+the	DT
+Washington	NNP
+Wizards	NNPS
+basketball	NN
+team	NN
+,	,
+also	RB
+spoke	VBD
+at	IN
+Web	NN
+2.0	CD
+yesterday	NN
+.	.
+
+
+[[ CD-adapco | /m/080pgcz ]] is the world's largest independent [[ CFD | /m/01sh_g ]] ? focused [[ CAE | /m/02br93 ]] provider.
+CD	NN
+-	HYPH
+adapco	NNP
+is	VBZ
+the	DT
+world	NN
+'s	POS
+largest	JJS
+independent	JJ
+CFD	NNP
+?	.
+focused	JJ
+CAE	NNP
+provider	NN
+.	.
+
+
+[[ Full Tilt | /m/0b1j34 ]] was followed by [[ Party Poker | /m/06btwh ]] , which recently released a downloadable [[ Mac | /m/02m37y ]] version of its popular software.
+Full	JJ
+Tilt	NNP
+was	VBD
+followed	VBN
+by	IN
+Party	NNP
+Poker	NNP
+,	,
+which	WDT
+recently	RB
+released	VBD
+a	DT
+downloadable	JJ
+Mac	NNP
+version	NN
+of	IN
+its	PRP$
+popular	JJ
+software	NN
+.	.
+
+
+[[ Earthdawn | /m/02nvb ]] is a Fantasy role-playing game, or [[ RPG | /m/06c9r ]] produced originally by [[ FASA | /m/033hn ]] 
+Earthdawn	NNP
+is	VBZ
+a	DT
+Fantasy	NNP
+role	NN
+-	HYPH
+playing	VBG
+game	NN
+,	,
+or	CC
+RPG	NNP
+produced	VBN
+originally	RB
+by	IN
+FASA	NNP
+
+
+[[ OMEGA | /m/03j79g ]] of [[ Manufacturer | /m/09t4t ]] prestige [[ Swiss | /m/06mzp ]]
+OMEGA	NN
+of	IN
+Manufacturer	NNP
+prestige	NN
+Swiss	NNP
+
+
+GOLD AUTOMATIC CALENDAR CENTRE SECONDS [[ WRISTWATCH | /m/0gjkl ]] signed [[ Omega | /m/03j79g ]] , Chronometer Officially Certified, [[ Constellation | /m/01m3b ]] , circa 1965.
+GOLD	NNP
+AUTOMATIC	NNP
+CALENDAR	NNP
+CENTRE	VBD
+SECONDS	NNS
+WRISTWATCH	NNP
+signed	VBD
+Omega	NN
+,	,
+Chronometer	NNP
+Officially	RB
+Certified	NNP
+,	,
+Constellation	NNP
+,	,
+circa	NN
+1965	CD
+.	.
+
+
+[[ AOL | /m/0plw ]] , [[ Compuserve | /m/0kbb8 ]] and [[ Prodigy | /m/01y0mb ]] are examples of [[ OSP | /m/01w7f5 ]] 's
+AOL	NNP
+,	,
+Compuserve	NNP
+and	CC
+Prodigy	NNP
+are	VBP
+examples	NNS
+of	IN
+OSP	NNP
+'s	POS
+
+
+The table shows that [[ UTI | /m/027pn9w ]] top [[ Mutual Funds | /m/01h13q ]]  whereas Principal Asset Mgmt Co  gets the second position.
+The	DT
+table	NN
+shows	VBZ
+that	IN
+UTI	NNP
+top	JJ
+Mutual	NNP
+Funds	NNS
+ 	_SP
+whereas	IN
+Principal	NNP
+Asset	NNP
+Mgmt	NNP
+Co	NNP
+ 	_SP
+gets	VBZ
+the	DT
+second	JJ
+position	NN
+.	.
+
+
+[[ Tech Mahindra | /m/0by3lt ]] 's commitment to [[ Bahrain | /m/0161c ]] underlines the country's position as a leading [[ Information Technology | /m/03ytc ]]  hub in the region
+Tech	NNP
+Mahindra	NNP
+'s	POS
+commitment	NN
+to	IN
+Bahrain	NNP
+underlines	NNS
+the	DT
+country	NN
+'s	POS
+position	NN
+as	IN
+a	DT
+leading	VBG
+Information	NNP
+Technology	NNP
+ 	_SP
+hub	NN
+in	IN
+the	DT
+region	NN
+
+
+[[ Computhink | /m/04169xn ]] provides best-in-class [[ ECM | /m/05k6fj ]] solutions for secure information sharing and compliance, targeting small and medium size organizations.
+Computhink	VB
+provides	VBZ
+best	JJS
+-	HYPH
+in	IN
+-	HYPH
+class	NN
+ECM	NN
+solutions	NNS
+for	IN
+secure	JJ
+information	NN
+sharing	NN
+and	CC
+compliance	NN
+,	,
+targeting	VBG
+small	JJ
+and	CC
+medium	JJ
+size	NN
+organizations	NNS
+.	.
+Computhink
+
+
+[[ Technologies | /m/07c1v ]] used at large [[ Internet Service Providers | /m/0pjxv ]] , like [[ AOL | /m/0plw ]] , and many businesses affect the accuracy of web site statistics.
+Technologies	NNS
+used	VBN
+at	IN
+large	JJ
+Internet	NN
+Service	NNP
+Providers	NNS
+,	,
+like	IN
+AOL	NNP
+,	,
+and	CC
+many	JJ
+businesses	NNS
+affect	VBP
+the	DT
+accuracy	NN
+of	IN
+web	NN
+site	NN
+statistics	NNS
+.	.
+
+
+- [[ Comcast | /m/01s73z ]] and [[ Newscorp | /m/0sxdg ]] respond to the [[ Google | /m/045c7b ]] / [[ Yahoo | /m/045c7b ]] threat...there's more than [[ Print | /m/0hz28 ]] at stake here
+-	:
+Comcast	NNP
+and	CC
+Newscorp	NNP
+respond	VBZ
+to	IN
+the	DT
+Google	NNP
+/	SYM
+Yahoo	NNP
+threat	NN
+...	NFP
+there	EX
+'s	VBZ
+more	JJR
+than	IN
+Print	NNP
+at	IN
+stake	NN
+here	RB
+
+
+[[ ENERGY | /m/02mm_ ]] supplier [[ Scottish & Southern Energy | /m/026pwms ]] has announced plans to raise around ?500m through a placing of 40 million new shares.
+ENERGY	NNP
+supplier	NN
+Scottish	NNP
+&	CC
+Southern	NNP
+Energy	NNP
+has	VBZ
+announced	VBN
+plans	NNS
+to	TO
+raise	VB
+around	RB
+?	.
+500	CD
+m	NN
+through	IN
+a	DT
+placing	NN
+of	IN
+40	CD
+million	CD
+new	JJ
+shares	NNS
+.	.
+
+
+His career in the [[ Games industry | /m/020mfr ]] started with [[ Virgin Mastertronic | /m/03_kl4 ]] in the late 1980s
+His	PRP$
+career	NN
+in	IN
+the	DT
+Games	NNPS
+industry	NN
+started	VBD
+with	IN
+Virgin	NNP
+Mastertronic	NNP
+in	IN
+the	DT
+late	JJ
+1980s	CD
+
+
+[[ PG | /m/02sf_r ]] Raghuraman is the lead executive for [[ Accenture | /m/01rp2c ]] s Delivery Centres for [[ BPO | /m/04fm00 ]] in [[ India | /m/03rk0 ]] .
+PG	NNP
+Raghuraman	NNP
+is	VBZ
+the	DT
+lead	NN
+executive	NN
+for	IN
+Accenture	NN
+s	NNP
+Delivery	NNP
+Centres	NNPS
+for	IN
+BPO	NNP
+in	IN
+India	NNP
+.	.
+
+
+I sometimes say that [[ Amway | /m/0tdx ]] / [[ Quixtar | /m/0qkg0 ]] arguably has the worst reputation in the [[ Network Marketing | /m/056bx ]] industry.
+I	PRP
+sometimes	RB
+say	VBP
+that	IN
+Amway	NNP
+/	SYM
+Quixtar	NNP
+arguably	RB
+has	VBZ
+the	DT
+worst	JJS
+reputation	NN
+in	IN
+the	DT
+Network	NNP
+Marketing	NNP
+industry	NN
+.	.
+
+
+The [[ Airlines | /m/0vg8 ]] include [[ BMI | /m/01pnw4 ]] , Easy Jet, [[ British Airways | /m/0198z ]] and [[ Iberia | /m/0p87j ]] .
+The	DT
+Airlines	NNPS
+include	VBP
+BMI	NNP
+,	,
+Easy	NNP
+Jet	NNP
+,	,
+British	NNP
+Airways	NNPS
+and	CC
+Iberia	NNP
+.	.
+
+
+[[ Air Baltic | /m/0168gq ]] also proposes tourist services such as [[ Rail | /m/06d_3 ]] & Fly with the german railway   [[ Deutsche Bahn | /m/01744t ]]  
+Air	NNP
+Baltic	NNP
+also	RB
+proposes	VBZ
+tourist	NN
+services	NNS
+such	JJ
+as	IN
+Rail	NNP
+&	CC
+Fly	VB
+with	IN
+the	DT
+german	JJ
+railway	NN
+  	_SP
+Deutsche	NNP
+Bahn	NNP
+ 	_SP
+
+
+[[ ENGINEERING | /m/02ky346 ]] group [[ Amec | /m/07vv9s ]] has won a multi-million pound contract to modify a coal-fired power station in [[ Northern Ireland | /m/05bcl ]] .
+ENGINEERING	NNP
+group	NN
+Amec	NNP
+has	VBZ
+won	VBN
+a	DT
+multi	JJ
+-	JJ
+million	CD
+pound	NN
+contract	NN
+to	TO
+modify	VB
+a	DT
+coal	NN
+-	HYPH
+fired	VBN
+power	NN
+station	NN
+in	IN
+Northern	NNP
+Ireland	NNP
+.	.
+
+
+[[ Professional Wrestling | /m/066wd ]] und [[ Mixed Martial Arts | /m/01h7lh ]] - [[ WWE | /m/0gy1_ ]] , [[ TNA | /m/02bgs8 ]] , MMA - Neuheiten und Reports ... NameNickname:, BARBIE STONE.
+Professional	NNP
+Wrestling	NNP
+und	NN
+Mixed	NNP
+Martial	NNP
+Arts	NNPS
+-	HYPH
+WWE	NNP
+,	,
+TNA	NNP
+,	,
+MMA	NNP
+-	HYPH
+Neuheiten	NNP
+und	NN
+Reports	NNS
+...	:
+NameNickname	NNP
+:	:
+,	,
+BARBIE	NNP
+STONE	NNP
+.	.
+
+
+[[ Ralph's | /m/023wwb ]] is a great [[ California | /m/01n7q ]] chain of [[ Grocery Stores | /m/01jpn4 ]] made famous by one [[ Jeffrey Lebowski | /m/07bwr ]] 
+Ralph	NNP
+'s	POS
+is	VBZ
+a	DT
+great	JJ
+California	NNP
+chain	NN
+of	IN
+Grocery	NNP
+Stores	NNPS
+made	VBD
+famous	JJ
+by	IN
+one	CD
+Jeffrey	NNP
+Lebowski	NNP
+
+
+[[ Investment Banking | /m/015p1m ]] is provided through [[ Thomas Weisel Partners | /m/026g43_ ]] of [[ San Francisco | /m/0d6lp ]] , [[ California | /m/01n7q ]] .
+Investment	NN
+Banking	NNP
+is	VBZ
+provided	VBN
+through	IN
+Thomas	NNP
+Weisel	NNP
+Partners	NNPS
+of	IN
+San	NNP
+Francisco	NNP
+,	,
+California	NNP
+.	.
+
+
+Disruptive qualities: [[ Alibaba | /m/07s6ctl ]] has found ways to connect with [[ China | /m/0d05w3 ]] burgeoning [[ Internet | /m/03rlt ]] population: 210 million users and growing!
+Disruptive	JJ
+qualities	NNS
+:	:
+Alibaba	NNP
+has	VBZ
+found	VBN
+ways	NNS
+to	TO
+connect	VB
+with	IN
+China	NNP
+burgeoning	VBG
+Internet	NN
+population	NN
+:	:
+210	CD
+million	CD
+users	NNS
+and	CC
+growing	VBG
+!	.
+
+
+Gahtan's Technology and Inte Law Blog, Voice over IP  Update, Users can access [[ FWD | /m/0296sb ]] using special [[ VOIP | /m/0jzgd ]]
+Gahtan	NNP
+'s	POS
+Technology	NNP
+and	CC
+Inte	NNP
+Law	NNP
+Blog	NNP
+,	,
+Voice	NNP
+over	IN
+IP	NNP
+ 	_SP
+Update	NNP
+,	,
+Users	NNS
+can	MD
+access	VB
+FWD	NNP
+using	VBG
+special	JJ
+VOIP	NN
+
+
+[[ SSD | /m/025_h00 ]] maker [[ Fusion-io | /m/07kczcl ]] announced today that [[ Apple | /m/0k8z ]] founder [[ Steve Wozniak | /m/06y1l ]] has joined it as Chief Scientist
+SSD	NNP
+maker	NN
+Fusion	NNP
+-	HYPH
+io	NNP
+announced	VBD
+today	NN
+that	IN
+Apple	NNP
+founder	NN
+Steve	NNP
+Wozniak	NNP
+has	VBZ
+joined	VBN
+it	PRP
+as	IN
+Chief	NNP
+Scientist	NNP
+
+
+She?s no less the oilwoman than [[ Bush | /m/03xm3m ]] was the [[ Oilman | /m/03xm3m ]] , her husband being a [[ BP | /m/0k5b5 ]] employee
+She?s	NNP
+no	RB
+less	RBR
+the	DT
+oilwoman	NN
+than	IN
+Bush	NNP
+was	VBD
+the	DT
+Oilman	NNP
+,	,
+her	PRP$
+husband	NN
+being	VBG
+a	DT
+BP	NN
+employee	NN
+
+
+Many customers search for [[ DIRECTV | /m/0kc3l ]] using terms like [[ DIRECT TV | /m/0kc3l ]] , [[ DIRECTTV | /m/0kc3l ]] , [[ SATELLITE TV | /m/0l6bc ]] , and [[ DISH TV | /m/0ctq8v ]] .
+Many	JJ
+customers	NNS
+search	VBP
+for	IN
+DIRECTV	NNS
+using	VBG
+terms	NNS
+like	IN
+DIRECT	NNP
+TV	NN
+,	,
+DIRECTTV	NNP
+,	,
+SATELLITE	NNP
+TV	NN
+,	,
+and	CC
+DISH	NN
+TV	NN
+.	.
+
+
+[[ Lexis | /m/03hn9k ]] bought [[ Book Publishing | /m/0hz28 ]] who first commercially published the [[ Code | /m/04m7yl ]] after the recodification in 1990
+Lexis	NNP
+bought	VBD
+Book	NNP
+Publishing	NNP
+who	WP
+first	RB
+commercially	RB
+published	VBD
+the	DT
+Code	NNP
+after	IN
+the	DT
+recodification	NN
+in	IN
+1990	CD
+
+
+I do not think it is good policy either, since [[ Bear Stearns | /m/03qv4n ]] was an [[ INVESTMENT | /m/0g_fl ]] firm
+I	PRP
+do	VBP
+not	RB
+think	VB
+it	PRP
+is	VBZ
+good	JJ
+policy	NN
+either	RB
+,	,
+since	IN
+Bear	NNP
+Stearns	NNP
+was	VBD
+an	DT
+INVESTMENT	NN
+firm	NN
+
+
+[[ INVESTMENT | /m/0g_fl ]] company [[ Dubai International Capital | /m/07mc9j ]]
+INVESTMENT	NN
+company	NN
+Dubai	NNP
+International	NNP
+Capital	NNP
+
+
+He joined [[ Macquarie | /m/03d9ln0 ]] in 1999 via [[ Macquarie | /m/03d9ln0 ]] 's acquisition of the [[ Investment Banking | /m/015p1m ]] business of Bankers Trust Australia.
+He	PRP
+joined	VBD
+Macquarie	NNP
+in	IN
+1999	CD
+via	IN
+Macquarie	NNP
+'s	POS
+acquisition	NN
+of	IN
+the	DT
+Investment	NNP
+Banking	NNP
+business	NN
+of	IN
+Bankers	NNPS
+Trust	NNP
+Australia	NNP
+.	.
+
+
+A healthy saving on your health insurance [[ PruHealth | /m/0dnhnv ]] have a unique approach to [[ Health Insurance | /m/02gqxg ]] .
+A	DT
+healthy	JJ
+saving	NN
+on	IN
+your	PRP$
+health	NN
+insurance	NN
+PruHealth	NNP
+have	VBP
+a	DT
+unique	JJ
+approach	NN
+to	IN
+Health	NNP
+Insurance	NNP
+.	.
+
+
+Effective immediately, [[ Deutsche Post World Net | /m/0210by ]] will separate the [[ LOGISTICS | /m/0k9sx ]] corporate division into two operating units.
+Effective	JJ
+immediately	RB
+,	,
+Deutsche	NNP
+Post	NNP
+World	NNP
+Net	NNP
+will	MD
+separate	VB
+the	DT
+LOGISTICS	NNP
+corporate	JJ
+division	NN
+into	IN
+two	CD
+operating	VBG
+units	NNS
+.	.
+
+
+[[ Budget Rent A Car | /m/07sdf4 ]] is a [[ Car Hire | /m/0drl1t ]] company located in [[ Perth WA | /m/062qg ]] .
+Budget	NN
+Rent	VB
+A	DT
+Car	NN
+is	VBZ
+a	DT
+Car	NNP
+Hire	NNP
+company	NN
+located	VBN
+in	IN
+Perth	NNP
+WA	NNP
+.	.
+
+
+Best prices on [[ Ps2 | /m/066kp ]] games, [[ Sega | /m/06p8m ]] in [[ Video Games | /m/01mw1 ]] 
+Best	JJS
+prices	NNS
+on	IN
+Ps2	NN
+games	NNS
+,	,
+Sega	NNP
+in	IN
+Video	NNP
+Games	NNPS
+
+
+Tags: 250-C20, [[ Aero | /m/02h381 ]] engines, [[ Aerospace | /m/0147gr ]] , [[ Airbus | /m/015zfz ]] , Aircraft engines...
+Tags	NNS
+:	:
+250-C20	CD
+,	,
+Aero	JJ
+engines	NNS
+,	,
+Aerospace	NNP
+,	,
+Airbus	NNP
+,	,
+Aircraft	NN
+engines	NNS
+...	:
+Aero
+
+
+[[ Better Place | /m/03cqqfd ]] already has [[ EV | /m/01pmdg ]] community infrastructrure project s in [[ Isreal | /m/03spz ]] and [[ Denmark | /m/0k6nt ]] 
+Better	JJR
+Place	NNP
+already	RB
+has	VBZ
+EV	NNP
+community	NN
+infrastructrure	IN
+project	NN
+s	NNP
+in	IN
+Isreal	NNP
+and	CC
+Denmark	NNP
+
+
+[[ Primus | /m/07ydsp ]] got involved in [[ VoIP | /m/0jzgd ]] traffic in 1998, says Geoffrey Hicks, senior vice president of network services and technology.
+Primus	NNP
+got	VBD
+involved	VBN
+in	IN
+VoIP	NN
+traffic	NN
+in	IN
+1998	CD
+,	,
+says	VBZ
+Geoffrey	NNP
+Hicks	NNP
+,	,
+senior	JJ
+vice	NN
+president	NN
+of	IN
+network	NN
+services	NNS
+and	CC
+technology	NN
+.	.
+
+
+[[ Trina Solar | /m/047p93n ]] provided most of the [[ PV | /m/02_spr ]] panels, while Gestamp Asetym provided management and design engineering for the project.
+Trina	NNP
+Solar	NNP
+provided	VBD
+most	JJS
+of	IN
+the	DT
+PV	NNP
+panels	NNS
+,	,
+while	IN
+Gestamp	NNP
+Asetym	NNP
+provided	VBD
+management	NN
+and	CC
+design	NN
+engineering	NN
+for	IN
+the	DT
+project	NN
+.	.
+
+
+Every time I walk into [[ Walmart | /m/0841v ]] it reminds me of the [[ Department Stores | /m/01k_mv ]] owned by the [[ Communist States | /m/01fkst ]]
+Every	DT
+time	NN
+I	PRP
+walk	VBP
+into	IN
+Walmart	NNP
+it	PRP
+reminds	VBZ
+me	PRP
+of	IN
+the	DT
+Department	NNP
+Stores	NNPS
+owned	VBN
+by	IN
+the	DT
+Communist	NNP
+States	NNPS
+
+
+Partnerships with global [[ ICT | /m/02vk5n9 ]] leaders, [[ IBM | /m/03sc8 ]] , [[ Orange Business Services | /m/08zvyz ]] and [[ Microsoft | /m/04sv4 ]] further enhance our ability to deliver quality solutions world-wide.
+Partnerships	NNS
+with	IN
+global	JJ
+ICT	NN
+leaders	NNS
+,	,
+IBM	NNP
+,	,
+Orange	NNP
+Business	NNP
+Services	NNPS
+and	CC
+Microsoft	NNP
+further	RB
+enhance	VB
+our	PRP$
+ability	NN
+to	TO
+deliver	VB
+quality	NN
+solutions	NNS
+world	NN
+-	HYPH
+wide	RB
+.	.
+
+
+Best prices on [[ Atlus | /m/0260p2 ]] , M  in [[ Video Games | /m/01mw1 ]] .
+Best	JJS
+prices	NNS
+on	IN
+Atlus	NNP
+,	,
+M	NNP
+ 	_SP
+in	IN
+Video	NNP
+Games	NNPS
+.	.
+
+
+[[ Ecm | /m/05k6fj ]] specialist [[ Open Text | /m/03ctsj ]] has appointed Delicia Cordeaux as technical director for [[ Asia Pacific | /m/055yrc ]] .
+Ecm	NNP
+specialist	NN
+Open	NNP
+Text	NNP
+has	VBZ
+appointed	VBN
+Delicia	NNP
+Cordeaux	NNP
+as	IN
+technical	JJ
+director	NN
+for	IN
+Asia	NNP
+Pacific	NNP
+.	.
+
+
+[[ US | /m/09c7w0 ]] : [[ Ford | /m/02zs4 ]] confirms [[ Lincoln MKT | /m/03hhrcv ]] 'concept' for production: [[ Automotive | /m/015smg ]] .
+US	NNP
+:	:
+Ford	NNP
+confirms	VBZ
+Lincoln	NNP
+MKT	NNP
+'	POS
+concept	NN
+'	''
+for	IN
+production	NN
+:	:
+Automotive	JJ
+.	.
+Automotive
+
+
+[[ Astound Broadband | /m/0b8dfq ]] competes with incumbent [[ Cable TV | /m/024bm ]] carrier, Satellite carrier, Telephone company, and ISPs.
+Astound	NNP
+Broadband	NNP
+competes	VBZ
+with	IN
+incumbent	JJ
+Cable	NN
+TV	NN
+carrier	NN
+,	,
+Satellite	NN
+carrier	NN
+,	,
+Telephone	NN
+company	NN
+,	,
+and	CC
+ISPs	NNS
+.	.
+
+
+[[ Voxbone | /m/09q20r ]] provides [[ Voice over IP | /m/0jzgd ]]  virtual phone numbers in Brazil.
+Voxbone	NNP
+provides	VBZ
+Voice	NNP
+over	IN
+IP	NNP
+ 	_SP
+virtual	JJ
+phone	NN
+numbers	NNS
+in	IN
+Brazil	NNP
+.	.
+
+
+[[ Ad | /m/011s0 ]] group [[ Omnicom | /m/02__5r ]] has launched a global consultancy called Mobile Behavior.
+Ad	NN
+group	NN
+Omnicom	NNP
+has	VBZ
+launched	VBN
+a	DT
+global	JJ
+consultancy	NN
+called	VBN
+Mobile	NNP
+Behavior	NNP
+.	.
+
+
+Saint-Leon, Rhoda Marcus de,   [[ Comme des Garçons | /m/06r2ps ]] : [[ Rei Kawakubo | /m/06r2jf ]] Makes [[ Magic | /m/0jm4b ]] ,  in American Fabrics and [[ Fashions | /m/032tl ]] , Fall 1983
+Saint	NNP
+-	HYPH
+Leon	NNP
+,	,
+Rhoda	NNP
+Marcus	NNP
+de	NNP
+,	,
+  	_SP
+Comme	NNP
+des	NNP
+Garçons	NNP
+:	:
+Rei	NNP
+Kawakubo	NNP
+Makes	VBZ
+Magic	NNP
+,	,
+ 	_SP
+in	IN
+American	NNP
+Fabrics	NNP
+and	CC
+Fashions	NNPS
+,	,
+Fall	NN
+1983	CD
+
+
+[[ VocalTec | /m/086449 ]] and Cisco will provide an end-to-end solution for handling pre- and post-paid [[ VoIP | /m/0jzgd ]] calling services for [[ Bell Atlantic | /m/07_dn ]] 
+VocalTec	NNP
+and	CC
+Cisco	NNP
+will	MD
+provide	VB
+an	DT
+end	NN
+-	HYPH
+to	IN
+-	HYPH
+end	NN
+solution	NN
+for	IN
+handling	VBG
+pre-	NN
+and	CC
+post	RB
+-	JJ
+paid	VBN
+VoIP	NN
+calling	VBG
+services	NNS
+for	IN
+Bell	NNP
+Atlantic	NNP
+
+
+[[ Tata Consultancy Services | /m/01psx8 ]]  is a global [[ IT Consulting | /m/07k6dg ]] , IT services and [[ BPO | /m/04fm00 ]] organisation
+Tata	NNP
+Consultancy	NNP
+Services	NNPS
+ 	_SP
+is	VBZ
+a	DT
+global	JJ
+IT	NNP
+Consulting	NNP
+,	,
+IT	NNP
+services	NNS
+and	CC
+BPO	NNP
+organisation	NN
+
+
+Now it is for Project B.Box! [[ Steinberg | /m/0236y5 ]] is distributing the next generation of this innovative [[ Software Tool | /m/01mf0 ]] .
+Now	RB
+it	PRP
+is	VBZ
+for	IN
+Project	NNP
+B.Box	NNP
+!	.
+Steinberg	NNP
+is	VBZ
+distributing	VBG
+the	DT
+next	JJ
+generation	NN
+of	IN
+this	DT
+innovative	JJ
+Software	NNP
+Tool	NNP
+.	.
+
+
+The bottom cell is filled with a proprietary polymer first disclosed last year by plastic [[ PV | /m/02_spr ]] developer [[ Konarka Technologies | /m/0287cmk ]] <http://www.konarkatech.com/>
+The	DT
+bottom	JJ
+cell	NN
+is	VBZ
+filled	VBN
+with	IN
+a	DT
+proprietary	JJ
+polymer	NN
+first	RB
+disclosed	VBD
+last	JJ
+year	NN
+by	IN
+plastic	JJ
+PV	NNP
+developer	NN
+Konarka	NNP
+Technologies	NNP
+<	XX
+http://www.konarkatech.com/	ADD
+>	XX
+
+
+The [[ Commonwealth Bank of Australia | /m/02rndw ]] has been operating in [[ Tokyo | /m/07dfk ]] , [[ Japan | /m/03_3d ]] since 1986, and has recently expanded into [[ Retail Banking Services | /m/0ccf7n ]]
+The	DT
+Commonwealth	NNP
+Bank	NNP
+of	IN
+Australia	NNP
+has	VBZ
+been	VBN
+operating	VBG
+in	IN
+Tokyo	NNP
+,	,
+Japan	NNP
+since	IN
+1986	CD
+,	,
+and	CC
+has	VBZ
+recently	RB
+expanded	VBN
+into	IN
+Retail	NNP
+Banking	NNP
+Services	NNS
+
+
+Welcome to [[ AMR | /m/044trm ]] 's online resource for [[ EMS | /m/0dxh1 ]] education!
+Welcome	VBP
+to	IN
+AMR	NNP
+'s	POS
+online	JJ
+resource	NN
+for	IN
+EMS	NNP
+education	NN
+!	.
+
+
+The [[ London | /m/04jpl ]] based [[ Internet Telephone | /m/0jzgd ]] provider, [[ Voipfone | /m/02pm7tk ]] ,  today added 0800 number services to its widening range of telecommunication products
+The	DT
+London	NNP
+based	VBD
+Internet	NNP
+Telephone	NNP
+provider	NN
+,	,
+Voipfone	NNP
+,	,
+ 	_SP
+today	NN
+added	VBD
+0800	CD
+number	NN
+services	NNS
+to	IN
+its	PRP$
+widening	VBG
+range	NN
+of	IN
+telecommunication	NN
+products	NNS
+
+
+[[ CNET | /m/0by1jyj ]] named [[ MindSpring | /m/02m9sn ]] the [[ Internet Service Provider | /m/0pjxv ]] offering the 'Best Value,' and highlighted our 'first-rate technical support.'
+CNET	NNP
+named	VBN
+MindSpring	NNP
+the	DT
+Internet	NNP
+Service	NNP
+Provider	NNP
+offering	VBG
+the	DT
+'	``
+Best	JJS
+Value	NN
+,	,
+'	''
+and	CC
+highlighted	VBD
+our	PRP$
+'	``
+first	JJ
+-	HYPH
+rate	NN
+technical	JJ
+support	NN
+.	.
+'	''
+
+
+Examples of [[ Internet Service Providers | /m/0pjxv ]] are [[ America Online | /m/0plw ]]
+Examples	NNS
+of	IN
+Internet	NN
+Service	NNP
+Providers	NNS
+are	VBP
+America	NNP
+Online	NNP
+
+
+Remember how people tell us that [[ Xango | /m/02m935 ]] is an [[ MLM | /m/056bx ]] company that only runs on one product line?
+Remember	VB
+how	WRB
+people	NNS
+tell	VBP
+us	PRP
+that	IN
+Xango	NNP
+is	VBZ
+an	DT
+MLM	NNP
+company	NN
+that	WDT
+only	RB
+runs	VBZ
+on	IN
+one	CD
+product	NN
+line	NN
+?	.
+
+
+* Journey to [[ Wellness | /m/059z22 ]] ? is not a [[ Shaklee Corporation | /m/03clgx7 ]] program, but a program designed by HealthMasters organization.
+*	NFP
+Journey	NNP
+to	IN
+Wellness	NN
+?	.
+is	VBZ
+not	RB
+a	DT
+Shaklee	NNP
+Corporation	NNP
+program	NN
+,	,
+but	CC
+a	DT
+program	NN
+designed	VBN
+by	IN
+HealthMasters	NNP
+organization	NN
+.	.
+
+
+The [[ Victorian | /m/0chgr2 ]] [[ ACS | /m/07k24g ]] branch recently organised a fruitful seminar on [[ IT | /m/03ytc ]] 's future in [[ Australia | /m/0chghy ]] 
+The	DT
+Victorian	JJ
+ACS	NNP
+branch	NN
+recently	RB
+organised	VBD
+a	DT
+fruitful	JJ
+seminar	NN
+on	IN
+IT	NNP
+'s	POS
+future	NN
+in	IN
+Australia	NNP
+Victorian
+
+
+[[ Emirates | /m/011_65 ]] is a [[ Scheduled Airline | /m/0vg8 ]] flying from [[ Gatwick Airport | /m/0pr6s ]] 's, North Terminal.
+Emirates	NNP
+is	VBZ
+a	DT
+Scheduled	JJ
+Airline	NN
+flying	VBG
+from	IN
+Gatwick	NNP
+Airport	NNP
+'s	POS
+,	,
+North	NNP
+Terminal	NNP
+.	.
+
+
+[[ ZenithOptimedia | /m/03p307q ]] is the media agency for [[ PUMA | /m/03r_n_ ]] while Flare Communicatios handles [[ PR | /m/062zr ]] .
+ZenithOptimedia	NNP
+is	VBZ
+the	DT
+media	NNS
+agency	NN
+for	IN
+PUMA	NNP
+while	IN
+Flare	NNP
+Communicatios	NNP
+handles	VBZ
+PR	NN
+.	.
+
+
+[[ Shaklee | /m/03clgx7 ]] was a pioneer of the [[ MLM | /m/056bx ]] and Health Industries.
+Shaklee	NNP
+was	VBD
+a	DT
+pioneer	NN
+of	IN
+the	DT
+MLM	NNP
+and	CC
+Health	NNP
+Industries	NNPS
+.	.
+
+
+In cooperation with [[ AutoDesk | /m/018nm3 ]] , [[ Roots of Peace | /m/0201y3 ]] supports greater use of sophisticated [[ Geographic Information Systems | /m/03821 ]]  technology.
+In	IN
+cooperation	NN
+with	IN
+AutoDesk	NNP
+,	,
+Roots	NNS
+of	IN
+Peace	NN
+supports	VBZ
+greater	JJR
+use	NN
+of	IN
+sophisticated	JJ
+Geographic	NNP
+Information	NNP
+Systems	NNPS
+ 	_SP
+technology	NN
+.	.
+
+
+... [[ NetZero | /m/02x8q9 ]] is a nationwide [[ Internet Service Provider | /m/0pjxv ]] , available in more than 8,000 ... www.netzero.net
+...	:
+NetZero	NNP
+is	VBZ
+a	DT
+nationwide	JJ
+Internet	NN
+Service	NNP
+Provider	NNP
+,	,
+available	JJ
+in	IN
+more	JJR
+than	IN
+8,000	CD
+...	NFP
+www.netzero.net	XX
+
+
+[[ Interactive Entertainment | /m/02p71tm ]] announced that the [[ Harry Potter and the Order of the Phoenix | /m/031hcx ]] videogame is in… [[ EA | /m/01n073 ]] and [[ Warner Bros | /m/086k8 ]] 
+Interactive	NNP
+Entertainment	NNP
+announced	VBD
+that	IN
+the	DT
+Harry	NNP
+Potter	NNP
+and	CC
+the	DT
+Order	NN
+of	IN
+the	DT
+Phoenix	NNP
+videogame	NN
+is	VBZ
+in	IN
+…	NFP
+EA	NNP
+and	CC
+Warner	NNP
+Bros	NNP
+
+
+[[ Zoom | /m/02pvhdw ]] 's approach to [[ VoIP | /m/0jzgd ]] may be unique, but it is certainly not the only exception
+Zoom	NNP
+'s	POS
+approach	NN
+to	IN
+VoIP	NNP
+may	MD
+be	VB
+unique	JJ
+,	,
+but	CC
+it	PRP
+is	VBZ
+certainly	RB
+not	RB
+the	DT
+only	JJ
+exception	NN
+
+
+Pipeline gas connections Mahanagar Gas Limited  and [[ Indraprastha Gas Limited | /m/0gvv0z6 ]] , [[ Joint Venture | /m/02mz24 ]] companies of [[ GAIL (India) Limited | /m/02vzp1l ]] are supplying [[ Piped Natural Gas | /m/05k4k ]]  to 1.70 lakh...........................
+Pipeline	NN
+gas	NN
+connections	NNS
+Mahanagar	NNP
+Gas	NNP
+Limited	NNP
+ 	_SP
+and	CC
+Indraprastha	NNP
+Gas	NNP
+Limited	NNP
+,	,
+Joint	NNP
+Venture	NNP
+companies	NNS
+of	IN
+GAIL	NNP
+(	-LRB-
+India	NNP
+)	-RRB-
+Limited	NNP
+are	VBP
+supplying	VBG
+Piped	NNP
+Natural	NNP
+Gas	NNP
+ 	_SP
+to	IN
+1.70	CD
+lakh	NN
+...........................	.
+
+
+Travel [[ Malta | /m/04v3q ]] is now served by an ever growing number of [[ Airlines | /m/0vg8 ]] including [[ Ryan Air | /m/01m_zd ]] and [[ Easyjet | /m/018mxj ]] 
+Travel	NNP
+Malta	NNP
+is	VBZ
+now	RB
+served	VBN
+by	IN
+an	DT
+ever	RB
+growing	VBG
+number	NN
+of	IN
+Airlines	NNPS
+including	VBG
+Ryan	NNP
+Air	NNP
+and	CC
+Easyjet	NNP
+
+
+[[ Capgemini | /m/03vlk0 ]] is a global leader in [[ Consulting | /m/07k6dg ]] , ...
+Capgemini	NNP
+is	VBZ
+a	DT
+global	JJ
+leader	NN
+in	IN
+Consulting	NNP
+,	,
+...	:
+
+
+First [[ Car Rental | /m/0drl1t ]] is the official franchise partner of [[ SIXT | /m/04k512 ]] in [[ South Africa | /m/0hzlz ]] .
+First	NNP
+Car	NNP
+Rental	NNP
+is	VBZ
+the	DT
+official	JJ
+franchise	NN
+partner	NN
+of	IN
+SIXT	NNP
+in	IN
+South	NNP
+Africa	NNP
+.	.
+
+
+[[ State Bank of India | /m/0242kb ]] works with [[ Infosys | /m/01k8x6 ]] on the core-banking front and [[ Mphasis | /m/089_77 ]]  for its [[ BPO | /m/04fm00 ]] functions.
+State	NNP
+Bank	NNP
+of	IN
+India	NNP
+works	VBZ
+with	IN
+Infosys	NNP
+on	IN
+the	DT
+core	NN
+-	HYPH
+banking	NN
+front	NN
+and	CC
+Mphasis	NNP
+ 	_SP
+for	IN
+its	PRP$
+BPO	NNP
+functions	NNS
+.	.
+
+
+Under Steves leadership, [[ Michelin | /m/0kpxt ]] s [[ Truck | /m/07r04 ]] and [[ Earthmover | /m/02gx17 ]] divisions routinely exceeded projections and still remain market share leaders today.
+Under	IN
+Steves	NNP
+leadership	NN
+,	,
+Michelin	NNP
+s	NNP
+Truck	NNP
+and	CC
+Earthmover	NNP
+divisions	NNS
+routinely	RB
+exceeded	VBD
+projections	NNS
+and	CC
+still	RB
+remain	VBP
+market	NN
+share	NN
+leaders	NNS
+today	NN
+.	.
+
+
+Best prices on [[ Wars | /m/082cb ]] wii, [[ Electronic Arts | /m/01n073 ]] in [[ Video Games | /m/01mw1 ]] 
+Best	JJS
+prices	NNS
+on	IN
+Wars	NNS
+wii	NNP
+,	,
+Electronic	NNP
+Arts	NNPS
+in	IN
+Video	NNP
+Games	NNPS
+
+
+[[ Pakistan Software Export Board | /m/03ydcvp ]]  is a government-owned organization that is mandated to promote [[ Pakistan | /m/05sb1 ]] s [[ Information Technology | /m/03ytc ]]  industry
+Pakistan	NNP
+Software	NNP
+Export	NNP
+Board	NNP
+ 	_SP
+is	VBZ
+a	DT
+government	NN
+-	HYPH
+owned	VBN
+organization	NN
+that	WDT
+is	VBZ
+mandated	VBN
+to	TO
+promote	VB
+Pakistan	NNP
+s	ADD
+Information	NNP
+Technology	NNP
+ 	_SP
+industry	NN
+
+
+[[ AAI Corporation | /m/03h263 ]] has openings for [[ Mechanical | /m/04x_3 ]] , [[ Electronic | /m/02lkt ]] and [[ Aerospace | /m/0147gr ]] engineers and engineering technicians.
+AAI	NNP
+Corporation	NNP
+has	VBZ
+openings	NNS
+for	IN
+Mechanical	NNP
+,	,
+Electronic	NNP
+and	CC
+Aerospace	NNP
+engineers	NNS
+and	CC
+engineering	NN
+technicians	NNS
+.	.
+
+
+It's partnering with [[ Australian | /m/0chghy ]] [[ VoIP | /m/0jzgd ]] equipment manufacturer [[ Freshtel | /m/027whd_ ]] 
+It	PRP
+'s	VBZ
+partnering	VBG
+with	IN
+Australian	JJ
+VoIP	NN
+equipment	NN
+manufacturer	NN
+Freshtel	NNP
+Australian
+
+
+[[ ACS | /m/07k24g ]] has been providing a host of [[ BPO | /m/04fm00 ]] services for the [[ Apollo Group | /m/07ydt0 ]] since May of 2002.
+ACS	NNP
+has	VBZ
+been	VBN
+providing	VBG
+a	DT
+host	NN
+of	IN
+BPO	NNP
+services	NNS
+for	IN
+the	DT
+Apollo	NNP
+Group	NNP
+since	IN
+May	NNP
+of	IN
+2002	CD
+.	.
+
+
+[[ Radar Networks | /m/02211b3 ]] is pioneering the [[ Semantic Web | /m/076k0 ]] , sometimes referred to as [[ Web 3.0 | /m/022q90l ]] .
+Radar	NN
+Networks	NNS
+is	VBZ
+pioneering	VBG
+the	DT
+Semantic	NNP
+Web	NNP
+,	,
+sometimes	RB
+referred	VBN
+to	IN
+as	IN
+Web	NN
+3.0	CD
+.	.
+
+
+[[ TELECOMS | /m/029g_vk ]] firm [[ CABLE & WIRELESS | /m/0201yx ]] has put on ice plans to divide into two businesses
+TELECOMS	NNP
+firm	JJ
+CABLE	NNP
+&	CC
+WIRELESS	NNP
+has	VBZ
+put	VBN
+on	IN
+ice	NN
+plans	NNS
+to	TO
+divide	VB
+into	IN
+two	CD
+businesses	NNS
+
+
+The whole [[ Airline Industry | /m/0vg8 ]] would be a lot better off without [[ Southwest | /m/0gztl ]]
+The	DT
+whole	JJ
+Airline	NNP
+Industry	NNP
+would	MD
+be	VB
+a	DT
+lot	NN
+better	JJR
+off	RP
+without	IN
+Southwest	NNP
+
+
+www.robotron-2084.co.uk - Preserving Williams, [[ Atari | /m/01scmq ]] and [[ Taito | /m/07rfp ]] 1980's [[ Video Games | /m/01mw1 ]] and [[ Pinball Machines | /m/0gfk5 ]] for the future!
+www.robotron-2084.co.uk	RB
+-	:
+Preserving	VBG
+Williams	NNP
+,	,
+Atari	NNP
+and	CC
+Taito	NNP
+1980	CD
+'s	POS
+Video	NNP
+Games	NNPS
+and	CC
+Pinball	NNP
+Machines	NNPS
+for	IN
+the	DT
+future	NN
+!	.
+
+
+(cargo shipping company that among other things ran a dedicated cold chain set up for [[ Pharma | /m/02q3wl ]] company [[ Ranbaxy | /m/0243xw ]] ).
+(	-LRB-
+cargo	NN
+shipping	VBG
+company	NN
+that	IN
+among	IN
+other	JJ
+things	NNS
+ran	VBD
+a	DT
+dedicated	JJ
+cold	JJ
+chain	NN
+set	VBN
+up	RP
+for	IN
+Pharma	NNP
+company	NN
+Ranbaxy	NNP
+)	-RRB-
+.	.
+
+
+[[ India | /m/03rk0 ]] Gives [[ Monsanto | /m/0n8m6 ]] an Unstable Lab for Genetics in [[ Farming | /m/0hkf ]] 
+India	NNP
+Gives	NNP
+Monsanto	NNP
+an	DT
+Unstable	JJ
+Lab	NN
+for	IN
+Genetics	NNP
+in	IN
+Farming	NNP
+
+
+[[ Asurion | /m/0765wf ]] is who [[ Alltel | /m/05sfff ]] goes through, [[ Nextel | /m/077w0b ]] goes through [[ Signal | /m/029g_vk ]] , not sure who Sprint uses
+Asurion	NN
+is	VBZ
+who	WP
+Alltel	NNP
+goes	VBZ
+through	RB
+,	,
+Nextel	NNP
+goes	VBZ
+through	IN
+Signal	NNP
+,	,
+not	RB
+sure	JJ
+who	WP
+Sprint	NNP
+uses	VBZ
+
+
+Email a copy of [[ PE | /m/01b4x4 ]] firm [[ Onex | /m/06phlm ]] sees gold in beaten-up buyout debt to a friend.
+Email	NN
+a	DT
+copy	NN
+of	IN
+PE	NNP
+firm	NN
+Onex	NNP
+sees	VBZ
+gold	NN
+in	IN
+beaten	VBN
+-	HYPH
+up	RP
+buyout	NN
+debt	NN
+to	IN
+a	DT
+friend	NN
+.	.
+
+
+Alpinesportinggoods.com carries [[ Burton | /m/0781kl ]] 's line of [[ Snowboard | /m/06__v ]] boots including the [[ Freestyle | /m/01t4m0 ]] and [[ Moto | /m/04_sv ]] series.
+Alpinesportinggoods.com	NNP
+carries	VBZ
+Burton	NNP
+'s	POS
+line	NN
+of	IN
+Snowboard	NNP
+boots	NNS
+including	VBG
+the	DT
+Freestyle	NNP
+and	CC
+Moto	NNP
+series	NN
+.	.
+
+
+The shut down of its network operations follows the closure of [[ VoIP | /m/0jzgd ]] provider [[ Sunrocket | /m/0cwg4f ]] 
+The	DT
+shut	NN
+down	RP
+of	IN
+its	PRP$
+network	NN
+operations	NNS
+follows	VBZ
+the	DT
+closure	NN
+of	IN
+VoIP	NN
+provider	NN
+Sunrocket	NNP
+
+
+2001 -? [[ Cable | /m/024bm ]] operator [[ Comcast | /m/01s73z ]] mounted a $41 billion hostile bid to merge with [[ AT&T Broadband | /m/09fwxt ]] 
+2001	CD
+-	:
+?	.
+Cable	NN
+operator	NN
+Comcast	NNP
+mounted	VBD
+a	DT
+$	$
+41	CD
+billion	CD
+hostile	JJ
+bid	NN
+to	TO
+merge	VB
+with	IN
+AT&T	NNP
+Broadband	NNP
+
+
+All you need to know about [[ Biotech | /m/01ftz ]] was [[ AMGN | /m/03r820 ]] and [[ DNDN | /m/0kqkf3 ]] .
+All	DT
+you	PRP
+need	VBP
+to	TO
+know	VB
+about	IN
+Biotech	NNP
+was	VBD
+AMGN	NNP
+and	CC
+DNDN	NNP
+.	.
+
+
+[[ UNIVERSAL MUSIC GROUP | /m/01dtcb ]] CLAIMS THE [[ MUSIC | /m/04rlf ]] CONTAINED IN THIS VIDEO IS INFRINGING.THEREFORE THE MUSIC HAS BEEN MUTED BY UMG.
+UNIVERSAL	JJ
+MUSIC	NNP
+GROUP	NNP
+CLAIMS	VBZ
+THE	DT
+MUSIC	NN
+CONTAINED	VBN
+IN	IN
+THIS	DT
+VIDEO	NN
+IS	VBZ
+INFRINGING.THEREFORE	DT
+THE	DT
+MUSIC	NN
+HAS	VBZ
+BEEN	VBN
+MUTED	VBN
+BY	IN
+UMG	NNP
+.	.
+
+
+[[ EarthLink | /m/02glvd ]] also offers different types of [[ Voice over Internet Protocol | /m/0jzgd ]]  phone services
+EarthLink	NNP
+also	RB
+offers	VBZ
+different	JJ
+types	NNS
+of	IN
+Voice	NNP
+over	IN
+Internet	NNP
+Protocol	NNP
+ 	_SP
+phone	NN
+services	NNS
+
+
+[[ Jcpenney | /m/026h1w ]] is in the [[ Department Stores | /m/01k_mv ]] industry in HOT SPRINGS NATIONAL PARK, [[ AR | /m/0vbk ]] .
+Jcpenney	NNP
+is	VBZ
+in	IN
+the	DT
+Department	NNP
+Stores	NNPS
+industry	NN
+in	IN
+HOT	NNP
+SPRINGS	NNP
+NATIONAL	NNP
+PARK	NNP
+,	,
+AR	NNP
+.	.
+
+
+[[ RAIL | /m/06d_3 ]] : [[ Ferrovie dello Stato | /m/06lmm2 ]]  is the [[ Italian | /m/03rjj ]]
+RAIL	NN
+:	:
+Ferrovie	NNP
+dello	NN
+Stato	NNP
+ 	_SP
+is	VBZ
+the	DT
+Italian	JJ
+Italian
+
+
+[[ Pharmaceutical | /m/02q3wl ]] manufactures? [[ Pfizer | /m/0gvbw ]]
+Pharmaceutical	JJ
+manufactures	NNS
+?	.
+Pfizer	NNS
+Pharmaceutical
+
+
+We all know of the exciting things [[ Tesla Motors | /m/0dr90d ]] is doing for the [[ Automotive | /m/015smg ]] world.
+We	PRP
+all	DT
+know	VBP
+of	IN
+the	DT
+exciting	JJ
+things	NNS
+Tesla	NNP
+Motors	NNPS
+is	VBZ
+doing	VBG
+for	IN
+the	DT
+Automotive	JJ
+world	NN
+.	.
+Automotive
+
+
+[[ PokerStars | /m/09jnvg ]] hosts the [[ World Championships | /m/01gqqn ]] of [[ Online Poker | /m/02m37y ]]  annually.
+PokerStars	NNP
+hosts	VBZ
+the	DT
+World	NNP
+Championships	NNPS
+of	IN
+Online	NNP
+Poker	NNP
+ 	_SP
+annually	RB
+.	.
+
+
+I get most of my services through [[ Time Warner | /m/08gyry ]] including [[ Cable | /m/024bm ]] , Internet and [[ Digital Phone | /m/0jzgd ]] .
+I	PRP
+get	VBP
+most	JJS
+of	IN
+my	PRP$
+services	NNS
+through	IN
+Time	NNP
+Warner	NNP
+including	VBG
+Cable	NNP
+,	,
+Internet	NN
+and	CC
+Digital	NNP
+Phone	NNP
+.	.
+
+
+4. Blue Cross Health Plans - Quotes [[ Health Insurance | /m/02gqxg ]] quotes online from [[ Blue Cross | /m/09dscd ]] .
+4	LS
+.	.
+Blue	NNP
+Cross	NNP
+Health	NNP
+Plans	NNPS
+-	:
+Quotes	NNP
+Health	NNP
+Insurance	NNP
+quotes	VBZ
+online	RB
+from	IN
+Blue	NNP
+Cross	NNP
+.	.
+
+
+[[ Food Processing | /m/02vjn0 ]] interviews [[ Archer Daniels Midland Co. | /m/01qg42 ]] about its NovaLipid line of zero trans-fat oils.
+Food	NN
+Processing	NN
+interviews	NNS
+Archer	NNP
+Daniels	NNP
+Midland	NNP
+Co.	NNP
+about	IN
+its	PRP$
+NovaLipid	NNP
+line	NN
+of	IN
+zero	CD
+trans	JJ
+-	JJ
+fat	JJ
+oils	NNS
+.	.
+
+
+[[ Information Technology | /m/03ytc ]]  company [[ Dimension Data Holdings | /m/02qk4zq ]]
+Information	NNP
+Technology	NNP
+ 	_SP
+company	NN
+Dimension	NNP
+Data	NNP
+Holdings	NNPS
+
+
+www.robotron-2084.co.uk - Preserving Williams, [[ Atari | /m/01scmq ]] and [[ Taito | /m/07rfp ]] 1980's [[ Video Games | /m/01mw1 ]] and [[ Pinball Machines | /m/0gfk5 ]] for the future!
+www.robotron-2084.co.uk	RB
+-	:
+Preserving	VBG
+Williams	NNP
+,	,
+Atari	NNP
+and	CC
+Taito	NNP
+1980	CD
+'s	POS
+Video	NNP
+Games	NNPS
+and	CC
+Pinball	NNP
+Machines	NNPS
+for	IN
+the	DT
+future	NN
+!	.
+
+
+While [[ VoicePulse | /m/08gjqb ]] receives high marks from many [[ VoIP | /m/0jzgd ]]
+While	IN
+VoicePulse	NNP
+receives	VBZ
+high	JJ
+marks	NNS
+from	IN
+many	JJ
+VoIP	NN
+
+
+Hosting is a service provided by a [[ ISP | /m/0pjxv ]] , such as [[ Earthlink | /m/02glvd ]] a leading provider in [[ Atlanta | /m/013yq ]] .
+Hosting	VBG
+is	VBZ
+a	DT
+service	NN
+provided	VBN
+by	IN
+a	DT
+ISP	NNP
+,	,
+such	JJ
+as	IN
+Earthlink	NNP
+a	DT
+leading	JJ
+provider	NN
+in	IN
+Atlanta	NNP
+.	.
+
+
+One And Only Network - Appears to have been bought by Match.Com, whose [[ Affiliate Program | /m/0344pd ]] is run by [[ Commission Junction | /m/08xnt8 ]] .
+One	CD
+And	CC
+Only	JJ
+Network	NNP
+-	HYPH
+Appears	VBZ
+to	TO
+have	VB
+been	VBN
+bought	VBN
+by	IN
+Match	NNP
+.	.
+Com	NNP
+,	,
+whose	WP$
+Affiliate	NNP
+Program	NNP
+is	VBZ
+run	VBN
+by	IN
+Commission	NNP
+Junction	NNP
+.	.
+
+
+The [[ Intercontinental Hotel | /m/04ykg6 ]] is the best business accommodation among the [[ Hotels | /m/03pty ]] in [[ Amman | /m/047st18 ]] in [[ Jordan | /m/03__y ]] .
+The	DT
+Intercontinental	NNP
+Hotel	NNP
+is	VBZ
+the	DT
+best	JJS
+business	NN
+accommodation	NN
+among	IN
+the	DT
+Hotels	NNPS
+in	IN
+Amman	NNP
+in	IN
+Jordan	NNP
+.	.
+
+
+Note that my [[ Internet Service Provider | /m/0pjxv ]]  was [[ Bell Sympatico | /m/01lgnq ]] .
+Note	VB
+that	IN
+my	PRP$
+Internet	NN
+Service	NNP
+Provider	NNP
+ 	_SP
+was	VBD
+Bell	NNP
+Sympatico	NNP
+.	.
+
+
+He is currently Chief Economist of IXIS Corporate amd [[ Investment Bank | /m/015p1m ]] , a subsidary of [[ NATIXIS | /m/026rj27 ]] .
+He	PRP
+is	VBZ
+currently	RB
+Chief	NNP
+Economist	NNP
+of	IN
+IXIS	JJ
+Corporate	JJ
+amd	NN
+Investment	NNP
+Bank	NNP
+,	,
+a	DT
+subsidary	NN
+of	IN
+NATIXIS	NNP
+.	.
+
+
+boringloser: Daves Quest  1988 [[ Sierra Games | /m/0dwcl ]] Made for [[ Movie Night | /m/03l3dw ]] , and our  [[ Video Game | /m/01mw1 ]]
+boringloser	NN
+:	:
+Daves	NNP
+Quest	NNP
+ 	_SP
+1988	CD
+Sierra	NNP
+Games	NNPS
+Made	VBN
+for	IN
+Movie	NNP
+Night	NNP
+,	,
+and	CC
+our	PRP$
+ 	_SP
+Video	NNP
+Game	NN
+
+
+I get most of my services through [[ Time Warner | /m/08gyry ]] including [[ Cable | /m/024bm ]] , Internet and [[ Digital Phone | /m/0jzgd ]] .
+I	PRP
+get	VBP
+most	JJS
+of	IN
+my	PRP$
+services	NNS
+through	IN
+Time	NNP
+Warner	NNP
+including	VBG
+Cable	NNP
+,	,
+Internet	NN
+and	CC
+Digital	NNP
+Phone	NNP
+.	.
+
+
+[[ Cruise America | /m/03cjbjs ]] operates a joint venture with [[ Thor Industries, Inc. | /m/0c_61d ]] , a leading maker of [[ RVs | /m/01lgkm ]] , for renting to the public.
+Cruise	NNP
+America	NNP
+operates	VBZ
+a	DT
+joint	JJ
+venture	NN
+with	IN
+Thor	NNP
+Industries	NNP
+,	,
+Inc.	NNP
+,	,
+a	DT
+leading	VBG
+maker	NN
+of	IN
+RVs	NNS
+,	,
+for	IN
+renting	VBG
+to	IN
+the	DT
+public	NN
+.	.
+
+
+[[ EW SCRIPPS | /m/060ppp ]] CL A [[ Daily | /m/05jnl ]] Stock Prices Chart
+EW	NNP
+SCRIPPS	NN
+CL	NNP
+A	DT
+Daily	NNP
+Stock	NNP
+Prices	NNPS
+Chart	NNP
+
+
+[[ Jumeirah | /m/0d1kbj ]] signs [[ Luxury Hotel | /m/03pty ]] in [[ Glasgow | /m/0hyxv ]] , [[ Scotland | /m/06q1r ]]
+Jumeirah	NNP
+signs	VBZ
+Luxury	NNP
+Hotel	NNP
+in	IN
+Glasgow	NNP
+,	,
+Scotland	NNP
+
+
+According to / [[ Film | /m/02vxn ]] , [[ Pixar | /m/01795t ]] s [[ Wall-E | /m/027s39y ]] is the newest to add something to lobby charm.
+According	VBG
+to	IN
+/	SYM
+Film	NNP
+,	,
+Pixar	NNP
+s	VBZ
+Wall	NNP
+-	HYPH
+E	NNP
+is	VBZ
+the	DT
+newest	JJS
+to	TO
+add	VB
+something	NN
+to	TO
+lobby	VB
+charm	NN
+.	.
+
+
+[[ Qwest Communications | /m/01kk0d ]] is a front line player in the [[ Telecommunications Industry | /m/029g_vk ]] .
+Qwest	NNP
+Communications	NNP
+is	VBZ
+a	DT
+front	JJ
+line	NN
+player	NN
+in	IN
+the	DT
+Telecommunications	NNPS
+Industry	NNP
+.	.
+
+
+For 2007, the [[ Kudelski Group | /m/02x8rcw ]] expects a further favorable development of both [[ Digital TV | /m/029j1 ]] and [[ Public Access | /m/027cx0 ]] economics
+For	IN
+2007	CD
+,	,
+the	DT
+Kudelski	NNP
+Group	NNP
+expects	VBZ
+a	DT
+further	RBR
+favorable	JJ
+development	NN
+of	IN
+both	DT
+Digital	NNP
+TV	NNP
+and	CC
+Public	NNP
+Access	NNP
+economics	NNS
+
+
+[[ Lexus | /m/04n7g ]] Could Become [[ Hybrid | /m/026t_c7 ]] -only [[ Carmaker | /m/015smg ]]
+Lexus	NNP
+Could	MD
+Become	VB
+Hybrid	NNP
+-only	.
+Carmaker	NNP
+
+
+[[ Microsoft | /m/04sv4 ]] did best among [[ Computer Software | /m/01mf0 ]] firms , while [[ Siebel Systems | /m/04svnf ]] did worst
+Microsoft	NNP
+did	VBD
+best	RBS
+among	IN
+Computer	NNP
+Software	NNP
+firms	NNS
+,	,
+while	IN
+Siebel	NNP
+Systems	NNPS
+did	VBD
+worst	JJS
+
+
+[[ Coradiant | /m/02875h4 ]] teamed up with [[ Omniture | /m/0bchc7 ]] to provide the most complete [[ Web Analytics | /m/07gnl6 ]] solution available.
+Coradiant	NNP
+teamed	VBD
+up	RP
+with	IN
+Omniture	NNP
+to	TO
+provide	VB
+the	DT
+most	RBS
+complete	JJ
+Web	NNP
+Analytics	NNP
+solution	NN
+available	JJ
+.	.
+
+
+Alloy Media + [[ Marketing | /m/0g4gr ]] commissioned a study by [[ Harris Interactive | /m/0bsrlb ]] toward the end of the 2007 school year.
+Alloy	NNP
+Media	NNP
++	SYM
+Marketing	NN
+commissioned	VBD
+a	DT
+study	NN
+by	IN
+Harris	NNP
+Interactive	NNP
+toward	IN
+the	DT
+end	NN
+of	IN
+the	DT
+2007	CD
+school	NN
+year	NN
+.	.
+
+
+Outline: History of Morgan Stanley Why is the [[ Morgan Stanley | /m/0jvs0 ]] a [[ Top | /m/03gx245 ]] ranked [[ Investment Bank | /m/015p1m ]] 
+Outline	NN
+:	:
+History	NN
+of	IN
+Morgan	NNP
+Stanley	NNP
+Why	WRB
+is	VBZ
+the	DT
+Morgan	NNP
+Stanley	NNP
+a	DT
+Top	NNP
+ranked	VBN
+Investment	NNP
+Bank	NNP
+
+
+[[ Microsoft | /m/04sv4 ]] , [[ Oracle | /m/05njw ]] , and [[ Symantec | /m/01zpmq ]]  were listed in the [[ Computer Software | /m/01mf0 ]] category.
+Microsoft	NNP
+,	,
+Oracle	NNP
+,	,
+and	CC
+Symantec	NNP
+ 	_SP
+were	VBD
+listed	VBN
+in	IN
+the	DT
+Computer	NNP
+Software	NNP
+category	NN
+.	.
+
+
+Hardware : Sun E6500, [[ RS | /m/01mfj ]] /6000, [[ IBM PC | /m/03wg7 ]] 's, and Pentium PCs, [[ HP | /m/03mnk ]] servers, [[ IBM Pseries | /m/09xjr ]] 
+Hardware	NN
+:	:
+Sun	NNP
+E6500	NNP
+,	,
+RS	NNP
+/6000	NNP
+,	,
+IBM	NNP
+PC	NN
+'s	POS
+,	,
+and	CC
+Pentium	NNP
+PCs	NNS
+,	,
+HP	NNP
+servers	NNS
+,	,
+IBM	NNP
+Pseries	VBZ
+
+
+[[ Vonage | /m/0296t1 ]] is a [[ VoIP | /m/0jzgd ]] solution .
+Vonage	NNP
+is	VBZ
+a	DT
+VoIP	NN
+solution	NN
+.	.
+
+
+[[ HP | /m/03mnk ]] has the most comprehensive [[ ITSM | /m/049164 ]] solution in the industry.
+HP	NNP
+has	VBZ
+the	DT
+most	RBS
+comprehensive	JJ
+ITSM	NNP
+solution	NN
+in	IN
+the	DT
+industry	NN
+.	.
+
+
+[[ TOMRA SYSTEMS | /m/02vtxm ]] IS A SUPPLIER OF [[ REVERSE VENDING MACHINES | /m/05yj5s ]] , WHICH ARE USED TO [[ SORT | /m/032rq7 ]] AND COLLECT CONTAINERS FOR [[ RECYCLING | /m/0j6v7 ]] .
+TOMRA	NNP
+SYSTEMS	NNP
+IS	VBZ
+A	DT
+SUPPLIER	NNP
+OF	IN
+REVERSE	NNP
+VENDING	NNP
+MACHINES	NNS
+,	,
+WHICH	WDT
+ARE	VBP
+USED	VBN
+TO	IN
+SORT	NN
+AND	CC
+COLLECT	NNS
+CONTAINERS	NNS
+FOR	IN
+RECYCLING	NN
+.	.
+
+
+[[ Lucasfilm Ltd. | /m/0kx4m ]] , 1981: [[ Return of the Jedi | /m/0ddjy ]] , lowly crafts flunky on [[ Major Motion Picture | /m/02vxn ]] 13.
+Lucasfilm	NNP
+Ltd.	NNP
+,	,
+1981	CD
+:	:
+Return	NN
+of	IN
+the	DT
+Jedi	NNP
+,	,
+lowly	JJ
+crafts	NNS
+flunky	VBP
+on	IN
+Major	NNP
+Motion	NNP
+Picture	NNP
+13	CD
+.	.
+
+
+[[ Panasonic | /m/0nk5b ]] is taking part in the   [[ Consumer Electronics | /m/019z7b ]]   portion of the exhibition.
+Panasonic	NNP
+is	VBZ
+taking	VBG
+part	NN
+in	IN
+the	DT
+  	_SP
+Consumer	NNP
+Electronics	NNP
+  	_SP
+portion	NN
+of	IN
+the	DT
+exhibition	NN
+.	.
+
+
+[[ Kiva | /m/0gy2kz ]] follows these principles of [[ Microfinance | /m/01l1w_ ]] and and there is more information on the Kiva Site
+Kiva	NNP
+follows	VBZ
+these	DT
+principles	NNS
+of	IN
+Microfinance	NNP
+and	CC
+and	CC
+there	EX
+is	VBZ
+more	JJR
+information	NN
+on	IN
+the	DT
+Kiva	NNP
+Site	NNP
+
+
+The [[ Software | /m/01mf0 ]] is owned by [[ Hewlett-Packard | /m/03mnk ]] and its suppliers and is protected by copyright laws and international treaties.
+The	DT
+Software	NNP
+is	VBZ
+owned	VBN
+by	IN
+Hewlett	NNP
+-	HYPH
+Packard	NNP
+and	CC
+its	PRP$
+suppliers	NNS
+and	CC
+is	VBZ
+protected	VBN
+by	IN
+copyright	NN
+laws	NNS
+and	CC
+international	JJ
+treaties	NNS
+.	.
+
+
+Today, the [[ Canadian Institute for Health Information | /m/0gv3z5 ]]  released the ninth edition of [[ Health Care | /m/01mw2x ]] in [[ Canada | /m/0jcpw ]] .
+Today	NN
+,	,
+the	DT
+Canadian	NNP
+Institute	NNP
+for	IN
+Health	NNP
+Information	NNP
+ 	_SP
+released	VBD
+the	DT
+ninth	JJ
+edition	NN
+of	IN
+Health	NNP
+Care	NNP
+in	IN
+Canada	NNP
+.	.
+
+
+Examples of a [[ Mobile Network Operator | /m/02fqqq ]] are [[ Vodafone | /m/02d6ph ]]
+Examples	NNS
+of	IN
+a	DT
+Mobile	NNP
+Network	NNP
+Operator	NNP
+are	VBP
+Vodafone	NNP
+
+
+You'll find the best prices on [[ Ghost | /m/038_l ]] video games, [[ Namco Bandai | /m/02pfymy ]] in [[ Video Games | /m/01mw1 ]] when you shop online at [[ BizRate | /m/0fb122 ]] .
+You	PRP
+'ll	MD
+find	VB
+the	DT
+best	JJS
+prices	NNS
+on	IN
+Ghost	NNP
+video	NN
+games	NNS
+,	,
+Namco	NNP
+Bandai	NNP
+in	IN
+Video	NNP
+Games	NNPS
+when	WRB
+you	PRP
+shop	VBP
+online	RB
+at	IN
+BizRate	NNP
+.	.
+
+
+[[ Air Jamaica | /m/015pml ]] was voted [[ Caribbean | /m/0261m ]] s Leading [[ Airlines | /m/0vg8 ]] .
+Air	NNP
+Jamaica	NNP
+was	VBD
+voted	VBN
+Caribbean	JJ
+s	NNP
+Leading	NNP
+Airlines	NNPS
+.	.
+Caribbean
+
+
+[[ Q | /m/02k1sj ]] : How is [[ VoIP | /m/0jzgd ]] security such as [[ Session Border Controller | /m/055j59 ]] functions addressed by [[ AudioCodes | /m/02wbgvc ]] ?
+Q	NN
+:	:
+How	WRB
+is	VBZ
+VoIP	NN
+security	NN
+such	JJ
+as	IN
+Session	NNP
+Border	NNP
+Controller	NNP
+functions	NNS
+addressed	VBN
+by	IN
+AudioCodes	NNP
+?	.
+
+
+[[ Hero Games | /m/02kjkl ]] publishes [[ Champions | /m/016js1 ]] , a super hero [[ RPG | /m/06c9r ]] .
+Hero	NNP
+Games	NNPS
+publishes	VBZ
+Champions	NNPS
+,	,
+a	DT
+super	JJ
+hero	NN
+RPG	NN
+.	.
+
+
+The Holiday Inn Group of [[ Hotels | /m/03pty ]] is part of the famed [[ InterContinental Hotels Group | /m/0496hl ]] .
+The	DT
+Holiday	NNP
+Inn	NNP
+Group	NNP
+of	IN
+Hotels	NNPS
+is	VBZ
+part	NN
+of	IN
+the	DT
+famed	VBN
+InterContinental	NNP
+Hotels	NNP
+Group	NNP
+.	.
+
+
+Then, my partner and I received a mailing from an agent for the [[ MLM | /m/056bx ]] company [[ Neways | /m/0639r0 ]] .
+Then	RB
+,	,
+my	PRP$
+partner	NN
+and	CC
+I	PRP
+received	VBD
+a	DT
+mailing	NN
+from	IN
+an	DT
+agent	NN
+for	IN
+the	DT
+MLM	NNP
+company	NN
+Neways	NNP
+.	.
+
+
+[[ Genpact | /m/0bwgw7 ]] is a [[ BPO | /m/04fm00 ]] company in [[ India | /m/03rk0 ]] 
+Genpact	NNP
+is	VBZ
+a	DT
+BPO	NNP
+company	NN
+in	IN
+India	NNP
+
+
+[[ IntelliCorp | /m/0c683q ]] provides [[ SAP | /m/0dvl8x ]] application lifecycle management, business process management and data management solutions for [[ SAP | /m/0dvl8x ]] customers and and?partners.
+IntelliCorp	NNP
+provides	VBZ
+SAP	NNP
+application	NN
+lifecycle	NN
+management	NN
+,	,
+business	NN
+process	NN
+management	NN
+and	CC
+data	NN
+management	NN
+solutions	NNS
+for	IN
+SAP	NNP
+customers	NNS
+and	CC
+and?partners	NNS
+.	.
+
+
+Tags: 250-c20, [[ Aero | /m/02h381 ]] engines, [[ Aerospace | /m/0147gr ]] , [[ Airbus | /m/015zfz ]] , Aircraft engines...
+Tags	NNS
+:	:
+250-c20	CD
+,	,
+Aero	JJ
+engines	NNS
+,	,
+Aerospace	NNP
+,	,
+Airbus	NNP
+,	,
+Aircraft	NN
+engines	NNS
+...	:
+Aero
+
+
+[[ It Services | /m/049164 ]] company [[ Atos Origin | /m/03mndf ]] has drawn up its top tips for improving business performance in 2009.
+It	PRP
+Services	NNPS
+company	NN
+Atos	NNP
+Origin	NNP
+has	VBZ
+drawn	VBN
+up	RP
+its	PRP$
+top	JJ
+tips	NNS
+for	IN
+improving	VBG
+business	NN
+performance	NN
+in	IN
+2009	CD
+.	.
+
+
+When you?re in the market for new performance clothing, check out [[ Patagonia | /m/0g152j ]] ?s line of [[ Clothing | /m/09j2d ]] with Recycled Content.
+When	WRB
+you?re	NNP
+in	IN
+the	DT
+market	NN
+for	IN
+new	JJ
+performance	NN
+clothing	NN
+,	,
+check	VB
+out	RP
+Patagonia	NNP
+?	.
+s	NN
+line	NN
+of	IN
+Clothing	NN
+with	IN
+Recycled	NNP
+Content	NNP
+.	.
+
+
+Above, several posters suggested the rest of the [[ Airlines | /m/0vg8 ]] should support [[ US Airways | /m/01qmg5 ]] 
+Above	RB
+,	,
+several	JJ
+posters	NNS
+suggested	VBD
+the	DT
+rest	NN
+of	IN
+the	DT
+Airlines	NNPS
+should	MD
+support	VB
+US	NNP
+Airways	NNP
+
+
+He was actively involved in developing Ultrasonic testing procedure for [[ Railway | /m/06d_3 ]] tracks for [[ Indian Railways | /m/0303gp ]] as a consultant.
+He	PRP
+was	VBD
+actively	RB
+involved	VBN
+in	IN
+developing	VBG
+Ultrasonic	JJ
+testing	NN
+procedure	NN
+for	IN
+Railway	NN
+tracks	NNS
+for	IN
+Indian	NNP
+Railways	NNPS
+as	IN
+a	DT
+consultant	NN
+.	.
+
+
+Free [[ VoIP | /m/0jzgd ]] calls to other [[ PlusNet | /m/05gmwk ]] customers and [[ VoIP | /m/0jzgd ]] users worldwide.
+Free	JJ
+VoIP	NN
+calls	NNS
+to	IN
+other	JJ
+PlusNet	NNP
+customers	NNS
+and	CC
+VoIP	NN
+users	NNS
+worldwide	RB
+.	.
+
+
+Top 5 [[ Online Poker Rooms | /m/02m37y ]] are [[ Bodog | /m/0d1x33 ]]
+Top	JJ
+5	CD
+Online	NNP
+Poker	NNP
+Rooms	NNS
+are	VBP
+Bodog	NNP
+
+
+[[ PV | /m/02_spr ]] integrator [[ IBC SOLAR | /m/0bhc91f ]] has announced that it has completed construction of a new [[ PV | /m/02_spr ]]
+PV	NNP
+integrator	NN
+IBC	NNP
+SOLAR	NN
+has	VBZ
+announced	VBN
+that	IN
+it	PRP
+has	VBZ
+completed	VBN
+construction	NN
+of	IN
+a	DT
+new	JJ
+PV	NNP
+
+
+Wed like to thank the [[ University of Bath | /m/0143hl ]] s Innovation Centre, and [[ PR | /m/062zr ]] company [[ Hill & Knowlton | /m/08sb5_ ]] for sponsoring this report.
+Wed	VBP
+like	IN
+to	TO
+thank	VB
+the	DT
+University	NNP
+of	IN
+Bath	NNP
+s	NNP
+Innovation	NNP
+Centre	NNP
+,	,
+and	CC
+PR	NN
+company	NN
+Hill	NNP
+&	CC
+Knowlton	NNP
+for	IN
+sponsoring	VBG
+this	DT
+report	NN
+.	.
+
+
+[[ Alamy Images | /m/04y04k ]] has a great variety of [[ Stock Images | /m/036jvk ]] both royalty free and rights managed by pro, agencies and amateurs
+Alamy	NNP
+Images	NNP
+has	VBZ
+a	DT
+great	JJ
+variety	NN
+of	IN
+Stock	NNP
+Images	NNPS
+both	CC
+royalty	VBP
+free	JJ
+and	CC
+rights	NNS
+managed	VBN
+by	IN
+pro	JJ
+,	,
+agencies	NNS
+and	CC
+amateurs	NNS
+
+
+In [[ Medina | /m/094vf ]] , [[ Cable TV | /m/024bm ]] is provided by [[ Mediacom | /m/065qr_ ]] , 1.800.332.0245.
+In	IN
+Medina	NNP
+,	,
+Cable	NNP
+TV	NNP
+is	VBZ
+provided	VBN
+by	IN
+Mediacom	NNP
+,	,
+1.800.332.0245	CD
+.	.
+
+
+[[ Infor | /m/026c3z3 ]] says that [[ Enterprise software | /m/0727xx ]] can help organisations address both of these concerns.
+Infor	NNP
+says	VBZ
+that	IN
+Enterprise	NN
+software	NN
+can	MD
+help	VB
+organisations	NNS
+address	VB
+both	DT
+of	IN
+these	DT
+concerns	NNS
+.	.
+
+
+The datasets are updated monthly on the website in [[ GIS | /m/03821 ]] formats [[ MapInfo | /m/064bxj ]] , [[ ESRI | /m/011r1z ]] and [[ KML | /m/06pqd9 ]] .
+The	DT
+datasets	NNS
+are	VBP
+updated	VBN
+monthly	RB
+on	IN
+the	DT
+website	NN
+in	IN
+GIS	NNP
+formats	NNS
+MapInfo	NNP
+,	,
+ESRI	NNP
+and	CC
+KML	NNP
+.	.
+
+
+Jun. 2 - [[ Fashion | /m/032tl ]] king [[ Yves Saint-Laurent | /m/03ccxvf ]] has died at the age of 71 after a long illness
+Jun.	NNP
+2	CD
+-	:
+Fashion	NN
+king	NN
+Yves	NNP
+Saint	NNP
+-	HYPH
+Laurent	NNP
+has	VBZ
+died	VBN
+at	IN
+the	DT
+age	NN
+of	IN
+71	CD
+after	IN
+a	DT
+long	JJ
+illness	NN
+
+
+Currently: Designer at [[ Videogames | /m/01mw1 ]] company [[ Lionhead Studios | /m/04gyn ]] .
+Currently	RB
+:	:
+Designer	NN
+at	IN
+Videogames	NNP
+company	NN
+Lionhead	NNP
+Studios	NNPS
+.	.
+
+
+[[ Emap | /m/03vv73 ]] was bought by [[ Guardian Media Group | /m/01b3s6 ]] and [[ PE | /m/01b4x4 ]] form [[ Apax Partners | /m/071ydh ]] last last year for £ 1.2 billion
+Emap	NNP
+was	VBD
+bought	VBN
+by	IN
+Guardian	NNP
+Media	NNP
+Group	NNP
+and	CC
+PE	NNP
+form	NN
+Apax	NNP
+Partners	NNPS
+last	RB
+last	JJ
+year	NN
+for	IN
+£	$
+1.2	CD
+billion	CD
+
+
+  [[ Evergreen | /m/03p231c ]] sees the commercial grid-tied [[ PV | /m/02_spr ]] market as an important element of our marketing strategy
+  	_SP
+Evergreen	NNP
+sees	VBZ
+the	DT
+commercial	JJ
+grid	NN
+-	HYPH
+tied	VBN
+PV	NNP
+market	NN
+as	IN
+an	DT
+important	JJ
+element	NN
+of	IN
+our	PRP$
+marketing	NN
+strategy	NN
+
+
+[[ Cable Franchise | /m/024bm ]] held by [[ TCI | /m/04hwzz ]] of [[ Hawaii | /m/03gh4 ]] , [[ Inc | /m/0135dr ]] 
+Cable	NN
+Franchise	NNP
+held	VBN
+by	IN
+TCI	NNP
+of	IN
+Hawaii	NNP
+,	,
+Inc	NNP
+
+
+[[ CHEMICALS | /m/0g10z ]] group [[ ICI | /m/03yxp ]] sprang a better-than-expected profits report on the City yesterday but warned that uncertain times lay ahead
+CHEMICALS	NNP
+group	NN
+ICI	NNP
+sprang	VBD
+a	DT
+better	JJR
+-	HYPH
+than	IN
+-	HYPH
+expected	VBN
+profits	NNS
+report	NN
+on	IN
+the	DT
+City	NNP
+yesterday	NN
+but	CC
+warned	VBD
+that	IN
+uncertain	JJ
+times	NNS
+lay	VBD
+ahead	RB
+
+
+The Australian firm [[ FaktorTel | /m/027cpql ]] offers residential [[ VOIP | /m/0jzgd ]] as well as business VOIP
+The	DT
+Australian	JJ
+firm	NN
+FaktorTel	NNP
+offers	VBZ
+residential	JJ
+VOIP	NN
+as	RB
+well	RB
+as	IN
+business	NN
+VOIP	NN
+
+
+Despite some downturns in the [[ SP | /m/01jp_q ]] sector, [[ Tencent | /m/0403vtn ]] has been able to maintain steady growth in [[ Internet | /m/03rlt ]] value-added services.
+Despite	IN
+some	DT
+downturns	NNS
+in	IN
+the	DT
+SP	NNP
+sector	NN
+,	,
+Tencent	NNP
+has	VBZ
+been	VBN
+able	JJ
+to	TO
+maintain	VB
+steady	JJ
+growth	NN
+in	IN
+Internet	NN
+value	NN
+-	HYPH
+added	VBN
+services	NNS
+.	.
+
+
+[[ Automakers | /m/015smg ]] ; Yes, [[ Canada | /m/0d060g ]] has a vested interest in [[ GM | /m/035nm ]] especially
+Automakers	NNS
+;	:
+Yes	UH
+,	,
+Canada	NNP
+has	VBZ
+a	DT
+vested	JJ
+interest	NN
+in	IN
+GM	NNP
+especially	RB
+
+
+The [[ Commonwealth Bank of Australia | /m/02rndw ]] and [[ EDS | /m/02qwz ]] has signed a new [[ Information Technology | /m/03ytc ]] and telecom...
+The	DT
+Commonwealth	NNP
+Bank	NNP
+of	IN
+Australia	NNP
+and	CC
+EDS	NNP
+has	VBZ
+signed	VBN
+a	DT
+new	JJ
+Information	NNP
+Technology	NNP
+and	CC
+telecom	NNP
+...	.
+
+
+We can supply full range of [[ Nike | /m/0lwkh ]] shoes, [[ Apparel | /m/09j2d ]] and [[ Bag | /m/080hkjn ]] .
+We	PRP
+can	MD
+supply	VB
+full	JJ
+range	NN
+of	IN
+Nike	NNP
+shoes	NNS
+,	,
+Apparel	NNP
+and	CC
+Bag	NNP
+.	.
+
+
+[[ Zopa | /m/07fj2w ]] is the marketplace for [[ Social Lending | /m/0gjq_7 ]] .
+Zopa	DT
+is	VBZ
+the	DT
+marketplace	NN
+for	IN
+Social	NNP
+Lending	NNP
+.	.
+Zopa
+
+
+9 on [[ eBay | /m/0z90c ]] , also, Skates, [[ Ice Hockey | /m/03tmr ]] , [[ Sporting Goods | /m/05y5lj ]]  Check if [[ NIKE | /m/0lwkh ]] BAUER VAPOR.
+9	CD
+on	IN
+eBay	NNP
+,	,
+also	RB
+,	,
+Skates	NNPS
+,	,
+Ice	NNP
+Hockey	NNP
+,	,
+Sporting	NNP
+Goods	NNP
+ 	_SP
+Check	NN
+if	IN
+NIKE	NNP
+BAUER	NNP
+VAPOR	NNP
+.	.
+
+
+[[ NetEase | /m/07xm8h ]] provides [[ Chinese | /m/0d05w3 ]] language services centered around [[ Internet | /m/03rlt ]] content, community, and e-commerce
+NetEase	NNP
+provides	VBZ
+Chinese	JJ
+language	NN
+services	NNS
+centered	VBN
+around	IN
+Internet	NN
+content	NN
+,	,
+community	NN
+,	,
+and	CC
+e	NN
+-	HYPH
+commerce	NN
+Chinese
+
+
+[[ Information Technology | /m/03ytc ]] bigwig, [[ HCL | /m/0698gv ]] has sought [[ Olive | /m/05mln ]] 's Internet marketing services for one of its partner websites, EmPresent
+Information	NNP
+Technology	NNP
+bigwig	NN
+,	,
+HCL	NNP
+has	VBZ
+sought	VBN
+Olive	NNP
+'s	POS
+Internet	NN
+marketing	NN
+services	NNS
+for	IN
+one	CD
+of	IN
+its	PRP$
+partner	NN
+websites	NNS
+,	,
+EmPresent	NNP
+
+
+- [[ Film | /m/02vxn ]] studio [[ Metro-Goldwyn-Mayer | /m/0g1rw ]]  announced on Thursday that it will release films on [[ Sony | /m/06q07 ]] 's Blu-ray next-generation DVD format
+-	:
+Film	NN
+studio	NN
+Metro	NNP
+-	HYPH
+Goldwyn	NNP
+-	HYPH
+Mayer	NNP
+ 	_SP
+announced	VBD
+on	IN
+Thursday	NNP
+that	IN
+it	PRP
+will	MD
+release	VB
+films	NNS
+on	IN
+Sony	NNP
+'s	POS
+Blu	NNP
+-	HYPH
+ray	NN
+next	JJ
+-	HYPH
+generation	NN
+DVD	NN
+format	NN
+
+
+[[ FURNITURE | /m/0c_jw ]] store [[ Land of Leather | /m/05c55f_ ]] in [[ Kew | /m/0crc47m ]] will close.
+FURNITURE	NNP
+store	NN
+Land	NNP
+of	IN
+Leather	NNP
+in	IN
+Kew	NNP
+will	MD
+close	VB
+.	.
+
+
+[[ Ogilvy | /m/05qsqw ]] on [[ Advertising | /m/011s0 ]] is great; [[ Ogilvy | /m/05qsqw ]] also wrote [[ Confessions of an Advertising Man | /m/06fk4s ]] .
+Ogilvy	NNP
+on	IN
+Advertising	NNP
+is	VBZ
+great	JJ
+;	:
+Ogilvy	NNP
+also	RB
+wrote	VBD
+Confessions	NNS
+of	IN
+an	DT
+Advertising	NNP
+Man	NNP
+.	.
+
+
+The price was a Stressless chair, produced by the [[ Norwegian | /m/05b4w ]] company [[ Ekornes | /m/07069n ]] and donated by Macys [[ Home Furnishing | /m/0c_jw ]] .
+The	DT
+price	NN
+was	VBD
+a	DT
+Stressless	NNP
+chair	NN
+,	,
+produced	VBN
+by	IN
+the	DT
+Norwegian	JJ
+company	NN
+Ekornes	NNP
+and	CC
+donated	VBN
+by	IN
+Macys	NNP
+Home	NNP
+Furnishing	NNP
+.	.
+Norwegian
+
+
+By 1998, the [[ ACCUTANE | /m/01hgfy ]] had [[ Roche | /m/02nyk6 ]] revise the package insert to contain doctors about the way big [[ Pharma | /m/02q3wl ]]
+By	IN
+1998	CD
+,	,
+the	DT
+ACCUTANE	NNP
+had	VBD
+Roche	NNP
+revise	VB
+the	DT
+package	NN
+insert	NN
+to	TO
+contain	VB
+doctors	NNS
+about	IN
+the	DT
+way	NN
+big	JJ
+Pharma	NNS
+
+
+[[ South East Asia | /m/073q1 ]] partner of [[ QlikTech | /m/0bqs19 ]] , a swedish based company known for its patented in-memory [[ BI | /m/016jq3 ]] platform, [[ QlikView | /m/0bs82_g ]] .
+South	NNP
+East	NNP
+Asia	NNP
+partner	NN
+of	IN
+QlikTech	NNP
+,	,
+a	DT
+swedish	JJ
+based	VBN
+company	NN
+known	VBN
+for	IN
+its	PRP$
+patented	VBN
+in	IN
+-	HYPH
+memory	NN
+BI	NNP
+platform	NN
+,	,
+QlikView	NNP
+.	.
+
+
+? GData - Google BCM protocol | [[ Main | /m/04zyx ]] | [[ MS | /m/04sv4 ]] & [[ Yahoo | /m/019rl6 ]] not thinking about [[ Publishing | /m/0hz28 ]] ?
+?	.
+GData	NNP
+-	HYPH
+Google	NNP
+BCM	NNP
+protocol	NN
+Main	NNP
+MS	NNP
+&	CC
+Yahoo	NNP
+not	RB
+thinking	VBG
+about	IN
+Publishing	NNP
+?	.
+
+
+We? Provide Computer Training in most [[ Microsoft | /m/04sv4 ]] products, [[ Computer Hardware | /m/01mfj ]] , [[ Internet | /m/03rlt ]] , and much more...
+We	PRP
+?	.
+Provide	VB
+Computer	NNP
+Training	NN
+in	IN
+most	JJS
+Microsoft	NNP
+products	NNS
+,	,
+Computer	NNP
+Hardware	NNP
+,	,
+Internet	NN
+,	,
+and	CC
+much	RB
+more	RBR
+...	.
+
+
+[[ Technip | /m/0ct76r ]] is a world leader in [[ Engineering | /m/02ky346 ]] , Technologies and [[ Project Management | /m/05_p2 ]] for the [[ Oil and Gas industry | /m/03xm3m ]] .
+Technip	NNP
+is	VBZ
+a	DT
+world	NN
+leader	NN
+in	IN
+Engineering	NNP
+,	,
+Technologies	NNPS
+and	CC
+Project	NNP
+Management	NNP
+for	IN
+the	DT
+Oil	NNP
+and	CC
+Gas	NN
+industry	NN
+.	.
+
+
+[[ 3i | /m/02ht0r ]] is a world leader in [[ Private Equity | /m/01b4x4 ]] , focusing on Buyouts, [[ Growth Capital | /m/06wv44 ]] , Infrastructure and [[ Quoted Private Equity | /m/04gr401 ]] .
+3i	NNP
+is	VBZ
+a	DT
+world	NN
+leader	NN
+in	IN
+Private	NNP
+Equity	NNP
+,	,
+focusing	VBG
+on	IN
+Buyouts	NNPS
+,	,
+Growth	NNP
+Capital	NNP
+,	,
+Infrastructure	NNP
+and	CC
+Quoted	NNP
+Private	NNP
+Equity	NNP
+.	.
+
+
+[[ Silverpop | /m/0k0k2z9 ]] 's e-mail marketing solution, [[ Marketer | /m/0g4gr ]] , now offers enhanced suppression capabilities that automatically safeguard all mailings
+Silverpop	NN
+'s	POS
+e	JJ
+-	HYPH
+mail	NN
+marketing	NN
+solution	NN
+,	,
+Marketer	NNP
+,	,
+now	RB
+offers	VBZ
+enhanced	VBN
+suppression	NN
+capabilities	NNS
+that	WDT
+automatically	RB
+safeguard	VBP
+all	DT
+mailings	NNS
+
+
+A delegation from [[ Indian Oil Corporation | /m/026lzgq ]]  visited [[ Turkmenistan | /m/01c4pv ]] and had useful discussions with the Deputy Minister of [[ Oil and Gas Industry | /m/03xm3m ]] of [[ Turkmenistan | /m/01c4pv ]] 
+A	DT
+delegation	NN
+from	IN
+Indian	NNP
+Oil	NNP
+Corporation	NNP
+ 	_SP
+visited	VBD
+Turkmenistan	NNP
+and	CC
+had	VBD
+useful	JJ
+discussions	NNS
+with	IN
+the	DT
+Deputy	NNP
+Minister	NNP
+of	IN
+Oil	NNP
+and	CC
+Gas	NNP
+Industry	NNP
+of	IN
+Turkmenistan	NNP
+
+
+[[ Snom | /m/02vrbjb ]] manufactures a range of [[ VoIP | /m/0jzgd ]] products, primarily on the basis of open-standard [[ SIP | /m/07362 ]] 
+Snom	NNP
+manufactures	VBZ
+a	DT
+range	NN
+of	IN
+VoIP	NN
+products	NNS
+,	,
+primarily	RB
+on	IN
+the	DT
+basis	NN
+of	IN
+open	JJ
+-	HYPH
+standard	NN
+SIP	NN
+
+
+6. LXR Luxury Resorts Official Site - Stay at the [[ World | /m/09nm_ ]] 's Premier [[ Luxury Resorts | /m/05b_rrx ]] and [[ Hotels | /m/03pty ]] .
+6	LS
+.	.
+LXR	NNP
+Luxury	NNP
+Resorts	NNPS
+Official	NNP
+Site	NN
+-	HYPH
+Stay	VB
+at	IN
+the	DT
+World	NNP
+'s	POS
+Premier	NNP
+Luxury	NNP
+Resorts	NNPS
+and	CC
+Hotels	NNPS
+.	.
+
+
+ACTIVATION. [[ ScanSoft | /m/03m92m ]] has included features in the [[ Software | /m/01mf0 ]] to prevent unlicensed use of the Software
+ACTIVATION	NN
+.	.
+ScanSoft	NNP
+has	VBZ
+included	VBN
+features	NNS
+in	IN
+the	DT
+Software	NNP
+to	TO
+prevent	VB
+unlicensed	JJ
+use	NN
+of	IN
+the	DT
+Software	NN
+
+
+[[ LOS ANGELES | /m/030qb3t ]] - [[ Newspaper | /m/05jnl ]] publisher [[ AH Belo Corp. | /m/03bx0gj ]] says it will lay off 500 workers,...
+LOS	NNP
+ANGELES	NNP
+-	HYPH
+Newspaper	NNP
+publisher	NN
+AH	NNP
+Belo	NNP
+Corp.	NNP
+says	VBZ
+it	PRP
+will	MD
+lay	VB
+off	RP
+500	CD
+workers	NNS
+,	,
+...	NFP
+
+
+The [[ Airline | /m/0vg8 ]] also runs connecting flights from [[ London | /m/04jpl ]] via Entebbe in partnership with [[ British Airways | /m/0198z ]] 
+The	DT
+Airline	NNP
+also	RB
+runs	VBZ
+connecting	VBG
+flights	NNS
+from	IN
+London	NNP
+via	IN
+Entebbe	NNP
+in	IN
+partnership	NN
+with	IN
+British	NNP
+Airways	NNPS
+
+
+[[ LAS VEGAS | /m/0310dp ]] , [[ NV | /m/059_c ]] ? 04/14/08 ? [[ Imagineer Systems | /m/027bnw_ ]] , creators of next-generation [[ VFX | /m/01vx2h ]] tools, today announced the arrival of mogul.
+LAS	NNP
+VEGAS	NNP
+,	,
+NV	NNP
+?	.
+04/14/08	NFP
+?	.
+Imagineer	NNP
+Systems	NNPS
+,	,
+creators	NNS
+of	IN
+next	JJ
+-	HYPH
+generation	NN
+VFX	NNP
+tools	NNS
+,	,
+today	NN
+announced	VBD
+the	DT
+arrival	NN
+of	IN
+mogul	NNP
+.	.
+
+
+[[ Cactus | /m/025_v ]]  was [[ America West | /m/0ktcx ]] s call signto differentiate it from [[ American | /m/09c7w0 ]] [ [[ Airlines | /m/0vg8 ]] ]]
+Cactus	NNP
+ 	_SP
+was	VBD
+America	NNP
+West	NNP
+s	NNP
+call	NN
+signto	NNP
+differentiate	VB
+it	PRP
+from	IN
+American	NNP
+[	-LRB-
+Airlines	NNPS
+
+
+As the largest member of [[ EADS | /m/0n3tb ]] group, [[ Airbus | /m/015zfz ]] is the leader in [[ Aerospace | /m/0147gr ]] and Defense industry.
+As	IN
+the	DT
+largest	JJS
+member	NN
+of	IN
+EADS	NNP
+group	NN
+,	,
+Airbus	NNP
+is	VBZ
+the	DT
+leader	NN
+in	IN
+Aerospace	NNP
+and	CC
+Defense	NN
+industry	NN
+.	.
+
+
+[[ KANA | /m/0c6_j8 ]] Delivers on [[ CRM | /m/02016 ]] 's Promise of ROI with New Solution
+KANA	NNP
+Delivers	VBZ
+on	IN
+CRM	NNP
+'s	POS
+Promise	NNP
+of	IN
+ROI	NNP
+with	IN
+New	NNP
+Solution	NNP
+
+
+Kerstetter continues,   [[ Tech | /m/07c1v ]] pundit [[ Nicholas Carr | /m/04bckc ]] predicted [[ Dell | /m/0py9b ]] 's current predicament more than three years ago..
+Kerstetter	NNP
+continues	VBZ
+,	,
+  	_SP
+Tech	NNP
+pundit	NN
+Nicholas	NNP
+Carr	NNP
+predicted	VBD
+Dell	NNP
+'s	POS
+current	JJ
+predicament	NN
+more	JJR
+than	IN
+three	CD
+years	NNS
+ago	RB
+..	.
+
+
+[[ Winnebago | /m/02qc731 ]] made this [[ Class C | /m/01lgkm ]]
+Winnebago	NNP
+made	VBD
+this	DT
+Class	NN
+C	NN
+
+
+[[ CABLE | /m/024bm ]] operators [[ Telewest | /m/010rjl ]] and ntl have joined forces to take on rivals [[ BSkyB | /m/03p1p8r ]] and BT.??more..
+CABLE	NN
+operators	NNS
+Telewest	NNP
+and	CC
+ntl	NNP
+have	VBP
+joined	VBN
+forces	NNS
+to	TO
+take	VB
+on	RP
+rivals	NNS
+BSkyB	NNP
+and	CC
+BT.??more	XX
+..	.
+
+
+Long-haul [[ Airlines | /m/0vg8 ]] regularly used include scheduled flights on [[ British Airways | /m/0198z ]] , [[ Air India | /m/0k670 ]] and [[ Emirates | /m/011_65 ]] .
+Long	JJ
+-	HYPH
+haul	NNP
+Airlines	NNP
+regularly	RB
+used	VBN
+include	VBP
+scheduled	VBN
+flights	NNS
+on	IN
+British	NNP
+Airways	NNPS
+,	,
+Air	NNP
+India	NNP
+and	CC
+Emirates	NNP
+.	.
+
+
+As of Fall 2004, the Education Office of [[ Information Technology | /m/03ytc ]] is supporting [[ Dell | /m/0py9b ]] Axim Pocket PCs.
+As	IN
+of	IN
+Fall	NNP
+2004	CD
+,	,
+the	DT
+Education	NNP
+Office	NNP
+of	IN
+Information	NNP
+Technology	NNP
+is	VBZ
+supporting	VBG
+Dell	NNP
+Axim	NNP
+Pocket	NNP
+PCs	NNS
+.	.
+
+
+[[ This Week | /m/05qv5f ]] in [[ Consumer Electronics | /m/019z7b ]]  reports that [[ Kenwood | /m/0495fj ]] has agreed to merge in 2008 with [[ Victor Company of Japan | /m/0142vy ]]  under a holding company
+This	DT
+Week	NN
+in	IN
+Consumer	NNP
+Electronics	NNS
+ 	_SP
+reports	VBZ
+that	IN
+Kenwood	NNP
+has	VBZ
+agreed	VBN
+to	TO
+merge	VB
+in	IN
+2008	CD
+with	IN
+Victor	NNP
+Company	NNP
+of	IN
+Japan	NNP
+ 	_SP
+under	IN
+a	DT
+holding	VBG
+company	NN
+
+
+After graduating from journalism school at [[ Columbia University | /m/01w5m ]] , he worked for [[ PR | /m/062zr ]] company [[ Ogilvy & Mather | /m/05qsqw ]] for several years
+After	IN
+graduating	VBG
+from	IN
+journalism	NN
+school	NN
+at	IN
+Columbia	NNP
+University	NNP
+,	,
+he	PRP
+worked	VBD
+for	IN
+PR	NN
+company	NN
+Ogilvy	NNP
+&	CC
+Mather	NNP
+for	IN
+several	JJ
+years	NNS
+
+
+Dennis is [[ Rural/Metro | /m/05s9l8 ]] s [[ EMS | /m/0dxh1 ]] director for [[ Loudon County | /m/0mt5n ]] , [[ Tennessee | /m/07h34 ]] .
+Dennis	NNP
+is	VBZ
+Rural	NNP
+/	SYM
+Metro	NNP
+s	NNP
+EMS	NNP
+director	NN
+for	IN
+Loudon	NNP
+County	NNP
+,	,
+Tennessee	NNP
+.	.
+
+
+[[ Audemars Piguet | /m/07x4hr ]] s new [[ Manufacture | /m/09t4t ]]
+Audemars	NNP
+Piguet	NNP
+s	VBZ
+new	JJ
+Manufacture	NN
+
+
+[[ Wi-Fi | /m/0h4d9 ]] is a technology standardized by [[ WECA | /m/03dwnw ]] , which makes [[ WLAN | /m/0829v ]] connections compatible with other [[ WLAN | /m/0829v ]] systems.
+Wi	NNP
+-	HYPH
+Fi	NNP
+is	VBZ
+a	DT
+technology	NN
+standardized	VBN
+by	IN
+WECA	NNP
+,	,
+which	WDT
+makes	VBZ
+WLAN	NN
+connections	NNS
+compatible	JJ
+with	IN
+other	JJ
+WLAN	NNP
+systems	NNS
+.	.
+
+
+( [[ Oracle | /m/05njw ]] and [[ Microsoft | /m/04sv4 ]] technologies, [[ Java | /m/07sbkfb ]] , Data warehousing, Business intelligence, [[ GIS | /m/03821 ]] ).
+(	-LRB-
+Oracle	NNP
+and	CC
+Microsoft	NNP
+technologies	NNS
+,	,
+Java	NNP
+,	,
+Data	NNP
+warehousing	NN
+,	,
+Business	NN
+intelligence	NN
+,	,
+GIS	NNP
+)	-RRB-
+.	.
+
+
+[[ BlueBean | /m/0fq2qdy ]] used [[ RFID | /m/016p89 ]] tags and readers from [[ Alien Technology | /m/01p57m ]] and [[ Impinj | /m/0ch2y4q ]] 
+BlueBean	NNP
+used	VBD
+RFID	NNP
+tags	NNS
+and	CC
+readers	NNS
+from	IN
+Alien	NNP
+Technology	NNP
+and	CC
+Impinj	NNP
+
+
+[[ Sitel | /m/020cfy ]] is a global [[ Business Process Outsourcing | /m/04fm00 ]]  leader
+Sitel	NNP
+is	VBZ
+a	DT
+global	JJ
+Business	NNP
+Process	NNP
+Outsourcing	NNP
+ 	_SP
+leader	NN
+
+
+The Data security company, [[ Norman ASA | /m/02x34lz ]] , has signed an [[ ISP | /m/0pjxv ]] agreement with the [[ Swedish | /m/0d0vqn ]] telecom group, [[ Telia | /m/07cxn ]] .
+The	DT
+Data	NNP
+security	NN
+company	NN
+,	,
+Norman	NNP
+ASA	NNP
+,	,
+has	VBZ
+signed	VBN
+an	DT
+ISP	NNP
+agreement	NN
+with	IN
+the	DT
+Swedish	JJ
+telecom	NN
+group	NN
+,	,
+Telia	NNP
+.	.
+Swedish
+
+
+... [[ Random House | /m/018_d0 ]] is the [[ Publishing Company | /m/0hz28 ]] for Dr [[ Seuss | /m/02g3w ]] children's books.
+...	:
+Random	NNP
+House	NNP
+is	VBZ
+the	DT
+Publishing	NNP
+Company	NNP
+for	IN
+Dr	NNP
+Seuss	NNP
+children	NNS
+'s	POS
+books	NNS
+.	.
+
+
+[[ Mint | /m/03cj4p7 ]] analyzes all of [[ Personal Finance | /m/01y6cq ]] makes it.
+Mint	NN
+analyzes	VBZ
+all	DT
+of	IN
+Personal	NNP
+Finance	NNP
+makes	VBZ
+it	PRP
+.	.
+
+

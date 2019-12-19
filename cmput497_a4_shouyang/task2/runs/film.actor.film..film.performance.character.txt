@@ -1,0 +1,4445 @@
+SUBJECT is frighteningly effective as OBJECT 
+SUBJECT:	[[ SHU QI | /m/03r2sj ]]
+OBJECT:	[[ SCARFACE | /m/0h1qfx3 ]]
+SUBJECT PATH: SUBJECT -> is
+OBJECT  PATH: OBJECT -> as -> effective -> is
+is
+
+
+SUBJECT won her first on-screen role in 2005, where she played OBJECT in the ENTITY1 drama   ENTITY2   
+SUBJECT:	[[ OLGA KURYLENKO | /m/0266c36 ]]
+OBJECT:	[[ IRIS | /m/0gxrj24 ]]
+ENTITY1:	[[ FRENCH | /m/0f8l9c ]]
+ENTITY2:	[[ L'ANNULAIRE | /m/043phyd ]]
+SUBJECT PATH: SUBJECT -> won
+OBJECT  PATH: OBJECT -> played -> 2005 -> in -> won
+won
+
+
+Her debut lead film performance came in ENTITY1 's ENTITY2 , in which SUBJECT played the lead of OBJECT 
+SUBJECT:	[[ OLGA KURYLENKO | /m/0266c36 ]]
+OBJECT:	[[ IRIS | /m/0gxrj24 ]]
+ENTITY1:	[[ DIANE BERTRAND | /m/07s77my ]]
+ENTITY2:	[[ L'ANNULAIRE | /m/043phyd ]]
+SUBJECT PATH: SUBJECT -> played -> ENTITY2 -> in -> came
+OBJECT  PATH: OBJECT -> of -> lead -> played -> ENTITY2 -> in -> came
+played
+
+
+SUBJECT is OBJECT , sacked because of bad times
+SUBJECT:	[[ RALPH RICHARDSON | /m/015np0 ]]
+OBJECT:	[[ JOHN SMITH | /m/0n56hks ]]
+SUBJECT PATH: SUBJECT -> is
+OBJECT  PATH: OBJECT -> is
+is
+
+
+OBJECT got the pass for ENTITY1 , and her aunt gave OBJECT her pass to see SUBJECT 
+SUBJECT:	[[ SCOTT CLIFTON | /m/05vsqz ]]
+OBJECT:	[[ BROOKE | /m/0h39j46 ]]
+ENTITY1:	[[ CHAD | /m/01p1b ]]
+SUBJECT PATH: SUBJECT -> see -> gave -> got
+OBJECT  PATH: OBJECT -> gave -> got
+gave
+
+
+ENTITY1 & SUBJECT portray ENTITY2 and OBJECT s characters, with astounding accuracy.
+SUBJECT:	[[ ROBERT CAVANAH | /m/0269b_s ]]
+OBJECT:	[[ HEATHCLIFF | /m/02pyc3p ]]
+ENTITY1:	[[ ORLA BRADY | /m/074pcv ]]
+ENTITY2:	[[ CATHY | /m/04n3n90 ]]
+SUBJECT PATH: SUBJECT -> ENTITY1
+OBJECT  PATH: OBJECT -> characters -> ENTITY2 -> ENTITY1
+ENTITY1
+
+
+Also in 2006, SUBJECT played   OBJECT   in ENTITY1 's acclaimed thriller ENTITY2 .
+SUBJECT:	[[ OLGA KURYLENKO | /m/0266c36 ]]
+OBJECT:	[[ SOFIA | /m/0gxt1zt ]]
+ENTITY1:	[[ ERIC BARBIER | /m/0bbdb_s ]]
+ENTITY2:	[[ LE SERPENT | /m/03d2h9n ]]
+SUBJECT PATH: SUBJECT -> played
+OBJECT  PATH: OBJECT -> played
+played
+
+
+Actress SUBJECT plays ENTITY1 's love interest   OBJECT  
+SUBJECT:	[[ SHU QI | /m/03r2sj ]]
+OBJECT:	[[ LAI | /m/0h1qfh3 ]]
+ENTITY1:	[[ STATHAM | /m/034hyc ]]
+SUBJECT PATH: SUBJECT -> plays
+OBJECT  PATH: OBJECT -> plays
+plays
+
+
+What really holds the film together, though, is SUBJECT 's performance as OBJECT 
+SUBJECT:	[[ SHU QI | /m/03r2sj ]]
+OBJECT:	[[ VICKY | /m/0h1qfzj ]]
+SUBJECT PATH: SUBJECT -> performance -> is
+OBJECT  PATH: OBJECT -> as -> performance -> is
+performance
+
+
+In any case, SUBJECT makes OBJECT a complex, vital character
+SUBJECT:	[[ SHU QI | /m/03r2sj ]]
+OBJECT:	[[ VICKY | /m/0h1qfzj ]]
+SUBJECT PATH: SUBJECT -> makes
+OBJECT  PATH: OBJECT -> character -> makes
+makes
+
+
+However, OBJECT , a sexy fighting vampire played by the hot ENTITY1 actress SUBJECT took the crown
+SUBJECT:	[[ LEONOR VARELA | /m/028pyk ]]
+OBJECT:	[[ NYSSA | /m/0b_jws3 ]]
+ENTITY1:	[[ CHILEAN | /m/01p1v ]]
+SUBJECT PATH: SUBJECT -> took
+OBJECT  PATH: OBJECT -> took
+took
+
+
+SUBJECT  plays OBJECT ?the rather nervous ENTITY1 assassin
+SUBJECT:	[[ WARREN MITCHELL | /m/0977q ]]
+OBJECT:	[[ HERR WEISS | /m/045mzcz ]]
+ENTITY1:	[[ SWISS | /m/06mzp ]]
+SUBJECT PATH: SUBJECT -> plays
+OBJECT  PATH: OBJECT -> plays
+plays
+
+
+SUBJECT  plays OBJECT ,the rather nervous ENTITY1 assassin
+SUBJECT:	[[ WARREN MITCHELL | /m/0977q ]]
+OBJECT:	[[ HERR WEISS | /m/045mzcz ]]
+ENTITY1:	[[ SWISS | /m/0fcdt ]]
+SUBJECT PATH: SUBJECT -> plays -> OBJECT
+OBJECT  PATH: OBJECT
+OBJECT
+
+
+SUBJECT plays OBJECT , the son of an infamous mobster in ENTITY1 .
+SUBJECT:	[[ BARRY PEPPER | /m/04m064 ]]
+OBJECT:	[[ MATTY DEMARET | /m/0h1wxml ]]
+ENTITY1:	[[ BROOKLYN | /m/0cr3d ]]
+SUBJECT PATH: SUBJECT -> plays
+OBJECT  PATH: OBJECT -> plays
+plays
+
+
+SUBJECT stars as OBJECT 
+SUBJECT:	[[ BARRY PEPPER | /m/04m064 ]]
+OBJECT:	[[ MATTY DEMARET | /m/0h1wxml ]]
+SUBJECT PATH: SUBJECT -> stars
+OBJECT  PATH: OBJECT -> as -> stars
+stars
+
+
+SUBJECT  plays OBJECT , the son of big-time mobster Benny Chains
+SUBJECT:	[[ BARRY PEPPER | /m/04m064 ]]
+OBJECT:	[[ MATTY DEMARET | /m/0h1wxml ]]
+SUBJECT PATH: SUBJECT -> plays -> OBJECT
+OBJECT  PATH: OBJECT
+OBJECT
+
+
+SUBJECT plays OBJECT 
+SUBJECT:	[[ PAUL GLEASON | /m/0281lp ]]
+OBJECT:	[[ SHERIFF HALDERMAN | /m/0lfqqf0 ]]
+SUBJECT PATH: SUBJECT -> plays
+OBJECT  PATH: OBJECT -> plays
+plays
+
+
+SUBJECT plays the role of OBJECT , a suspected witness to the killing of Belicoff
+SUBJECT:	[[ OLGA KURYLENKO | /m/0266c36 ]]
+OBJECT:	[[ NIKA BORONINA | /m/0gxrj1q ]]
+SUBJECT PATH: SUBJECT -> plays
+OBJECT  PATH: OBJECT -> of -> role -> plays
+plays
+
+
+I also loved SUBJECT as ENTITY1 yuppie OBJECT .
+SUBJECT:	[[ BARRY PEPPER | /m/04m064 ]]
+OBJECT:	[[ FRANK SLAUGHTERY | /m/0gkknfn ]]
+ENTITY1:	[[ WALL STREET | /m/09937 ]]
+SUBJECT PATH: SUBJECT -> loved
+OBJECT  PATH: OBJECT -> as -> SUBJECT -> loved
+SUBJECT
+
+
+SUBJECT does a handsome job as OBJECT , Monty ich and good lookingfriend
+SUBJECT:	[[ BARRY PEPPER | /m/04m064 ]]
+OBJECT:	[[ FRANK SLAUGHTERY | /m/0gkknfn ]]
+SUBJECT PATH: SUBJECT -> does
+OBJECT  PATH: OBJECT -> as -> job -> does
+does
+
+
+I also loved SUBJECT as ENTITY1 yuppie OBJECT 
+SUBJECT:	[[ BARRY PEPPER | /m/04m064 ]]
+OBJECT:	[[ FRANK SLAUGHTERY | /m/0gkknfn ]]
+ENTITY1:	[[ WALL STREET | /m/09937 ]]
+SUBJECT PATH: SUBJECT -> loved
+OBJECT  PATH: OBJECT -> as -> SUBJECT -> loved
+SUBJECT
+
+
+SUBJECT plays OBJECT , a spoiled young artiste who sulks more than ENTITY1 
+SUBJECT:	[[ ADAM GARCIA | /m/03hnhw ]]
+OBJECT:	[[ SCOTT DOHERTY | /m/0h30_hs ]]
+ENTITY1:	[[ ANAKIN SKYWALKER | /m/0f2y0 ]]
+SUBJECT PATH: SUBJECT -> plays
+OBJECT  PATH: OBJECT -> plays
+plays
+
+
+This year, SUBJECT also completed filming the role of OBJECT in independent thriller 'Fascination'
+SUBJECT:	[[ ADAM GARCIA | /m/03hnhw ]]
+OBJECT:	[[ SCOTT DOHERTY | /m/0h30_hs ]]
+SUBJECT PATH: SUBJECT -> completed
+OBJECT  PATH: OBJECT -> of -> role -> filming -> completed
+completed
+
+
+This year, SUBJECT also completed filming the role of OBJECT in independent thriller ?Fascination?
+SUBJECT:	[[ ADAM GARCIA | /m/03hnhw ]]
+OBJECT:	[[ SCOTT DOHERTY | /m/0h30_hs ]]
+SUBJECT PATH: SUBJECT -> completed
+OBJECT  PATH: OBJECT -> of -> role -> filming -> completed
+completed
+
+
+( SUBJECT playing OBJECT ).
+SUBJECT:	[[ LACEY CHABERT | /m/02k4b2 ]]
+OBJECT:	[[ PENNY ROBINSON | /m/0gm0ftq ]]
+SUBJECT PATH: SUBJECT -> OBJECT
+OBJECT  PATH: OBJECT
+OBJECT
+
+
+RM: You appeared briefly in the 1998 movie version of ENTITY1 , in which SUBJECT played OBJECT 
+SUBJECT:	[[ LACEY CHABERT | /m/02k4b2 ]]
+OBJECT:	[[ PENNY ROBINSON | /m/0gm0ftq ]]
+ENTITY1:	[[ LOST IN SPACE | /m/02p_zh3 ]]
+SUBJECT PATH: SUBJECT -> played -> version -> in -> appeared
+OBJECT  PATH: OBJECT -> played -> version -> in -> appeared
+played
+
+
+SUBJECT ponders OBJECT 's role in the family:   OBJECT is the rebel
+SUBJECT:	[[ LACEY CHABERT | /m/02k4b2 ]]
+OBJECT:	[[ PENNY ROBINSON | /m/0gm0ftq ]]
+SUBJECT PATH: SUBJECT -> ponders -> OBJECT -> role -> is
+OBJECT  PATH: OBJECT -> role -> is
+role
+
+
+Acting as ENTITY1 ?s wife OBJECT in both the versions is SUBJECT .
+SUBJECT:	[[ NEETU CHANDRA | /m/03cb13d ]]
+OBJECT:	[[ PRIYA | /m/0h2nddk ]]
+ENTITY1:	[[ MADHAVAN | /m/084z0w ]]
+SUBJECT PATH: SUBJECT -> is
+OBJECT  PATH: OBJECT -> wife -> is
+is
+
+
+Acting as ENTITY1 ?s wife OBJECT in both the versions is SUBJECT 
+SUBJECT:	[[ NEETU CHANDRA | /m/03cb13d ]]
+OBJECT:	[[ PRIYA | /m/0h2nddk ]]
+ENTITY1:	[[ MADHAVAN | /m/084z0w ]]
+SUBJECT PATH: SUBJECT -> is
+OBJECT  PATH: OBJECT -> wife -> is
+is
+
+
+SUBJECT stars as OBJECT , ENTITY1 and ENTITY2 .
+SUBJECT:	[[ RYAN REYNOLDS | /m/036hf4 ]]
+OBJECT:	[[ GARY | /m/0gy0zd0 ]]
+ENTITY1:	[[ GAVIN | /m/0hh42j9 ]]
+ENTITY2:	[[ GABRIEL | /m/0hh42jk ]]
+SUBJECT PATH: SUBJECT -> stars
+OBJECT  PATH: OBJECT -> as -> stars
+stars
+
+
+Co-starring with ENTITY1 , SUBJECT played OBJECT in ENTITY2 .
+SUBJECT:	[[ SONYA WALGER | /m/0dch2b ]]
+OBJECT:	[[ NICOLE NOONE | /m/0h4zwrb ]]
+ENTITY1:	[[ NOAH WYLE | /m/01t6xz ]]
+ENTITY2:	[[ THE LIBRARIAN: QUEST FOR THE SPEAR | /m/04vr2x ]]
+SUBJECT PATH: SUBJECT -> played
+OBJECT  PATH: OBJECT -> played
+played
+
+
+OBJECT played by SUBJECT is a restless man bored with his marriage
+SUBJECT:	[[ KEITH CARRADINE | /m/03lmzl ]]
+OBJECT:	[[ JOHN LACKLAN | /m/0ngq3cq ]]
+SUBJECT PATH: SUBJECT -> by -> played -> OBJECT -> is
+OBJECT  PATH: OBJECT -> is
+OBJECT
+
+
+General OBJECT played by SUBJECT is the second villain of ENTITY1 
+SUBJECT:	[[ GOTTFRIED JOHN | /m/091w7r ]]
+OBJECT:	[[ ARKADY GRIGOROVICH OURUMOV | /m/07cyk8 ]]
+ENTITY1:	[[ GOLDENEYE | /m/01npcx ]]
+SUBJECT PATH: SUBJECT -> by -> played -> OBJECT -> is
+OBJECT  PATH: OBJECT -> is
+OBJECT
+
+
+OBJECT  is a fictional character in the ENTITY1 film ENTITY2 , played by SUBJECT 
+SUBJECT:	[[ GOTTFRIED JOHN | /m/091w7r ]]
+OBJECT:	[[ ARKADY GRIGOROVICH OURUMOV | /m/07cyk8 ]]
+ENTITY1:	[[ JAMES BOND | /m/03_97 ]]
+ENTITY2:	[[ GOLDENEYE | /m/0cc6d8s ]]
+SUBJECT PATH: SUBJECT -> by -> played -> film -> in -> character -> is
+OBJECT  PATH: OBJECT -> is
+is
+
+
+SUBJECT is the voice of OBJECT in ENTITY1 and I just love OBJECT - he's so funny and cute!
+SUBJECT:	[[ STEVE CARELL | /m/04t2l2 ]]
+OBJECT:	[[ HAMMY | /m/02vkm9d ]]
+ENTITY1:	[[ OVER THE HEDGE | /m/080_x_ ]]
+SUBJECT PATH: SUBJECT -> is
+OBJECT  PATH: OBJECT -> love
+-None-
+
+
+SUBJECT stars as OBJECT , a reporter who believes she's living the perfect life.
+SUBJECT:	[[ ANGELINA JOLIE | /m/0f4vbz ]]
+OBJECT:	[[ LANIE KERRIGAN | /m/04ds1z8 ]]
+SUBJECT PATH: SUBJECT -> stars
+OBJECT  PATH: OBJECT -> as -> stars
+stars
+
+
+SUBJECT as OBJECT in the the ENTITY1 film,   ENTITY2 ,  the phantasmagorical screen ...
+SUBJECT:	[[ KEITH MOON | /m/04bgy ]]
+OBJECT:	[[ UNCLE ERNIE | /m/0n3hvsn ]]
+ENTITY1:	[[ KEN RUSSELL | /m/015njf ]]
+ENTITY2:	[[ TOMMY | /m/01kn0l7 ]]
+SUBJECT PATH: SUBJECT
+OBJECT  PATH: OBJECT -> as -> SUBJECT
+SUBJECT
+
+
+Mr. Lawson's looks and acting choices both reminded me of SUBJECT playing OBJECT in   ENTITY1 . 
+SUBJECT:	[[ KEITH MOON | /m/04bgy ]]
+OBJECT:	[[ UNCLE ERNIE | /m/0n3hvsn ]]
+ENTITY1:	[[ TOMMY | /m/01kn0l7 ]]
+SUBJECT PATH: SUBJECT -> of -> reminded
+OBJECT  PATH: OBJECT -> playing -> SUBJECT -> of -> reminded
+SUBJECT
+
+
+SUBJECT as OBJECT in the the ENTITY1 film, ENTITY2 , the phantasmagorical screen incarnatio... ...
+SUBJECT:	[[ KEITH MOON | /m/04bgy ]]
+OBJECT:	[[ UNCLE ERNIE | /m/0n3hvsn ]]
+ENTITY1:	[[ KEN RUSSELL | /m/015njf ]]
+ENTITY2:	[[ TOMMY | /m/01kn0l7 ]]
+SUBJECT PATH: SUBJECT
+OBJECT  PATH: OBJECT -> as -> SUBJECT
+SUBJECT
+
+
+SUBJECT 's character OBJECT attempts to defend himself against the killer in ENTITY1 with a poker
+SUBJECT:	[[ LIEV SCHREIBER | /m/0prfz ]]
+OBJECT:	[[ COTTON WEARY | /m/09gtnc0 ]]
+ENTITY1:	[[ SCREAM 3 | /m/02v63m ]]
+SUBJECT PATH: SUBJECT -> OBJECT -> attempts
+OBJECT  PATH: OBJECT -> attempts
+OBJECT
+
+
+(in which SUBJECT plays the ambiguous OBJECT ).
+SUBJECT:	[[ LIEV SCHREIBER | /m/0prfz ]]
+OBJECT:	[[ COTTON WEARY | /m/09gtnc0 ]]
+SUBJECT PATH: SUBJECT -> plays
+OBJECT  PATH: OBJECT -> plays
+plays
+
+
+Also showing up is SUBJECT , the fourth returnee from the other   ENTITY1   movies, as OBJECT .
+SUBJECT:	[[ LIEV SCHREIBER | /m/0prfz ]]
+OBJECT:	[[ COTTON WEARY | /m/09gtnc0 ]]
+ENTITY1:	[[ SCREAM | /m/027v4ff ]]
+SUBJECT PATH: SUBJECT -> is
+OBJECT  PATH: OBJECT -> as -> returnee -> is
+is
+
+
+ENTITY1 's  maybe killer,  OBJECT , weak? SUBJECT lights up another cigarette
+SUBJECT:	[[ LIEV SCHREIBER | /m/0prfz ]]
+OBJECT:	[[ COTTON WEARY | /m/09gtnc0 ]]
+ENTITY1:	[[ SCREAM 2 | /m/02v5_g ]]
+SUBJECT PATH: SUBJECT -> lights
+OBJECT  PATH: OBJECT -> killer
+-None-
+
+
+SUBJECT plays OBJECT , a senior associate at the firm that has just hired Beachum
+SUBJECT:	[[ ROSAMUND PIKE | /m/0150rl ]]
+OBJECT:	[[ NIKKI GARDNER | /m/0cm1bcd ]]
+SUBJECT PATH: SUBJECT -> plays
+OBJECT  PATH: OBJECT -> plays
+plays
+
+
+On the other side of the female spectrum is OBJECT , played by ENTITY1 actress SUBJECT 
+SUBJECT:	[[ ROSAMUND PIKE | /m/0150rl ]]
+OBJECT:	[[ NIKKI GARDNER | /m/0cm1bcd ]]
+ENTITY1:	[[ BRITISH | /m/07ssc ]]
+SUBJECT PATH: SUBJECT -> by -> played -> OBJECT -> is
+OBJECT  PATH: OBJECT -> is
+OBJECT
+
+
+On the other side of the female spectrum is OBJECT , played by ENTITY1 actress SUBJECT .
+SUBJECT:	[[ ROSAMUND PIKE | /m/0150rl ]]
+OBJECT:	[[ NIKKI GARDNER | /m/0cm1bcd ]]
+ENTITY1:	[[ BRITISH | /m/07ssc ]]
+SUBJECT PATH: SUBJECT -> by -> played -> OBJECT -> is
+OBJECT  PATH: OBJECT -> is
+OBJECT
+
+
+Then there is another aspiring doctor, OBJECT played by SUBJECT 
+SUBJECT:	[[ ROBERT MITCHUM | /m/0m0hw ]]
+OBJECT:	[[ LUCAS MARSH | /m/0h2hdc9 ]]
+SUBJECT PATH: SUBJECT -> by -> played -> OBJECT -> doctor -> is
+OBJECT  PATH: OBJECT -> doctor -> is
+OBJECT
+
+
+In 2004, SUBJECT played the role of OBJECT in the film Motives alongside ENTITY1 and ENTITY2 
+SUBJECT:	[[ SHEMAR MOORE | /m/034_bc ]]
+OBJECT:	[[ EMERY SIMMS | /m/0gxr6ym ]]
+ENTITY1:	[[ VIVICA FOX | /m/02ts3h ]]
+ENTITY2:	[[ GOLDEN BROOKS | /m/0407ns ]]
+SUBJECT PATH: SUBJECT -> played
+OBJECT  PATH: OBJECT -> of -> role -> played
+played
+
+
+ENTITY1 voices OBJECT , a role he had already performed on ENTITY2 , taking over from SUBJECT 
+SUBJECT:	[[ DAVID SPADE | /m/02dlfh ]]
+OBJECT:	[[ KUZCO | /m/0dh2_l ]]
+ENTITY1:	[[ JP MANOUX | /m/07tcd9 ]]
+ENTITY2:	[[ HOUSE OF MOUSE | /m/0jwl2 ]]
+SUBJECT PATH: SUBJECT -> from -> taking -> voices
+OBJECT  PATH: OBJECT -> voices
+voices
+
+
+Otherwise, I uploaded several pictures of SUBJECT portraying OBJECT in the movie ENTITY1 .
+SUBJECT:	[[ ALEXIS BLEDEL | /m/0217kz ]]
+OBJECT:	[[ BECKY | /m/0bp93q5 ]]
+ENTITY1:	[[ SIN CITY | /m/04tqtl ]]
+SUBJECT PATH: SUBJECT -> of -> pictures -> uploaded
+OBJECT  PATH: OBJECT -> portraying -> SUBJECT -> of -> pictures -> uploaded
+SUBJECT
+
+
+SUBJECT is also amusing as OBJECT , the retarded sports reporter on the news show.
+SUBJECT:	[[ STEVE CARELL | /m/04t2l2 ]]
+OBJECT:	[[ BRICK TAMLAND | /m/02nwrvg ]]
+SUBJECT PATH: SUBJECT -> amusing
+OBJECT  PATH: OBJECT -> as -> amusing
+amusing
+
+
+(also called  Pants Parties  after a quote from SUBJECT 's character OBJECT in the film ENTITY1 )
+SUBJECT:	[[ STEVE CARELL | /m/04t2l2 ]]
+OBJECT:	[[ BRICK TAMLAND | /m/02nwrvg ]]
+ENTITY1:	[[ THE LEGEND OF RON BURGUNDY | /m/034qzw ]]
+SUBJECT PATH: SUBJECT -> OBJECT -> from -> quote -> after -> called
+OBJECT  PATH: OBJECT -> from -> quote -> after -> called
+OBJECT
+
+
+Played pitch-perfectly by a pre-Office SUBJECT , OBJECT is the stand-out member of the ENTITY1 news team
+SUBJECT:	[[ STEVE CARELL | /m/04t2l2 ]]
+OBJECT:	[[ BRICK TAMLAND | /m/02nwrvg ]]
+ENTITY1:	[[ CHANNEL 4 | /m/01w92 ]]
+SUBJECT PATH: SUBJECT -> by -> pitch -> is
+OBJECT  PATH: OBJECT -> is
+is
+
+
+the Legend of ENTITY1 starring ENTITY2 and SUBJECT as OBJECT .. Anchorman Movie Quotes.
+SUBJECT:	[[ STEVE CARELL | /m/04t2l2 ]]
+OBJECT:	[[ BRICK TAMLAND | /m/02nwrvg ]]
+ENTITY1:	[[ RON BURGUNDY | /m/0j7l80n ]]
+ENTITY2:	[[ WILL FERRELL | /m/018grr ]]
+SUBJECT PATH: SUBJECT -> ENTITY2 -> starring -> Legend
+OBJECT  PATH: OBJECT -> as -> starring -> Legend
+starring
+
+
+The unsung comic hero of ENTITY1 is SUBJECT who plays OBJECT , the weatherman with an IQ of 40
+SUBJECT:	[[ STEVE CARELL | /m/04t2l2 ]]
+OBJECT:	[[ BRICK TAMLAND | /m/02nwrvg ]]
+ENTITY1:	[[ ANCHORMAN | /m/034qzw ]]
+SUBJECT PATH: SUBJECT -> is
+OBJECT  PATH: OBJECT -> plays -> SUBJECT -> is
+SUBJECT
+
+
+Indeed, fans of ENTITY1 will recognize SUBJECT as OBJECT , the weatherman unable to spout anything besides gibberish 
+SUBJECT:	[[ STEVE CARELL | /m/04t2l2 ]]
+OBJECT:	[[ BRICK TAMLAND | /m/02nwrvg ]]
+ENTITY1:	[[ ANCHORMAN | /m/034qzw ]]
+SUBJECT PATH: SUBJECT -> recognize
+OBJECT  PATH: OBJECT -> as -> SUBJECT -> recognize
+SUBJECT
+
+
+SUBJECT shined as the dim-witted OBJECT , delivering some of the silliest lines and earning big laughs
+SUBJECT:	[[ STEVE CARELL | /m/04t2l2 ]]
+OBJECT:	[[ BRICK TAMLAND | /m/02nwrvg ]]
+SUBJECT PATH: SUBJECT
+OBJECT  PATH: OBJECT -> as -> shined -> SUBJECT
+SUBJECT
+
+
+SUBJECT shows up in later ENTITY1 films, portraying OBJECT , one of the spy's allies in both and 
+SUBJECT:	[[ JOE DON BAKER | /m/03tl1k ]]
+OBJECT:	[[ JACK WADE | /m/03r551 ]]
+ENTITY1:	[[ JAMES BOND | /m/03_97 ]]
+SUBJECT PATH: SUBJECT -> shows
+OBJECT  PATH: OBJECT -> portraying -> shows
+shows
+
+
+SUBJECT makes a cameo appearance as longtime ENTITY1 buddy, ENTITY2 operative OBJECT 
+SUBJECT:	[[ JOE DON BAKER | /m/03tl1k ]]
+OBJECT:	[[ JACK WADE | /m/03r551 ]]
+ENTITY1:	[[ BOND | /m/03_97 ]]
+ENTITY2:	[[ CIA | /m/0d6qjf ]]
+SUBJECT PATH: SUBJECT -> makes
+OBJECT  PATH: OBJECT -> buddy -> as -> appearance -> makes
+makes
+
+
+This serial was directed by ENTITY1 , who also cast SUBJECT as OBJECT in ENTITY2 
+SUBJECT:	[[ JOE DON BAKER | /m/03tl1k ]]
+OBJECT:	[[ JACK WADE | /m/03r551 ]]
+ENTITY1:	[[ MARTIN CAMPBELL | /m/035t2x ]]
+ENTITY2:	[[ GOLDENEYE | /m/01npcx ]]
+SUBJECT PATH: SUBJECT -> cast -> ENTITY1 -> by -> directed
+OBJECT  PATH: OBJECT -> as -> cast -> ENTITY1 -> by -> directed
+cast
+
+
+Recurring characters: SUBJECT makes a brief appearance as OBJECT , the ENTITY1 agent that he played in ENTITY2 
+SUBJECT:	[[ JOE DON BAKER | /m/03tl1k ]]
+OBJECT:	[[ JACK WADE | /m/03r551 ]]
+ENTITY1:	[[ CIA | /m/0d6qjf ]]
+ENTITY2:	[[ GOLDENEYE | /m/01npcx ]]
+SUBJECT PATH: SUBJECT -> makes
+OBJECT  PATH: OBJECT -> as -> appearance -> makes
+makes
+
+
+SUBJECT returns as ENTITY1 agent OBJECT : his previous appearance in the ENTITY2 films was as the villain in 
+SUBJECT:	[[ JOE DON BAKER | /m/03tl1k ]]
+OBJECT:	[[ JACK WADE | /m/03r551 ]]
+ENTITY1:	[[ CIA | /m/0d6qjf ]]
+ENTITY2:	[[ BOND | /m/03_97 ]]
+SUBJECT PATH: SUBJECT -> returns -> was
+OBJECT  PATH: OBJECT -> as -> returns -> was
+returns
+
+
+SUBJECT returns to the Bond fold , but his ENTITY1 agent OBJECT is a shoddy stand-in for ENTITY2 
+SUBJECT:	[[ JOE DON BAKER | /m/03tl1k ]]
+OBJECT:	[[ JACK WADE | /m/03r551 ]]
+ENTITY1:	[[ CIA | /m/0d6qjf ]]
+ENTITY2:	[[ FELIX LEITER | /m/01qqs4 ]]
+SUBJECT PATH: SUBJECT -> returns -> fold
+OBJECT  PATH: OBJECT -> is -> fold
+fold
+
+
+Although SUBJECT 's performance as OBJECT is a rare treat, you'll almost believe ENTITY1 is alive again.
+SUBJECT:	[[ STEVE CARELL | /m/04t2l2 ]]
+OBJECT:	[[ UNCLE ARTHUR | /m/04g5rpy ]]
+ENTITY1:	[[ PAUL LYNDE | /m/0fpx9 ]]
+SUBJECT PATH: SUBJECT -> performance -> is -> believe
+OBJECT  PATH: OBJECT -> as -> performance -> is -> believe
+performance
+
+
+(  ENTITY1 's  SUBJECT is bloody awful as queeny OBJECT ).
+SUBJECT:	[[ STEVE CARELL | /m/04t2l2 ]]
+OBJECT:	[[ UNCLE ARTHUR | /m/04g5rpy ]]
+ENTITY1:	[[ THE DAILY SHOW | /m/01j7mr ]]
+SUBJECT PATH: SUBJECT -> is
+OBJECT  PATH: OBJECT -> as -> awful -> is
+is
+
+
+SUBJECT channeled ENTITY1 as OBJECT in the movie and it was a standout performance
+SUBJECT:	[[ STEVE CARELL | /m/04t2l2 ]]
+OBJECT:	[[ UNCLE ARTHUR | /m/04g5rpy ]]
+ENTITY1:	[[ PAUL LYNDE | /m/0fpx9 ]]
+SUBJECT PATH: SUBJECT -> channeled -> ENTITY1
+OBJECT  PATH: OBJECT -> as -> ENTITY1
+ENTITY1
+
+
+SUBJECT plays OBJECT , a 14- year old ENTITY1 orphan living on the streets of ENTITY2 
+SUBJECT:	[[ JODIE FOSTER | /m/0chw_ ]]
+OBJECT:	[[ CASEY | /m/0gy5y18 ]]
+ENTITY1:	[[ AMERICAN | /m/09c7w0 ]]
+ENTITY2:	[[ LOS ANGELES | /m/030qb3t ]]
+SUBJECT PATH: SUBJECT -> plays
+OBJECT  PATH: OBJECT -> plays
+plays
+
+
+SUBJECT plays OBJECT , a scientist determined to overthrow her planet's evil queen.
+SUBJECT:	[[ ZSA ZSA GÁBOR | /m/013ybx ]]
+OBJECT:	[[ TALLEAH | /m/0gyjcr9 ]]
+SUBJECT PATH: SUBJECT -> plays
+OBJECT  PATH: OBJECT -> plays
+plays
+
+
+SUBJECT  is a ENTITY1 best known as ENTITY2 girl OBJECT in 
+SUBJECT:	[[ CAROLE BOUQUET | /m/049wzr ]]
+OBJECT:	[[ MELINA HAVELOCK | /m/0bbd7c ]]
+ENTITY1:	[[ FRENCH | /m/0f8l9c ]]
+ENTITY2:	[[ BOND | /m/0ghcr ]]
+SUBJECT PATH: SUBJECT -> is
+OBJECT  PATH: OBJECT -> as -> known -> ENTITY1 -> is
+is
+
+
+My fave bond girl was OBJECT played by SUBJECT in For your eyes only
+SUBJECT:	[[ CAROLE BOUQUET | /m/049wzr ]]
+OBJECT:	[[ MELINA HAVELOCK | /m/0bbd7c ]]
+SUBJECT PATH: SUBJECT -> by -> played -> OBJECT -> was
+OBJECT  PATH: OBJECT -> was
+OBJECT
+
+
+OBJECT played by SUBJECT is the first and main ENTITY1 in ENTITY2 
+SUBJECT:	[[ CAROLE BOUQUET | /m/049wzr ]]
+OBJECT:	[[ MELINA HAVELOCK | /m/0bbd7c ]]
+ENTITY1:	[[ BOND GIRL | /m/01r29n ]]
+ENTITY2:	[[ FOR YOUR EYES ONLY | /m/0g5pv3 ]]
+SUBJECT PATH: SUBJECT -> by -> played -> OBJECT -> is
+OBJECT  PATH: OBJECT -> is
+OBJECT
+
+
+SUBJECT is best known for her role as ENTITY1 girl OBJECT in the 1981 video For Your [...]
+SUBJECT:	[[ CAROLE BOUQUET | /m/049wzr ]]
+OBJECT:	[[ MELINA HAVELOCK | /m/0bbd7c ]]
+ENTITY1:	[[ BOND | /m/0ghcr ]]
+SUBJECT PATH: SUBJECT -> known
+OBJECT  PATH: OBJECT -> as -> role -> for -> known
+known
+
+
+SUBJECT plays OBJECT , a ENTITY1 -like columnist who is also a widower with three adorable daughters.
+SUBJECT:	[[ STEVE CARELL | /m/04t2l2 ]]
+OBJECT:	[[ DAN BURNS | /m/04g5rq4 ]]
+ENTITY1:	[[ DEAR ABBY | /m/09tpxy ]]
+SUBJECT PATH: SUBJECT -> plays
+OBJECT  PATH: OBJECT -> plays
+plays
+
+
+SUBJECT plays OBJECT , a newspaper columnist who writes about fami...
+SUBJECT:	[[ STEVE CARELL | /m/04t2l2 ]]
+OBJECT:	[[ DAN BURNS | /m/04g5rq4 ]]
+SUBJECT PATH: SUBJECT -> plays
+OBJECT  PATH: OBJECT -> plays
+plays
+
+
+SUBJECT plays OBJECT , a widowed parenting advice columnist with three daughters.
+SUBJECT:	[[ STEVE CARELL | /m/04t2l2 ]]
+OBJECT:	[[ DAN BURNS | /m/04g5rq4 ]]
+SUBJECT PATH: SUBJECT -> plays
+OBJECT  PATH: OBJECT -> plays
+plays
+
+
+In ENTITY1 , SUBJECT stars as OBJECT , an advice columnist and a single father with three girls
+SUBJECT:	[[ STEVE CARELL | /m/04t2l2 ]]
+OBJECT:	[[ DAN BURNS | /m/04g5rq4 ]]
+ENTITY1:	[[ DAN IN REAL LIFE | /m/0cld7h ]]
+SUBJECT PATH: SUBJECT -> stars -> In
+OBJECT  PATH: OBJECT -> as -> stars -> In
+stars
+
+
+SUBJECT plays OBJECT , a widower and devoted father, struggling to raise three daughters
+SUBJECT:	[[ STEVE CARELL | /m/04t2l2 ]]
+OBJECT:	[[ DAN BURNS | /m/04g5rq4 ]]
+SUBJECT PATH: SUBJECT -> plays
+OBJECT  PATH: OBJECT -> plays
+plays
+
+
+SUBJECT plays OBJECT , a widower advice columnist with three rambunctious daughters
+SUBJECT:	[[ STEVE CARELL | /m/04t2l2 ]]
+OBJECT:	[[ DAN BURNS | /m/04g5rq4 ]]
+SUBJECT PATH: SUBJECT -> plays
+OBJECT  PATH: OBJECT -> plays
+plays
+
+
+SUBJECT plays the part of OBJECT , the widowed father of three girls.
+SUBJECT:	[[ STEVE CARELL | /m/04t2l2 ]]
+OBJECT:	[[ DAN BURNS | /m/04g5rq4 ]]
+SUBJECT PATH: SUBJECT -> plays
+OBJECT  PATH: OBJECT -> of -> part -> plays
+plays
+
+
+SUBJECT starred as OBJECT , and ENTITY1 directed the film adaptation
+SUBJECT:	[[ LANA TURNER | /m/018fmr ]]
+OBJECT:	[[ CONSTANCE MACKENZIE | /m/02rfvb2 ]]
+ENTITY1:	[[ MARK ROBSON | /m/05z_p6 ]]
+SUBJECT PATH: SUBJECT -> starred
+OBJECT  PATH: OBJECT -> as -> starred
+starred
+
+
+SUBJECT  plays OBJECT , the laconic and protective eldest of the first set of brothers
+SUBJECT:	[[ MICHAEL SHANNON | /m/0cjsxp ]]
+OBJECT:	[[ SON HAYES | /m/0h1tdwl ]]
+SUBJECT PATH: SUBJECT -> plays -> OBJECT
+OBJECT  PATH: OBJECT
+OBJECT
+
+
+SUBJECT plays OBJECT , the daughter of a famous ENTITY1 man, whom ENTITY2 attempts to reinvigorate
+SUBJECT:	[[ LANA TURNER | /m/018fmr ]]
+OBJECT:	[[ GEORGIA LORRISON | /m/0h2rvjv ]]
+ENTITY1:	[[ HOLLYWOOD | /m/0f2wj ]]
+ENTITY2:	[[ JONATHAN | /m/02nwn8w ]]
+SUBJECT PATH: SUBJECT -> plays
+OBJECT  PATH: OBJECT -> plays
+plays
+
+
+SUBJECT plays opposite ENTITY1 as the troubled star OBJECT 
+SUBJECT:	[[ LANA TURNER | /m/018fmr ]]
+OBJECT:	[[ GEORGIA LORRISON | /m/0h2rvjv ]]
+ENTITY1:	[[ DOUGLAS | /m/0j582 ]]
+SUBJECT PATH: SUBJECT -> plays
+OBJECT  PATH: OBJECT -> as -> plays
+plays
+
+
+ENTITY1 is perfect for ENTITY2 , and SUBJECT equally ideal for OBJECT 
+SUBJECT:	[[ LANA TURNER | /m/018fmr ]]
+OBJECT:	[[ LADY DE WINTER | /m/0h2rvm7 ]]
+ENTITY1:	[[ VINCENT PRICE | /m/013sg6 ]]
+ENTITY2:	[[ RICHELIEU | /m/0lnjk ]]
+SUBJECT PATH: SUBJECT -> ideal -> is
+OBJECT  PATH: OBJECT -> for -> ideal -> is
+ideal
+
+
+First of all, SUBJECT played OBJECT , ENTITY1 ? niece in ENTITY2 and 5
+SUBJECT:	[[ DANIELLE HARRIS | /m/02gylv ]]
+OBJECT:	[[ JAMIE LLOYD | /m/09435s ]]
+ENTITY1:	[[ MICHAEL MYERS | /m/03zj8n ]]
+ENTITY2:	[[ HALLOWEEN 4 | /m/06d6ch ]]
+SUBJECT PATH: SUBJECT -> OBJECT -> , -> First
+OBJECT  PATH: OBJECT -> , -> First
+OBJECT
+
+
+OBJECT would become a favorite character amongst ENTITY1 fans due to SUBJECT 
+SUBJECT:	[[ DANIELLE HARRIS | /m/02gylv ]]
+OBJECT:	[[ JAMIE LLOYD | /m/09435s ]]
+ENTITY1:	[[ HALLOWEEN | /m/06d6ch ]]
+SUBJECT PATH: SUBJECT -> to -> due -> character -> become
+OBJECT  PATH: OBJECT -> become
+become
+
+
+But the real star was young SUBJECT as OBJECT , the main target for ENTITY1 
+SUBJECT:	[[ DANIELLE HARRIS | /m/02gylv ]]
+OBJECT:	[[ JAMIE LLOYD | /m/09435s ]]
+ENTITY1:	[[ MICHAEL MYERS | /m/03zj8n ]]
+SUBJECT PATH: SUBJECT -> was
+OBJECT  PATH: OBJECT -> as -> SUBJECT -> was
+SUBJECT
+
+
+SUBJECT plays OBJECT , the leader of Team Daedalus, now a retired engineer
+SUBJECT:	[[ CLINT EASTWOOD | /m/0bwh6 ]]
+OBJECT:	[[ FRANK CORVIN | /m/0btn070 ]]
+SUBJECT PATH: SUBJECT -> plays
+OBJECT  PATH: OBJECT -> plays
+plays
+
+
+You?re SUBJECT ?s character OBJECT .
+SUBJECT:	[[ CLINT EASTWOOD | /m/0bwh6 ]]
+OBJECT:	[[ FRANK CORVIN | /m/0btn070 ]]
+SUBJECT PATH: SUBJECT
+OBJECT  PATH: OBJECT
+-None-
+
+
+As the lone woman on ENTITY1 's ship, SUBJECT plays a mysterious woman from ENTITY1 's past, OBJECT 
+SUBJECT:	[[ LANA TURNER | /m/018fmr ]]
+OBJECT:	[[ ELSA KELLER | /m/0h2rvk8 ]]
+ENTITY1:	[[ WAYNE | /m/043gj ]]
+SUBJECT PATH: SUBJECT -> plays
+OBJECT  PATH: OBJECT -> woman -> plays
+plays
+
+
+a le scoop que 3:10 ? ENTITY1 star SUBJECT jouera le OBJECT dans X-Men Origines: ENTITY2 
+SUBJECT:	[[ KEVIN DURAND | /m/08g2t9 ]]
+OBJECT:	[[ BLOB | /m/027ykr ]]
+ENTITY1:	[[ YUMA | /m/01pz13 ]]
+ENTITY2:	[[ WOLVERINE | /m/08hmch ]]
+SUBJECT PATH: SUBJECT -> jouera -> dans
+OBJECT  PATH: OBJECT -> dans
+dans
+
+
+Meanwhile, ENTITY1 has a scoop that states SUBJECT will play The OBJECT .
+SUBJECT:	[[ KEVIN DURAND | /m/08g2t9 ]]
+OBJECT:	[[ BLOB | /m/027ykr ]]
+ENTITY1:	[[ FILM SCHOOL REJECTS | /m/0n4bqcz ]]
+SUBJECT PATH: SUBJECT -> states -> scoop -> has
+OBJECT  PATH: OBJECT -> play -> has
+has
+
+
+Meanwhile, ENTITY1 has a scoop that states SUBJECT will play The OBJECT 
+SUBJECT:	[[ KEVIN DURAND | /m/08g2t9 ]]
+OBJECT:	[[ BLOB | /m/027ykr ]]
+ENTITY1:	[[ FILM SCHOOL REJECTS | /m/0n4bqcz ]]
+SUBJECT PATH: SUBJECT -> states -> scoop -> has
+OBJECT  PATH: OBJECT -> play -> has
+has
+
+
+hat die Kugel, star SUBJECT spielt den OBJECT i
+SUBJECT:	[[ KEVIN DURAND | /m/08g2t9 ]]
+OBJECT:	[[ BLOB | /m/027ykr ]]
+SUBJECT PATH: SUBJECT -> spielt -> OBJECT -> Kugel -> die
+OBJECT  PATH: OBJECT -> Kugel -> die
+OBJECT
+
+
+hat die Kugel, auf 3:10 ENTITY1 star SUBJECT spielt den OBJECT in X-Men Herkunft: ENTITY2 
+SUBJECT:	[[ KEVIN DURAND | /m/08g2t9 ]]
+OBJECT:	[[ BLOB | /m/027ykr ]]
+ENTITY1:	[[ YUMA | /m/01pz13 ]]
+ENTITY2:	[[ WOLVERINE | /m/08hmch ]]
+SUBJECT PATH: SUBJECT -> spielt -> OBJECT -> Kugel -> die
+OBJECT  PATH: OBJECT -> Kugel -> die
+OBJECT
+
+
+SUBJECT plays OBJECT , the high priestess of a pagan cult in this colourful ENTITY1 epic.
+SUBJECT:	[[ LANA TURNER | /m/018fmr ]]
+OBJECT:	[[ SAMARRA | /m/0h2rvll ]]
+ENTITY1:	[[ BIBLICAL | /m/015j7 ]]
+SUBJECT PATH: SUBJECT -> plays
+OBJECT  PATH: OBJECT -> plays
+plays
+
+
+Yet, while other actresses may admirably have filled OBJECT 's sultry shoes, SUBJECT does indeed sizzle in this role
+SUBJECT:	[[ LANA TURNER | /m/018fmr ]]
+OBJECT:	[[ CORA SMITH | /m/0h2rvlt ]]
+SUBJECT PATH: SUBJECT -> sizzle
+OBJECT  PATH: OBJECT -> shoes -> filled -> sizzle
+sizzle
+
+
+SUBJECT 's brassy OBJECT tempted ENTITY1 into murder in ENTITY2 
+SUBJECT:	[[ LANA TURNER | /m/018fmr ]]
+OBJECT:	[[ CORA SMITH | /m/0h2rvlt ]]
+ENTITY1:	[[ JOHN GARFIELD | /m/013846 ]]
+ENTITY2:	[[ THE POSTMAN ALWAYS RINGS TWICE | /m/0dlh03 ]]
+SUBJECT PATH: SUBJECT -> OBJECT -> tempted
+OBJECT  PATH: OBJECT -> tempted
+OBJECT
+
+
+SUBJECT 's brassy OBJECT tempted ENTITY1 into murder in 
+SUBJECT:	[[ LANA TURNER | /m/018fmr ]]
+OBJECT:	[[ CORA SMITH | /m/0h2rvlt ]]
+ENTITY1:	[[ JOHN GARFIELD | /m/013846 ]]
+SUBJECT PATH: SUBJECT -> OBJECT -> tempted
+OBJECT  PATH: OBJECT -> tempted
+OBJECT
+
+
+The brainchild of OBJECT and ENTITY1 creator SUBJECT ,
+SUBJECT:	[[ MIKE JUDGE | /m/01p8r8 ]]
+OBJECT:	[[ BEAVIS | /m/0273yz6 ]]
+ENTITY1:	[[ BUTTHEAD | /m/025t53n ]]
+SUBJECT PATH: SUBJECT -> brainchild
+OBJECT  PATH: OBJECT -> of -> brainchild
+brainchild
+
+
+ENTITY1 and ENTITY2 also appeared on the show, which was co-created by SUBJECT + OBJECT animator SUBJECT 
+SUBJECT:	[[ MIKE JUDGE | /m/01p8r8 ]]
+OBJECT:	[[ BUTT-HEAD | /m/025t53n ]]
+ENTITY1:	[[ GREEN DAY | /m/0dvqq ]]
+ENTITY2:	[[ ZZ TOP | /m/089tm ]]
+SUBJECT PATH: SUBJECT -> animator -> by -> created -> show -> on -> appeared
+OBJECT  PATH: OBJECT -> animator -> by -> created -> show -> on -> appeared
+animator
+
+
+OBJECT and ENTITY1 and ENTITY2 creator SUBJECT was in buying recording software when the receptionist started talking to him
+SUBJECT:	[[ MIKE JUDGE | /m/01p8r8 ]]
+OBJECT:	[[ BEAVIS | /m/0273yz6 ]]
+ENTITY1:	[[ BUTTHEAD | /m/025t53n ]]
+ENTITY2:	[[ OFFICE SPACE | /m/0nrnk ]]
+SUBJECT PATH: SUBJECT -> OBJECT -> was
+OBJECT  PATH: OBJECT -> was
+OBJECT
+
+
+SUBJECT throws in a deleted pencil scene starring OBJECT and ENTITY1 's favorite neighbor, ENTITY2 
+SUBJECT:	[[ MIKE JUDGE | /m/01p8r8 ]]
+OBJECT:	[[ BEAVIS | /m/0273yz6 ]]
+ENTITY1:	[[ BUTTHEAD | /m/025t53n ]]
+ENTITY2:	[[ TOM ANDERSON | /m/01vdhcc ]]
+SUBJECT PATH: SUBJECT -> throws
+OBJECT  PATH: OBJECT -> starring -> scene -> in -> throws
+throws
+
+
+OBJECT and ENTITY1 and ENTITY2 creator SUBJECT was in buying recording software when the receptionist started talking to him.
+SUBJECT:	[[ MIKE JUDGE | /m/01p8r8 ]]
+OBJECT:	[[ BEAVIS | /m/0273yz6 ]]
+ENTITY1:	[[ BUTTHEAD | /m/025t53n ]]
+ENTITY2:	[[ OFFICE SPACE | /m/0nrnk ]]
+SUBJECT PATH: SUBJECT -> OBJECT -> was
+OBJECT  PATH: OBJECT -> was
+OBJECT
+
+
+The beach scene, where SUBJECT 's character of OBJECT first encounters ENTITY1  and her daughter, is perfect
+SUBJECT:	[[ LANA TURNER | /m/018fmr ]]
+OBJECT:	[[ LORA MEREDITH | /m/0h2rvgn ]]
+ENTITY1:	[[ ANNIE | /m/01_1m4 ]]
+SUBJECT PATH: SUBJECT -> character -> encounters -> scene -> is
+OBJECT  PATH: OBJECT -> of -> character -> encounters -> scene -> is
+character
+
+
+SUBJECT plays OBJECT , a struggling widow with plans to become a famous ENTITY1 actress
+SUBJECT:	[[ LANA TURNER | /m/018fmr ]]
+OBJECT:	[[ LORA MEREDITH | /m/0h2rvgn ]]
+ENTITY1:	[[ BROADWAY | /m/035y8z ]]
+SUBJECT PATH: SUBJECT -> plays
+OBJECT  PATH: OBJECT -> plays
+plays
+
+
+SUBJECT works hard with ENTITY1 to make Preacher OBJECT the intense, terrifying character we know and love/hate.
+SUBJECT:	[[ ROBERT MITCHUM | /m/0m0hw ]]
+OBJECT:	[[ HARRY POWELL | /m/0h2hdtk ]]
+ENTITY1:	[[ LAUGHTON | /m/0gpmp ]]
+SUBJECT PATH: SUBJECT -> works
+OBJECT  PATH: OBJECT -> make -> works
+works
+
+
+SUBJECT predates ENTITY1 , Jason and ENTITY2 in his portrayal of the highly religous and highly psychopathic OBJECT .
+SUBJECT:	[[ ROBERT MITCHUM | /m/0m0hw ]]
+OBJECT:	[[ HARRY POWELL | /m/0h2hdtk ]]
+ENTITY1:	[[ HANNIBAL LECTOR | /m/0162dh ]]
+ENTITY2:	[[ MICHAEL MEYERS | /m/0p__8 ]]
+SUBJECT PATH: SUBJECT -> predates
+OBJECT  PATH: OBJECT -> of -> portrayal -> in -> predates
+predates
+
+
+Later, in ENTITY1 , SUBJECT found another permutation of the ENTITY2 character as the twisted OBJECT 
+SUBJECT:	[[ ROBERT MITCHUM | /m/0m0hw ]]
+OBJECT:	[[ MAX CADY | /m/06rrdy ]]
+ENTITY1:	[[ CAPE FEAR | /m/016y_v ]]
+ENTITY2:	[[ HARRY POWELL | /m/0h2hdtk ]]
+SUBJECT PATH: SUBJECT -> found
+OBJECT  PATH: OBJECT -> as -> found
+found
+
+
+Nicholsons psycho is a buffoon on a scale last seen in SUBJECT s OBJECT in ? ENTITY1 .?
+SUBJECT:	[[ ROBERT MITCHUM | /m/0m0hw ]]
+OBJECT:	[[ HARRY POWELL | /m/0h2hdtk ]]
+ENTITY1:	[[ NIGHT OF THE HUNTER | /m/0dk6gx ]]
+SUBJECT PATH: SUBJECT -> OBJECT -> in -> seen -> scale -> on -> buffoon -> is
+OBJECT  PATH: OBJECT -> in -> seen -> scale -> on -> buffoon -> is
+OBJECT
+
+
+The first thing anybody mentions when talking about ENTITY1 is SUBJECT performance as OBJECT 
+SUBJECT:	[[ ROBERT MITCHUM | /m/0m0hw ]]
+OBJECT:	[[ HARRY POWELL | /m/0h2hdtk ]]
+ENTITY1:	[[ NIGHT OF THE HUNTER | /m/0j_vp ]]
+SUBJECT PATH: SUBJECT -> performance -> is
+OBJECT  PATH: OBJECT -> as -> performance -> is
+performance
+
+
+From this point on, Owen can understand OBJECT , who has the voice of SUBJECT .
+SUBJECT:	[[ MATTHEW BRODERICK | /m/01vlj1g ]]
+OBJECT:	[[ HUBBLE | /m/0h145t2 ]]
+SUBJECT PATH: SUBJECT -> of -> voice -> has -> OBJECT -> understand
+OBJECT  PATH: OBJECT -> understand
+OBJECT
+
+
+According to one of the interviews on this DVD, playing OBJECT was a long-time dream for SUBJECT .
+SUBJECT:	[[ MATTHEW BRODERICK | /m/01vlj1g ]]
+OBJECT:	[[ HAROLD HILL | /m/09j606t ]]
+SUBJECT PATH: SUBJECT -> for -> dream -> was
+OBJECT  PATH: OBJECT -> playing -> was
+was
+
+
+In this farcical comedy, SUBJECT plays OBJECT , an aspiring director who arrives in ENTITY1 to attend film school
+SUBJECT:	[[ MATTHEW BRODERICK | /m/01vlj1g ]]
+OBJECT:	[[ CLARK KELLOGG | /m/0h145qd ]]
+ENTITY1:	[[ NEW YORK CITY | /m/02_286 ]]
+SUBJECT PATH: SUBJECT -> plays
+OBJECT  PATH: OBJECT -> plays
+plays
+
+
+SUBJECT actually has a bigger role as ENTITY1 's adversary, the preening OBJECT .
+SUBJECT:	[[ MATTHEW BRODERICK | /m/01vlj1g ]]
+OBJECT:	[[ ROGER BEEKMAN | /m/0h145sc ]]
+ENTITY1:	[[ NOBLET | /m/02_xmrm ]]
+SUBJECT PATH: SUBJECT -> has
+OBJECT  PATH: OBJECT -> adversary -> as -> role -> has
+has
+
+
+SUBJECT stars as OBJECT – a popular optician in a small western ENTITY1 town
+SUBJECT:	[[ MATTHEW BRODERICK | /m/01vlj1g ]]
+OBJECT:	[[ STEVE FINCH | /m/0h145vd ]]
+ENTITY1:	[[ MASSACHUSETTS | /m/05k7sb ]]
+SUBJECT PATH: SUBJECT -> stars
+OBJECT  PATH: OBJECT -> as -> stars
+stars
+
+
+Of Note: 1 - SUBJECT played the role of OBJECT in the ENTITY1 play
+SUBJECT:	[[ MATTHEW BRODERICK | /m/01vlj1g ]]
+OBJECT:	[[ EUGENE MORRIS JEROME | /m/0h145st ]]
+ENTITY1:	[[ BROADWAY | /m/035y8z ]]
+SUBJECT PATH: SUBJECT -> played
+OBJECT  PATH: OBJECT -> of -> role -> played
+played
+
+
+3 - SUBJECT took over the role of OBJECT on ENTITY1 after ENTITY2 left the production.
+SUBJECT:	[[ JONATHAN SILVERMAN | /m/05vnvn ]]
+OBJECT:	[[ EUGENE MORRIS JEROME | /m/0h145st ]]
+ENTITY1:	[[ BROADWAY | /m/035y8z ]]
+ENTITY2:	[[ MATTHEW BRODERICK | /m/01vlj1g ]]
+SUBJECT PATH: SUBJECT -> took
+OBJECT  PATH: OBJECT -> of -> role -> took
+took
+
+
+SUBJECT won a ENTITY1 for the play and reprised the role of OBJECT in   ENTITY2  .
+SUBJECT:	[[ MATTHEW BRODERICK | /m/01vlj1g ]]
+OBJECT:	[[ EUGENE MORRIS JEROME | /m/0h145st ]]
+ENTITY1:	[[ TONY AWARD | /m/0f8kh ]]
+ENTITY2:	[[ BILOXI BLUES | /m/05pdfp6 ]]
+SUBJECT PATH: SUBJECT -> won
+OBJECT  PATH: OBJECT -> of -> role -> reprised -> won
+won
+
+
+SUBJECT is perfect as OBJECT , ENTITY1 is great as DS Toomey, and Penelope Anne Miller - wow
+SUBJECT:	[[ MATTHEW BRODERICK | /m/01vlj1g ]]
+OBJECT:	[[ EUGENE MORRIS JEROME | /m/0h145st ]]
+ENTITY1:	[[ WALKEN | /m/016fjj ]]
+SUBJECT PATH: SUBJECT -> is -> is
+OBJECT  PATH: OBJECT -> as -> perfect -> is -> is
+is
+
+
+SUBJECT returned as OBJECT , and ENTITY1 is again ENTITY2 
+SUBJECT:	[[ MEL BLANC | /m/0c5vh ]]
+OBJECT:	[[ BARNEY RUBBLE | /m/05695w ]]
+ENTITY1:	[[ JEAN VANDER PYL | /m/041vt_ ]]
+ENTITY2:	[[ WILMA | /m/088nnl ]]
+SUBJECT PATH: SUBJECT -> returned
+OBJECT  PATH: OBJECT -> as -> returned
+returned
+
+
+Who was Who? ENTITY1 was played by ENTITY2 and SUBJECT played OBJECT 
+SUBJECT:	[[ MEL BLANC | /m/0c5vh ]]
+OBJECT:	[[ BARNEY RUBBLE | /m/05695w ]]
+ENTITY1:	[[ FRED FLINTSTONE | /m/01mr9t ]]
+ENTITY2:	[[ ALAN REED | /m/03jkgs ]]
+SUBJECT PATH: SUBJECT -> ENTITY2 -> OBJECT -> by -> played
+OBJECT  PATH: OBJECT -> by -> played
+OBJECT
+
+
+SUBJECT was then the voice of OBJECT on ENTITY1 , Friday nights on ENTITY2 .
+SUBJECT:	[[ MEL BLANC | /m/0c5vh ]]
+OBJECT:	[[ BARNEY RUBBLE | /m/05695w ]]
+ENTITY1:	[[ THE FLINTSTONES | /m/01bn3l ]]
+ENTITY2:	[[ ABC | /m/0gsg7 ]]
+SUBJECT PATH: SUBJECT -> was
+OBJECT  PATH: OBJECT -> of -> voice -> was
+was
+
+
+Legendary voice artist SUBJECT gave life to OBJECT and ENTITY1 throughout the program's run
+SUBJECT:	[[ MEL BLANC | /m/0c5vh ]]
+OBJECT:	[[ BARNEY RUBBLE | /m/05695w ]]
+ENTITY1:	[[ DINO | /m/079ld6 ]]
+SUBJECT PATH: SUBJECT -> gave
+OBJECT  PATH: OBJECT -> to -> gave
+gave
+
+
+6) Veteran voice actor SUBJECT was the voice of OBJECT .
+SUBJECT:	[[ MEL BLANC | /m/0c5vh ]]
+OBJECT:	[[ BARNEY RUBBLE | /m/05695w ]]
+SUBJECT PATH: SUBJECT -> actor -> was
+OBJECT  PATH: OBJECT -> of -> voice -> was
+was
+
+
+Infinity with SUBJECT portraying OBJECT .
+SUBJECT:	[[ MATTHEW BRODERICK | /m/01vlj1g ]]
+OBJECT:	[[ RICHARD FEYNMAN | /m/02xlxh3 ]]
+SUBJECT PATH: SUBJECT -> with -> Infinity
+OBJECT  PATH: OBJECT -> portraying -> Infinity
+Infinity
+
+
+SUBJECT is a bland choice for OBJECT , especially in ENTITY1 's shadow
+SUBJECT:	[[ LEX BARKER | /m/01tz8h ]]
+OBJECT:	[[ TARZAN | /m/07lk3 ]]
+ENTITY1:	[[ JOHNNY WEISSMULLER | /m/04709 ]]
+SUBJECT PATH: SUBJECT -> is
+OBJECT  PATH: OBJECT -> for -> choice -> is
+is
+
+
+In the bitch category is ENTITY1 's ex-wife, OBJECT , played by SUBJECT in her now-signature pig-screeching manner
+SUBJECT:	[[ KIRSTIE ALLEY | /m/01wc7p ]]
+OBJECT:	[[ JOAN | /m/0cc0_1f ]]
+ENTITY1:	[[ BLOCK | /m/05_7r3 ]]
+SUBJECT PATH: SUBJECT -> by -> played -> wife -> is
+OBJECT  PATH: OBJECT -> wife -> is
+wife
+
+
+SUBJECT does the voice of ENTITY1 's pal OBJECT , in the passenger seat above.
+SUBJECT:	[[ MATTHEW BRODERICK | /m/01vlj1g ]]
+OBJECT:	[[ ADAM | /m/0h145rh ]]
+ENTITY1:	[[ BARRY | /m/016jfw ]]
+SUBJECT PATH: SUBJECT -> does
+OBJECT  PATH: OBJECT -> of -> voice -> does
+does
+
+
+SUBJECT is perfect as OBJECT , an aspiring director
+SUBJECT:	[[ MATTHEW BRODERICK | /m/01vlj1g ]]
+OBJECT:	[[ STEVEN SCHATS | /m/0h145q5 ]]
+SUBJECT PATH: SUBJECT -> is
+OBJECT  PATH: OBJECT -> as -> perfect -> is
+is
+
+
+ENTITY1 and SUBJECT  provide the voice for OBJECT 
+SUBJECT:	[[ JONATHAN TAYLOR THOMAS | /m/02n8yh ]]
+OBJECT:	[[ SIMBA | /m/03wjyj ]]
+ENTITY1:	[[ MATTHEW BRODERICK | /m/01vlj1g ]]
+SUBJECT PATH: SUBJECT -> ENTITY1 -> provide
+OBJECT  PATH: OBJECT -> for -> voice -> provide
+provide
+
+
+Did you know that SUBJECT is the voice of OBJECT ?
+SUBJECT:	[[ MATTHEW BRODERICK | /m/01vlj1g ]]
+OBJECT:	[[ SIMBA | /m/03wjyj ]]
+SUBJECT PATH: SUBJECT -> is -> know
+OBJECT  PATH: OBJECT -> of -> voice -> is -> know
+is
+
+
+Young   ENTITY1   star SUBJECT voiced young OBJECT , with ENTITY2 as the adult OBJECT 
+SUBJECT:	[[ JONATHAN TAYLOR THOMAS | /m/02n8yh ]]
+OBJECT:	[[ SIMBA | /m/03wjyj ]]
+ENTITY1:	[[ HOME IMPROVEMENT | /m/03j2w ]]
+ENTITY2:	[[ MATTHEW BRODERICK | /m/01vlj1g ]]
+SUBJECT PATH: SUBJECT -> star -> voiced
+OBJECT  PATH: OBJECT -> as -> ENTITY2 -> with -> voiced
+voiced
+
+
+Or rather the voice of the adult OBJECT from the original animated ENTITY1 film, SUBJECT 
+SUBJECT:	[[ MATTHEW BRODERICK | /m/01vlj1g ]]
+OBJECT:	[[ SIMBA | /m/03wjyj ]]
+ENTITY1:	[[ LION KING | /m/0m63c ]]
+SUBJECT PATH: SUBJECT -> film -> from -> voice
+OBJECT  PATH: OBJECT -> of -> voice
+voice
+
+
+SUBJECT carried ENTITY1 , and OBJECT will carry ENTITY2 
+SUBJECT:	[[ ROBERT PATTINSON | /m/062dn7 ]]
+OBJECT:	[[ JACOB JANKOWSKI - OLDER | /m/0c1sgkp ]]
+ENTITY1:	[[ TWILIGHT | /m/03nm_fh ]]
+ENTITY2:	[[ NEW MOON | /m/05pdh86 ]]
+SUBJECT PATH: SUBJECT -> carried
+OBJECT  PATH: OBJECT -> carry -> carried
+carried
+
+
+OBJECT will join SUBJECT 's Edward in wooing ENTITY1 's ENTITY2 
+SUBJECT:	[[ ROBERT PATTINSON | /m/062dn7 ]]
+OBJECT:	[[ JACOB JANKOWSKI - OLDER | /m/0c1sgkp ]]
+ENTITY1:	[[ KRISTEN STEWART | /m/07swvb ]]
+ENTITY2:	[[ BELLA | /m/027b7y9 ]]
+SUBJECT PATH: SUBJECT -> Edward -> join
+OBJECT  PATH: OBJECT -> join
+join
+
+
+Just SUBJECT is Edward to the fans ENTITY1 is OBJECT 
+SUBJECT:	[[ ROBERT PATTINSON | /m/062dn7 ]]
+OBJECT:	[[ JACOB JANKOWSKI - OLDER | /m/0c1sgkp ]]
+ENTITY1:	[[ TAYLOR | /m/041397m ]]
+SUBJECT PATH: SUBJECT -> is
+OBJECT  PATH: OBJECT -> is
+-None-
+
+
+SUBJECT is definitely Edward, Kristin is definitely ENTITY1 and ENTITY2 is definitely OBJECT .
+SUBJECT:	[[ ROBERT PATTINSON | /m/062dn7 ]]
+OBJECT:	[[ JACOB JANKOWSKI - OLDER | /m/0c1sgkp ]]
+ENTITY1:	[[ BELLA | /m/027b7y9 ]]
+ENTITY2:	[[ TAYLOR | /m/041397m ]]
+SUBJECT PATH: SUBJECT -> is -> is -> is
+OBJECT  PATH: OBJECT -> is
+is
+
+
+im team ENTITY1 not team SUBJECT and I?m team Edward not team OBJECT 
+SUBJECT:	[[ ROBERT PATTINSON | /m/062dn7 ]]
+OBJECT:	[[ JACOB JANKOWSKI - OLDER | /m/0c1sgkp ]]
+ENTITY1:	[[ TAYLOR | /m/07ldhs ]]
+SUBJECT PATH: SUBJECT -> team -> team
+OBJECT  PATH: OBJECT -> team -> team
+team
+
+
+SUBJECT is also the voice of OBJECT in ENTITY1 ?s, Dinosaurs.
+SUBJECT:	[[ HAYDEN PANETTIERE | /m/02jyhv ]]
+OBJECT:	[[ SURI | /m/0dkbfnt ]]
+ENTITY1:	[[ DISNEY | /m/01795t ]]
+SUBJECT PATH: SUBJECT -> is
+OBJECT  PATH: OBJECT -> of -> voice -> is
+is
+
+
+SUBJECT plays OBJECT in the 1982 show 
+SUBJECT:	[[ HAYDEN PANETTIERE | /m/02jyhv ]]
+OBJECT:	[[ HAYLEI SIMS | /m/0gj5bts ]]
+SUBJECT PATH: SUBJECT -> plays
+OBJECT  PATH: OBJECT -> plays
+plays
+
+
+For the 1950 movie , SUBJECT plays ENTITY1 / OBJECT , Susan's niece
+SUBJECT:	[[ HAYDEN PANETTIERE | /m/02jyhv ]]
+OBJECT:	[[ ALICE STONE | /m/0gxbtlt ]]
+ENTITY1:	[[ YOUNG SUSAN 'SUZIE' STONE | /m/0gxbtmj ]]
+SUBJECT PATH: SUBJECT -> plays
+OBJECT  PATH: OBJECT -> plays
+plays
+
+
+For the 1950 release of , SUBJECT stars as OBJECT 
+SUBJECT:	[[ HAYDEN PANETTIERE | /m/02jyhv ]]
+OBJECT:	[[ AUDREY DAVIS | /m/0cglykd ]]
+SUBJECT PATH: SUBJECT -> stars -> of -> release -> For
+OBJECT  PATH: OBJECT -> as -> stars -> of -> release -> For
+stars
+
+
+SUBJECT , who stars as OBJECT , sure is getting some experience at this cheerleader thing!
+SUBJECT:	[[ HAYDEN PANETTIERE | /m/02jyhv ]]
+OBJECT:	[[ BRITNEY ALLEN | /m/0gj5btd ]]
+SUBJECT PATH: SUBJECT -> getting
+OBJECT  PATH: OBJECT -> as -> stars -> SUBJECT -> getting
+SUBJECT
+
+
+SUBJECT plays OBJECT , the little boy who knows better than his babysitter what the Boogeyman is all about
+SUBJECT:	[[ BRIAN ANDREWS | /m/09c_0f ]]
+OBJECT:	[[ TOMMY DOYLE | /m/05287fn ]]
+SUBJECT PATH: SUBJECT -> plays
+OBJECT  PATH: OBJECT -> plays
+plays
+
+
+One of the few missteps in ENTITY1 is the miscasting of SUBJECT as OBJECT , ENTITY2 's love interest.
+SUBJECT:	[[ PENELOPE ANN MILLER | /m/02rrsz ]]
+OBJECT:	[[ GAIL | /m/0h34tq7 ]]
+ENTITY1:	[[ CARLITO'S WAY | /m/0337wr ]]
+ENTITY2:	[[ CARLITO | /m/027m0ff ]]
+SUBJECT PATH: SUBJECT -> of -> miscasting -> is
+OBJECT  PATH: OBJECT -> as -> miscasting -> is
+miscasting
+
+
+SUBJECT is excellent as OBJECT 
+SUBJECT:	[[ LOTTE LENYA | /m/01vcfq ]]
+OBJECT:	[[ ROSA KLEBB | /m/05p43l ]]
+SUBJECT PATH: SUBJECT -> is
+OBJECT  PATH: OBJECT -> as -> excellent -> is
+is
+
+
+SUBJECT plays OBJECT , the defecting ENTITY1 agent
+SUBJECT:	[[ LOTTE LENYA | /m/01vcfq ]]
+OBJECT:	[[ ROSA KLEBB | /m/05p43l ]]
+ENTITY1:	[[ RUSSIAN | /m/06bnz ]]
+SUBJECT PATH: SUBJECT -> plays
+OBJECT  PATH: OBJECT -> plays
+plays
+
+
+SUBJECT portrays OBJECT , the former ENTITY1 agent who has defected to ENTITY2 and become their number three agent
+SUBJECT:	[[ LOTTE LENYA | /m/01vcfq ]]
+OBJECT:	[[ ROSA KLEBB | /m/05p43l ]]
+ENTITY1:	[[ SMERSH | /m/03nvqy ]]
+ENTITY2:	[[ SPECTRE | /m/0m6__ ]]
+SUBJECT PATH: SUBJECT -> OBJECT
+OBJECT  PATH: OBJECT
+OBJECT
+
+
+OBJECT played by SUBJECT is the fifth Villain of ENTITY1 
+SUBJECT:	[[ LOTTE LENYA | /m/01vcfq ]]
+OBJECT:	[[ ROSA KLEBB | /m/05p43l ]]
+ENTITY1:	[[ FROM RUSSIA WITH LOVE | /m/025twgt ]]
+SUBJECT PATH: SUBJECT -> by -> played -> OBJECT -> is
+OBJECT  PATH: OBJECT -> is
+OBJECT
+
+
+The only weakness in the film is SUBJECT as ENTITY1 's prepubescent daughter OBJECT 
+SUBJECT:	[[ LORI MARTIN | /m/0h249b ]]
+OBJECT:	[[ NANCY BOWDEN | /m/0bhhn7j ]]
+ENTITY1:	[[ SAM | /m/05nd8pj ]]
+SUBJECT PATH: SUBJECT -> is
+OBJECT  PATH: OBJECT -> daughter -> as -> SUBJECT -> is
+SUBJECT
+
+
+Trivia note: voicing OBJECT is SUBJECT , in her pre-cheerleader days.
+SUBJECT:	[[ HAYDEN PANETTIERE | /m/02jyhv ]]
+OBJECT:	[[ DOT | /m/05t2dqc ]]
+SUBJECT PATH: SUBJECT -> is -> note
+OBJECT  PATH: OBJECT -> is -> note
+is
+
+
+In ENTITY1 , SUBJECT plays OBJECT , a ENTITY2 volunteer
+SUBJECT:	[[ KATHERINE HEIGL | /m/025b5y ]]
+OBJECT:	[[ LYNN SHERIDAN | /m/04fgys7 ]]
+ENTITY1:	[[ THE RINGER | /m/08j6_m ]]
+ENTITY2:	[[ SPECIAL OLYMPICS | /m/0bqs4 ]]
+SUBJECT PATH: SUBJECT -> plays
+OBJECT  PATH: OBJECT -> plays
+plays
+
+
+ENTITY1 enemy OBJECT is represented by a career best performance from SUBJECT .
+SUBJECT:	[[ MATTHEW BRODERICK | /m/01vlj1g ]]
+OBJECT:	[[ JIM MCALLISTER | /m/0g4t9bl ]]
+ENTITY1:	[[ TRACY FLICK | /m/0d06js ]]
+SUBJECT PATH: SUBJECT -> from -> performance -> by -> represented
+OBJECT  PATH: OBJECT -> represented
+represented
+
+
+ENTITY1 plays ENTITY2 , a high school teacher, and SUBJECT as OBJECT , your average high school over-achiever.
+SUBJECT:	[[ REESE WITHERSPOON | /m/0n6f8 ]]
+OBJECT:	[[ TRACY FLICK | /m/0d06js ]]
+ENTITY1:	[[ MATTHEW BRODERICK | /m/01vlj1g ]]
+ENTITY2:	[[ JIM MCALLISTER | /m/0g4t9bl ]]
+SUBJECT PATH: SUBJECT -> teacher -> ENTITY2 -> plays
+OBJECT  PATH: OBJECT -> as -> teacher -> ENTITY2 -> plays
+teacher
+
+
+SUBJECT plays OBJECT , 3-time ENTITY1 at Carver High School.
+SUBJECT:	[[ MATTHEW BRODERICK | /m/01vlj1g ]]
+OBJECT:	[[ JIM MCALLISTER | /m/0g4t9bl ]]
+ENTITY1:	[[ TEACHER OF THE YEAR | /m/0b7cy4 ]]
+SUBJECT PATH: SUBJECT -> plays
+OBJECT  PATH: OBJECT -> plays
+plays
+
+
+SUBJECT 's memorable character OBJECT appeared in two more pictures,   ENTITY1   and   ENTITY2 . 
+SUBJECT:	[[ SIDNEY POITIER | /m/0cgzj ]]
+OBJECT:	[[ VIRGIL TIBBS | /m/0g0pzc ]]
+ENTITY1:	[[ THEY CALL ME MISTER TIBBS | /m/06fdp_ ]]
+ENTITY2:	[[ THE ORGANIZATION | /m/04f19f7 ]]
+SUBJECT PATH: SUBJECT -> OBJECT -> appeared
+OBJECT  PATH: OBJECT -> appeared
+OBJECT
+
+
+Maybe they were trying to make him perfect in the way SUBJECT played OBJECT in ENTITY1
+SUBJECT:	[[ SIDNEY POITIER | /m/0cgzj ]]
+OBJECT:	[[ VIRGIL TIBBS | /m/0g0pzc ]]
+ENTITY1:	[[ IN THE HEAT OF THE NIGHT | /m/0p7rd ]]
+SUBJECT PATH: SUBJECT -> played -> way -> in -> make -> trying
+OBJECT  PATH: OBJECT -> played -> way -> in -> make -> trying
+played
+
+
+SUBJECT does a suitable job as OBJECT .
+SUBJECT:	[[ SIDNEY POITIER | /m/0cgzj ]]
+OBJECT:	[[ VIRGIL TIBBS | /m/0g0pzc ]]
+SUBJECT PATH: SUBJECT -> does
+OBJECT  PATH: OBJECT -> as -> job -> does
+does
+
+
+SUBJECT plays OBJECT in the 2002 show 
+SUBJECT:	[[ HAYDEN PANETTIERE | /m/02jyhv ]]
+OBJECT:	[[ SHERYL YOAST | /m/0gy8zv7 ]]
+SUBJECT PATH: SUBJECT -> plays
+OBJECT  PATH: OBJECT -> plays
+plays
+
+
+A younger and still stoic looking SUBJECT stars as OBJECT in the 2002 film, ENTITY1 .
+SUBJECT:	[[ MADS MIKKELSEN | /m/076svb ]]
+OBJECT:	[[ HORST | /m/0bydxhl ]]
+ENTITY1:	[[ WILBUR WANTS TO KILL HIMSELF | /m/0g9wv5 ]]
+SUBJECT PATH: SUBJECT -> stars
+OBJECT  PATH: OBJECT -> as -> stars
+stars
+
+
+SUBJECT plays OBJECT , journeying to...
+SUBJECT:	[[ MADS MIKKELSEN | /m/076svb ]]
+OBJECT:	[[ CHRISTOFFER | /m/0h39rcb ]]
+SUBJECT PATH: SUBJECT -> plays
+OBJECT  PATH: OBJECT -> plays
+plays
+
+
+SUBJECT plays OBJECT , journeying to ENTITY1 with his wife ENTITY2  to claim his deceased father's body.
+SUBJECT:	[[ MADS MIKKELSEN | /m/076svb ]]
+OBJECT:	[[ CHRISTOFFER | /m/0h39rcb ]]
+ENTITY1:	[[ PRAGUE | /m/0c85_zs ]]
+ENTITY2:	[[ MAJA | /m/0hzxffn ]]
+SUBJECT PATH: SUBJECT -> plays
+OBJECT  PATH: OBJECT -> plays
+plays
+
+
+SUBJECT reprises his role as OBJECT , the loose-lipped jerk newscaster from ENTITY1 .
+SUBJECT:	[[ STEVE CARELL | /m/04t2l2 ]]
+OBJECT:	[[ EVAN BAXTER | /m/02nwc6h ]]
+ENTITY1:	[[ BRUCE ALMIGHTY | /m/01jft4 ]]
+SUBJECT PATH: SUBJECT -> reprises
+OBJECT  PATH: OBJECT -> as -> role -> reprises
+reprises
+
+
+Given SUBJECT s successful turn in ENTITY1 , he will return as OBJECT in the 2007 sequel, ENTITY2 
+SUBJECT:	[[ STEVE CARELL | /m/04t2l2 ]]
+OBJECT:	[[ EVAN BAXTER | /m/02nwc6h ]]
+ENTITY1:	[[ BRUCE ALMIGHTY | /m/01jft4 ]]
+ENTITY2:	[[ EVAN ALMIGHTY | /m/07p62k ]]
+SUBJECT PATH: SUBJECT -> s -> turn -> Given -> return
+OBJECT  PATH: OBJECT -> as -> return
+return
+
+
+If you saw ENTITY1 , you probably remember SUBJECT ?s cameo as OBJECT 
+SUBJECT:	[[ STEVE CARELL | /m/04t2l2 ]]
+OBJECT:	[[ EVAN BAXTER | /m/02nwc6h ]]
+ENTITY1:	[[ BRUCE ALMIGHTY | /m/01jft4 ]]
+SUBJECT PATH: SUBJECT -> remember
+OBJECT  PATH: OBJECT -> as -> cameo
+-None-
+
+
+SUBJECT  plays OBJECT .
+SUBJECT:	[[ STEVE CARELL | /m/04t2l2 ]]
+OBJECT:	[[ EVAN BAXTER | /m/02nwc6h ]]
+SUBJECT PATH: SUBJECT -> plays
+OBJECT  PATH: OBJECT -> plays
+plays
+
+
+  ENTITY1   stars SUBJECT in a reprise of his role as newscaster OBJECT from the 2003 release   ENTITY2 .
+SUBJECT:	[[ STEVE CARELL | /m/04t2l2 ]]
+OBJECT:	[[ EVAN BAXTER | /m/02nwc6h ]]
+ENTITY1:	[[ EVAN ALMIGHTY | /m/07p62k ]]
+ENTITY2:	[[ BRUCE ALMIGHTY | /m/01jft4 ]]
+SUBJECT PATH: SUBJECT -> stars
+OBJECT  PATH: OBJECT -> as -> role -> of -> reprise -> in -> stars
+stars
+
+
+SUBJECT stars as OBJECT , a recently elected congressman.
+SUBJECT:	[[ STEVE CARELL | /m/04t2l2 ]]
+OBJECT:	[[ EVAN BAXTER | /m/02nwc6h ]]
+SUBJECT PATH: SUBJECT -> stars
+OBJECT  PATH: OBJECT -> as -> stars
+stars
+
+
+40 Year Old ENTITY1 star, SUBJECT reprises his role as the polished, preening newscaster OBJECT of ENTITY2 
+SUBJECT:	[[ STEVE CARELL | /m/04t2l2 ]]
+OBJECT:	[[ EVAN BAXTER | /m/02nwc6h ]]
+ENTITY1:	[[ VIRGIN | /m/0n85g ]]
+ENTITY2:	[[ BRUCE ALMIGHTY | /m/01jft4 ]]
+SUBJECT PATH: SUBJECT -> reprises
+OBJECT  PATH: OBJECT -> preening -> reprises
+reprises
+
+
+. SUBJECT reprises his role from , OBJECT , who is instructed by ENTITY1  to build an ark
+SUBJECT:	[[ STEVE CARELL | /m/04t2l2 ]]
+OBJECT:	[[ EVAN BAXTER | /m/02nwc6h ]]
+ENTITY1:	[[ GOD | /m/0d05l6 ]]
+SUBJECT PATH: SUBJECT -> reprises
+OBJECT  PATH: OBJECT -> from -> role -> reprises
+reprises
+
+
+Planned for release in 2007, this film projects the career of SUBJECT ?s character OBJECT  into the future
+SUBJECT:	[[ STEVE CARELL | /m/04t2l2 ]]
+OBJECT:	[[ EVAN BAXTER | /m/02nwc6h ]]
+SUBJECT PATH: SUBJECT -> of -> career -> projects
+OBJECT  PATH: OBJECT
+-None-
+
+
+This quality that SUBJECT imbued upon OBJECT was perhaps the swine's most memorable trait
+SUBJECT:	[[ MEL BLANC | /m/0c5vh ]]
+OBJECT:	[[ PORKY PIG | /m/0dngm ]]
+SUBJECT PATH: SUBJECT -> imbued -> quality -> was
+OBJECT  PATH: OBJECT -> upon -> imbued -> quality -> was
+imbued
+
+
+Mel SUBJECT is the best-known OBJECT voice, as in the trademark all Folks!  .
+SUBJECT:	[[ MEL BLANC | /m/0c5vh ]]
+OBJECT:	[[ PORKY PIG | /m/0dngm ]]
+SUBJECT PATH: SUBJECT -> is
+OBJECT  PATH: OBJECT -> voice -> is
+is
+
+
+Barrier: I was wondering if SUBJECT gave the OBJECT voice new twists
+SUBJECT:	[[ MEL BLANC | /m/0c5vh ]]
+OBJECT:	[[ PORKY PIG | /m/0dngm ]]
+SUBJECT PATH: SUBJECT -> gave -> wondering
+OBJECT  PATH: OBJECT -> voice -> gave -> wondering
+gave
+
+
+In 1937 SUBJECT became the voice of OBJECT and continued the stutter as a comedic effect
+SUBJECT:	[[ MEL BLANC | /m/0c5vh ]]
+OBJECT:	[[ PORKY PIG | /m/0dngm ]]
+SUBJECT PATH: SUBJECT -> became
+OBJECT  PATH: OBJECT -> of -> voice -> became
+became
+
+
+Think of the specific voice SUBJECT gave OBJECT or ENTITY1 or ENTITY2 … It’s just astonishing.
+SUBJECT:	[[ MEL BLANC | /m/0c5vh ]]
+OBJECT:	[[ DAFFY DUCK | /m/0dng4 ]]
+ENTITY1:	[[ BUGS BUNNY | /m/0d9kl ]]
+ENTITY2:	[[ PORKY PIG | /m/0dngm ]]
+SUBJECT PATH: SUBJECT -> voice -> of -> Think -> gave
+OBJECT  PATH: OBJECT -> gave
+gave
+
+
+Also included is cartoon speaker SUBJECT performing as ENTITY1 , OBJECT , and ENTITY2 
+SUBJECT:	[[ MEL BLANC | /m/0c5vh ]]
+OBJECT:	[[ DAFFY DUCK | /m/0dng4 ]]
+ENTITY1:	[[ BUGS BUNNY | /m/0d9kl ]]
+ENTITY2:	[[ PORKY PIG | /m/0dngm ]]
+SUBJECT PATH: SUBJECT -> performing -> included
+OBJECT  PATH: OBJECT -> ENTITY1 -> as -> performing -> included
+performing
+
+
+It is also the first appearance of a ENTITY1 prototype, and the first time SUBJECT voiced OBJECT 
+SUBJECT:	[[ MEL BLANC | /m/0c5vh ]]
+OBJECT:	[[ PORKY PIG | /m/0dngm ]]
+ENTITY1:	[[ DAFFY DUCK | /m/0dng4 ]]
+SUBJECT PATH: SUBJECT -> voiced -> time -> is
+OBJECT  PATH: OBJECT -> voiced -> time -> is
+voiced
+
+
+SUBJECT always voiced OBJECT , right
+SUBJECT:	[[ MEL BLANC | /m/0c5vh ]]
+OBJECT:	[[ PORKY PIG | /m/0dngm ]]
+SUBJECT PATH: SUBJECT -> voiced
+OBJECT  PATH: OBJECT -> voiced
+voiced
+
+
+SUBJECT is the best-known OBJECT voice, as in the trademark  Th-th-th-that's all Folks!
+SUBJECT:	[[ MEL BLANC | /m/0c5vh ]]
+OBJECT:	[[ PORKY PIG | /m/0dngm ]]
+SUBJECT PATH: SUBJECT -> is -> 's
+OBJECT  PATH: OBJECT -> voice -> is -> 's
+is
+
+
+cartoon , but it also marks the first short where OBJECT is voiced by SUBJECT .
+SUBJECT:	[[ MEL BLANC | /m/0c5vh ]]
+OBJECT:	[[ PORKY PIG | /m/0dngm ]]
+SUBJECT PATH: SUBJECT -> by -> voiced -> short -> marks -> cartoon
+OBJECT  PATH: OBJECT -> voiced -> short -> marks -> cartoon
+voiced
+
+
+SUBJECT then played OBJECT in the 2000 comedy ENTITY1 , which marked ENTITY2 's directorial debut
+SUBJECT:	[[ JENNA ELFMAN | /m/0320cg ]]
+OBJECT:	[[ ANNA RILEY | /m/0bj8hcc ]]
+ENTITY1:	[[ KEEPING THE FAITH | /m/0697_g ]]
+ENTITY2:	[[ EDWARD NORTON | /m/01515w ]]
+SUBJECT PATH: SUBJECT -> played
+OBJECT  PATH: OBJECT -> played
+played
+
+
+Also onstage will be First Jason, featuring original OBJECT actor SUBJECT , and the Razorblade Dolls
+SUBJECT:	[[ ARI LEHMAN | /m/0crt01 ]]
+OBJECT:	[[ JASON VOORHEES | /m/01wmhq ]]
+SUBJECT PATH: SUBJECT -> featuring -> Jason -> be
+OBJECT  PATH: OBJECT -> actor -> SUBJECT -> featuring -> Jason -> be
+SUBJECT
+
+
+SUBJECT portrayed young OBJECT in the original ENTITY1 (1980)
+SUBJECT:	[[ ARI LEHMAN | /m/0crt01 ]]
+OBJECT:	[[ JASON VOORHEES | /m/01wmhq ]]
+ENTITY1:	[[ FRIDAY THE 13TH | /m/016mng ]]
+SUBJECT PATH: SUBJECT -> portrayed
+OBJECT  PATH: OBJECT -> portrayed
+portrayed
+
+
+ENTITY1 won the role of OBJECT , but the decision to not have SUBJECT
+SUBJECT:	[[ KANE HODDER | /m/033xr_ ]]
+OBJECT:	[[ JASON VOORHEES | /m/01wmhq ]]
+ENTITY1:	[[ KEN KIRZINGER | /m/07qgr8 ]]
+SUBJECT PATH: SUBJECT -> have -> decision -> won
+OBJECT  PATH: OBJECT -> of -> role -> won
+won
+
+
+ENTITY1 was SUBJECT 's stunt double in ENTITY2 , and so, he knows how to do OBJECT
+SUBJECT:	[[ KANE HODDER | /m/033xr_ ]]
+OBJECT:	[[ JASON VOORHEES | /m/01wmhq ]]
+ENTITY1:	[[ KEN | /m/07qgr8 ]]
+ENTITY2:	[[ FRIDAY THE 13TH PART VIII: JASON TAKES MANHATTAN | /m/075xrl ]]
+SUBJECT PATH: SUBJECT -> stunt -> was
+OBJECT  PATH: OBJECT -> do -> knows -> was
+was
+
+
+SUBJECT will likely reprise the Role of OBJECT 
+SUBJECT:	[[ KEN KIRZINGER | /m/07qgr8 ]]
+OBJECT:	[[ JASON VOORHEES | /m/01wmhq ]]
+SUBJECT PATH: SUBJECT -> reprise
+OBJECT  PATH: OBJECT -> of -> Role -> reprise
+reprise
+
+
+ENTITY1 plays OBJECT , and while he good, I have to say this shoulde been SUBJECT
+SUBJECT:	[[ KANE HODDER | /m/033xr_ ]]
+OBJECT:	[[ JASON VOORHEES | /m/01wmhq ]]
+ENTITY1:	[[ KEN KIRZINGER | /m/07qgr8 ]]
+SUBJECT PATH: SUBJECT -> been -> say -> have -> plays
+OBJECT  PATH: OBJECT -> plays
+plays
+
+
+SUBJECT has appeared as OBJECT in ? ENTITY1 ?.
+SUBJECT:	[[ KEN KIRZINGER | /m/07qgr8 ]]
+OBJECT:	[[ JASON VOORHEES | /m/01wmhq ]]
+ENTITY1:	[[ FREDDY VS JASON | /m/0353tm ]]
+SUBJECT PATH: SUBJECT -> appeared
+OBJECT  PATH: OBJECT -> as -> appeared
+appeared
+
+
+ENTITY1 replaced SUBJECT , which SUBJECT Originally Played OBJECT in the last Four Friday the 13th Series
+SUBJECT:	[[ KANE HODDER | /m/033xr_ ]]
+OBJECT:	[[ JASON VOORHEES | /m/01wmhq ]]
+ENTITY1:	[[ KIRZINGER | /m/07qgr8 ]]
+SUBJECT PATH: SUBJECT -> OBJECT -> SUBJECT -> replaced
+OBJECT  PATH: OBJECT -> SUBJECT -> replaced
+OBJECT
+
+
+In 1908, SUBJECT , the voice of ENTITY1 and OBJECT , was born
+SUBJECT:	[[ MEL BLANC | /m/0c5vh ]]
+OBJECT:	[[ DAFFY DUCK | /m/0dng4 ]]
+ENTITY1:	[[ BUGS BUNNY | /m/0d9kl ]]
+SUBJECT PATH: SUBJECT -> born
+OBJECT  PATH: OBJECT -> ENTITY1 -> of -> voice -> SUBJECT -> born
+SUBJECT
+
+
+SUBJECT , the voice of OBJECT and ENTITY1 , also died
+SUBJECT:	[[ MEL BLANC | /m/0c5vh ]]
+OBJECT:	[[ BUGS BUNNY | /m/0d9kl ]]
+ENTITY1:	[[ DAFFY DUCK | /m/0dng4 ]]
+SUBJECT PATH: SUBJECT -> died
+OBJECT  PATH: OBJECT -> of -> voice -> SUBJECT -> died
+SUBJECT
+
+
+That's a lot of  pork chops! ( SUBJECT was the  voice of OBJECT , ENTITY1 and many others)
+SUBJECT:	[[ MEL BLANC | /m/0c5vh ]]
+OBJECT:	[[ BUGS BUNNY | /m/0d9kl ]]
+ENTITY1:	[[ DAFFY DUCK | /m/0dng4 ]]
+SUBJECT PATH: SUBJECT -> was
+OBJECT  PATH: OBJECT -> of -> voice -> was
+was
+
+
+Could anyone other than SUBJECT have voiced ENTITY1 or OBJECT 
+SUBJECT:	[[ MEL BLANC | /m/0c5vh ]]
+OBJECT:	[[ DAFFY DUCK | /m/0dng4 ]]
+ENTITY1:	[[ BUGS BUNNY | /m/0d9kl ]]
+SUBJECT PATH: SUBJECT -> than -> other -> anyone -> voiced
+OBJECT  PATH: OBJECT -> ENTITY1 -> voiced
+voiced
+
+
+I've always liked SUBJECT , but ENTITY1 was just too much like OBJECT .
+SUBJECT:	[[ MEL BLANC | /m/0c5vh ]]
+OBJECT:	[[ DAFFY DUCK | /m/0dng4 ]]
+ENTITY1:	[[ WOODY | /m/03f6yx9 ]]
+SUBJECT PATH: SUBJECT -> liked
+OBJECT  PATH: OBJECT -> like -> much -> was -> liked
+liked
+
+
+As usual, SUBJECT provides the voice of OBJECT here, while ENTITY1 was performed by ENTITY2 
+SUBJECT:	[[ MEL BLANC | /m/0c5vh ]]
+OBJECT:	[[ DAFFY DUCK | /m/0dng4 ]]
+ENTITY1:	[[ CASPER | /m/0k39j ]]
+ENTITY2:	[[ JACK LESCOULIE | /m/0fzwcm ]]
+SUBJECT PATH: SUBJECT -> provides
+OBJECT  PATH: OBJECT -> of -> voice -> provides
+provides
+
+
+In 1988, SUBJECT performed a bit part as OBJECT in the wildly successful film feature,   ENTITY1 ?
+SUBJECT:	[[ MEL BLANC | /m/0c5vh ]]
+OBJECT:	[[ DAFFY DUCK | /m/0dng4 ]]
+ENTITY1:	[[ WHO FRAMED ROGER RABBIT | /m/0k2sk ]]
+SUBJECT PATH: SUBJECT -> performed
+OBJECT  PATH: OBJECT -> as -> performed
+performed
+
+
+SUBJECT is doing OBJECT 's voice here in one of his final performances as the ENTITY1 characters
+SUBJECT:	[[ MEL BLANC | /m/0c5vh ]]
+OBJECT:	[[ DAFFY DUCK | /m/0dng4 ]]
+ENTITY1:	[[ LT | /m/0d9l1 ]]
+SUBJECT PATH: SUBJECT -> doing
+OBJECT  PATH: OBJECT -> voice -> doing
+doing
+
+
+Voice artist SUBJECT gave OBJECT and ENTITY1 their voices through altered pitch 
+SUBJECT:	[[ MEL BLANC | /m/0c5vh ]]
+OBJECT:	[[ TWEETY | /m/0n2w_ ]]
+ENTITY1:	[[ DAFFY DUCK | /m/0dng4 ]]
+SUBJECT PATH: SUBJECT -> gave
+OBJECT  PATH: OBJECT -> gave
+gave
+
+
+SUBJECT is doing OBJECT 's voice here in one of his final performances as the ENTITY1 characters.
+SUBJECT:	[[ MEL BLANC | /m/0c5vh ]]
+OBJECT:	[[ DAFFY DUCK | /m/0dng4 ]]
+ENTITY1:	[[ LT | /m/0d9l1 ]]
+SUBJECT PATH: SUBJECT -> doing
+OBJECT  PATH: OBJECT -> voice -> doing
+doing
+
+
+And repeated every line that SUBJECT said as ENTITY1 or OBJECT 
+SUBJECT:	[[ MEL BLANC | /m/0c5vh ]]
+OBJECT:	[[ DAFFY DUCK | /m/0dng4 ]]
+ENTITY1:	[[ BUGS BUNNY | /m/0d9kl ]]
+SUBJECT PATH: SUBJECT -> said -> line -> repeated
+OBJECT  PATH: OBJECT -> ENTITY1 -> as -> said -> line -> repeated
+said
+
+
+OBJECT played by SUBJECT is the first ENTITY1 of ENTITY2 .
+SUBJECT:	[[ SERENA GORDON | /m/027r25y ]]
+OBJECT:	[[ CAROLINE | /m/0p7rcw7 ]]
+ENTITY1:	[[ BOND GIRL | /m/01r29n ]]
+ENTITY2:	[[ GOLDENEYE | /m/01npcx ]]
+SUBJECT PATH: SUBJECT -> by -> played -> OBJECT -> is
+OBJECT  PATH: OBJECT -> is
+OBJECT
+
+
+ENTITY1 headliner OBJECT , played by SUBJECT , and auditioning for the show at her suggestion
+SUBJECT:	[[ GINA GERSHON | /m/01l1hr ]]
+OBJECT:	[[ CRISTAL CONNORS | /m/02nwm45 ]]
+ENTITY1:	[[ MGM GRAND | /m/033vpy ]]
+SUBJECT PATH: SUBJECT -> by -> played -> OBJECT
+OBJECT  PATH: OBJECT
+OBJECT
+
+
+SUBJECT seems especially good as the uptight OBJECT 
+SUBJECT:	[[ DAPHNE ZUNIGA | /m/03204v ]]
+OBJECT:	[[ ALISON BRADBURY | /m/0h5rrnl ]]
+SUBJECT PATH: SUBJECT -> seems
+OBJECT  PATH: OBJECT -> as -> good -> seems
+seems
+
+
+Shiftlessly succumbing to ENTITY1 s charms is SUBJECT s OBJECT , the grand-niece of a friend.
+SUBJECT:	[[ JODIE WHITTAKER | /m/027gc_g ]]
+OBJECT:	[[ JESSIE | /m/0c0nfx3 ]]
+ENTITY1:	[[ MAURICE | /m/0c0nfxk ]]
+SUBJECT PATH: SUBJECT -> OBJECT -> is
+OBJECT  PATH: OBJECT -> is
+OBJECT
+
+
+(  ENTITY1 ,    ENTITY2  ). ( SUBJECT gives OBJECT the uneducated accent of  Absolutely Fabulous's  Bubble)
+SUBJECT:	[[ JODIE WHITTAKER | /m/027gc_g ]]
+OBJECT:	[[ JESSIE | /m/0c0nfx3 ]]
+ENTITY1:	[[ NOTTING HILL | /m/01cz7r ]]
+ENTITY2:	[[ THE MOTHER | /m/048qfd ]]
+SUBJECT PATH: SUBJECT -> gives
+OBJECT  PATH: OBJECT -> gives
+gives
+
+
+SUBJECT is a perfect OBJECT , at once carnal and terrifying but also sensual and alluring.
+SUBJECT:	[[ ASIA ARGENTO | /m/028pzq ]]
+OBJECT:	[[ VELLINI | /m/0h2l6vf ]]
+SUBJECT PATH: SUBJECT -> is
+OBJECT  PATH: OBJECT -> is
+is
+
+
+OBJECT is played by SUBJECT , ENTITY1 's best known movie star
+SUBJECT:	[[ GONG LI | /m/0139t1 ]]
+OBJECT:	[[ PAN YULIANG | /m/0h2c5jw ]]
+ENTITY1:	[[ CHINA | /m/0fbp0 ]]
+SUBJECT PATH: SUBJECT -> by -> played
+OBJECT  PATH: OBJECT -> played
+played
+
+
+SUBJECT rose to prominence in the 1982 movie , playing ENTITY1 officer OBJECT .
+SUBJECT:	[[ KIRSTIE ALLEY | /m/01wc7p ]]
+OBJECT:	[[ SAAVIK | /m/02469f ]]
+ENTITY1:	[[ VULCAN | /m/0d_pq ]]
+SUBJECT PATH: SUBJECT -> rose
+OBJECT  PATH: OBJECT -> playing -> rose
+rose
+
+
+SUBJECT takes over the role of OBJECT , and makes you forget that ENTITY1 originated the character
+SUBJECT:	[[ ROBIN CURTIS | /m/02lddf ]]
+OBJECT:	[[ SAAVIK | /m/02469f ]]
+ENTITY1:	[[ KIRSTIE ALLEY | /m/01wc7p ]]
+SUBJECT PATH: SUBJECT -> takes
+OBJECT  PATH: OBJECT -> of -> role -> takes
+takes
+
+
+SUBJECT did play OBJECT one other time, in a play set between ST II and ST III
+SUBJECT:	[[ KIRSTIE ALLEY | /m/01wc7p ]]
+OBJECT:	[[ SAAVIK | /m/02469f ]]
+SUBJECT PATH: SUBJECT -> play
+OBJECT  PATH: OBJECT -> play
+play
+
+
+SUBJECT played OBJECT in Treks II and III.
+SUBJECT:	[[ KIRSTIE ALLEY | /m/01wc7p ]]
+OBJECT:	[[ SAAVIK | /m/02469f ]]
+SUBJECT PATH: SUBJECT -> played -> OBJECT
+OBJECT  PATH: OBJECT
+OBJECT
+
+
+SUBJECT rose to prominence in the 1982 movie ENTITY1 , playing ENTITY2 officer OBJECT .
+SUBJECT:	[[ KIRSTIE ALLEY | /m/01wc7p ]]
+OBJECT:	[[ SAAVIK | /m/02469f ]]
+ENTITY1:	[[ STAR TREK: THE WRATH OF KHAN | /m/06r2_ ]]
+ENTITY2:	[[ VULCAN | /m/0d_pq ]]
+SUBJECT PATH: SUBJECT -> rose
+OBJECT  PATH: OBJECT -> playing -> rose
+rose
+
+
+SUBJECT won a supporting role in the 1982 movie ENTITY1 , playing ENTITY2 officer OBJECT 
+SUBJECT:	[[ KIRSTIE ALLEY | /m/01wc7p ]]
+OBJECT:	[[ SAAVIK | /m/02469f ]]
+ENTITY1:	[[ STAR TREK II: THE WRATH OF KHAN | /m/06r2_ ]]
+ENTITY2:	[[ VULCAN | /m/0d_pq ]]
+SUBJECT PATH: SUBJECT -> won
+OBJECT  PATH: OBJECT -> playing -> won
+won
+
+
+SUBJECT  played OBJECT in ENTITY1 .
+SUBJECT:	[[ KIRSTIE ALLEY | /m/01wc7p ]]
+OBJECT:	[[ SAAVIK | /m/02469f ]]
+ENTITY1:	[[ STAR TREK II: THE WRATH OF KHAN | /m/06r2_ ]]
+SUBJECT PATH: SUBJECT -> OBJECT
+OBJECT  PATH: OBJECT
+OBJECT
+
+
+The film is notable for being the first major role for SUBJECT , who played OBJECT 
+SUBJECT:	[[ KIRSTIE ALLEY | /m/01wc7p ]]
+OBJECT:	[[ SAAVIK | /m/02469f ]]
+SUBJECT PATH: SUBJECT -> for -> role -> being -> for -> notable -> is
+OBJECT  PATH: OBJECT -> played -> SUBJECT -> for -> role -> being -> for -> notable -> is
+SUBJECT
+
+
+SUBJECT rose to prominence in the 1982 movie ENTITY1 , playing ENTITY2 officer OBJECT 
+SUBJECT:	[[ KIRSTIE ALLEY | /m/01wc7p ]]
+OBJECT:	[[ SAAVIK | /m/02469f ]]
+ENTITY1:	[[ STAR TREK II: THE WRATH OF KHAN | /m/06r2_ ]]
+ENTITY2:	[[ VULCAN | /m/0d_pq ]]
+SUBJECT PATH: SUBJECT -> rose
+OBJECT  PATH: OBJECT -> playing -> rose
+rose
+
+
+The final six season after OBJECT SUBJECT replaced ENTITY1 were never quite the same.
+SUBJECT:	[[ KIRSTIE ALLEY | /m/01wc7p ]]
+OBJECT:	[[ SAAVIK | /m/02469f ]]
+ENTITY1:	[[ SHELLEY LONG | /m/02r_km ]]
+SUBJECT PATH: SUBJECT -> replaced -> ENTITY1 -> were
+OBJECT  PATH: OBJECT -> ENTITY1 -> were
+ENTITY1
+
+
+Oh, and SUBJECT played OBJECT after ENTITY1 
+SUBJECT:	[[ ROBIN CURTIS | /m/02lddf ]]
+OBJECT:	[[ SAAVIK | /m/02469f ]]
+ENTITY1:	[[ KIRSTIE ALLEY | /m/01wc7p ]]
+SUBJECT PATH: SUBJECT -> played -> OBJECT
+OBJECT  PATH: OBJECT
+OBJECT
+
+
+Career SUBJECT won a supporting role in the 1982 movie ENTITY1 , playing ENTITY2 officer OBJECT 
+SUBJECT:	[[ KIRSTIE ALLEY | /m/01wc7p ]]
+OBJECT:	[[ SAAVIK | /m/02469f ]]
+ENTITY1:	[[ STAR TREK II: THE WRATH OF KHAN | /m/06r2_ ]]
+ENTITY2:	[[ VULCAN | /m/0d_pq ]]
+SUBJECT PATH: SUBJECT -> won
+OBJECT  PATH: OBJECT -> playing -> won
+won
+
+
+SUBJECT rose to prominence in the 1982 movie ENTITY1 , playing ENTITY2 officer OBJECT .
+SUBJECT:	[[ KIRSTIE ALLEY | /m/01wc7p ]]
+OBJECT:	[[ SAAVIK | /m/02469f ]]
+ENTITY1:	[[ STAR TREK II: THE WRATH OF KHAN | /m/06r2_ ]]
+ENTITY2:	[[ VULCAN | /m/0d_pq ]]
+SUBJECT PATH: SUBJECT -> rose
+OBJECT  PATH: OBJECT -> playing -> rose
+rose
+
+
+ENTITY1 did put SUBJECT ?s OBJECT at 17 and ENTITY2 ?s Ens
+SUBJECT:	[[ KIRSTIE ALLEY | /m/01wc7p ]]
+OBJECT:	[[ SAAVIK | /m/02469f ]]
+ENTITY1:	[[ JORDAN | /m/03__y ]]
+ENTITY2:	[[ ASHLEY JUDD | /m/0btxr ]]
+SUBJECT PATH: SUBJECT -> put
+OBJECT  PATH: OBJECT
+-None-
+
+
+SUBJECT , who played the villain in the most recent ENTITY1 film, is a very human man named OBJECT 
+SUBJECT:	[[ MADS MIKKELSEN | /m/076svb ]]
+OBJECT:	[[ JACOB | /m/0h39r88 ]]
+ENTITY1:	[[ JAMES BOND | /m/03_97 ]]
+SUBJECT PATH: SUBJECT -> is
+OBJECT  PATH: OBJECT -> named -> man -> is
+is
+
+
+SUBJECT plays OBJECT who works at an orphanage in ENTITY1 .
+SUBJECT:	[[ MADS MIKKELSEN | /m/076svb ]]
+OBJECT:	[[ JACOB | /m/0h39r88 ]]
+ENTITY1:	[[ INDIA | /m/03rk0 ]]
+SUBJECT PATH: SUBJECT -> plays
+OBJECT  PATH: OBJECT -> plays
+plays
+
+
+ENTITY1 ?s SUBJECT  plays OBJECT , a Dane who runs an orphanage in ENTITY2 
+SUBJECT:	[[ MADS MIKKELSEN | /m/076svb ]]
+OBJECT:	[[ JACOB | /m/0h39r88 ]]
+ENTITY1:	[[ CASINO ROYALE | /m/03r0g9 ]]
+ENTITY2:	[[ INDIA | /m/03rk0 ]]
+SUBJECT PATH: SUBJECT -> OBJECT
+OBJECT  PATH: OBJECT
+OBJECT
+
+
+SUBJECT  stars as OBJECT , an angry, unhappy man who helps run an orphanage in ENTITY1 
+SUBJECT:	[[ MADS MIKKELSEN | /m/076svb ]]
+OBJECT:	[[ JACOB | /m/0h39r88 ]]
+ENTITY1:	[[ INDIA | /m/03rk0 ]]
+SUBJECT PATH: SUBJECT -> stars
+OBJECT  PATH: OBJECT -> as -> stars
+stars
+
+
+, who?s a much better writer than the playwright OBJECT played by SUBJECT 
+SUBJECT:	[[ JOHN CUSACK | /m/01gkmx ]]
+OBJECT:	[[ DAVID SHAYNE | /m/0gyl37_ ]]
+SUBJECT PATH: SUBJECT -> by -> played -> OBJECT -> than -> who?s
+OBJECT  PATH: OBJECT -> than -> who?s
+OBJECT
+
+
+SUBJECT plays OBJECT , a youthful, intellectual playwright seeking to get his play staged and directed by himself.
+SUBJECT:	[[ JOHN CUSACK | /m/01gkmx ]]
+OBJECT:	[[ DAVID SHAYNE | /m/0gyl37_ ]]
+SUBJECT PATH: SUBJECT -> plays
+OBJECT  PATH: OBJECT -> plays
+plays
+
+
+SUBJECT  stars as OBJECT , an idealistic young writer who'll do anything to get his first ENTITY1
+SUBJECT:	[[ JOHN CUSACK | /m/01gkmx ]]
+OBJECT:	[[ DAVID SHAYNE | /m/0gyl37_ ]]
+ENTITY1:	[[ BROADWAY | /m/035y8z ]]
+SUBJECT PATH: SUBJECT -> stars
+OBJECT  PATH: OBJECT -> as -> stars
+stars
+
+
+SUBJECT portrays OBJECT , captain of the cheerleading squad
+SUBJECT:	[[ ASHLEY BENSON | /m/06qw3f ]]
+OBJECT:	[[ BROOKE TIPPIT | /m/0gyf547 ]]
+SUBJECT PATH: SUBJECT -> OBJECT
+OBJECT  PATH: OBJECT
+OBJECT
+
+
+ENTITY1 cast member SUBJECT , who plays OBJECT , is also in the film as a character named ?Tattoos.?
+SUBJECT:	[[ ALESSANDRO JULIANI | /m/073lr9 ]]
+OBJECT:	[[ FELIX GAETA | /m/09rrdk ]]
+ENTITY1:	[[ BATTLESTAR GALACTICA | /m/08b3p3 ]]
+SUBJECT PATH: SUBJECT -> is -> cast
+OBJECT  PATH: OBJECT -> plays -> SUBJECT -> is -> cast
+SUBJECT
+
+
+Lieutenant OBJECT is portrayed by SUBJECT on the series 
+SUBJECT:	[[ ALESSANDRO JULIANI | /m/073lr9 ]]
+OBJECT:	[[ FELIX GAETA | /m/09rrdk ]]
+SUBJECT PATH: SUBJECT -> by -> portrayed
+OBJECT  PATH: OBJECT -> portrayed
+portrayed
+
+
+SUBJECT also won a ENTITY1 for her portrayal of the role of OBJECT in another comedy, ENTITY2 in 1981.
+SUBJECT:	[[ BERNADETTE PETERS | /m/01ccr8 ]]
+OBJECT:	[[ EILEEN | /m/0cf00qs ]]
+ENTITY1:	[[ GOLDEN GLOBE AWARDS | /m/011_7_ ]]
+ENTITY2:	[[ PENNIES FROM HEAVEN | /m/025v0rv ]]
+SUBJECT PATH: SUBJECT -> won
+OBJECT  PATH: OBJECT -> of -> role -> of -> portrayal -> for -> won
+won
+
+
+SUBJECT offers capable support as OBJECT 
+SUBJECT:	[[ TERESA WRIGHT | /m/018qr9 ]]
+OBJECT:	[[ ELEANOR GEHRIG | /m/02nwq33 ]]
+SUBJECT PATH: SUBJECT -> offers
+OBJECT  PATH: OBJECT -> as -> support -> offers
+offers
+
+
+SUBJECT plays the title role in ENTITY1 ?s feature film comedy ? OBJECT ?  with ENTITY2 .
+SUBJECT:	[[ CHRIS KATTAN | /m/02rwns ]]
+OBJECT:	[[ CORKY ROMANO | /m/0h5h6k5 ]]
+ENTITY1:	[[ DISNEY | /m/09b3v ]]
+ENTITY2:	[[ PETER FALK | /m/05xpv ]]
+SUBJECT PATH: SUBJECT -> plays
+OBJECT  PATH: OBJECT
+-None-
+
+
+SUBJECT plays OBJECT , a medical student who gets into an exclusive school in ENTITY1 .
+SUBJECT:	[[ FRANKA POTENTE | /m/02c23m ]]
+OBJECT:	[[ PAULA HENNING | /m/0h2_dph ]]
+ENTITY1:	[[ HEIDELBERG | /m/0pmcz ]]
+SUBJECT PATH: SUBJECT -> plays
+OBJECT  PATH: OBJECT -> plays
+plays
+
+
+SUBJECT  plays OBJECT , who describes herself in the show's opening.
+SUBJECT:	[[ AMY SEDARIS | /m/024rx_ ]]
+OBJECT:	[[ JERRI BLANK | /m/02_xmr8 ]]
+SUBJECT PATH: SUBJECT -> plays -> OBJECT
+OBJECT  PATH: OBJECT
+OBJECT
+
+
+(as SUBJECT dressed as OBJECT ).
+SUBJECT:	[[ AMY SEDARIS | /m/024rx_ ]]
+OBJECT:	[[ JERRI BLANK | /m/02_xmr8 ]]
+SUBJECT PATH: SUBJECT -> dressed -> (
+OBJECT  PATH: OBJECT -> as -> dressed -> (
+dressed
+
+
+Although OBJECT is SUBJECT
+SUBJECT:	[[ AMY SEDARIS | /m/024rx_ ]]
+OBJECT:	[[ JERRI BLANK | /m/02_xmr8 ]]
+SUBJECT PATH: SUBJECT -> is
+OBJECT  PATH: OBJECT -> is
+is
+
+
+SUBJECT is an absolute riot as the clueless OBJECT 
+SUBJECT:	[[ AMY SEDARIS | /m/024rx_ ]]
+OBJECT:	[[ JERRI BLANK | /m/02_xmr8 ]]
+SUBJECT PATH: SUBJECT -> is
+OBJECT  PATH: OBJECT -> as -> riot -> is
+is
+
+
+OBJECT will never die as long as SUBJECT is making talk-show appearances.
+SUBJECT:	[[ AMY SEDARIS | /m/024rx_ ]]
+OBJECT:	[[ JERRI BLANK | /m/02_xmr8 ]]
+SUBJECT PATH: SUBJECT -> making -> long -> die
+OBJECT  PATH: OBJECT -> die
+die
+
+
+SUBJECT said of OBJECT that  she's like a rash; you never know when she's going to pop up. [7
+SUBJECT:	[[ AMY SEDARIS | /m/024rx_ ]]
+OBJECT:	[[ JERRI BLANK | /m/02_xmr8 ]]
+SUBJECT PATH: SUBJECT -> said
+OBJECT  PATH: OBJECT -> of -> said
+said
+
+
+Looking a *lot* like OBJECT , SUBJECT 's character in ENTITY1 .
+SUBJECT:	[[ AMY SEDARIS | /m/024rx_ ]]
+OBJECT:	[[ JERRI BLANK | /m/02_xmr8 ]]
+ENTITY1:	[[ STRANGERS WITH CANDY | /m/093jsy ]]
+SUBJECT PATH: SUBJECT -> character -> lot -> Looking
+OBJECT  PATH: OBJECT -> like -> lot -> Looking
+lot
+
+
+Although OBJECT is SUBJECT ' most well known character, she's far from her only enduring creation
+SUBJECT:	[[ AMY SEDARIS | /m/024rx_ ]]
+OBJECT:	[[ JERRI BLANK | /m/02_xmr8 ]]
+SUBJECT PATH: SUBJECT -> character -> is -> 's
+OBJECT  PATH: OBJECT -> is -> 's
+is
+
+
+SUBJECT appears as OBJECT in this 2005 anti-fur ad for 
+SUBJECT:	[[ AMY SEDARIS | /m/024rx_ ]]
+OBJECT:	[[ JERRI BLANK | /m/02_xmr8 ]]
+SUBJECT PATH: SUBJECT -> appears
+OBJECT  PATH: OBJECT -> as -> appears
+appears
+
+
+SUBJECT plays OBJECT , a 46-year-old ex-junkie, ex-con, that goes back to high school to start her life over.
+SUBJECT:	[[ AMY SEDARIS | /m/024rx_ ]]
+OBJECT:	[[ JERRI BLANK | /m/02_xmr8 ]]
+SUBJECT PATH: SUBJECT -> plays
+OBJECT  PATH: OBJECT -> plays
+plays
+
+
+Case in point is SUBJECT ' portrayal of OBJECT , the anti-heroine of ENTITY1 
+SUBJECT:	[[ AMY SEDARIS | /m/024rx_ ]]
+OBJECT:	[[ JERRI BLANK | /m/02_xmr8 ]]
+ENTITY1:	[[ STRANGERS WITH CANDY | /m/026_5y ]]
+SUBJECT PATH: SUBJECT -> portrayal -> is
+OBJECT  PATH: OBJECT -> of -> portrayal -> is
+portrayal
+
+
+SUBJECT played OBJECT in the movie
+SUBJECT:	[[ JOHN TURTURRO | /m/01swck ]]
+OBJECT:	[[ PETE | /m/0gyn94q ]]
+SUBJECT PATH: SUBJECT -> played -> OBJECT
+OBJECT  PATH: OBJECT
+OBJECT
+
+
+OBJECT & The ENTITY1 - SUBJECT played OBJECT , a frustrated business woman on the sitcom CHEERS/ ENTITY2 /1982-93
+SUBJECT:	[[ KIRSTIE ALLEY | /m/01wc7p ]]
+OBJECT:	[[ REBECCA HOWE | /m/03f6b_ ]]
+ENTITY1:	[[ RIGHTEOUS BROTHERS | /m/06h_5 ]]
+ENTITY2:	[[ NBC | /m/03fbx5 ]]
+SUBJECT PATH: SUBJECT -> OBJECT -> OBJECT
+OBJECT  PATH: OBJECT -> OBJECT
+OBJECT
+
+
+SUBJECT became known to millions of television viewers as OBJECT in the hit ENTITY1 series ENTITY2 
+SUBJECT:	[[ KIRSTIE ALLEY | /m/01wc7p ]]
+OBJECT:	[[ REBECCA HOWE | /m/03f6b_ ]]
+ENTITY1:	[[ NBC | /m/05gnf ]]
+ENTITY2:	[[ CHEERS | /m/01s81 ]]
+SUBJECT PATH: SUBJECT -> known
+OBJECT  PATH: OBJECT -> as -> millions -> to -> known
+known
+
+
+B.J. Hunnicut  , and Cheers, with ENTITY1 as ENTITY2  swapped out for SUBJECT as OBJECT 
+SUBJECT:	[[ KIRSTIE ALLEY | /m/01wc7p ]]
+OBJECT:	[[ REBECCA HOWE | /m/03f6b_ ]]
+ENTITY1:	[[ SHELLEY LONG | /m/02r_km ]]
+ENTITY2:	[[ DIANE CHAMBERS | /m/02y6xv ]]
+SUBJECT PATH: SUBJECT -> for -> swapped -> Hunnicut
+OBJECT  PATH: OBJECT -> as -> SUBJECT -> for -> swapped -> Hunnicut
+SUBJECT
+
+
+SUBJECT played OBJECT on the long-running sitcom ENTITY1 
+SUBJECT:	[[ KIRSTIE ALLEY | /m/01wc7p ]]
+OBJECT:	[[ REBECCA HOWE | /m/03f6b_ ]]
+ENTITY1:	[[ CHEERS | /m/01s81 ]]
+SUBJECT PATH: SUBJECT -> played
+OBJECT  PATH: OBJECT -> played
+played
+
+
+The main ENTITY1 girl OBJECT , played by SUBJECT , was an interesting psychological counter to ENTITY1 
+SUBJECT:	[[ OLGA KURYLENKO | /m/0266c36 ]]
+OBJECT:	[[ CAMILLE MONTES | /m/043pxc_ ]]
+ENTITY1:	[[ BOND | /m/03nb2p ]]
+SUBJECT PATH: SUBJECT -> by -> played -> OBJECT -> was
+OBJECT  PATH: OBJECT -> was
+OBJECT
+
+
+ENTITY1 -born actress SUBJECT , known to many fans as ENTITY2 girl? OBJECT
+SUBJECT:	[[ OLGA KURYLENKO | /m/0266c36 ]]
+OBJECT:	[[ CAMILLE MONTES | /m/043pxc_ ]]
+ENTITY1:	[[ UKRAINIAN | /m/07t21 ]]
+ENTITY2:	[[ BOND | /m/03_97 ]]
+SUBJECT PATH: SUBJECT
+OBJECT  PATH: OBJECT
+-None-
+
+
+Get the style of SUBJECT , as ENTITY1 girl OBJECT , with this great bubble hem skirt.
+SUBJECT:	[[ OLGA KURYLENKO | /m/0266c36 ]]
+OBJECT:	[[ CAMILLE MONTES | /m/043pxc_ ]]
+ENTITY1:	[[ BOND | /m/0ghcr ]]
+SUBJECT PATH: SUBJECT -> of -> style -> Get
+OBJECT  PATH: OBJECT -> as -> Get
+Get
+
+
+as the personal car of leading lady SUBJECT , who plays ENTITY1 's ally OBJECT
+SUBJECT:	[[ OLGA KURYLENKO | /m/0266c36 ]]
+OBJECT:	[[ CAMILLE MONTES | /m/043pxc_ ]]
+ENTITY1:	[[ BOND | /m/03_97 ]]
+SUBJECT PATH: SUBJECT -> of -> car -> as
+OBJECT  PATH: OBJECT -> plays -> SUBJECT -> of -> car -> as
+SUBJECT
+
+
+SUBJECT explained what sets OBJECT apart from the pack:  I don't think OBJECT is a typical ENTITY1 girl
+SUBJECT:	[[ OLGA KURYLENKO | /m/0266c36 ]]
+OBJECT:	[[ CAMILLE MONTES | /m/043pxc_ ]]
+ENTITY1:	[[ BOND | /m/01r29n ]]
+SUBJECT PATH: SUBJECT -> explained
+OBJECT  PATH: OBJECT -> is -> think -> explained
+explained
+
+
+SUBJECT plays OBJECT , the new ENTITY1
+SUBJECT:	[[ OLGA KURYLENKO | /m/0266c36 ]]
+OBJECT:	[[ CAMILLE MONTES | /m/043pxc_ ]]
+ENTITY1:	[[ BOND | /m/02bx4q ]]
+SUBJECT PATH: SUBJECT -> plays
+OBJECT  PATH: OBJECT -> plays
+plays
+
+
+In case you havent met her, this is SUBJECT , who plays OBJECT in the movie.
+SUBJECT:	[[ OLGA KURYLENKO | /m/0266c36 ]]
+OBJECT:	[[ CAMILLE MONTES | /m/043pxc_ ]]
+SUBJECT PATH: SUBJECT -> is
+OBJECT  PATH: OBJECT -> plays -> SUBJECT -> is
+SUBJECT
+
+
+ENTITY1 -born actress SUBJECT plays ENTITY2 's latest sidekick, OBJECT 
+SUBJECT:	[[ OLGA KURYLENKO | /m/0266c36 ]]
+OBJECT:	[[ CAMILLE MONTES | /m/043pxc_ ]]
+ENTITY1:	[[ UKRAINIAN | /m/07t21 ]]
+ENTITY2:	[[ BOND | /m/03_97 ]]
+SUBJECT PATH: SUBJECT -> plays
+OBJECT  PATH: OBJECT -> sidekick -> plays
+plays
+
+
+In ENTITY1 , SUBJECT plays ENTITY2 ?s seductive sidekick OBJECT , who is ? surprise
+SUBJECT:	[[ OLGA KURYLENKO | /m/0266c36 ]]
+OBJECT:	[[ CAMILLE MONTES | /m/043pxc_ ]]
+ENTITY1:	[[ QUANTUM | /m/08gsvw ]]
+ENTITY2:	[[ DANIEL CRAIG | /m/04shbh ]]
+SUBJECT PATH: SUBJECT -> plays
+OBJECT  PATH: OBJECT
+-None-
+
+
+SUBJECT played OBJECT and ENTITY1 played ENTITY2 .
+SUBJECT:	[[ OLGA KURYLENKO | /m/0266c36 ]]
+OBJECT:	[[ CAMILLE MONTES | /m/043pxc_ ]]
+ENTITY1:	[[ ARTERTON | /m/03gtlj5 ]]
+ENTITY2:	[[ STRAWBERRY FIELDS | /m/04stm9r ]]
+SUBJECT PATH: SUBJECT -> OBJECT -> played
+OBJECT  PATH: OBJECT -> played
+OBJECT
+
+
+The ENTITY1 -born SUBJECT plays the fiesty OBJECT , who's driven by revenge.
+SUBJECT:	[[ OLGA KURYLENKO | /m/0266c36 ]]
+OBJECT:	[[ CAMILLE MONTES | /m/043pxc_ ]]
+ENTITY1:	[[ UKRAINIAN | /m/07t21 ]]
+SUBJECT PATH: SUBJECT -> plays
+OBJECT  PATH: OBJECT -> plays
+plays
+
+
+SUBJECT as OBJECT plays an excellent stereotypical ENTITY1 girl.
+SUBJECT:	[[ OLGA KURYLENKO | /m/0266c36 ]]
+OBJECT:	[[ CAMILLE MONTES | /m/043pxc_ ]]
+ENTITY1:	[[ BOND | /m/03_97 ]]
+SUBJECT PATH: SUBJECT
+OBJECT  PATH: OBJECT -> plays -> SUBJECT
+SUBJECT
+
+
+Twenty-eight-year-old SUBJECT portrays OBJECT , who is ?very driven.
+SUBJECT:	[[ OLGA KURYLENKO | /m/0266c36 ]]
+OBJECT:	[[ CAMILLE MONTES | /m/043pxc_ ]]
+SUBJECT PATH: SUBJECT -> OBJECT
+OBJECT  PATH: OBJECT
+OBJECT
+
+
+OBJECT is played by SUBJECT in .
+SUBJECT:	[[ OLGA KURYLENKO | /m/0266c36 ]]
+OBJECT:	[[ CAMILLE MONTES | /m/043pxc_ ]]
+SUBJECT PATH: SUBJECT -> by -> played
+OBJECT  PATH: OBJECT -> played
+played
+
+
+? SUBJECT ?s character, OBJECT , is half ENTITY1 and half ENTITY2 .
+SUBJECT:	[[ OLGA KURYLENKO | /m/0266c36 ]]
+OBJECT:	[[ CAMILLE MONTES | /m/043pxc_ ]]
+ENTITY1:	[[ UKRAINIAN | /m/07t21 ]]
+ENTITY2:	[[ SOUTH AMERICAN | /m/06n3y ]]
+SUBJECT PATH: SUBJECT
+OBJECT  PATH: OBJECT -> character -> is
+-None-
+
+
+SUBJECT will play  the dangerously alluring OBJECT   in the new working-titled   ENTITY1 .
+SUBJECT:	[[ OLGA KURYLENKO | /m/0266c36 ]]
+OBJECT:	[[ CAMILLE MONTES | /m/043pxc_ ]]
+ENTITY1:	[[ BOND 22 | /m/08gsvw ]]
+SUBJECT PATH: SUBJECT -> play
+OBJECT  PATH: OBJECT -> play
+play
+
+
+SUBJECT plays? th?e lates?t ENTITY1 girl OBJECT in? th?e film.
+SUBJECT:	[[ OLGA KURYLENKO | /m/0266c36 ]]
+OBJECT:	[[ CAMILLE MONTES | /m/043pxc_ ]]
+ENTITY1:	[[ BOND | /m/03_97 ]]
+SUBJECT PATH: SUBJECT -> plays
+OBJECT  PATH: OBJECT
+-None-
+
+
+As 007 gets deeper into Dominc's dealings, he encounters the beautiful OBJECT , played by ENTITY1 actress SUBJECT .
+SUBJECT:	[[ OLGA KURYLENKO | /m/0266c36 ]]
+OBJECT:	[[ CAMILLE MONTES | /m/043pxc_ ]]
+ENTITY1:	[[ RUSSIAN | /m/06bnz ]]
+SUBJECT PATH: SUBJECT -> by -> played -> OBJECT -> encounters
+OBJECT  PATH: OBJECT -> encounters
+OBJECT
+
+
+Olga Kurylenko Reveals Quantum of Solace Spoiler SUBJECT portrays OBJECT in ENTITY1 
+SUBJECT:	[[ OLGA KURYLENKO | /m/0266c36 ]]
+OBJECT:	[[ CAMILLE MONTES | /m/043pxc_ ]]
+ENTITY1:	[[ QUANTUM OF SOLACE | /m/08gsvw ]]
+SUBJECT PATH: SUBJECT -> of -> Quantum -> Reveals
+OBJECT  PATH: OBJECT -> portrays -> Reveals
+Reveals
+
+
+SUBJECT , who played OBJECT , was born with six fingers on each hand.
+SUBJECT:	[[ OLGA KURYLENKO | /m/0266c36 ]]
+OBJECT:	[[ CAMILLE MONTES | /m/043pxc_ ]]
+SUBJECT PATH: SUBJECT -> born
+OBJECT  PATH: OBJECT -> played -> SUBJECT -> born
+SUBJECT
+
+
+Source: Mi6.co.uk ENTITY1 actress SUBJECT told press last week that her character OBJECT has  a masculine spirit. 
+SUBJECT:	[[ OLGA KURYLENKO | /m/0266c36 ]]
+OBJECT:	[[ CAMILLE MONTES | /m/043pxc_ ]]
+ENTITY1:	[[ UKRANIAN | /m/012f86 ]]
+SUBJECT PATH: SUBJECT -> actress -> told
+OBJECT  PATH: OBJECT -> has -> told
+told
+
+
+On the other hand, the beautiful SUBJECT plays a stunning OBJECT who is tough-as-nails
+SUBJECT:	[[ OLGA KURYLENKO | /m/0266c36 ]]
+OBJECT:	[[ CAMILLE MONTES | /m/043pxc_ ]]
+SUBJECT PATH: SUBJECT -> plays
+OBJECT  PATH: OBJECT -> plays
+plays
+
+
+In the movie the ENTITY1 is driven by OBJECT , the beautiful but feisty leading lady, played by SUBJECT 
+SUBJECT:	[[ OLGA KURYLENKO | /m/0266c36 ]]
+OBJECT:	[[ CAMILLE MONTES | /m/043pxc_ ]]
+ENTITY1:	[[ KA | /m/027rb7 ]]
+SUBJECT PATH: SUBJECT -> by -> played -> lady -> OBJECT -> by -> driven
+OBJECT  PATH: OBJECT -> by -> driven
+OBJECT
+
+
+Someone who might return, though, is SUBJECT , who plays OBJECT in ENTITY1 .
+SUBJECT:	[[ OLGA KURYLENKO | /m/0266c36 ]]
+OBJECT:	[[ CAMILLE MONTES | /m/043pxc_ ]]
+ENTITY1:	[[ QUANTUM OF SOLACE | /m/08gsvw ]]
+SUBJECT PATH: SUBJECT -> is
+OBJECT  PATH: OBJECT -> plays -> SUBJECT -> is
+SUBJECT
+
+
+As OBJECT , SUBJECT is a special ENTITY1
+SUBJECT:	[[ OLGA KURYLENKO | /m/0266c36 ]]
+OBJECT:	[[ CAMILLE MONTES | /m/043pxc_ ]]
+ENTITY1:	[[ BOND | /m/03_97 ]]
+SUBJECT PATH: SUBJECT -> is
+OBJECT  PATH: OBJECT -> As -> is
+is
+
+
+Along this path of retribution, he meets the sultry, spirited OBJECT  rendered by equally sultry ENTITY1 actress SUBJECT .
+SUBJECT:	[[ OLGA KURYLENKO | /m/0266c36 ]]
+OBJECT:	[[ CAMILLE MONTES | /m/043pxc_ ]]
+ENTITY1:	[[ EURASIAN | /m/02qkt ]]
+SUBJECT PATH: SUBJECT -> by -> rendered -> OBJECT -> meets
+OBJECT  PATH: OBJECT -> meets
+OBJECT
+
+
+SUBJECT portrays the character of OBJECT in ENTITY1 .
+SUBJECT:	[[ OLGA KURYLENKO | /m/0266c36 ]]
+OBJECT:	[[ CAMILLE MONTES | /m/043pxc_ ]]
+ENTITY1:	[[ QUANTUM OF SOLACE | /m/08gsvw ]]
+SUBJECT PATH: SUBJECT -> portrays
+OBJECT  PATH: OBJECT -> of -> character -> portrays
+portrays
+
+
+Olga Kurylenko Dishes on Bond Girl Status SUBJECT plays OBJECT in ENTITY1 .
+SUBJECT:	[[ OLGA KURYLENKO | /m/0266c36 ]]
+OBJECT:	[[ CAMILLE MONTES | /m/043pxc_ ]]
+ENTITY1:	[[ QUANTUM OF SOLACE | /m/08gsvw ]]
+SUBJECT PATH: SUBJECT -> on -> Dishes -> plays
+OBJECT  PATH: OBJECT -> plays
+plays
+
+
+SUBJECT plays the gorgeous OBJECT in the new ENTITY1
+SUBJECT:	[[ OLGA KURYLENKO | /m/0266c36 ]]
+OBJECT:	[[ CAMILLE MONTES | /m/043pxc_ ]]
+ENTITY1:	[[ JAMES BOND | /m/03_97 ]]
+SUBJECT PATH: SUBJECT -> plays
+OBJECT  PATH: OBJECT -> plays
+plays
+
+
+SUBJECT plays OBJECT , who has inherited the new mantle of tough-as-nails ENTITY1 .
+SUBJECT:	[[ OLGA KURYLENKO | /m/0266c36 ]]
+OBJECT:	[[ CAMILLE MONTES | /m/043pxc_ ]]
+ENTITY1:	[[ BOND GIRLS | /m/01r29n ]]
+SUBJECT PATH: SUBJECT -> plays
+OBJECT  PATH: OBJECT -> plays
+plays
+
+
+SUBJECT plays OBJECT and I thought she looked over tanned.
+SUBJECT:	[[ OLGA KURYLENKO | /m/0266c36 ]]
+OBJECT:	[[ CAMILLE MONTES | /m/043pxc_ ]]
+SUBJECT PATH: SUBJECT -> plays
+OBJECT  PATH: OBJECT -> plays
+plays
+
+
+In the ENTITY1 animated film , SUBJECT played a doltish henchman named OBJECT
+SUBJECT:	[[ PATRICK WARBURTON | /m/02tqkf ]]
+OBJECT:	[[ KRONK | /m/0dh04p ]]
+ENTITY1:	[[ DISNEY | /m/09b3v ]]
+SUBJECT PATH: SUBJECT -> played
+OBJECT  PATH: OBJECT -> named -> henchman -> played
+played
+
+
+ENTITY1 and ENTITY2 have great chemistry, but SUBJECT  really steals the show as the lovable OBJECT .
+SUBJECT:	[[ PATRICK WARBURTON | /m/02tqkf ]]
+OBJECT:	[[ KRONK | /m/0dh04p ]]
+ENTITY1:	[[ SPADE | /m/02dlfh ]]
+ENTITY2:	[[ GOODMAN | /m/01nm3s ]]
+SUBJECT PATH: SUBJECT -> steals -> have
+OBJECT  PATH: OBJECT -> as -> steals -> have
+steals
+
+
+Despite my distaste for these cheapquels, SUBJECT s performance as OBJECT makes this thing worth watching
+SUBJECT:	[[ PATRICK WARBURTON | /m/02tqkf ]]
+OBJECT:	[[ KRONK | /m/0dh04p ]]
+SUBJECT PATH: SUBJECT -> s -> performance -> makes
+OBJECT  PATH: OBJECT -> makes
+makes
+
+
+In the ENTITY1 animated film ENTITY2 , SUBJECT played a doltish henchman named OBJECT
+SUBJECT:	[[ PATRICK WARBURTON | /m/02tqkf ]]
+OBJECT:	[[ KRONK | /m/0dh04p ]]
+ENTITY1:	[[ DISNEY | /m/09b3v ]]
+ENTITY2:	[[ THE EMPEROR'S NEW GROOVE | /m/01xv4x ]]
+SUBJECT PATH: SUBJECT -> played
+OBJECT  PATH: OBJECT -> named -> henchman -> played
+played
+
+
+In both films and the show, OBJECT is voiced by SUBJECT 
+SUBJECT:	[[ PATRICK WARBURTON | /m/02tqkf ]]
+OBJECT:	[[ KRONK | /m/0dh04p ]]
+SUBJECT PATH: SUBJECT -> by -> voiced
+OBJECT  PATH: OBJECT -> voiced
+voiced
+
+
+But the one that gets me to well up is this TV movie starring SUBJECT as ENTITY1 hero OBJECT 
+SUBJECT:	[[ JAMES CAAN | /m/0252fh ]]
+OBJECT:	[[ BRIAN PICCOLO | /m/0h14421 ]]
+ENTITY1:	[[ CHICAGO BEARS | /m/01y3v ]]
+SUBJECT PATH: SUBJECT -> starring -> movie -> is
+OBJECT  PATH: OBJECT -> as -> starring -> movie -> is
+starring
+
+
+SUBJECT also garnered an ENTITY1 nomination for his role as football star OBJECT in the original ENTITY2 .
+SUBJECT:	[[ JAMES CAAN | /m/0252fh ]]
+OBJECT:	[[ BRIAN PICCOLO | /m/0h14421 ]]
+ENTITY1:	[[ EMMY AWARD | /m/013sb1 ]]
+ENTITY2:	[[ BRIAN'S SONG | /m/07kd1n5 ]]
+SUBJECT PATH: SUBJECT -> garnered
+OBJECT  PATH: OBJECT -> as -> role -> for -> nomination -> garnered
+garnered
+
+
+The relationship between OBJECT and ENTITY1 was performed beautifully by SUBJECT and ENTITY2 .
+SUBJECT:	[[ JAMES CAAN | /m/0252fh ]]
+OBJECT:	[[ BRIAN PICCOLO | /m/0h14421 ]]
+ENTITY1:	[[ GALE SAYERS | /m/0h2rn47 ]]
+ENTITY2:	[[ BILLY DEE WILLIAMS | /m/027_sn ]]
+SUBJECT PATH: SUBJECT -> by -> performed
+OBJECT  PATH: OBJECT -> between -> relationship -> performed
+performed
+
+
+SUBJECT also garnered an ENTITY1 nomination for his role as football star OBJECT in the original   ENTITY2 . 
+SUBJECT:	[[ JAMES CAAN | /m/0252fh ]]
+OBJECT:	[[ BRIAN PICCOLO | /m/0h14421 ]]
+ENTITY1:	[[ EMMY AWARD | /m/013sb1 ]]
+ENTITY2:	[[ BRIAN'S SONG | /m/07kd1n5 ]]
+SUBJECT PATH: SUBJECT -> garnered
+OBJECT  PATH: OBJECT -> as -> role -> for -> nomination -> garnered
+garnered
+
+
+SUBJECT plays OBJECT , a middle-aged actor who lives with his mom and hasn't gotten laid in five years.
+SUBJECT:	[[ JEFF GARLIN | /m/04pz5c ]]
+OBJECT:	[[ JAMES AARON | /m/0h4_ctv ]]
+SUBJECT PATH: SUBJECT -> plays
+OBJECT  PATH: OBJECT -> plays
+plays
+
+
+SUBJECT 's character OBJECT is a rude, thoroughly unlikable bitch in every scene we see her.
+SUBJECT:	[[ ELIZABETH BERKLEY | /m/01j6fq ]]
+OBJECT:	[[ NOMI MALONE | /m/098klm0 ]]
+SUBJECT PATH: SUBJECT -> OBJECT -> is
+OBJECT  PATH: OBJECT -> is
+OBJECT
+
+
+SUBJECT is simply fantastic as OBJECT .
+SUBJECT:	[[ ELIZABETH BERKLEY | /m/01j6fq ]]
+OBJECT:	[[ NOMI MALONE | /m/098klm0 ]]
+SUBJECT PATH: SUBJECT -> is
+OBJECT  PATH: OBJECT -> as -> fantastic -> is
+is
+
+
+SUBJECT plays the role of OBJECT , a drifter that made her way from a stripper to a showgirl
+SUBJECT:	[[ ELIZABETH BERKLEY | /m/01j6fq ]]
+OBJECT:	[[ NOMI MALONE | /m/098klm0 ]]
+SUBJECT PATH: SUBJECT -> plays
+OBJECT  PATH: OBJECT -> of -> role -> plays
+plays
+
+
+SUBJECT  is OBJECT , a mysterious, sassy, emotional basket case with a dream.
+SUBJECT:	[[ ELIZABETH BERKLEY | /m/01j6fq ]]
+OBJECT:	[[ NOMI MALONE | /m/098klm0 ]]
+SUBJECT PATH: SUBJECT -> is
+OBJECT  PATH: OBJECT -> is
+is
+
+
+spazztastic OBJECT played by SUBJECT .. STILLS: More Lost Odyssey video game stills for the ENTITY1 ..
+SUBJECT:	[[ ELIZABETH BERKLEY | /m/01j6fq ]]
+OBJECT:	[[ NOMI MALONE | /m/098klm0 ]]
+ENTITY1:	[[ XBOX 360 | /m/02plp2 ]]
+SUBJECT PATH: SUBJECT -> by -> played -> OBJECT
+OBJECT  PATH: OBJECT
+OBJECT
+
+
+is to say - absolutely none... spend our first eight minutes with spazztastic OBJECT played by SUBJECT .
+SUBJECT:	[[ ELIZABETH BERKLEY | /m/01j6fq ]]
+OBJECT:	[[ NOMI MALONE | /m/098klm0 ]]
+SUBJECT PATH: SUBJECT -> by -> played -> OBJECT -> with -> spend -> none -> say -> is
+OBJECT  PATH: OBJECT -> with -> spend -> none -> say -> is
+OBJECT
+
+
+SUBJECT  plays  OBJECT , a top-heavy young  innocent  who hitchhikes to ENTITY1 to become a showgirl diva
+SUBJECT:	[[ ELIZABETH BERKLEY | /m/01j6fq ]]
+OBJECT:	[[ NOMI MALONE | /m/098klm0 ]]
+ENTITY1:	[[ LAS VEGAS | /m/0310dp ]]
+SUBJECT PATH: SUBJECT -> plays
+OBJECT  PATH: OBJECT -> plays
+plays
+
+
+SUBJECT plays OBJECT , a woman who goes to ENTITY1 to become a dancer and who is.
+SUBJECT:	[[ ELIZABETH BERKLEY | /m/01j6fq ]]
+OBJECT:	[[ NOMI MALONE | /m/098klm0 ]]
+ENTITY1:	[[ LAS VEGAS | /m/0cv3w ]]
+SUBJECT PATH: SUBJECT -> plays
+OBJECT  PATH: OBJECT -> plays
+plays
+
+
+SUBJECT  plays impetuous OBJECT , a young girl who heads into ENTITY1
+SUBJECT:	[[ ELIZABETH BERKLEY | /m/01j6fq ]]
+OBJECT:	[[ NOMI MALONE | /m/098klm0 ]]
+ENTITY1:	[[ LAS VEGAS | /m/0cv3w ]]
+SUBJECT PATH: SUBJECT -> plays
+OBJECT  PATH: OBJECT -> plays
+plays
+
+
+SUBJECT played OBJECT in which of the following movies?
+SUBJECT:	[[ ELIZABETH BERKLEY | /m/01j6fq ]]
+OBJECT:	[[ NOMI MALONE | /m/098klm0 ]]
+SUBJECT PATH: SUBJECT -> played -> OBJECT
+OBJECT  PATH: OBJECT
+OBJECT
+
+
+This time round   ENTITY1   star SUBJECT replaces ENTITY2 to take on the role of master thief OBJECT .
+SUBJECT:	[[ MARK WAHLBERG | /m/0gy6z9 ]]
+OBJECT:	[[ CHARLIE CROKER | /m/05d4fq ]]
+ENTITY1:	[[ PLANET OF THE APES | /m/047wh1 ]]
+ENTITY2:	[[ MICHAEL CAINE | /m/0gnbw ]]
+SUBJECT PATH: SUBJECT -> replaces
+OBJECT  PATH: OBJECT -> of -> role -> take -> replaces
+replaces
+
+
+Sir SUBJECT 's character OBJECT utters the immortal last words:   ENTITY1 on a minute, lads.
+SUBJECT:	[[ MICHAEL CAINE | /m/0gnbw ]]
+OBJECT:	[[ CHARLIE CROKER | /m/05d4fq ]]
+ENTITY1:	[[ HANG | /m/01yrd5 ]]
+SUBJECT PATH: SUBJECT -> utters
+OBJECT  PATH: OBJECT -> utters
+utters
+
+
+Half crook and half suave secret agent, SUBJECT turns OBJECT into a charismatic and likable rogue.
+SUBJECT:	[[ MICHAEL CAINE | /m/0gnbw ]]
+OBJECT:	[[ CHARLIE CROKER | /m/05d4fq ]]
+SUBJECT PATH: SUBJECT -> turns
+OBJECT  PATH: OBJECT -> turns
+turns
+
+
+SUBJECT plays the lead charater as OBJECT , ENTITY1 as Mr. Bridger and ENTITY2 as Professor Simon Peach.
+SUBJECT:	[[ MICHAEL CAINE | /m/0gnbw ]]
+OBJECT:	[[ CHARLIE CROKER | /m/05d4fq ]]
+ENTITY1:	[[ NOEL COWARD | /m/0crg9 ]]
+ENTITY2:	[[ BENNY HILL | /m/01pmqs3 ]]
+SUBJECT PATH: SUBJECT -> plays
+OBJECT  PATH: OBJECT -> as -> charater -> plays
+plays
+
+
+SUBJECT plays the part of OBJECT , a cheeky criminal who has just been released from prison.
+SUBJECT:	[[ MICHAEL CAINE | /m/0gnbw ]]
+OBJECT:	[[ CHARLIE CROKER | /m/05d4fq ]]
+SUBJECT PATH: SUBJECT -> plays
+OBJECT  PATH: OBJECT -> of -> part -> plays
+plays
+
+
+Additionally, SUBJECT plays OBJECT , the ENTITY1 's favorite  lady-in-waiting 
+SUBJECT:	[[ UMA THURMAN | /m/0kjrx ]]
+OBJECT:	[[ ANNE DE MONTAUSIER | /m/0gxtwlg ]]
+ENTITY1:	[[ KING | /m/0jt90f5 ]]
+SUBJECT PATH: SUBJECT -> plays
+OBJECT  PATH: OBJECT -> plays
+plays
+
+
+SUBJECT plays OBJECT , the queen's attendant, who is courted by both Lauzin and ENTITY1 himself.
+SUBJECT:	[[ UMA THURMAN | /m/0kjrx ]]
+OBJECT:	[[ ANNE DE MONTAUSIER | /m/0gxtwlg ]]
+ENTITY1:	[[ LOUIS | /m/04pwg ]]
+SUBJECT PATH: SUBJECT -> plays
+OBJECT  PATH: OBJECT -> plays
+plays
+
+
+Unfortunately, SUBJECT plays OBJECT .
+SUBJECT:	[[ JOSH HARTNETT | /m/01kgv4 ]]
+OBJECT:	[[ TOM STERLING | /m/0gyd18c ]]
+SUBJECT PATH: SUBJECT -> plays
+OBJECT  PATH: OBJECT -> plays
+plays
+
+
+SUBJECT gives a fairly complex portrayal of OBJECT 
+SUBJECT:	[[ JOSH HARTNETT | /m/01kgv4 ]]
+OBJECT:	[[ TOM STERLING | /m/0gyd18c ]]
+SUBJECT PATH: SUBJECT -> gives
+OBJECT  PATH: OBJECT -> of -> portrayal -> gives
+gives
+
+
+Synopsis: SUBJECT plays OBJECT , an ENTITY1 sycophant who thinks enthusiastic use of..
+SUBJECT:	[[ JOSH HARTNETT | /m/01kgv4 ]]
+OBJECT:	[[ TOM STERLING | /m/0gyd18c ]]
+ENTITY1:	[[ INTERNET | /m/03rlt ]]
+SUBJECT PATH: SUBJECT -> plays -> Synopsis
+OBJECT  PATH: OBJECT -> plays -> Synopsis
+plays
+
+
+The story progresses as he hires OBJECT played by SUBJECT as his accountant.
+SUBJECT:	[[ MATTHEW BRODERICK | /m/01vlj1g ]]
+OBJECT:	[[ LEO BLOOM | /m/02x01nt ]]
+SUBJECT PATH: SUBJECT -> by -> played -> OBJECT -> hires -> progresses
+OBJECT  PATH: OBJECT -> hires -> progresses
+OBJECT
+
+
+ENTITY1 is hysterical as always and SUBJECT plays a fair OBJECT .
+SUBJECT:	[[ MATTHEW BRODERICK | /m/01vlj1g ]]
+OBJECT:	[[ LEO BLOOM | /m/02x01nt ]]
+ENTITY1:	[[ NATHAN LANE | /m/01nxzv ]]
+SUBJECT PATH: SUBJECT -> plays -> is
+OBJECT  PATH: OBJECT -> plays -> is
+plays
+
+
+ENTITY1 is really good as ENTITY2 , but SUBJECT is FANTASTIC as OBJECT .
+SUBJECT:	[[ MATTHEW BRODERICK | /m/01vlj1g ]]
+OBJECT:	[[ LEO BLOOM | /m/02x01nt ]]
+ENTITY1:	[[ NATHAN LANE | /m/01nxzv ]]
+ENTITY2:	[[ MAX BIALYSTOCK | /m/0d778t ]]
+SUBJECT PATH: SUBJECT -> is -> is
+OBJECT  PATH: OBJECT -> as -> FANTASTIC -> is -> is
+is
+
+
+In the travelling production ENTITY1  plays the role of OBJECT , SUBJECT 's role in ENTITY2 .
+SUBJECT:	[[ MATTHEW BRODERICK | /m/01vlj1g ]]
+OBJECT:	[[ LEO BLOOM | /m/02x01nt ]]
+ENTITY1:	[[ ALAN RUCK | /m/02y2_9 ]]
+ENTITY2:	[[ NY | /m/059rby ]]
+SUBJECT PATH: SUBJECT -> role -> OBJECT -> of -> role -> plays
+OBJECT  PATH: OBJECT -> of -> role -> plays
+OBJECT
+
+
+ENTITY1 tried hard to channel SUBJECT , who played the original OBJECT , but gets only a B grade
+SUBJECT:	[[ GENE WILDER | /m/027l0b ]]
+OBJECT:	[[ LEO BLOOM | /m/02x01nt ]]
+ENTITY1:	[[ BRODERICK | /m/01vlj1g ]]
+SUBJECT PATH: SUBJECT -> channel -> tried
+OBJECT  PATH: OBJECT -> played -> SUBJECT -> channel -> tried
+SUBJECT
+
+
+Burkell is better suited to the role of OBJECT than SUBJECT , who played the role on ENTITY1 
+SUBJECT:	[[ MATTHEW BRODERICK | /m/01vlj1g ]]
+OBJECT:	[[ LEO BLOOM | /m/02x01nt ]]
+ENTITY1:	[[ BROADWAY | /m/035y8z ]]
+SUBJECT PATH: SUBJECT -> than -> OBJECT -> of -> role -> to -> suited
+OBJECT  PATH: OBJECT -> of -> role -> to -> suited
+OBJECT
+
+
+SUBJECT plays OBJECT , the nervous accountant
+SUBJECT:	[[ MATTHEW BRODERICK | /m/01vlj1g ]]
+OBJECT:	[[ LEO BLOOM | /m/02x01nt ]]
+SUBJECT PATH: SUBJECT -> plays
+OBJECT  PATH: OBJECT -> plays
+plays
+
+
+ENTITY1 and SUBJECT lead the way as ENTITY2 and OBJECT respectively
+SUBJECT:	[[ MATTHEW BRODERICK | /m/01vlj1g ]]
+OBJECT:	[[ LEO BLOOM | /m/02x01nt ]]
+ENTITY1:	[[ NATHAN LANE | /m/01nxzv ]]
+ENTITY2:	[[ BIALYSTOCK | /m/0d778t ]]
+SUBJECT PATH: SUBJECT -> ENTITY1 -> lead
+OBJECT  PATH: OBJECT -> ENTITY2 -> as -> way -> lead
+lead
+
+
+ENTITY1 is hysterical as always and SUBJECT plays a fair OBJECT 
+SUBJECT:	[[ MATTHEW BRODERICK | /m/01vlj1g ]]
+OBJECT:	[[ LEO BLOOM | /m/02x01nt ]]
+ENTITY1:	[[ NATHAN LANE | /m/01nxzv ]]
+SUBJECT PATH: SUBJECT -> plays -> is
+OBJECT  PATH: OBJECT -> plays -> is
+plays
+
+
+SUBJECT gives OBJECT a nice sense of innocence, even while pulling off the ultimate scheme
+SUBJECT:	[[ MATTHEW BRODERICK | /m/01vlj1g ]]
+OBJECT:	[[ LEO BLOOM | /m/02x01nt ]]
+SUBJECT PATH: SUBJECT -> gives
+OBJECT  PATH: OBJECT -> gives
+gives
+
+
+ENTITY1 tried hard to channel SUBJECT , who played the original OBJECT , but gets only a B grade.
+SUBJECT:	[[ GENE WILDER | /m/027l0b ]]
+OBJECT:	[[ LEO BLOOM | /m/02x01nt ]]
+ENTITY1:	[[ BRODERICK | /m/01vlj1g ]]
+SUBJECT PATH: SUBJECT -> channel -> tried
+OBJECT  PATH: OBJECT -> played -> SUBJECT -> channel -> tried
+SUBJECT
+
+
+(even though I felt that SUBJECT wasn't quite as good as OBJECT as ENTITY1 was as ENTITY2 
+SUBJECT:	[[ MATTHEW BRODERICK | /m/01vlj1g ]]
+OBJECT:	[[ LEO BLOOM | /m/02x01nt ]]
+ENTITY1:	[[ LANE | /m/01nxzv ]]
+ENTITY2:	[[ MAX BIALYSTOCK | /m/0d778t ]]
+SUBJECT PATH: SUBJECT -> was -> felt -> (
+OBJECT  PATH: OBJECT -> as -> good -> was -> felt -> (
+was
+
+
+Writer, director and occasional OBJECT actor SUBJECT said it best during his ?An evening with SUBJECT ? DVD.
+SUBJECT:	[[ KEVIN SMITH | /m/0gd9k ]]
+OBJECT:	[[ SILENT BOB | /m/0468rdk ]]
+SUBJECT PATH: SUBJECT -> with -> evening
+OBJECT  PATH: OBJECT -> actor -> director -> Writer -> SUBJECT -> said
+-None-
+
+
+As a sidenote, OBJECT is played by SUBJECT , whose performance was nothing short of a sidenote.
+SUBJECT:	[[ EMILY WATSON | /m/02l4pj ]]
+OBJECT:	[[ MARY O'BRIEN | /m/0h2z9f9 ]]
+SUBJECT PATH: SUBJECT -> by -> played
+OBJECT  PATH: OBJECT -> played
+played
+
+
+;) ( SUBJECT , who voiced OBJECT in the anime, has returned to reprise her role).
+SUBJECT:	[[ KEIKO HAN | /m/03bdbl ]]
+OBJECT:	[[ LUNA | /m/01h2s2 ]]
+SUBJECT PATH: SUBJECT -> returned
+OBJECT  PATH: OBJECT -> voiced -> SUBJECT -> returned
+SUBJECT
+
+
+October 03, 2003 :: The New Actors & Actresses: The voice of OBJECT will be SUBJECT
+SUBJECT:	[[ KEIKO HAN | /m/03bdbl ]]
+OBJECT:	[[ LUNA | /m/01h2s2 ]]
+SUBJECT PATH: SUBJECT -> be
+OBJECT  PATH: OBJECT -> of -> voice -> be
+be
+
+
+SUBJECT was great as OBJECT , and I really didn give a crap about his hair
+SUBJECT:	[[ TOM HANKS | /m/0bxtg ]]
+OBJECT:	[[ ROBERT LANGDON | /m/02ghwh ]]
+SUBJECT PATH: SUBJECT -> was
+OBJECT  PATH: OBJECT -> as -> great -> was
+was
+
+
+And yeah, SUBJECT wasn?t the best OBJECT , even though I do love SUBJECT .
+SUBJECT:	[[ TOM HANKS | /m/0bxtg ]]
+OBJECT:	[[ ROBERT LANGDON | /m/02ghwh ]]
+SUBJECT PATH: SUBJECT -> love -> wasn?t
+OBJECT  PATH: OBJECT -> wasn?t
+wasn?t
+
+
+SUBJECT is playing OBJECT and the movie is directed by ENTITY1 .
+SUBJECT:	[[ TOM HANKS | /m/0bxtg ]]
+OBJECT:	[[ ROBERT LANGDON | /m/02ghwh ]]
+ENTITY1:	[[ RON HOWARD | /m/0g2lq ]]
+SUBJECT PATH: SUBJECT -> playing
+OBJECT  PATH: OBJECT -> playing
+playing
+
+
+SUBJECT reprises his role as ENTITY1 religious expert OBJECT , who once again finds that...
+SUBJECT:	[[ TOM HANKS | /m/0bxtg ]]
+OBJECT:	[[ ROBERT LANGDON | /m/02ghwh ]]
+ENTITY1:	[[ HARVARD | /m/03ksy ]]
+SUBJECT PATH: SUBJECT -> reprises
+OBJECT  PATH: OBJECT -> as -> role -> reprises
+reprises
+
+
+SUBJECT reprises his role as ENTITY1 religious expert OBJECT , who once again finds that forces with ancient roots...
+SUBJECT:	[[ TOM HANKS | /m/0bxtg ]]
+OBJECT:	[[ ROBERT LANGDON | /m/02ghwh ]]
+ENTITY1:	[[ HARVARD | /m/03ksy ]]
+SUBJECT PATH: SUBJECT -> reprises
+OBJECT  PATH: OBJECT -> as -> role -> reprises
+reprises
+
+
+SUBJECT returns as OBJECT along with ENTITY1 , who will direct the movie.
+SUBJECT:	[[ TOM HANKS | /m/0bxtg ]]
+OBJECT:	[[ ROBERT LANGDON | /m/02ghwh ]]
+ENTITY1:	[[ RON HOWARD | /m/0g2lq ]]
+SUBJECT PATH: SUBJECT -> returns
+OBJECT  PATH: OBJECT -> as -> returns
+returns
+
+
+Hey SUBJECT is back as OBJECT then I am seeing it.
+SUBJECT:	[[ TOM HANKS | /m/0bxtg ]]
+OBJECT:	[[ ROBERT LANGDON | /m/02ghwh ]]
+SUBJECT PATH: SUBJECT -> is -> seeing
+OBJECT  PATH: OBJECT -> as -> back -> is -> seeing
+is
+
+
+SUBJECT will reprise his role  as the ENTITY1 religious expert OBJECT .
+SUBJECT:	[[ TOM HANKS | /m/0bxtg ]]
+OBJECT:	[[ ROBERT LANGDON | /m/02ghwh ]]
+ENTITY1:	[[ HARVARD | /m/03ksy ]]
+SUBJECT PATH: SUBJECT -> reprise
+OBJECT  PATH: OBJECT -> as -> reprise
+reprise
+
+
+This book will soon be turned into a movie and SUBJECT will play OBJECT .
+SUBJECT:	[[ TOM HANKS | /m/0bxtg ]]
+OBJECT:	[[ ROBERT LANGDON | /m/02ghwh ]]
+SUBJECT PATH: SUBJECT -> play -> turned
+OBJECT  PATH: OBJECT -> play -> turned
+play
+
+
+Two interesting things today: 1) SUBJECT might star as OBJECT in the movie version of The Da Vinici Code.
+SUBJECT:	[[ TOM HANKS | /m/0bxtg ]]
+OBJECT:	[[ ROBERT LANGDON | /m/02ghwh ]]
+SUBJECT PATH: SUBJECT -> star
+OBJECT  PATH: OBJECT -> as -> star
+star
+
+
+And what about SUBJECT jumping back into OBJECT
+SUBJECT:	[[ TOM HANKS | /m/0bxtg ]]
+OBJECT:	[[ ROBERT LANGDON | /m/02ghwh ]]
+SUBJECT PATH: SUBJECT -> jumping -> about
+OBJECT  PATH: OBJECT -> into -> back -> jumping -> about
+jumping
+
+
+( OBJECT will still be played by SUBJECT ).
+SUBJECT:	[[ TOM HANKS | /m/0bxtg ]]
+OBJECT:	[[ ROBERT LANGDON | /m/02ghwh ]]
+SUBJECT PATH: SUBJECT -> by -> played
+OBJECT  PATH: OBJECT -> played
+played
+
+
+SUBJECT returns as OBJECT in the film that also lifted from the works of ENTITY1 novel is.
+SUBJECT:	[[ TOM HANKS | /m/0bxtg ]]
+OBJECT:	[[ ROBERT LANGDON | /m/02ghwh ]]
+ENTITY1:	[[ DAN BROWN | /m/02988h ]]
+SUBJECT PATH: SUBJECT -> returns -> is
+OBJECT  PATH: OBJECT -> as -> returns -> is
+returns
+
+
+SUBJECT will play OBJECT , ENTITY1  professor of symbology .
+SUBJECT:	[[ TOM HANKS | /m/0bxtg ]]
+OBJECT:	[[ ROBERT LANGDON | /m/02ghwh ]]
+ENTITY1:	[[ HARVARD | /m/03ksy ]]
+SUBJECT PATH: SUBJECT -> play
+OBJECT  PATH: OBJECT -> play
+play
+
+
+SUBJECT himself has no personality, so SUBJECT playing OBJECT seems the worst possible choice.
+SUBJECT:	[[ TOM HANKS | /m/0bxtg ]]
+OBJECT:	[[ ROBERT LANGDON | /m/02ghwh ]]
+SUBJECT PATH: SUBJECT -> OBJECT -> seems
+OBJECT  PATH: OBJECT -> seems
+OBJECT
+
+
+SUBJECT was not right for OBJECT .
+SUBJECT:	[[ TOM HANKS | /m/0bxtg ]]
+OBJECT:	[[ ROBERT LANGDON | /m/02ghwh ]]
+SUBJECT PATH: SUBJECT -> was
+OBJECT  PATH: OBJECT -> for -> right -> was
+was
+
+
+( SUBJECT , who looks an awful lot like OBJECT ).
+SUBJECT:	[[ KAMAL KAPOOR | /m/0gc0x6x ]]
+OBJECT:	[[ NARANG | /m/0h5v87t ]]
+SUBJECT PATH: SUBJECT
+OBJECT  PATH: OBJECT -> like -> lot -> looks -> SUBJECT
+SUBJECT
+
+
+For most of his life, SUBJECT has been no OBJECT 
+SUBJECT:	[[ EVAN HANDLER | /m/07blrf ]]
+OBJECT:	[[ HARRY GOLDENBLATT | /m/05lmdrm ]]
+SUBJECT PATH: SUBJECT -> been
+OBJECT  PATH: OBJECT -> been
+been
+
+
+According to SUBJECT , who plays ENTITY1 's husband OBJECT , there could be a death in the city
+SUBJECT:	[[ EVAN HANDLER | /m/07blrf ]]
+OBJECT:	[[ HARRY GOLDENBLATT | /m/05lmdrm ]]
+ENTITY1:	[[ CHARLOTTE | /m/0fsb8 ]]
+SUBJECT PATH: SUBJECT -> to -> According -> be
+OBJECT  PATH: OBJECT -> plays -> SUBJECT -> to -> According -> be
+SUBJECT
+
+
+SUBJECT is better known to ENTITY1 fans as ENTITY2 's husband, OBJECT .
+SUBJECT:	[[ EVAN HANDLER | /m/07blrf ]]
+OBJECT:	[[ HARRY GOLDENBLATT | /m/05lmdrm ]]
+ENTITY1:	[[ SEX AND THE CITY | /m/0l76z ]]
+ENTITY2:	[[ CHARLOTTE | /m/0fsb8 ]]
+SUBJECT PATH: SUBJECT -> known
+OBJECT  PATH: OBJECT -> husband -> as -> known
+known
+
+
+According to SUBJECT , who plays ENTITY1 ?s husband OBJECT , there could be a death in the city
+SUBJECT:	[[ EVAN HANDLER | /m/07blrf ]]
+OBJECT:	[[ HARRY GOLDENBLATT | /m/05lmdrm ]]
+ENTITY1:	[[ CHARLOTTE | /m/0fsb8 ]]
+SUBJECT PATH: SUBJECT -> to -> According
+OBJECT  PATH: OBJECT -> be
+-None-
+
+
+SUBJECT plays the OBJECT as a watchdog but rather, as ENTITY1 grows more renascent, increase it.
+SUBJECT:	[[ JULIETTE BINOCHE | /m/0fbx6 ]]
+OBJECT:	[[ MIRIAM | /m/0bqx7bm ]]
+ENTITY1:	[[ BEE SEASON | /m/0cndck ]]
+SUBJECT PATH: SUBJECT -> plays
+OBJECT  PATH: OBJECT -> plays
+plays
+
+
+Also a shock to my system: ENTITY1 beauty SUBJECT as the kleptomaniacal, Brillo-haired, pear-shaped mother, OBJECT 
+SUBJECT:	[[ JULIETTE BINOCHE | /m/0fbx6 ]]
+OBJECT:	[[ MIRIAM | /m/0bqx7bm ]]
+ENTITY1:	[[ FRENCH | /m/0f8l9c ]]
+SUBJECT PATH: SUBJECT -> beauty
+OBJECT  PATH: OBJECT -> mother -> as -> SUBJECT -> beauty
+SUBJECT
+
+
+Also a shock to my system: ENTITY1 beauty SUBJECT as the kleptomaniacal, Brillo-haired, pear-shaped mother, OBJECT .
+SUBJECT:	[[ JULIETTE BINOCHE | /m/0fbx6 ]]
+OBJECT:	[[ MIRIAM | /m/0bqx7bm ]]
+ENTITY1:	[[ FRENCH | /m/0f8l9c ]]
+SUBJECT PATH: SUBJECT -> beauty
+OBJECT  PATH: OBJECT -> mother -> as -> SUBJECT -> beauty
+SUBJECT
+
+
+SUBJECT character, OBJECT , is a lawyer in the book
+SUBJECT:	[[ JULIETTE BINOCHE | /m/0fbx6 ]]
+OBJECT:	[[ MIRIAM | /m/0bqx7bm ]]
+SUBJECT PATH: SUBJECT -> character -> is
+OBJECT  PATH: OBJECT -> character -> is
+character
+
+
+SUBJECT later found steady work in ENTITY1 as Marshal OBJECT 
+SUBJECT:	[[ JAMES ARNESS | /m/036jp8 ]]
+OBJECT:	[[ MATT DILLON | /m/06mb_y ]]
+ENTITY1:	[[ DODGE CITY | /m/0t6rl ]]
+SUBJECT PATH: SUBJECT -> found
+OBJECT  PATH: OBJECT -> as -> work -> found
+found
+
+
+ENTITY1 was a popular radio show and moved easily onto camera with SUBJECT replacing ENTITY2 as OBJECT 
+SUBJECT:	[[ JAMES ARNESS | /m/036jp8 ]]
+OBJECT:	[[ MATT DILLON | /m/06mb_y ]]
+ENTITY1:	[[ GUNSMOKE | /m/017j6t ]]
+ENTITY2:	[[ WILLIAM CONRAD | /m/02w872 ]]
+SUBJECT PATH: SUBJECT -> with -> camera -> onto -> moved -> was
+OBJECT  PATH: OBJECT -> as -> replacing -> moved -> was
+moved
+
+
+Besides SUBJECT , who played OBJECT on ''Gunsmoke,'' ENTITY1 played Doc Adams on that show for 20 years
+SUBJECT:	[[ JAMES ARNESS | /m/036jp8 ]]
+OBJECT:	[[ MATT DILLON | /m/06mb_y ]]
+ENTITY1:	[[ MILBURN STONE | /m/03xn5k ]]
+SUBJECT PATH: SUBJECT -> Besides -> played
+OBJECT  PATH: OBJECT -> played -> SUBJECT -> Besides -> played
+SUBJECT
+
+
+[On early episodes SUBJECT as OBJECT narrated this short sermon from ENTITY1 outside of ENTITY2 :]
+SUBJECT:	[[ JAMES ARNESS | /m/036jp8 ]]
+OBJECT:	[[ MATT DILLON | /m/06mb_y ]]
+ENTITY1:	[[ BOOT HILL | /m/049tmp ]]
+ENTITY2:	[[ DODGE CITY | /m/0t6rl ]]
+SUBJECT PATH: SUBJECT -> On -> narrated
+OBJECT  PATH: OBJECT -> narrated
+narrated
+
+
+Actors asked to play OBJECT on TV before SUBJECT included ENTITY1 and ENTITY2 
+SUBJECT:	[[ JAMES ARNESS | /m/036jp8 ]]
+OBJECT:	[[ MATT DILLON | /m/06mb_y ]]
+ENTITY1:	[[ JOHN WAYNE | /m/043gj ]]
+ENTITY2:	[[ DENVER PYLE | /m/036t_f ]]
+SUBJECT PATH: SUBJECT -> included -> play -> asked
+OBJECT  PATH: OBJECT -> play -> asked
+play
+
+
+In fact, ENTITY1 recommended SUBJECT for the role of OBJECT 
+SUBJECT:	[[ JAMES ARNESS | /m/036jp8 ]]
+OBJECT:	[[ MATT DILLON | /m/06mb_y ]]
+ENTITY1:	[[ WAYNE | /m/043gj ]]
+SUBJECT PATH: SUBJECT -> recommended
+OBJECT  PATH: OBJECT -> of -> role -> for -> recommended
+recommended
+
+
+Fellow record holders include SUBJECT of 50?s western series   ENTITY1  , who also played OBJECT for 20 years straight
+SUBJECT:	[[ JAMES ARNESS | /m/036jp8 ]]
+OBJECT:	[[ MATT DILLON | /m/06mb_y ]]
+ENTITY1:	[[ GUNSMOKE | /m/017j6t ]]
+SUBJECT PATH: SUBJECT -> include
+OBJECT  PATH: OBJECT -> played -> ENTITY1
+-None-
+
+
+OBJECT played by SUBJECT comes to mind.
+SUBJECT:	[[ JAMES ARNESS | /m/036jp8 ]]
+OBJECT:	[[ MATT DILLON | /m/06mb_y ]]
+SUBJECT PATH: SUBJECT -> by -> played -> OBJECT -> comes
+OBJECT  PATH: OBJECT -> comes
+OBJECT
+
+
+As a matter of fact, ENTITY1 recommended SUBJECT for the role of OBJECT 
+SUBJECT:	[[ JAMES ARNESS | /m/036jp8 ]]
+OBJECT:	[[ MATT DILLON | /m/06mb_y ]]
+ENTITY1:	[[ WAYNE | /m/043gj ]]
+SUBJECT PATH: SUBJECT -> recommended
+OBJECT  PATH: OBJECT -> of -> role -> for -> recommended
+recommended
+
+
+SUBJECT played OBJECT throughout the series
+SUBJECT:	[[ JAMES ARNESS | /m/036jp8 ]]
+OBJECT:	[[ MATT DILLON | /m/06mb_y ]]
+SUBJECT PATH: SUBJECT -> played
+OBJECT  PATH: OBJECT -> played
+played
+
+
+SUBJECT  is an ENTITY1 -nominated ENTITY2 actor best known for portraying Marshal OBJECT on Gunsmoke for 20 years
+SUBJECT:	[[ JAMES ARNESS | /m/036jp8 ]]
+OBJECT:	[[ MATT DILLON | /m/06mb_y ]]
+ENTITY1:	[[ EMMY | /m/013sb1 ]]
+ENTITY2:	[[ AMERICAN | /m/09c7w0 ]]
+SUBJECT PATH: SUBJECT -> is
+OBJECT  PATH: OBJECT -> portraying -> for -> known -> actor -> is
+is
+
+
+. On   ENTITY1  , SUBJECT played OBJECT and ENTITY2 played ENTITY2 
+SUBJECT:	[[ JAMES ARNESS | /m/036jp8 ]]
+OBJECT:	[[ MATT DILLON | /m/06mb_y ]]
+ENTITY1:	[[ GUNSMOKE | /m/017j6t ]]
+ENTITY2:	[[ AMANDA BLAKE | /m/038zzp ]]
+SUBJECT PATH: SUBJECT -> OBJECT -> played
+OBJECT  PATH: OBJECT -> played
+OBJECT
+
+
+ENTITY1 plays OBJECT , previously played by SUBJECT and ENTITY2 
+SUBJECT:	[[ TIMOTHY SCOTT | /m/0bq9y5p ]]
+OBJECT:	[[ PEA EYE PARKER | /m/02844vz ]]
+ENTITY1:	[[ TROY BAKER | /m/0fzvpp ]]
+ENTITY2:	[[ SAM SHEPARD | /m/016yzz ]]
+SUBJECT PATH: SUBJECT -> by -> played -> plays
+OBJECT  PATH: OBJECT -> plays
+plays
+
+
+ENTITY1 as OBJECT is a considerable improvement over SUBJECT , the original Pea Eye
+SUBJECT:	[[ TIMOTHY SCOTT | /m/0bq9y5p ]]
+OBJECT:	[[ PEA EYE PARKER | /m/02844vz ]]
+ENTITY1:	[[ SAM SHEPARD | /m/016yzz ]]
+SUBJECT PATH: SUBJECT -> over -> improvement -> is
+OBJECT  PATH: OBJECT -> as -> ENTITY1 -> is
+is
+
+
+ENTITY1 at the premiere of her boyfriend SUBJECT ?s film OBJECT in ENTITY2 last night
+SUBJECT:	[[ RUPERT FRIEND | /m/06d1v8 ]]
+OBJECT:	[[ CHÉRI | /m/05svjs1 ]]
+ENTITY1:	[[ KEIRA KNIGHTLEY | /m/01l2fn ]]
+ENTITY2:	[[ GERMANY | /m/0345h ]]
+SUBJECT PATH: SUBJECT -> boyfriend -> of -> premiere -> at -> ENTITY1
+OBJECT  PATH: OBJECT
+-None-
+
+
+ENTITY1 at the premiere of her boyfriend SUBJECT ?s film OBJECT in ENTITY2 last night.
+SUBJECT:	[[ RUPERT FRIEND | /m/06d1v8 ]]
+OBJECT:	[[ CHÉRI | /m/05svjs1 ]]
+ENTITY1:	[[ KEIRA KNIGHTLEY | /m/01l2fn ]]
+ENTITY2:	[[ GERMANY | /m/0345h ]]
+SUBJECT PATH: SUBJECT -> boyfriend -> of -> premiere -> at -> ENTITY1
+OBJECT  PATH: OBJECT
+-None-
+
+
+OBJECT looks phenomenal, and supposedly SUBJECT is fantastic in ENTITY1 .
+SUBJECT:	[[ RUPERT FRIEND | /m/06d1v8 ]]
+OBJECT:	[[ CHÉRI | /m/05svjs1 ]]
+ENTITY1:	[[ THE YOUNG VICTORIA | /m/02z0f6l ]]
+SUBJECT PATH: SUBJECT -> is -> looks
+OBJECT  PATH: OBJECT -> looks
+looks
+
+
+ENTITY1 ?at?the premiere of her boyfriend SUBJECT ?s film OBJECT in ENTITY2 last night.
+SUBJECT:	[[ RUPERT FRIEND | /m/06d1v8 ]]
+OBJECT:	[[ CHÉRI | /m/05svjs1 ]]
+ENTITY1:	[[ KEIRA KNIGHTLEY | /m/01l2fn ]]
+ENTITY2:	[[ GERMANY | /m/0345h ]]
+SUBJECT PATH: SUBJECT -> boyfriend -> of -> premiere
+OBJECT  PATH: OBJECT
+-None-
+
+
+ENTITY1 ?at?the premiere of her boyfriend SUBJECT ?s film OBJECT in ENTITY2 last night
+SUBJECT:	[[ RUPERT FRIEND | /m/06d1v8 ]]
+OBJECT:	[[ CHÉRI | /m/05svjs1 ]]
+ENTITY1:	[[ KEIRA KNIGHTLEY | /m/01l2fn ]]
+ENTITY2:	[[ GERMANY | /m/0345h ]]
+SUBJECT PATH: SUBJECT -> boyfriend -> of -> premiere
+OBJECT  PATH: OBJECT
+-None-
+
+
+Will ENTITY1 and OBJECT Be Coming Back To SUBJECT ?
+SUBJECT:	[[ SAMANTHA BOND | /m/03pknm ]]
+OBJECT:	[[ EVE MONEYPENNY | /m/01hk60 ]]
+ENTITY1:	[[ Q | /m/0gjt2 ]]
+SUBJECT PATH: SUBJECT -> To -> Back -> Coming
+OBJECT  PATH: OBJECT -> ENTITY1 -> Coming
+Coming
+
+
+SUBJECT producer ENTITY1 offered her the Miss OBJECT role
+SUBJECT:	[[ SAMANTHA BOND | /m/03pknm ]]
+OBJECT:	[[ EVE MONEYPENNY | /m/01hk60 ]]
+ENTITY1:	[[ CUBBY BROCCOLI | /m/02n6n_ ]]
+SUBJECT PATH: SUBJECT -> producer -> ENTITY1 -> offered
+OBJECT  PATH: OBJECT -> role -> offered
+offered
+
+
+Is it really true that ENTITY1 and OBJECT will be coming back for the next SUBJECT
+SUBJECT:	[[ SAMANTHA BOND | /m/03pknm ]]
+OBJECT:	[[ EVE MONEYPENNY | /m/01hk60 ]]
+ENTITY1:	[[ Q | /m/0gjt2 ]]
+SUBJECT PATH: SUBJECT -> for -> coming -> Is
+OBJECT  PATH: OBJECT -> ENTITY1 -> coming -> Is
+coming
+
+
+Appearing only once in a SUBJECT film, Miss Smallbone appears as OBJECT 's assistant in ENTITY1 
+SUBJECT:	[[ SAMANTHA BOND | /m/03pknm ]]
+OBJECT:	[[ EVE MONEYPENNY | /m/01hk60 ]]
+ENTITY1:	[[ OCTOPUSSY | /m/02n72k ]]
+SUBJECT PATH: SUBJECT -> film -> in -> Appearing -> appears
+OBJECT  PATH: OBJECT -> assistant -> as -> appears
+appears
+
+
+SUBJECT , who starred as OBJECT in the SUBJECT ..
+SUBJECT:	[[ SAMANTHA BOND | /m/03pknm ]]
+OBJECT:	[[ EVE MONEYPENNY | /m/01hk60 ]]
+SUBJECT PATH: SUBJECT -> in -> OBJECT -> as -> starred -> SUBJECT
+OBJECT  PATH: OBJECT -> as -> starred -> SUBJECT
+OBJECT
+
+
+And back when she first got the renewed OBJECT role, SUBJECT would have made an interesting ENTITY1 
+SUBJECT:	[[ SAMANTHA BOND | /m/03pknm ]]
+OBJECT:	[[ EVE MONEYPENNY | /m/01hk60 ]]
+ENTITY1:	[[ WESTBROOK | /m/0gxtqg ]]
+SUBJECT PATH: SUBJECT -> made
+OBJECT  PATH: OBJECT -> role -> got -> made
+made
+
+
+SUBJECT is the aptly-named actress who takes over the role of ENTITY1 's able assistant OBJECT 
+SUBJECT:	[[ SAMANTHA BOND | /m/03pknm ]]
+OBJECT:	[[ EVE MONEYPENNY | /m/01hk60 ]]
+ENTITY1:	[[ M | /m/01lxy7 ]]
+SUBJECT PATH: SUBJECT -> is
+OBJECT  PATH: OBJECT -> of -> role -> takes -> actress -> is
+is
+
+
+/ / Will ENTITY1 and OBJECT Be Coming Back To SUBJECT 
+SUBJECT:	[[ SAMANTHA BOND | /m/03pknm ]]
+OBJECT:	[[ EVE MONEYPENNY | /m/01hk60 ]]
+ENTITY1:	[[ Q | /m/0gjt2 ]]
+SUBJECT PATH: SUBJECT -> To -> Back -> Coming
+OBJECT  PATH: OBJECT -> ENTITY1 -> Coming
+Coming
+
+
+He appeared alongside SUBJECT , who played OBJECT in the ENTITY1 films during the ENTITY2 era.
+SUBJECT:	[[ SAMANTHA BOND | /m/03pknm ]]
+OBJECT:	[[ EVE MONEYPENNY | /m/01hk60 ]]
+ENTITY1:	[[ BOND | /m/03_97 ]]
+ENTITY2:	[[ PIERCE BROSNAN | /m/018p4y ]]
+SUBJECT PATH: SUBJECT -> alongside -> appeared
+OBJECT  PATH: OBJECT -> played -> SUBJECT -> alongside -> appeared
+SUBJECT
+
+
+Bye! Then came the ENTITY1 years and the role of OBJECT was given to SUBJECT 
+SUBJECT:	[[ SAMANTHA BOND | /m/03pknm ]]
+OBJECT:	[[ EVE MONEYPENNY | /m/01hk60 ]]
+ENTITY1:	[[ BROSNAN | /m/018p4y ]]
+SUBJECT PATH: SUBJECT -> to -> given
+OBJECT  PATH: OBJECT -> of -> role -> given
+given
+
+
+SUBJECT , who played OBJECT in the ENTITY1 ...
+SUBJECT:	[[ SAMANTHA BOND | /m/03pknm ]]
+OBJECT:	[[ EVE MONEYPENNY | /m/01hk60 ]]
+ENTITY1:	[[ JAMES BOND | /m/03_97 ]]
+SUBJECT PATH: SUBJECT
+OBJECT  PATH: OBJECT -> played -> SUBJECT
+SUBJECT
+
+
+ENTITY1 played ENTITY2 during SUBJECT 's time as OBJECT and is of my generation, BUT...
+SUBJECT:	[[ PIERCE BROSNAN | /m/018p4y ]]
+OBJECT:	[[ JAMES BOND | /m/0clpml ]]
+ENTITY1:	[[ SAMANTHA BOND | /m/03pknm ]]
+ENTITY2:	[[ MISS MONEYPENNY | /m/01hk60 ]]
+SUBJECT PATH: SUBJECT -> time -> during -> played
+OBJECT  PATH: OBJECT -> as -> time -> during -> played
+time
+
+
+SUBJECT als OBJECT hat eine unbezahlbare ENTITY1 und ENTITY1  hat einen eher kurzen ENTITY2 .
+SUBJECT:	[[ SAMANTHA BOND | /m/03pknm ]]
+OBJECT:	[[ EVE MONEYPENNY | /m/01hk60 ]]
+ENTITY1:	[[ SZENE | /m/02zyy4 ]]
+ENTITY2:	[[ AUFTRITT | /m/037cxlc ]]
+SUBJECT PATH: SUBJECT -> hat -> eine
+OBJECT  PATH: OBJECT -> hat -> eine
+hat
+
+
+SUBJECT , who played OBJECT in the ENTITY1 film Die..
+SUBJECT:	[[ SAMANTHA BOND | /m/03pknm ]]
+OBJECT:	[[ EVE MONEYPENNY | /m/01hk60 ]]
+ENTITY1:	[[ JAMES BOND | /m/03_97 ]]
+SUBJECT PATH: SUBJECT
+OBJECT  PATH: OBJECT -> played -> SUBJECT
+SUBJECT
+
+
+ENTITY1 is strong as the new   ENTITY2  , but SUBJECT seems too cutesy and lacks substance as OBJECT .
+SUBJECT:	[[ SAMANTHA BOND | /m/03pknm ]]
+OBJECT:	[[ EVE MONEYPENNY | /m/01hk60 ]]
+ENTITY1:	[[ JUDI DENCH | /m/0lpjn ]]
+ENTITY2:	[[ M | /m/01lxy7 ]]
+SUBJECT PATH: SUBJECT -> seems -> is
+OBJECT  PATH: OBJECT -> as -> lacks -> seems -> is
+seems
+
+
+He appeared alongside SUBJECT , who played OBJECT in the ENTITY1 series of ENTITY2 films
+SUBJECT:	[[ SAMANTHA BOND | /m/03pknm ]]
+OBJECT:	[[ EVE MONEYPENNY | /m/01hk60 ]]
+ENTITY1:	[[ PIERCE BROSNAN | /m/018p4y ]]
+ENTITY2:	[[ BOND | /m/03_97 ]]
+SUBJECT PATH: SUBJECT -> alongside -> appeared
+OBJECT  PATH: OBJECT -> played -> SUBJECT -> alongside -> appeared
+SUBJECT
+
+
+Bye! Then came the Brosnan years and the role of OBJECT was given to SUBJECT 
+SUBJECT:	[[ SAMANTHA BOND | /m/03pknm ]]
+OBJECT:	[[ EVE MONEYPENNY | /m/01hk60 ]]
+SUBJECT PATH: SUBJECT -> to -> given
+OBJECT  PATH: OBJECT -> of -> role -> given
+given
+
+
+He appeared alongside SUBJECT , who played OBJECT in the ENTITY1 films during the ENTITY2 era
+SUBJECT:	[[ SAMANTHA BOND | /m/03pknm ]]
+OBJECT:	[[ EVE MONEYPENNY | /m/01hk60 ]]
+ENTITY1:	[[ BOND | /m/03_97 ]]
+ENTITY2:	[[ PIERCE BROSNAN | /m/018p4y ]]
+SUBJECT PATH: SUBJECT -> alongside -> appeared
+OBJECT  PATH: OBJECT -> played -> SUBJECT -> alongside -> appeared
+SUBJECT
+
+
+SUBJECT rebounded his acting career with the portrayal of cab-driver-turned-baby-sitter OBJECT in ENTITY1 's low-budget comedy ENTITY2 
+SUBJECT:	[[ JOHN TRAVOLTA | /m/0f502 ]]
+OBJECT:	[[ JAMES | /m/0gxw7gp ]]
+ENTITY1:	[[ AMY HECKERLING | /m/03vlgt ]]
+ENTITY2:	[[ LOOK WHO'S TALKING | /m/03gn80 ]]
+SUBJECT PATH: SUBJECT -> rebounded
+OBJECT  PATH: OBJECT -> turned -> rebounded
+rebounded
+
+
+ENTITY1 has managed to capture though not completely recreate SUBJECT 's voice for OBJECT .
+SUBJECT:	[[ YASUO YAMADA | /m/0b4mg_ ]]
+OBJECT:	[[ LUPIN III | /m/01pxpp ]]
+ENTITY1:	[[ KURITA | /m/0b4mj2 ]]
+SUBJECT PATH: SUBJECT -> voice -> recreate -> managed
+OBJECT  PATH: OBJECT -> for -> voice -> recreate -> managed
+voice
+
+
+Though SUBJECT was quite a natural choice for OBJECT .
+SUBJECT:	[[ DANNY DEVITO | /m/0q9kd ]]
+OBJECT:	[[ MAX FAIRBANKS | /m/0h12jl0 ]]
+SUBJECT PATH: SUBJECT -> was
+OBJECT  PATH: OBJECT -> for -> choice -> was
+was
+
+
+SUBJECT played a sarcastic maid in ENTITY1 and a hooker, OBJECT , in ENTITY2 
+SUBJECT:	[[ WANDA SYKES | /m/02wr2r ]]
+OBJECT:	[[ BIGGIE SHORTY | /m/0h2ljy7 ]]
+ENTITY1:	[[ EARTH | /m/02j71 ]]
+ENTITY2:	[[ POOTIE TANG | /m/04hlzh ]]
+SUBJECT PATH: SUBJECT -> played
+OBJECT  PATH: OBJECT -> hooker -> maid -> played
+played
+
+
+SUBJECT played OBJECT , a holocaust survivor, who had told his children very little about his past.
+SUBJECT:	[[ DANNY KAYE | /m/02h48 ]]
+OBJECT:	[[ MAX FELDMAN | /m/0h332zg ]]
+SUBJECT PATH: SUBJECT -> OBJECT
+OBJECT  PATH: OBJECT
+OBJECT
+
+
+SUBJECT portrays the fictional   OBJECT  , a ENTITY1 survivor. .
+SUBJECT:	[[ DANNY KAYE | /m/02h48 ]]
+OBJECT:	[[ MAX FELDMAN | /m/0h332zg ]]
+ENTITY1:	[[ HOLOCAUST | /m/03hzt ]]
+SUBJECT PATH: SUBJECT -> portrays
+OBJECT  PATH: OBJECT -> portrays
+portrays
+
+
+The original OBJECT was SUBJECT 
+SUBJECT:	[[ NICOLE JAFFE | /m/07cn9j ]]
+OBJECT:	[[ CYBER VELMA DINKLEY | /m/03r0h4 ]]
+SUBJECT PATH: SUBJECT -> was
+OBJECT  PATH: OBJECT -> was
+was
+
+
+The role of OBJECT was originated by SUBJECT in the original, ENTITY1 series.
+SUBJECT:	[[ NICOLE JAFFE | /m/07cn9j ]]
+OBJECT:	[[ CYBER VELMA DINKLEY | /m/03r0h4 ]]
+ENTITY1:	[[ SCOOBY DOO, WHERE ARE YOU | /m/07rjc7 ]]
+SUBJECT PATH: SUBJECT -> by -> originated
+OBJECT  PATH: OBJECT -> of -> role -> originated
+originated
+
+
+(This was also when SUBJECT , the first voice for OBJECT disappeared from ENTITY1 )
+SUBJECT:	[[ NICOLE JAFFE | /m/07cn9j ]]
+OBJECT:	[[ CYBER VELMA DINKLEY | /m/03r0h4 ]]
+ENTITY1:	[[ HANNA BARBERA | /m/0fmm8 ]]
+SUBJECT PATH: SUBJECT -> was
+OBJECT  PATH: OBJECT -> for -> voice -> SUBJECT -> was
+SUBJECT
+
+
+Group leader OBJECT was played by SUBJECT , while ENTITY1 voiced the intellectual ENTITY2 
+SUBJECT:	[[ FRANK WELKER | /m/02gf_l ]]
+OBJECT:	[[ FRED JONES | /m/04bw_2 ]]
+ENTITY1:	[[ NICOLE JAFFE | /m/07cn9j ]]
+ENTITY2:	[[ VELMA | /m/03r0h4 ]]
+SUBJECT PATH: SUBJECT -> by -> played
+OBJECT  PATH: OBJECT -> played
+played
+
+
+SUBJECT plays OBJECT , looking and acting like a rubber-faced cartoon handsome prince
+SUBJECT:	[[ JAMES MARSDEN | /m/042ly5 ]]
+OBJECT:	[[ PRINCE EDWARD | /m/02nwdm3 ]]
+SUBJECT PATH: SUBJECT -> plays
+OBJECT  PATH: OBJECT -> plays
+plays
+
+
+SUBJECT is funny as the clueless OBJECT and ENTITY1 captures the evil that becomes the villainous ENTITY2 .
+SUBJECT:	[[ JAMES MARSDEN | /m/042ly5 ]]
+OBJECT:	[[ PRINCE EDWARD | /m/02nwdm3 ]]
+ENTITY1:	[[ SUSAN SARANDON | /m/01vwllw ]]
+ENTITY2:	[[ QUEEN | /m/0d1_f ]]
+SUBJECT PATH: SUBJECT -> is
+OBJECT  PATH: OBJECT -> captures -> is
+is
+
+
+SUBJECT is hilarious as OBJECT 
+SUBJECT:	[[ JAMES MARSDEN | /m/042ly5 ]]
+OBJECT:	[[ PRINCE EDWARD | /m/02nwdm3 ]]
+SUBJECT PATH: SUBJECT -> is
+OBJECT  PATH: OBJECT -> as -> hilarious -> is
+is
+
+
+SUBJECT fantastically plays OBJECT , ENTITY1 ?s love in her fairy tale world
+SUBJECT:	[[ JAMES MARSDEN | /m/042ly5 ]]
+OBJECT:	[[ PRINCE EDWARD | /m/02nwdm3 ]]
+ENTITY1:	[[ GISELLE | /m/02vnzhs ]]
+SUBJECT PATH: SUBJECT -> fantastically -> plays
+OBJECT  PATH: OBJECT -> plays
+plays
+
+
+SUBJECT , who played OBJECT in the film, was on ENTITY1 and Kelly yesterday
+SUBJECT:	[[ JAMES MARSDEN | /m/042ly5 ]]
+OBJECT:	[[ PRINCE EDWARD | /m/02nwdm3 ]]
+ENTITY1:	[[ REGIS | /m/03f1r6t ]]
+SUBJECT PATH: SUBJECT -> was
+OBJECT  PATH: OBJECT -> played -> SUBJECT -> was
+SUBJECT
+
+
+While ENTITY1 is delightful, and SUBJECT plays OBJECT with a fine comedic style the movie still feels too formulaic
+SUBJECT:	[[ JAMES MARSDEN | /m/042ly5 ]]
+OBJECT:	[[ PRINCE EDWARD | /m/02nwdm3 ]]
+ENTITY1:	[[ AMY ADAMS | /m/0b25vg ]]
+SUBJECT PATH: SUBJECT -> plays -> is
+OBJECT  PATH: OBJECT -> plays -> is
+plays
+
+
+SUBJECT , who plays OBJECT , stars in , and the movie, , based off the Broadway Production.
+SUBJECT:	[[ JAMES MARSDEN | /m/042ly5 ]]
+OBJECT:	[[ PRINCE EDWARD | /m/02nwdm3 ]]
+SUBJECT PATH: SUBJECT
+OBJECT  PATH: OBJECT -> plays -> SUBJECT
+SUBJECT
+
+
+However, the true find of this flick is SUBJECT , who plays OBJECT .
+SUBJECT:	[[ JAMES MARSDEN | /m/042ly5 ]]
+OBJECT:	[[ PRINCE EDWARD | /m/02nwdm3 ]]
+SUBJECT PATH: SUBJECT -> is
+OBJECT  PATH: OBJECT -> plays -> SUBJECT -> is
+SUBJECT
+
+
+SUBJECT of ENTITY1 and the recent ENTITY2 plays the perfect OBJECT , singing his way to boastful perfection.
+SUBJECT:	[[ JAMES MARSDEN | /m/042ly5 ]]
+OBJECT:	[[ PRINCE EDWARD | /m/02nwdm3 ]]
+ENTITY1:	[[ X-MEN | /m/0d90m ]]
+ENTITY2:	[[ SUPERMAN RETURNS | /m/044g_k ]]
+SUBJECT PATH: SUBJECT -> plays
+OBJECT  PATH: OBJECT -> plays
+plays
+
+
+The intra-band dynamic and cross-generational hijinks intrigued SUBJECT , who portrays OBJECT .
+SUBJECT:	[[ EMMA STONE | /m/09yhzs ]]
+OBJECT:	[[ AMELIA | /m/0gklzyp ]]
+SUBJECT PATH: SUBJECT -> intrigued
+OBJECT  PATH: OBJECT -> portrays -> SUBJECT -> intrigued
+SUBJECT
+
+
+SUBJECT delivers a solid performance as the perpetually dour OBJECT , and ENTITY1 's delightful awkwardness is splendid
+SUBJECT:	[[ EMMA STONE | /m/09yhzs ]]
+OBJECT:	[[ AMELIA | /m/0gklzyp ]]
+ENTITY1:	[[ GAD | /m/02w7dfv ]]
+SUBJECT PATH: SUBJECT -> delivers
+OBJECT  PATH: OBJECT -> as -> performance -> delivers
+delivers
+
+
+Unfortunately SUBJECT 's character OBJECT doesn't have a t-shirt yet but hopefully that will be fixed soon
+SUBJECT:	[[ HAYDEN CHRISTENSEN | /m/0f276 ]]
+OBJECT:	[[ JAMMER | /m/07z7z9l ]]
+SUBJECT PATH: SUBJECT -> OBJECT -> have
+OBJECT  PATH: OBJECT -> have
+OBJECT
+
+
+SUBJECT played OBJECT who taught ENTITY1 , played by ENTITY2 , the ropes of pool hustling
+SUBJECT:	[[ PAUL NEWMAN | /m/0d6d2 ]]
+OBJECT:	[[ EDDIE FELSON | /m/02nwpbm ]]
+ENTITY1:	[[ VINCENT LAURIA | /m/04jt3kw ]]
+ENTITY2:	[[ TOM CRUISE | /m/07r1h ]]
+SUBJECT PATH: SUBJECT -> OBJECT
+OBJECT  PATH: OBJECT
+OBJECT
+
+
+Actor ENTITY1 plays the painter while SUBJECT plays his sensual muse OBJECT .
+SUBJECT:	[[ NANDANA SEN | /m/0ff6p1 ]]
+OBJECT:	[[ SUGANDHA | /m/0h4zgk2 ]]
+ENTITY1:	[[ RANDEEP HOODA | /m/02ps3y3 ]]
+SUBJECT PATH: SUBJECT -> plays -> plays
+OBJECT  PATH: OBJECT -> plays -> plays
+plays
+
+
+SUBJECT plays OBJECT in ENTITY1 , a news reporter
+SUBJECT:	[[ ANTHONY MICHAEL HALL | /m/01jvs4 ]]
+OBJECT:	[[ MIKE ENGEL | /m/0c04km6 ]]
+ENTITY1:	[[ TDK | /m/04d6nb4 ]]
+SUBJECT PATH: SUBJECT -> plays
+OBJECT  PATH: OBJECT -> plays
+plays
+
+
+In 2008, SUBJECT appeared as ENTITY1 television reporter/anchor OBJECT in ENTITY2 
+SUBJECT:	[[ ANTHONY MICHAEL HALL | /m/01jvs4 ]]
+OBJECT:	[[ MIKE ENGEL | /m/0c04km6 ]]
+ENTITY1:	[[ GOTHAM CITY | /m/03fdg ]]
+ENTITY2:	[[ THE DARK KNIGHT | /m/0btpm6 ]]
+SUBJECT PATH: SUBJECT -> appeared
+OBJECT  PATH: OBJECT -> as -> appeared
+appeared
+
+
+SUBJECT  plays OBJECT , once a high-school hockey star from a wealthy family.
+SUBJECT:	[[ JOSEPH GORDON-LEVITT | /m/05zbm4 ]]
+OBJECT:	[[ CHRIS PRATT | /m/02nwpt8 ]]
+SUBJECT PATH: SUBJECT -> plays -> OBJECT
+OBJECT  PATH: OBJECT
+OBJECT
+
+
+SUBJECT plays OBJECT .
+SUBJECT:	[[ JOSEPH GORDON-LEVITT | /m/05zbm4 ]]
+OBJECT:	[[ CHRIS PRATT | /m/02nwpt8 ]]
+SUBJECT PATH: SUBJECT -> plays
+OBJECT  PATH: OBJECT -> plays
+plays
+
+
+ Behind the Mind of OBJECT   focuses on SUBJECT 's preparation for the role and how he approached the character
+SUBJECT:	[[ JOSEPH GORDON-LEVITT | /m/05zbm4 ]]
+OBJECT:	[[ CHRIS PRATT | /m/02nwpt8 ]]
+SUBJECT PATH: SUBJECT -> preparation -> on -> focuses
+OBJECT  PATH: OBJECT -> of -> Mind -> Behind -> focuses
+focuses
+
+
+SUBJECT  plays OBJECT , once a high-school hockey star from a wealthy family
+SUBJECT:	[[ JOSEPH GORDON-LEVITT | /m/05zbm4 ]]
+OBJECT:	[[ CHRIS PRATT | /m/02nwpt8 ]]
+SUBJECT PATH: SUBJECT -> plays -> OBJECT
+OBJECT  PATH: OBJECT
+OBJECT
+
+
+As expected, SUBJECT 's performance as OBJECT was brilliant  but the movie itself was missing something.
+SUBJECT:	[[ JOSEPH GORDON-LEVITT | /m/05zbm4 ]]
+OBJECT:	[[ CHRIS PRATT | /m/02nwpt8 ]]
+SUBJECT PATH: SUBJECT -> performance -> was
+OBJECT  PATH: OBJECT -> as -> performance -> was
+performance
+
+
+SUBJECT plays OBJECT , a young man whose life changes after a car accident.
+SUBJECT:	[[ JOSEPH GORDON-LEVITT | /m/05zbm4 ]]
+OBJECT:	[[ CHRIS PRATT | /m/02nwpt8 ]]
+SUBJECT PATH: SUBJECT -> plays
+OBJECT  PATH: OBJECT -> plays
+plays
+
+
+SUBJECT was good as OBJECT but co-star ENTITY1 was even better as Gary.
+SUBJECT:	[[ JOSEPH GORDON-LEVITT | /m/05zbm4 ]]
+OBJECT:	[[ CHRIS PRATT | /m/02nwpt8 ]]
+ENTITY1:	[[ MATTHEW GOODE | /m/062rt0 ]]
+SUBJECT PATH: SUBJECT -> was
+OBJECT  PATH: OBJECT -> as -> good -> was
+was
+
+
+SUBJECT plays OBJECT , a young man suffering from brain damage  sustained in a fatal car accident.
+SUBJECT:	[[ JOSEPH GORDON-LEVITT | /m/05zbm4 ]]
+OBJECT:	[[ CHRIS PRATT | /m/02nwpt8 ]]
+SUBJECT PATH: SUBJECT -> plays
+OBJECT  PATH: OBJECT -> plays
+plays
+
+
+The unfamiliar comes from OBJECT played by the aforementioned SUBJECT 
+SUBJECT:	[[ JOSEPH GORDON-LEVITT | /m/05zbm4 ]]
+OBJECT:	[[ CHRIS PRATT | /m/02nwpt8 ]]
+SUBJECT PATH: SUBJECT -> by -> played -> OBJECT -> from -> comes
+OBJECT  PATH: OBJECT -> from -> comes
+OBJECT
+
+
+SUBJECT 's character, OBJECT , is therefore both an  everyman  and a modern ENTITY1 
+SUBJECT:	[[ PAUL HOGAN | /m/033b_b ]]
+OBJECT:	[[ MICHAEL "CROCODILE" DUNDEE | /m/02qlsxl ]]
+ENTITY1:	[[ TARZAN | /m/07lk3 ]]
+SUBJECT PATH: SUBJECT -> character -> is
+OBJECT  PATH: OBJECT -> character -> is
+character
+
+
+ENTITY1 actor SUBJECT , better known as OBJECT from the popular ENTITY2 movies, apparently has tax problems in ENTITY1 
+SUBJECT:	[[ PAUL HOGAN | /m/033b_b ]]
+OBJECT:	[[ MICHAEL "CROCODILE" DUNDEE | /m/02qlsxl ]]
+ENTITY1:	[[ AUSTRALIAN | /m/0chghy ]]
+ENTITY2:	[[ CROCODILE DUNDEE | /m/01wzyq ]]
+SUBJECT PATH: SUBJECT -> has
+OBJECT  PATH: OBJECT -> as -> known -> SUBJECT -> has
+SUBJECT
+
+
+Synopsis The first two comedy adventures for SUBJECT 's fish-out-of-water OBJECT .
+SUBJECT:	[[ PAUL HOGAN | /m/033b_b ]]
+OBJECT:	[[ MICHAEL "CROCODILE" DUNDEE | /m/02qlsxl ]]
+SUBJECT PATH: SUBJECT -> OBJECT -> for -> adventures -> Synopsis
+OBJECT  PATH: OBJECT -> for -> adventures -> Synopsis
+OBJECT
+
+
+SUBJECT 's rogue, OBJECT , introduced the larrikin to the world in 1986
+SUBJECT:	[[ PAUL HOGAN | /m/033b_b ]]
+OBJECT:	[[ MICHAEL "CROCODILE" DUNDEE | /m/02qlsxl ]]
+SUBJECT PATH: SUBJECT -> rogue -> introduced
+OBJECT  PATH: OBJECT -> rogue -> introduced
+rogue
+
+
+For better or for worse, SUBJECT became typecast as OBJECT 
+SUBJECT:	[[ PAUL HOGAN | /m/033b_b ]]
+OBJECT:	[[ MICHAEL "CROCODILE" DUNDEE | /m/02qlsxl ]]
+SUBJECT PATH: SUBJECT -> became
+OBJECT  PATH: OBJECT -> as -> typecast -> became
+became
+
+
+  SUBJECT returns as OBJECT in this second sequel to the hit 1986 fish-out-of-water comedy.
+SUBJECT:	[[ PAUL HOGAN | /m/033b_b ]]
+OBJECT:	[[ MICHAEL "CROCODILE" DUNDEE | /m/02qlsxl ]]
+SUBJECT PATH: SUBJECT -> returns
+OBJECT  PATH: OBJECT -> as -> returns
+returns
+
+
+Summary: SUBJECT returns as the famous OBJECT in this third film of the   ENTITY1   franchise
+SUBJECT:	[[ PAUL HOGAN | /m/033b_b ]]
+OBJECT:	[[ MICHAEL "CROCODILE" DUNDEE | /m/02qlsxl ]]
+ENTITY1:	[[ CROCODILE DUNDEE | /m/01wzyq ]]
+SUBJECT PATH: SUBJECT -> returns
+OBJECT  PATH: OBJECT -> as -> returns
+returns
+
+
+ENTITY1 actor SUBJECT , better known as OBJECT from..
+SUBJECT:	[[ PAUL HOGAN | /m/033b_b ]]
+OBJECT:	[[ MICHAEL "CROCODILE" DUNDEE | /m/02qlsxl ]]
+ENTITY1:	[[ AUSTRALIAN | /m/0chghy ]]
+SUBJECT PATH: SUBJECT
+OBJECT  PATH: OBJECT -> as -> known -> SUBJECT
+SUBJECT
+
+
+OBJECT was written for SUBJECT in part by SUBJECT in order to feature that persona
+SUBJECT:	[[ PAUL HOGAN | /m/033b_b ]]
+OBJECT:	[[ MICHAEL "CROCODILE" DUNDEE | /m/02qlsxl ]]
+SUBJECT PATH: SUBJECT -> by -> part -> in -> written
+OBJECT  PATH: OBJECT -> written
+written
+
+
+SUBJECT plays OBJECT , ENTITY1 's lovable, but not quite personable sidekick
+SUBJECT:	[[ DANA CARVEY | /m/0pz04 ]]
+OBJECT:	[[ GARTH ALGAR | /m/04fw3l6 ]]
+ENTITY1:	[[ WAYNE | /m/02nwvf7 ]]
+SUBJECT PATH: SUBJECT -> plays
+OBJECT  PATH: OBJECT -> plays
+plays
+
+
+SUBJECT 's nerdy character OBJECT in the ENTITY1 comedy sketches and movies is based on his brother
+SUBJECT:	[[ DANA CARVEY | /m/0pz04 ]]
+OBJECT:	[[ GARTH ALGAR | /m/04fw3l6 ]]
+ENTITY1:	[[ WAYNE'S WORLD | /m/0kbwb ]]
+SUBJECT PATH: SUBJECT -> OBJECT -> based
+OBJECT  PATH: OBJECT -> based
+OBJECT
+
+
+In Guy, SUBJECT plays OBJECT , a dude who faces impending nuptials
+SUBJECT:	[[ JASON LEE | /m/034np8 ]]
+OBJECT:	[[ PAUL | /m/0gcs3mp ]]
+SUBJECT PATH: SUBJECT -> plays
+OBJECT  PATH: OBJECT -> plays
+plays
+
+
+SUBJECT stars as OBJECT , a happy-go-lucky, decent sort of chap, engaged to ENTITY1 .
+SUBJECT:	[[ JASON LEE | /m/034np8 ]]
+OBJECT:	[[ PAUL | /m/0gcs3mp ]]
+ENTITY1:	[[ KAREN | /m/0gcs3ky ]]
+SUBJECT PATH: SUBJECT -> stars -> engaged
+OBJECT  PATH: OBJECT -> as -> stars -> engaged
+stars
+
+
+ENTITY1 ?s friend OBJECT is played by the veteran ENTITY2 actor SUBJECT 
+SUBJECT:	[[ RICHARD TODD | /m/0147bj ]]
+OBJECT:	[[ BASIL HALLWARD | /m/03t840 ]]
+ENTITY1:	[[ DORIAN | /m/0bmfx6l ]]
+ENTITY2:	[[ BRITISH | /m/07ssc ]]
+SUBJECT PATH: SUBJECT -> actor -> by -> played
+OBJECT  PATH: OBJECT -> played
+played
+
+
+Playing  two roles , SUBJECT is wonderful as OBJECT and in his shy, virgin-like disguise as  Dr
+SUBJECT:	[[ ROCK HUDSON | /m/015dcj ]]
+OBJECT:	[[ JERRY WEBSTER | /m/0h36vt2 ]]
+SUBJECT PATH: SUBJECT -> is
+OBJECT  PATH: OBJECT -> as -> wonderful -> is
+is
+
+
+accent, SUBJECT 's OBJECT may remind viewers of a more assertive ENTITY1 from ENTITY2 
+SUBJECT:	[[ SUSIE ESSMAN | /m/06zyt3 ]]
+OBJECT:	[[ MITTENS | /m/05v4ql4 ]]
+ENTITY1:	[[ JESSIE | /m/0dr9dc ]]
+ENTITY2:	[[ TOY STORY 2 | /m/01xdxy ]]
+SUBJECT PATH: SUBJECT -> OBJECT -> remind
+OBJECT  PATH: OBJECT -> remind
+OBJECT
+
+
+ENTITY1 is also great as ENTITY2 , but the real scene-stealer is SUBJECT as OBJECT .
+SUBJECT:	[[ MARK WALTON | /m/04yd5c_ ]]
+OBJECT:	[[ RHINO | /m/05v4qkp ]]
+ENTITY1:	[[ SUSSIE ESSMAN | /m/06zyt3 ]]
+ENTITY2:	[[ MITTENS | /m/05v4ql4 ]]
+SUBJECT PATH: SUBJECT -> is -> is
+OBJECT  PATH: OBJECT -> as -> SUBJECT -> is -> is
+SUBJECT
+
+
+SUBJECT was great as OBJECT and gave her a lot of emotion.
+SUBJECT:	[[ SUSIE ESSMAN | /m/06zyt3 ]]
+OBJECT:	[[ MITTENS | /m/05v4ql4 ]]
+SUBJECT PATH: SUBJECT -> was
+OBJECT  PATH: OBJECT -> as -> great -> was
+was
+
+
+OBJECT 's voice is performed by SUBJECT , the voice actor for ENTITY1 
+SUBJECT:	[[ KAPPEI YAMAGUCHI | /m/02v92l ]]
+OBJECT:	[[ CONAN EDOGAWA | /m/0409pl ]]
+ENTITY1:	[[ RANMA | /m/06kgx ]]
+SUBJECT PATH: SUBJECT -> by -> performed
+OBJECT  PATH: OBJECT -> voice -> performed
+performed
+
+
+Alongside him, ENTITY1 takes the female lead, while SUBJECT stars as OBJECT 
+SUBJECT:	[[ DEREK MEARS | /m/05h41sp ]]
+OBJECT:	[[ JASON VOORHEES | /m/01wmhq ]]
+ENTITY1:	[[ AMANDA RIGHETTI | /m/04zz22 ]]
+SUBJECT PATH: SUBJECT -> stars -> while -> takes
+OBJECT  PATH: OBJECT -> as -> stars -> while -> takes
+stars
+
+
+- SUBJECT is the new OBJECT
+SUBJECT:	[[ DEREK MEARS | /m/05h41sp ]]
+OBJECT:	[[ JASON VOORHEES | /m/01wmhq ]]
+SUBJECT PATH: SUBJECT -> is
+OBJECT  PATH: OBJECT -> is
+is
+
+
+However, while SUBJECT does the part of OBJECT justice, he doesnt make any improvements to the role.
+SUBJECT:	[[ DEREK MEARS | /m/05h41sp ]]
+OBJECT:	[[ JASON VOORHEES | /m/01wmhq ]]
+SUBJECT PATH: SUBJECT -> does -> make
+OBJECT  PATH: OBJECT -> justice -> of -> part -> does -> make
+does
+
+
+Nothing against ENTITY1 , but I believe SUBJECT was the ultimate OBJECT .
+SUBJECT:	[[ KANE HODDER | /m/033xr_ ]]
+OBJECT:	[[ JASON VOORHEES | /m/01wmhq ]]
+ENTITY1:	[[ DEREK MEARS | /m/05h41sp ]]
+SUBJECT PATH: SUBJECT -> was -> believe -> Nothing
+OBJECT  PATH: OBJECT -> was -> believe -> Nothing
+was
+
+
+SUBJECT stars as OBJECT in ENTITY1 s upcoming release, ENTITY2 .
+SUBJECT:	[[ DEREK MEARS | /m/05h41sp ]]
+OBJECT:	[[ JASON VOORHEES | /m/01wmhq ]]
+ENTITY1:	[[ NEW LINE CINEMA | /m/024rgt ]]
+ENTITY2:	[[ FRIDAY THE 13TH | /m/04czgnm ]]
+SUBJECT PATH: SUBJECT -> stars
+OBJECT  PATH: OBJECT -> as -> stars
+stars
+
+
+ In no way is OBJECT a martial-arts character,  SUBJECT said.
+SUBJECT:	[[ DEREK MEARS | /m/05h41sp ]]
+OBJECT:	[[ JASON VOORHEES | /m/01wmhq ]]
+SUBJECT PATH: SUBJECT -> said
+OBJECT  PATH: OBJECT -> is -> said
+said
+
+
+Friday was lean and slick, and SUBJECT was very good as OBJECT .
+SUBJECT:	[[ DEREK MEARS | /m/05h41sp ]]
+OBJECT:	[[ JASON VOORHEES | /m/01wmhq ]]
+SUBJECT PATH: SUBJECT -> was -> was
+OBJECT  PATH: OBJECT -> as -> good -> was -> was
+was
+
+
+SUBJECT plays OBJECT in the newest  Friday the 13th  movie released Friday
+SUBJECT:	[[ DEREK MEARS | /m/05h41sp ]]
+OBJECT:	[[ JASON VOORHEES | /m/01wmhq ]]
+SUBJECT PATH: SUBJECT -> plays
+OBJECT  PATH: OBJECT -> plays
+plays
+
+
+It's not what I expected in my mind...but I think SUBJECT will put the fear in OBJECT again.
+SUBJECT:	[[ DEREK MEARS | /m/05h41sp ]]
+OBJECT:	[[ JASON VOORHEES | /m/01wmhq ]]
+SUBJECT PATH: SUBJECT -> put -> think
+OBJECT  PATH: OBJECT -> in -> put -> think
+put
+
+
+3375 x 1906 SUBJECT stars as OBJECT in ENTITY1 ' Friday the 13th .
+SUBJECT:	[[ DEREK MEARS | /m/05h41sp ]]
+OBJECT:	[[ JASON VOORHEES | /m/01wmhq ]]
+ENTITY1:	[[ PARAMOUNT PICTURES | /m/05qd_ ]]
+SUBJECT PATH: SUBJECT -> stars
+OBJECT  PATH: OBJECT -> as -> stars
+stars
+
+
+SUBJECT , who plays OBJECT  says his OBJECT is not as lethargic, but quicker and smarter.
+SUBJECT:	[[ DEREK MEARS | /m/05h41sp ]]
+OBJECT:	[[ JASON VOORHEES | /m/01wmhq ]]
+SUBJECT PATH: SUBJECT -> says
+OBJECT  PATH: OBJECT -> is -> says
+says
+
+
+SUBJECT stars as OBJECT in 'Friday the 13th'.
+SUBJECT:	[[ DEREK MEARS | /m/05h41sp ]]
+OBJECT:	[[ JASON VOORHEES | /m/01wmhq ]]
+SUBJECT PATH: SUBJECT -> stars
+OBJECT  PATH: OBJECT -> as -> stars
+stars
+
+
+( SUBJECT , who plays OBJECT ).
+SUBJECT:	[[ DEREK MEARS | /m/05h41sp ]]
+OBJECT:	[[ JASON VOORHEES | /m/01wmhq ]]
+SUBJECT PATH: SUBJECT
+OBJECT  PATH: OBJECT -> plays -> SUBJECT
+SUBJECT
+
+
+According to ComingSoon.net, SUBJECT has been cast as OBJECT in ENTITY1 and ENTITY2 ' new Friday the 13th movie
+SUBJECT:	[[ DEREK MEARS | /m/05h41sp ]]
+OBJECT:	[[ JASON VOORHEES | /m/01wmhq ]]
+ENTITY1:	[[ NEW LINE CINEMA | /m/024rgt ]]
+ENTITY2:	[[ PLATINUM DUNES | /m/04ljn9w ]]
+SUBJECT PATH: SUBJECT -> cast
+OBJECT  PATH: OBJECT -> as -> cast
+cast
+
+
+SUBJECT stars as OBJECT in a scene from the 2009 version of 1980's  Friday the 13th. 
+SUBJECT:	[[ DEREK MEARS | /m/05h41sp ]]
+OBJECT:	[[ JASON VOORHEES | /m/01wmhq ]]
+SUBJECT PATH: SUBJECT -> stars
+OBJECT  PATH: OBJECT -> as -> stars
+stars
+
+
+SUBJECT stars as OBJECT in 'Friday the 13th
+SUBJECT:	[[ DEREK MEARS | /m/05h41sp ]]
+OBJECT:	[[ JASON VOORHEES | /m/01wmhq ]]
+SUBJECT PATH: SUBJECT -> stars
+OBJECT  PATH: OBJECT -> as -> stars
+stars
+
+
+SUBJECT stars as OBJECT .
+SUBJECT:	[[ DEREK MEARS | /m/05h41sp ]]
+OBJECT:	[[ JASON VOORHEES | /m/01wmhq ]]
+SUBJECT PATH: SUBJECT -> stars
+OBJECT  PATH: OBJECT -> as -> stars
+stars
+
+
+Even without the OBJECT get-up, SUBJECT is a scary looking dude 
+SUBJECT:	[[ DEREK MEARS | /m/05h41sp ]]
+OBJECT:	[[ JASON VOORHEES | /m/01wmhq ]]
+SUBJECT PATH: SUBJECT -> is
+OBJECT  PATH: OBJECT -> up -> without -> is
+is
+
+
+Alongside him, ENTITY1 takes the female lead, while SUBJECT stars as OBJECT .
+SUBJECT:	[[ DEREK MEARS | /m/05h41sp ]]
+OBJECT:	[[ JASON VOORHEES | /m/01wmhq ]]
+ENTITY1:	[[ AMANDA RIGHETTI | /m/04zz22 ]]
+SUBJECT PATH: SUBJECT -> stars -> while -> takes
+OBJECT  PATH: OBJECT -> as -> stars -> while -> takes
+stars
+
+
+- Stunt man SUBJECT  plays the infamous OBJECT 
+SUBJECT:	[[ DEREK MEARS | /m/05h41sp ]]
+OBJECT:	[[ JASON VOORHEES | /m/01wmhq ]]
+SUBJECT PATH: SUBJECT -> man -> plays
+OBJECT  PATH: OBJECT -> plays
+plays
+
+
+The upcoming re-imagining of OBJECT stars SUBJECT 
+SUBJECT:	[[ DEREK MEARS | /m/05h41sp ]]
+OBJECT:	[[ JASON VOORHEES | /m/01wmhq ]]
+SUBJECT PATH: SUBJECT -> stars -> of -> imagining
+OBJECT  PATH: OBJECT -> stars -> of -> imagining
+stars
+
+
+SUBJECT stars as OBJECT in  Friday the 13th. 
+SUBJECT:	[[ DEREK MEARS | /m/05h41sp ]]
+OBJECT:	[[ JASON VOORHEES | /m/01wmhq ]]
+SUBJECT PATH: SUBJECT -> stars
+OBJECT  PATH: OBJECT -> as -> stars
+stars
+
+
+I hope for the best and with ENTITY1 directing and SUBJECT playing the part as OBJECT
+SUBJECT:	[[ DEREK MEARS | /m/05h41sp ]]
+OBJECT:	[[ JASON VOORHEES | /m/01wmhq ]]
+ENTITY1:	[[ MARCUS NISPEL | /m/03lx5n ]]
+SUBJECT PATH: SUBJECT -> directing -> playing -> with -> for -> hope
+OBJECT  PATH: OBJECT -> as -> part -> playing -> with -> for -> hope
+playing
+
+
+Source: Latino Review ( SUBJECT , who plays OBJECT ).
+SUBJECT:	[[ DEREK MEARS | /m/05h41sp ]]
+OBJECT:	[[ JASON VOORHEES | /m/01wmhq ]]
+SUBJECT PATH: SUBJECT -> Review
+OBJECT  PATH: OBJECT -> plays -> SUBJECT -> Review
+SUBJECT
+
+
+Guido's wife, OBJECT , is played by ENTITY1 's real-life wife, SUBJECT .
+SUBJECT:	[[ NICOLETTA BRASCHI | /m/07bp3c ]]
+OBJECT:	[[ DORA | /m/0gkhh59 ]]
+ENTITY1:	[[ ROBERTO BENIGNI | /m/01tt43d ]]
+SUBJECT PATH: SUBJECT -> wife -> by -> played
+OBJECT  PATH: OBJECT -> wife -> played
+played
+
+
+ENTITY1 plays the role of Guido while his real-life wife, SUBJECT , co-stars as OBJECT .
+SUBJECT:	[[ NICOLETTA BRASCHI | /m/07bp3c ]]
+OBJECT:	[[ DORA | /m/0gkhh59 ]]
+ENTITY1:	[[ BENIGNI | /m/01tt43d ]]
+SUBJECT PATH: SUBJECT -> wife -> while -> plays
+OBJECT  PATH: OBJECT -> as -> stars -> wife -> while -> plays
+wife
+
+
+OBJECT played by SUBJECT is the fourth villain of ENTITY1 .
+SUBJECT:	[[ ALAN CUMMING | /m/01cwcr ]]
+OBJECT:	[[ BORIS GRISHENKO | /m/06t21_ ]]
+ENTITY1:	[[ GOLDENEYE | /m/01npcx ]]
+SUBJECT PATH: SUBJECT -> by -> played -> OBJECT -> is
+OBJECT  PATH: OBJECT -> is
+OBJECT
+
+
+On the big screen, SUBJECT earned an ENTITY1 for her riveting portrayal of lonely ENTITY2 housewife OBJECT in 
+SUBJECT:	[[ CLORIS LEACHMAN | /m/02l3_5 ]]
+OBJECT:	[[ RUTH POPPER | /m/05nf6sq ]]
+ENTITY1:	[[ OSCAR | /m/0g_w ]]
+ENTITY2:	[[ TEXAS | /m/07b_l ]]
+SUBJECT PATH: SUBJECT -> earned
+OBJECT  PATH: OBJECT -> of -> portrayal -> for -> earned
+earned
+
+
+(okay, SUBJECT actually looks like OBJECT too.).
+SUBJECT:	[[ TOMOKAZU SUGITA | /m/01v2b93 ]]
+OBJECT:	[[ KYON | /m/02pgnzp ]]
+SUBJECT PATH: SUBJECT -> looks
+OBJECT  PATH: OBJECT -> like -> looks
+looks
+
+
+SUBJECT is just perfect as OBJECT ...
+SUBJECT:	[[ TOMOKAZU SUGITA | /m/01v2b93 ]]
+OBJECT:	[[ KYON | /m/02pgnzp ]]
+SUBJECT PATH: SUBJECT -> is
+OBJECT  PATH: OBJECT -> as -> perfect -> is
+is
+
+
+SUBJECT is frightening as OBJECT , who kills ENTITY1 for pleasure, yet has a fetish for his ENTITY1 maid 
+SUBJECT:	[[ RALPH FIENNES | /m/0170qf ]]
+OBJECT:	[[ AMON GOETH | /m/0gydcmz ]]
+ENTITY1:	[[ JEWS | /m/041rx ]]
+SUBJECT PATH: SUBJECT -> is
+OBJECT  PATH: OBJECT -> as -> frightening -> is
+is
+
+
+OBJECT played by SUBJECT appears in ENTITY1 and ENTITY2 
+SUBJECT:	[[ ROBBIE COLTRANE | /m/06ltr ]]
+OBJECT:	[[ VALENTIN DMITROVICH ZUKOVSKY | /m/0dj97v ]]
+ENTITY1:	[[ GOLDENEYE | /m/01npcx ]]
+ENTITY2:	[[ THE WORLD IS NOT ENOUGH | /m/0164qt ]]
+SUBJECT PATH: SUBJECT -> by -> played -> OBJECT -> appears
+OBJECT  PATH: OBJECT -> appears
+OBJECT
+
+
+SUBJECT 's final original work as OBJECT came in the ENTITY1 ENTITY2 spoof,  Person to Bunny  
+SUBJECT:	[[ ARTHUR Q. BRYAN | /m/01hkg9 ]]
+OBJECT:	[[ ELMER FUDD | /m/0mz80 ]]
+ENTITY1:	[[ WARNER BROS. | /m/086k8 ]]
+ENTITY2:	[[ EDWARD R. MURROW | /m/014428 ]]
+SUBJECT PATH: SUBJECT -> work
+OBJECT  PATH: OBJECT -> came -> work
+work
+
+
+First came the real-life deaths of OBJECT actor SUBJECT 
+SUBJECT:	[[ ARTHUR Q. BRYAN | /m/01hkg9 ]]
+OBJECT:	[[ ELMER FUDD | /m/0mz80 ]]
+SUBJECT PATH: SUBJECT -> actor -> of -> deaths -> came
+OBJECT  PATH: OBJECT -> actor -> of -> deaths -> came
+actor
+
+
+(although SUBJECT voiced OBJECT ).
+SUBJECT:	[[ ARTHUR Q. BRYAN | /m/01hkg9 ]]
+OBJECT:	[[ ELMER FUDD | /m/0mz80 ]]
+SUBJECT PATH: SUBJECT -> voiced
+OBJECT  PATH: OBJECT -> voiced
+voiced
+
+
+In one though ?  The Bugs Bunny Easter Song  ? SUBJECT does OBJECT
+SUBJECT:	[[ ARTHUR Q. BRYAN | /m/01hkg9 ]]
+OBJECT:	[[ ELMER FUDD | /m/0mz80 ]]
+SUBJECT PATH: SUBJECT -> does
+OBJECT  PATH: OBJECT -> does
+does
+
+
+( SUBJECT , who also voiced OBJECT in the ENTITY1 cartoons)
+SUBJECT:	[[ ARTHUR Q. BRYAN | /m/01hkg9 ]]
+OBJECT:	[[ ELMER FUDD | /m/0mz80 ]]
+ENTITY1:	[[ LOONEY TUNES | /m/0d9l1 ]]
+SUBJECT PATH: SUBJECT
+OBJECT  PATH: OBJECT -> voiced -> SUBJECT
+SUBJECT
+
+
+SUBJECT nearly always voiced OBJECT , but he was not once credited
+SUBJECT:	[[ ARTHUR Q. BRYAN | /m/01hkg9 ]]
+OBJECT:	[[ ELMER FUDD | /m/0mz80 ]]
+SUBJECT PATH: SUBJECT -> voiced
+OBJECT  PATH: OBJECT -> voiced
+voiced
+
+
+(and SUBJECT , the voice of OBJECT , to play OBJECT )
+SUBJECT:	[[ ARTHUR Q. BRYAN | /m/01hkg9 ]]
+OBJECT:	[[ ELMER FUDD | /m/0mz80 ]]
+SUBJECT PATH: SUBJECT
+OBJECT  PATH: OBJECT -> play -> SUBJECT
+SUBJECT
+
+
+Voices are by SUBJECT , except OBJECT was voiced by ENTITY1 .
+SUBJECT:	[[ MEL BLANC | /m/0c5vh ]]
+OBJECT:	[[ ELMER FUDD | /m/0mz80 ]]
+ENTITY1:	[[ ARTHUR Q. BRYAN | /m/01hkg9 ]]
+SUBJECT PATH: SUBJECT -> by -> are
+OBJECT  PATH: OBJECT -> voiced -> are
+are
+
+
+After ENTITY1 died in 1959, SUBJECT became the main voice of OBJECT 
+SUBJECT:	[[ MEL BLANC | /m/0c5vh ]]
+OBJECT:	[[ ELMER FUDD | /m/0mz80 ]]
+ENTITY1:	[[ BRYAN | /m/01hkg9 ]]
+SUBJECT PATH: SUBJECT -> became
+OBJECT  PATH: OBJECT -> of -> voice -> became
+became
+
+
+SUBJECT , the man who created the voice of OBJECT was SUBJECT .
+SUBJECT:	[[ ARTHUR Q. BRYAN | /m/01hkg9 ]]
+OBJECT:	[[ ELMER FUDD | /m/0mz80 ]]
+SUBJECT PATH: SUBJECT -> was
+OBJECT  PATH: OBJECT -> of -> voice -> created -> man -> SUBJECT -> was
+was
+
+
+SUBJECT provided the voice of OBJECT 
+SUBJECT:	[[ ARTHUR Q. BRYAN | /m/01hkg9 ]]
+OBJECT:	[[ ELMER FUDD | /m/0mz80 ]]
+SUBJECT PATH: SUBJECT -> provided
+OBJECT  PATH: OBJECT -> of -> voice -> provided
+provided
+
+
+SUBJECT was the voice of OBJECT .
+SUBJECT:	[[ ARTHUR Q. BRYAN | /m/01hkg9 ]]
+OBJECT:	[[ ELMER FUDD | /m/0mz80 ]]
+SUBJECT PATH: SUBJECT -> was
+OBJECT  PATH: OBJECT -> of -> voice -> was
+was
+
+
+And SUBJECT is playing the voice of the OBJECT 
+SUBJECT:	[[ WILLIAM SHATNER | /m/084m3 ]]
+OBJECT:	[[ CORE | /m/07z7zcn ]]
+SUBJECT PATH: SUBJECT -> playing
+OBJECT  PATH: OBJECT -> of -> voice -> playing
+playing
+
+
+SUBJECT plays OBJECT , an ENTITY1 freedom fighter who is seriously wounded early in the film
+SUBJECT:	[[ JAMES MASON | /m/0jvtp ]]
+OBJECT:	[[ JOHNNY MCQUEEN | /m/0cblmjb ]]
+ENTITY1:	[[ IRISH | /m/03rt9 ]]
+SUBJECT PATH: SUBJECT -> plays
+OBJECT  PATH: OBJECT -> plays
+plays
+
+
+SUBJECT stars as OBJECT , an ENTITY1 officer wounded during a botched raid, who becomes the f..
+SUBJECT:	[[ JAMES MASON | /m/0jvtp ]]
+OBJECT:	[[ JOHNNY MCQUEEN | /m/0cblmjb ]]
+ENTITY1:	[[ IRA | /m/03t3s ]]
+SUBJECT PATH: SUBJECT -> stars
+OBJECT  PATH: OBJECT -> as -> stars
+stars
+
+
+film stars SUBJECT as idealistic ENTITY1 leader OBJECT
+SUBJECT:	[[ JAMES MASON | /m/0jvtp ]]
+OBJECT:	[[ JOHNNY MCQUEEN | /m/0cblmjb ]]
+ENTITY1:	[[ IRA | /m/03t3s ]]
+SUBJECT PATH: SUBJECT -> stars
+OBJECT  PATH: OBJECT -> as -> SUBJECT -> stars
+SUBJECT
+
+
+The incomparable SUBJECT brought OBJECT to life in the way only she could.
+SUBJECT:	[[ ANNE RAMSEY | /m/0mbtg ]]
+OBJECT:	[[ MAMA FRATELLI | /m/0h5nz4f ]]
+SUBJECT PATH: SUBJECT -> brought
+OBJECT  PATH: OBJECT -> brought
+brought
+
+
+SUBJECT is OBJECT , ENTITY1 's former compatriot Agent 006, who presents his old friend with a stunning revelation
+SUBJECT:	[[ SEAN BEAN | /m/02gvwz ]]
+OBJECT:	[[ ALEC TREVELYAN | /m/062r15 ]]
+ENTITY1:	[[ BOND | /m/03_97 ]]
+SUBJECT PATH: SUBJECT -> is
+OBJECT  PATH: OBJECT -> is
+is
+
+
+SUBJECT is okay as OBJECT , though the home-counties accent sounds strange coming from a ENTITY1 's lips
+SUBJECT:	[[ SEAN BEAN | /m/02gvwz ]]
+OBJECT:	[[ ALEC TREVELYAN | /m/062r15 ]]
+ENTITY1:	[[ YORKSHIREMAN | /m/094vy ]]
+SUBJECT PATH: SUBJECT -> is
+OBJECT  PATH: OBJECT -> as -> okay -> is
+is
+
+
+, an agent who works for ENTITY1 , SUBJECT  stars as OBJECT 
+SUBJECT:	[[ DENISE RICHARDS | /m/0993r ]]
+OBJECT:	[[ WHITE SHE DEVIL | /m/0gxmyyn ]]
+ENTITY1:	[[ THE MAN | /m/0h6490_ ]]
+SUBJECT PATH: SUBJECT -> stars -> ENTITY1 -> for -> works -> agent
+OBJECT  PATH: OBJECT -> as -> stars -> ENTITY1 -> for -> works -> agent
+stars
+
+
+In the end both ENTITY1 and his girlfriend OBJECT played by SUBJECT escape, bewildering the police and ENTITY2 
+SUBJECT:	[[ ISHA KOPPIKAR | /m/077x14 ]]
+OBJECT:	[[ ANITA | /m/0h6h4vm ]]
+ENTITY1:	[[ DON | /m/04v7k2 ]]
+ENTITY2:	[[ ROMA | /m/0gxq294 ]]
+SUBJECT PATH: SUBJECT -> escape -> by -> played
+OBJECT  PATH: OBJECT -> ENTITY1 -> played
+played
+
+
+SUBJECT stars as OBJECT , ?an ambitious ENTITY1 loan officer with a charming boyfriend, professor ENTITY2 .
+SUBJECT:	[[ ALISON LOHMAN | /m/053wg3 ]]
+OBJECT:	[[ CHRISTINE BROWN | /m/05pvtjs ]]
+ENTITY1:	[[ LA | /m/032plm ]]
+ENTITY2:	[[ CLAY DALTON | /m/05pvtjd ]]
+SUBJECT PATH: SUBJECT -> stars
+OBJECT  PATH: OBJECT -> as -> stars
+stars
+
+

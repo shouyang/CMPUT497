@@ -1,0 +1,4422 @@
+Electricity and OBJECT are provided by SUBJECT .
+SUBJECT:	[[ MANITOBA HYDRO | /m/04mhl5 ]]
+OBJECT:	[[ NATURAL GAS | /m/05k4k ]]
+SUBJECT PATH: SUBJECT -> by -> provided
+OBJECT  PATH: OBJECT -> Electricity -> provided
+provided
+
+
+Best prices on ENTITY1 video games, SUBJECT in OBJECT .
+SUBJECT:	[[ DREAMCATCHER INTERACTIVE | /m/04zlmb ]]
+OBJECT:	[[ VIDEO GAME | /m/01mw1 ]]
+ENTITY1:	[[ BUDGET | /m/02144t ]]
+SUBJECT PATH: SUBJECT -> games -> on -> prices
+OBJECT  PATH: OBJECT -> in -> SUBJECT -> games -> on -> prices
+SUBJECT
+
+
+The joint venture between the cable industry and ENTITY1 launched SUBJECT s OBJECT today.
+SUBJECT:	[[ COMCAST | /m/01s73z ]]
+OBJECT:	[[ TELECOMMUNICATIONS | /m/029g_vk ]]
+ENTITY1:	[[ SPRINT NEXTEL | /m/077w0b ]]
+SUBJECT PATH: SUBJECT -> OBJECT -> launched
+OBJECT  PATH: OBJECT -> launched
+OBJECT
+
+
+ENTITY1 has been providing meteorological services for OBJECT to SUBJECT at the airports
+SUBJECT:	[[ AIRPORTS AUTHORITY OF INDIA | /m/09f5vv ]]
+OBJECT:	[[ AVIATION | /m/0fzyg ]]
+ENTITY1:	[[ IMD | /m/06srtz ]]
+SUBJECT PATH: SUBJECT -> to -> providing
+OBJECT  PATH: OBJECT -> for -> services -> providing
+providing
+
+
+OBJECT , (now SUBJECT , part of ENTITY1 ).
+SUBJECT:	[[ WEST | /m/0c6239 ]]
+OBJECT:	[[ PUBLISHING | /m/0hz28 ]]
+ENTITY1:	[[ THOMSON CORPORATION | /m/02fxl7 ]]
+SUBJECT PATH: SUBJECT -> OBJECT
+OBJECT  PATH: OBJECT
+OBJECT
+
+
+I find them at Super WalMarts with big Grocery stores and a OBJECT called SUBJECT 
+SUBJECT:	[[ PUBLIX SUPER MARKETS | /m/03p3081 ]]
+OBJECT:	[[ GROCERY STORE | /m/01jpn4 ]]
+SUBJECT PATH: SUBJECT -> called -> OBJECT -> WalMarts -> at -> find
+OBJECT  PATH: OBJECT -> WalMarts -> at -> find
+OBJECT
+
+
+OBJECT and pub operator SUBJECT has recruited the former chief executive of ENTITY1 & ENTITY2 as a non-executive director
+SUBJECT:	[[ FULLER'S | /m/051tpr ]]
+OBJECT:	[[ BREWING | /m/01d_x ]]
+ENTITY1:	[[ SCOTTISH | /m/06q1r ]]
+ENTITY2:	[[ NEWCASTLE | /m/09gjd ]]
+SUBJECT PATH: SUBJECT -> OBJECT -> recruited
+OBJECT  PATH: OBJECT -> recruited
+OBJECT
+
+
+My favourite OBJECT places SUBJECT
+SUBJECT:	[[ FATBURGER | /m/03_6pl ]]
+OBJECT:	[[ FAST FOOD | /m/01_bhs ]]
+SUBJECT PATH: SUBJECT -> places
+OBJECT  PATH: OBJECT -> places
+places
+
+
+SUBJECT  shows that OBJECT is the second most popular topic after the Entertainment and Leisure section.
+SUBJECT:	[[ YAHOO! | /m/019rl6 ]]
+OBJECT:	[[ INFORMATION TECHNOLOGY | /m/03ytc ]]
+SUBJECT PATH: SUBJECT -> shows
+OBJECT  PATH: OBJECT -> is -> shows
+shows
+
+
+ENTITY1 is a provider of OBJECT  data, used in ENTITY2 , SUBJECT !
+SUBJECT:	[[ YAHOO! | /m/019rl6 ]]
+OBJECT:	[[ GEOGRAPHIC INFORMATION SYSTEM | /m/03821 ]]
+ENTITY1:	[[ NAVTEQ | /m/09pmmc ]]
+ENTITY2:	[[ GOOGLE MAPS | /m/055t58 ]]
+SUBJECT PATH: SUBJECT -> ENTITY2 -> in -> used -> data -> of -> provider -> is
+OBJECT  PATH: OBJECT -> data -> of -> provider -> is
+data
+
+
+The real strategist behind the SUBJECT assault is ENTITY1 , who heads the group responsible for OBJECT 
+SUBJECT:	[[ YAHOO! | /m/019rl6 ]]
+OBJECT:	[[ ONLINE SERVICE PROVIDER | /m/01w7f5 ]]
+ENTITY1:	[[ KEVIN JOHNSON | /m/05f8c0c ]]
+SUBJECT PATH: SUBJECT -> assault -> behind -> strategist -> is
+OBJECT  PATH: OBJECT -> for -> responsible -> group -> heads -> ENTITY1 -> is
+is
+
+
+The OBJECT is now part of SUBJECT .
+SUBJECT:	[[ BEACON PRESS | /m/02ky_x ]]
+OBJECT:	[[ PUBLISHING | /m/0hz28 ]]
+SUBJECT PATH: SUBJECT -> of -> part -> is
+OBJECT  PATH: OBJECT -> is
+is
+
+
+The deployment had started in corporate finance and worked its way through SUBJECT 's biggest division, OBJECT 
+SUBJECT:	[[ OSRAM SYLVANIA | /m/02x5_zb ]]
+OBJECT:	[[ LIGHTING | /m/019sc6 ]]
+SUBJECT PATH: SUBJECT -> division -> through -> worked -> started
+OBJECT  PATH: OBJECT -> division -> through -> worked -> started
+division
+
+
+The next major OBJECT was the SUBJECT , established by ENTITY1 in 1800
+SUBJECT:	[[ BANQUE DE FRANCE | /m/0382ml ]]
+OBJECT:	[[ CENTRAL BANK | /m/01q82 ]]
+ENTITY1:	[[ NAPOLEON | /m/0j5b8 ]]
+SUBJECT PATH: SUBJECT -> was
+OBJECT  PATH: OBJECT -> was
+was
+
+
+[ ENTITY1 ] - OBJECT publishers SUBJECT and ENTITY2 have both cut their dividend sharply
+SUBJECT:	[[ MEDIA GENERAL | /m/0553j8 ]]
+OBJECT:	[[ NEWSPAPER | /m/05jnl ]]
+ENTITY1:	[[ NYT | /m/07l1c ]]
+ENTITY2:	[[ BELO | /m/03052h ]]
+SUBJECT PATH: SUBJECT -> publishers -> ENTITY1 -> cut
+OBJECT  PATH: OBJECT -> publishers -> ENTITY1 -> cut
+publishers
+
+
+One big, open question is whether SUBJECT  will be added to the OBJECT sector of the ENTITY1 
+SUBJECT:	[[ GOOGLE | /m/045c7b ]]
+OBJECT:	[[ INFORMATION TECHNOLOGY | /m/03ytc ]]
+ENTITY1:	[[ S&P 500 INDEX | /m/016yss ]]
+SUBJECT PATH: SUBJECT -> added -> is
+OBJECT  PATH: OBJECT -> sector -> to -> added -> is
+added
+
+
+This text link will ... the major OBJECT including SUBJECT and Yahoo.
+SUBJECT:	[[ GOOGLE | /m/045c7b ]]
+OBJECT:	[[ SEARCH ENGINE | /m/06xw2 ]]
+SUBJECT PATH: SUBJECT -> including -> OBJECT
+OBJECT  PATH: OBJECT
+OBJECT
+
+
+SUBJECT is a OBJECT flying from ENTITY1 's, North Terminal.
+SUBJECT:	[[ AIR ZIMBABWE | /m/03pmpq ]]
+OBJECT:	[[ AIRLINE | /m/0vg8 ]]
+ENTITY1:	[[ GATWICK AIRPORT | /m/0pr6s ]]
+SUBJECT PATH: SUBJECT -> is
+OBJECT  PATH: OBJECT -> is
+is
+
+
+A very successful partnership between the ENTITY1 and SUBJECT saw the OBJECT well established in ENTITY2 .
+SUBJECT:	[[ QATAR AIRWAYS | /m/029tr_ ]]
+OBJECT:	[[ AIRLINE | /m/0vg8 ]]
+ENTITY1:	[[ GSA | /m/03c5_q6 ]]
+ENTITY2:	[[ SRI LANKA | /m/06m_5 ]]
+SUBJECT PATH: SUBJECT -> ENTITY1 -> between -> partnership -> saw
+OBJECT  PATH: OBJECT -> established -> saw
+saw
+
+
+SUBJECT has a comprehensive listing under OBJECT .
+SUBJECT:	[[ YAHOO! | /m/019rl6 ]]
+OBJECT:	[[ SEARCH ENGINE | /m/06xw2 ]]
+SUBJECT PATH: SUBJECT -> has
+OBJECT  PATH: OBJECT -> under -> listing -> has
+has
+
+
+SUBJECT would automatically be categorized as OBJECT ; click it and it would list Gas/Fuel next .
+SUBJECT:	[[ SAFEWAY INC. | /m/03lpnx ]]
+OBJECT:	[[ GROCERY STORE | /m/01jpn4 ]]
+SUBJECT PATH: SUBJECT -> categorized
+OBJECT  PATH: OBJECT -> as -> categorized
+categorized
+
+
+As reported in the business weekly magazine in May 2001, SUBJECT moved quicker into OBJECT
+SUBJECT:	[[ UNITED PARCEL SERVICE | /m/01d734 ]]
+OBJECT:	[[ TRANSPORTATION | /m/07bsy ]]
+SUBJECT PATH: SUBJECT -> moved
+OBJECT  PATH: OBJECT -> into -> moved
+moved
+
+
+Rising Sun OBJECT house SUBJECT completed 73 shots on ENTITY1 and over 150 on the epic ENTITY2 
+SUBJECT:	[[ RISING SUN PICTURES | /m/088bcz ]]
+OBJECT:	[[ VISUAL EFFECTS | /m/01vx2h ]]
+ENTITY1:	[[ THE SPIRIT | /m/0fldjy ]]
+ENTITY2:	[[ AUSTRALIA | /m/0chghy ]]
+SUBJECT PATH: SUBJECT -> completed
+OBJECT  PATH: OBJECT -> house -> SUBJECT -> completed
+SUBJECT
+
+
+Adopt this artifact for $50 5. Once upon a time, SUBJECT s OBJECT was the only place to shop.
+SUBJECT:	[[ HUDSON'S | /m/04pv0h ]]
+OBJECT:	[[ DEPARTMENT STORE | /m/01k_mv ]]
+SUBJECT PATH: SUBJECT -> OBJECT -> was
+OBJECT  PATH: OBJECT -> was
+OBJECT
+
+
+airline The was assembled through a series of purchases SUBJECT participates in OBJECT 's frequent ENTITY1 flier program
+SUBJECT:	[[ PENAIR | /m/0dm2m4 ]]
+OBJECT:	[[ AIRLINE | /m/0vg8 ]]
+ENTITY1:	[[ ALASKA | /m/0hjy ]]
+SUBJECT PATH: SUBJECT -> participates -> series -> through -> assembled
+OBJECT  PATH: OBJECT -> program -> in -> participates -> series -> through -> assembled
+participates
+
+
+OBJECT is the SUBJECT
+SUBJECT:	[[ LOCKHEED MARTIN | /m/0hkqn ]]
+OBJECT:	[[ AEROSPACE ENGINEERING | /m/0w7s ]]
+SUBJECT PATH: SUBJECT -> is
+OBJECT  PATH: OBJECT -> is
+is
+
+
+Dr. ENTITY1 joined OBJECT as president in September 2000 after an 11-year career with SUBJECT 
+SUBJECT:	[[ LOCKHEED MARTIN | /m/0hkqn ]]
+OBJECT:	[[ AEROSPACE | /m/0147gr ]]
+ENTITY1:	[[ BALLHAUS | /m/09kfrd ]]
+SUBJECT PATH: SUBJECT -> with -> career -> after -> joined
+OBJECT  PATH: OBJECT -> joined
+joined
+
+
+OBJECT group SUBJECT has won a ? 502.6m deal to supply jet engines and services to ENTITY1 airline Etihad.
+SUBJECT:	[[ ROLLS-ROYCE HOLDINGS | /m/0286m5 ]]
+OBJECT:	[[ AEROSPACE | /m/0147gr ]]
+ENTITY1:	[[ MIDDLE EASTERN | /m/04wsz ]]
+SUBJECT PATH: SUBJECT -> won
+OBJECT  PATH: OBJECT -> group -> SUBJECT -> won
+SUBJECT
+
+
+SUBJECT helped the ENTITY1 handle fallout from the charges, prompting ENTITY2 to subpoena the OBJECT firm's records
+SUBJECT:	[[ QORVIS | /m/0gg65r1 ]]
+OBJECT:	[[ PUBLIC RELATIONS | /m/062zr ]]
+ENTITY1:	[[ SAUDIS | /m/01z215 ]]
+ENTITY2:	[[ BURTON | /m/022r4p ]]
+SUBJECT PATH: SUBJECT -> helped
+OBJECT  PATH: OBJECT -> firm -> records -> subpoena -> prompting -> handle -> helped
+helped
+
+
+For major repair work, the OBJECT coordinates with SUBJECT and other repair stations
+SUBJECT:	[[ ETHIOPIAN AIRLINES | /m/02351x ]]
+OBJECT:	[[ AIRLINE | /m/0vg8 ]]
+SUBJECT PATH: SUBJECT -> stations -> with -> coordinates
+OBJECT  PATH: OBJECT -> coordinates
+coordinates
+
+
+Call of Duty 2 Once again SUBJECT concocted with the new OBJECT and ENTITY1 competitions
+SUBJECT:	[[ INFINITY WARD | /m/035tgr ]]
+OBJECT:	[[ VIDEO GAME | /m/01mw1 ]]
+ENTITY1:	[[ ELECTRONIC SPORTS | /m/02qh79 ]]
+SUBJECT PATH: SUBJECT -> concocted
+OBJECT  PATH: OBJECT -> competitions -> with -> concocted
+concocted
+
+
+The SUBJECT has identified OBJECT as being a strong growth area, and I wanted to be part of this.
+SUBJECT:	[[ BANK OF IRELAND | /m/02lzfj ]]
+OBJECT:	[[ COMMERCIAL BANK | /m/01bs4t ]]
+SUBJECT PATH: SUBJECT -> identified
+OBJECT  PATH: OBJECT -> identified
+identified
+
+
+Although the area where the repugnance arrives, OBJECT is ENTITY1 occassionally as good as a SUBJECT .
+SUBJECT:	[[ DAYS INN | /m/04558f ]]
+OBJECT:	[[ HOTEL | /m/03pty ]]
+ENTITY1:	[[ IBIS | /m/087zf8 ]]
+SUBJECT PATH: SUBJECT -> as -> good -> is
+OBJECT  PATH: OBJECT -> is
+is
+
+
+Experience CEO Fullpower Technologies Telecommunications Industry December 2004 Present SUBJECT is converging OBJECT and Life-Sciences, building breakthrough, innovative solutions
+SUBJECT:	[[ FULLPOWER TECHNOLOGIES | /m/0cql1x ]]
+OBJECT:	[[ WIRELESS | /m/019dhf ]]
+SUBJECT PATH: SUBJECT -> converging -> solutions
+OBJECT  PATH: OBJECT -> converging -> solutions
+converging
+
+
+SUBJECT Bypasses OBJECT Departments ? Agai
+SUBJECT:	[[ GOOGLE | /m/045c7b ]]
+OBJECT:	[[ TECHNOLOGY | /m/07c1v ]]
+SUBJECT PATH: SUBJECT -> Bypasses -> Departments
+OBJECT  PATH: OBJECT -> Departments
+Departments
+
+
+SUBJECT - SUBJECT offer a great selection of OBJECT in both ENTITY1 and ENTITY2 .
+SUBJECT:	[[ HOLIDAY INN | /m/03crkh ]]
+OBJECT:	[[ HOTEL | /m/03pty ]]
+ENTITY1:	[[ DEVON | /m/029rt5 ]]
+ENTITY2:	[[ CORNWALL | /m/01q1j ]]
+SUBJECT PATH: SUBJECT -> offer
+OBJECT  PATH: OBJECT -> of -> selection -> offer
+offer
+
+
+ENTITY1 's largest wireless carrier also expects to receive an additional estimated 2MWp of OBJECT s from SUBJECT .
+SUBJECT:	[[ SUNTECH POWER HOLDINGS CO., LTD. | /m/03p384j ]]
+OBJECT:	[[ PHOTOVOLTAICS | /m/02_spr ]]
+ENTITY1:	[[ CHINA | /m/0d05w3 ]]
+SUBJECT PATH: SUBJECT -> from -> receive -> expects
+OBJECT  PATH: OBJECT -> s -> of -> 2MWp -> receive -> expects
+receive
+
+
+SUBJECT 's practices OBJECT is sensitive to the intake in order to blast their message out there.
+SUBJECT:	[[ DOUBLECLICK | /m/037qmb ]]
+OBJECT:	[[ ONLINE ADVERTISING | /m/05b1rx ]]
+SUBJECT PATH: SUBJECT -> practices -> is
+OBJECT  PATH: OBJECT -> practices -> is
+practices
+
+
+OBJECT bosses SUBJECT last night became the first big business to join our ENTITY1
+SUBJECT:	[[ CAMELOT GROUP | /m/02xgxj ]]
+OBJECT:	[[ LOTTERY | /m/01h8pw ]]
+ENTITY1:	[[ HELP FOR HEROES | /m/03mb5p9 ]]
+SUBJECT PATH: SUBJECT -> bosses
+OBJECT  PATH: OBJECT -> bosses
+bosses
+
+
+SUBJECT - SUBJECT is a supplier of OBJECT  equipment and software components headquartered in ENTITY1 ENTITY2 .
+SUBJECT:	[[ MKC NETWORKS | /m/057pmz ]]
+OBJECT:	[[ VOICE OVER IP | /m/0jzgd ]]
+ENTITY1:	[[ OTTAWA | /m/05ksh ]]
+ENTITY2:	[[ CANADA | /m/0d060g ]]
+SUBJECT PATH: SUBJECT -> is
+OBJECT  PATH: OBJECT -> equipment -> components -> of -> supplier -> is
+is
+
+
+SUBJECT is in the OBJECT and Other Pay Television Services industry in ARNOLD, ENTITY1 .
+SUBJECT:	[[ CHARTER COMMUNICATIONS | /m/05c51w ]]
+OBJECT:	[[ CABLE TELEVISION | /m/024bm ]]
+ENTITY1:	[[ MO | /m/04ych ]]
+SUBJECT PATH: SUBJECT -> is
+OBJECT  PATH: OBJECT -> in -> is
+is
+
+
+The SUBJECT is the main OBJECT that has access to many points in the world.
+SUBJECT:	[[ TURKISH AIRLINES | /m/016g9r ]]
+OBJECT:	[[ AIRLINE | /m/0vg8 ]]
+SUBJECT PATH: SUBJECT -> is
+OBJECT  PATH: OBJECT -> is
+is
+
+
+? OBJECT began distribution of the SUBJECT white and yellow pages to the main campus on Tuesday, Jan. 7.
+SUBJECT:	[[ VERIZON COMMUNICATIONS | /m/07_dn ]]
+OBJECT:	[[ TELECOMMUNICATIONS | /m/029g_vk ]]
+SUBJECT PATH: SUBJECT -> pages -> of -> distribution -> began
+OBJECT  PATH: OBJECT -> began
+began
+
+
+Funds from ENTITY1 and SUBJECT have been promoted to the Principal OBJECT 's equity income? ENTITY2
+SUBJECT:	[[ ARTEMIS | /m/0hgqt_5 ]]
+OBJECT:	[[ INVESTMENT MANAGEMENT | /m/05b6l8 ]]
+ENTITY1:	[[ NEWTON | /m/0qkcb ]]
+ENTITY2:	[[ WHITE LIST | /m/018xqx ]]
+SUBJECT PATH: SUBJECT -> ENTITY1 -> from -> Funds -> promoted
+OBJECT  PATH: OBJECT -> income -> to -> promoted
+promoted
+
+
+Dan King of SUBJECT 's ENTITY1 writes that SUBJECT is   ENTITY2 's leading high-tech OBJECT institute. 
+SUBJECT:	[[ INDUSTRIAL TECHNOLOGY RESEARCH INSTITUTE | /m/0d_9m_ ]]
+OBJECT:	[[ RESEARCH AND DEVELOPMENT | /m/01lr_q ]]
+ENTITY1:	[[ HUMAN RESOURCES | /m/0cgz_ ]]
+ENTITY2:	[[ TAIWAN | /m/06f32 ]]
+SUBJECT PATH: SUBJECT -> is -> writes
+OBJECT  PATH: OBJECT -> institute -> is -> writes
+is
+
+
+This Lindbergh Grant in OBJECT is Sponsored by SUBJECT , ENTITY1 .
+SUBJECT:	[[ LYCOMING ENGINES | /m/03088y ]]
+OBJECT:	[[ AVIATION | /m/0fzyg ]]
+ENTITY1:	[[ INC | /m/0135dr ]]
+SUBJECT PATH: SUBJECT -> by -> Sponsored
+OBJECT  PATH: OBJECT -> in -> Grant -> Sponsored
+Sponsored
+
+
+[Site] Roto-Rooter Plumbing - Official Site SUBJECT is the Largest provider of OBJECT and Drain Cleaning Services in ENTITY1 
+SUBJECT:	[[ ROTO-ROOTER | /m/043rcc ]]
+OBJECT:	[[ PLUMBING | /m/0b_zf ]]
+ENTITY1:	[[ NORTH AMERICA | /m/059g4 ]]
+SUBJECT PATH: SUBJECT -> is
+OBJECT  PATH: OBJECT -> of -> provider -> is
+is
+
+
+You can order Commuter Checks  for OBJECT made out to SUBJECT in the amount of your parking payment.
+SUBJECT:	[[ IMPARK | /m/0h7nfk6 ]]
+OBJECT:	[[ PARKING | /m/01jp76 ]]
+SUBJECT PATH: SUBJECT -> to -> made -> OBJECT -> for -> order
+OBJECT  PATH: OBJECT -> for -> order
+OBJECT
+
+
+SUBJECT is a global leader in OBJECT , mobile internet, internet television and telecommunication solutions.
+SUBJECT:	[[ UTSTARCOM | /m/03t4rt ]]
+OBJECT:	[[ VOICE OVER IP | /m/0jzgd ]]
+SUBJECT PATH: SUBJECT -> is
+OBJECT  PATH: OBJECT -> in -> leader -> is
+is
+
+
+I think that SUBJECT will support the expansion of the OBJECT by releasing ENTITY1 in a powerful way.
+SUBJECT:	[[ CLEARFOREST | /m/027lr02 ]]
+OBJECT:	[[ SEMANTIC WEB | /m/076k0 ]]
+ENTITY1:	[[ CALAIS | /m/0411l_p ]]
+SUBJECT PATH: SUBJECT -> support -> think
+OBJECT  PATH: OBJECT -> of -> expansion -> support -> think
+support
+
+
+The new company was owned by OBJECT investor SUBJECT ? SUBJECT had a stake in Hemscott since 2004.
+SUBJECT:	[[ VERONIS SUHLER STEVENSON | /m/04jhb2d ]]
+OBJECT:	[[ PRIVATE EQUITY | /m/01b4x4 ]]
+SUBJECT PATH: SUBJECT -> had
+OBJECT  PATH: OBJECT -> investor -> SUBJECT -> by -> owned
+-None-
+
+
+Maybe SUBJECT will serve as ENTITY1 ?s enterprise OBJECT rollup.
+SUBJECT:	[[ MOXIE SOFTWARE | /m/064pdcb ]]
+OBJECT:	[[ SOFTWARE AS A SERVICE | /m/06_4c_ ]]
+ENTITY1:	[[ OAK | /m/09wzt ]]
+SUBJECT PATH: SUBJECT -> serve
+OBJECT  PATH: OBJECT -> rollup
+-None-
+
+
+OBJECT manufacturers SUBJECT , ENTITY1 and ENTITY2 are rolling out three-speed bikes that feature chip-controlled, gear-shifting systems.
+SUBJECT:	[[ GIANT BICYCLES | /m/05nn06 ]]
+OBJECT:	[[ BICYCLE | /m/0199g ]]
+ENTITY1:	[[ RALEIGH | /m/0fvyg ]]
+ENTITY2:	[[ TREK | /m/01d6b4 ]]
+SUBJECT PATH: SUBJECT -> manufacturers -> rolling
+OBJECT  PATH: OBJECT -> manufacturers -> rolling
+manufacturers
+
+
+OBJECT is an affiliate of a ENTITY1 company SUBJECT is owned by the ENTITY2 movement
+SUBJECT:	[[ CLONAID | /m/015kjw ]]
+OBJECT:	[[ BIOTECHNOLOGY | /m/01ftz ]]
+ENTITY1:	[[ US | /m/09c7w0 ]]
+ENTITY2:	[[ RAELIAN | /m/02vlv_b ]]
+SUBJECT PATH: SUBJECT -> company -> of -> affiliate -> owned -> is
+OBJECT  PATH: OBJECT -> is
+is
+
+
+SUBJECT is a leader in OBJECT solutions, integration, and professional and managed services.
+SUBJECT:	[[ FISHNET SECURITY | /m/0knx576 ]]
+OBJECT:	[[ INFORMATION SECURITY | /m/03whm ]]
+SUBJECT PATH: SUBJECT -> is
+OBJECT  PATH: OBJECT -> solutions -> in -> leader -> is
+is
+
+
+SUBJECT Selects ENTITY1 to Bring OBJECT Push Email to the Mass Market
+SUBJECT:	[[ T-MOBILE | /m/013rs0 ]]
+OBJECT:	[[ MOBILE NETWORK OPERATOR | /m/02fqqq ]]
+ENTITY1:	[[ VISTO | /m/09h6rb ]]
+SUBJECT PATH: SUBJECT -> ENTITY1
+OBJECT  PATH: OBJECT -> Email -> Bring -> ENTITY1
+ENTITY1
+
+
+OBJECT maker SUBJECT now has an operations support system.
+SUBJECT:	[[ AMDOCS | /m/06kpz7 ]]
+OBJECT:	[[ CUSTOMER RELATIONSHIP MANAGEMENT | /m/02016 ]]
+SUBJECT PATH: SUBJECT -> maker -> has
+OBJECT  PATH: OBJECT -> maker -> has
+maker
+
+
+The OBJECT became part of the ENTITY1 in 1924 and SUBJECT  in 1948
+SUBJECT:	[[ BRITISH RAIL | /m/01dqc ]]
+OBJECT:	[[ RAIL TRANSPORT | /m/06d_3 ]]
+ENTITY1:	[[ LONDON, MIDLAND & SCOTTISH RAILWAY | /m/019m_g ]]
+SUBJECT PATH: SUBJECT -> became
+OBJECT  PATH: OBJECT -> became
+became
+
+
+The world of OBJECT is heating up with the   ENTITY1   between SUBJECT and ENTITY2 
+SUBJECT:	[[ WWE | /m/0gy1_ ]]
+OBJECT:	[[ SPORTS ENTERTAINMENT | /m/02tb6v ]]
+ENTITY1:	[[ MONDAY NIGHT WARS | /m/05trr2 ]]
+ENTITY2:	[[ WORLD CHAMPIONSHIP WRESTLING | /m/019jdn ]]
+SUBJECT PATH: SUBJECT -> between -> ENTITY1 -> with -> heating
+OBJECT  PATH: OBJECT -> of -> world -> heating
+heating
+
+
+SUBJECT grabs the 3G licecne in ENTITY1 , being awarded by country telecoms regulator, The Agency for OBJECT .
+SUBJECT:	[[ T-MOBILE | /m/013rs0 ]]
+OBJECT:	[[ TELECOMMUNICATIONS | /m/029g_vk ]]
+ENTITY1:	[[ MACEDONIA | /m/0bjv6 ]]
+SUBJECT PATH: SUBJECT -> grabs
+OBJECT  PATH: OBJECT -> for -> Agency -> licecne -> grabs
+grabs
+
+
+According to the SUBJECT s study, ENTITY1 's top OBJECT firm, ENTITY1 KPOs will formulate almost 280,000 jobs &
+SUBJECT:	[[ EVALUESERVE | /m/09yjx1 ]]
+OBJECT:	[[ KNOWLEDGE PROCESS OUTSOURCING | /m/07r27z ]]
+ENTITY1:	[[ INDIA | /m/03rk0 ]]
+SUBJECT PATH: SUBJECT -> s -> study -> to -> According -> formulate
+OBJECT  PATH: OBJECT -> firm -> formulate
+formulate
+
+
+SUBJECT is an industry-leading OBJECT software developer in ENTITY1 , ENTITY2 .
+SUBJECT:	[[ LASERFICHE | /m/0cz0xj ]]
+OBJECT:	[[ ENTERPRISE CONTENT MANAGEMENT | /m/05k6fj ]]
+ENTITY1:	[[ LONG BEACH | /m/0nbwf ]]
+ENTITY2:	[[ CA | /m/01n7q ]]
+SUBJECT PATH: SUBJECT -> is
+OBJECT  PATH: OBJECT -> developer -> is
+is
+
+
+SUBJECT announces senior appointments in OBJECT
+SUBJECT:	[[ MAHINDRA & MAHINDRA | /m/027gnm6 ]]
+OBJECT:	[[ AUTOMOTIVE INDUSTRY | /m/015smg ]]
+SUBJECT PATH: SUBJECT -> announces
+OBJECT  PATH: OBJECT -> in -> appointments -> announces
+announces
+
+
+SUBJECT is the creator of the SUBJECT suite of OBJECT software products
+SUBJECT:	[[ ALTAIR ENGINEERING | /m/0gvbbm ]]
+OBJECT:	[[ COMPUTER-AIDED ENGINEERING | /m/02br93 ]]
+SUBJECT PATH: SUBJECT -> suite -> of -> creator -> is
+OBJECT  PATH: OBJECT -> products -> of -> suite -> of -> creator -> is
+suite
+
+
+I have Windows XP Pro SP 1 with ENTITY1 2003, ENTITY2 firewall, OBJECT aware 6.0, and SUBJECT toolbar installed.
+SUBJECT:	[[ GOOGLE | /m/045c7b ]]
+OBJECT:	[[ ADVERTISING | /m/011s0 ]]
+ENTITY1:	[[ NORTON ANTIVIRUS | /m/0431pl ]]
+ENTITY2:	[[ ZONE ALARM | /m/089dxw ]]
+SUBJECT PATH: SUBJECT -> toolbar -> installed -> aware -> ENTITY1 -> with -> have
+OBJECT  PATH: OBJECT -> aware -> ENTITY1 -> with -> have
+aware
+
+
+At times, they have done better volumes than SUBJECT , a giant in OBJECT .
+SUBJECT:	[[ SINGTEL | /m/020zfl ]]
+OBJECT:	[[ TELECOMMUNICATIONS | /m/029g_vk ]]
+SUBJECT PATH: SUBJECT -> than -> volumes -> done
+OBJECT  PATH: OBJECT -> in -> giant -> SUBJECT -> than -> volumes -> done
+SUBJECT
+
+
+Local OBJECT provided by SUBJECT ; view the WHS Channel Lineup.
+SUBJECT:	[[ COMCAST | /m/01s73z ]]
+OBJECT:	[[ CABLE TELEVISION | /m/024bm ]]
+SUBJECT PATH: SUBJECT -> by -> provided -> OBJECT -> view
+OBJECT  PATH: OBJECT -> view
+OBJECT
+
+
+The OBJECT provider, SUBJECT , had never seen it.
+SUBJECT:	[[ MANHATTAN ASSOCIATES | /m/0fsm1h ]]
+OBJECT:	[[ WAREHOUSE MANAGEMENT SYSTEM | /m/05sqpw ]]
+SUBJECT PATH: SUBJECT -> provider -> seen
+OBJECT  PATH: OBJECT -> provider -> seen
+provider
+
+
+OBJECT purveyor SUBJECT has announced the unveiling of corporate headquarters in the middle of ENTITY1 , ENTITY2 .
+SUBJECT:	[[ SPRINGCM | /m/026_z2h ]]
+OBJECT:	[[ ENTERPRISE CONTENT MANAGEMENT | /m/05k6fj ]]
+ENTITY1:	[[ SAN MATEO | /m/0r5y9 ]]
+ENTITY2:	[[ CA | /m/01n7q ]]
+SUBJECT PATH: SUBJECT -> announced
+OBJECT  PATH: OBJECT -> purveyor -> SUBJECT -> announced
+SUBJECT
+
+
+OBJECT is more than ENTITY1 and SUBJECT
+SUBJECT:	[[ MCDONALD'S | /m/07gyp7 ]]
+OBJECT:	[[ FAST FOOD | /m/01_bhs ]]
+ENTITY1:	[[ KFC | /m/09b6t ]]
+SUBJECT PATH: SUBJECT -> ENTITY1 -> than -> more -> is
+OBJECT  PATH: OBJECT -> is
+is
+
+
+/ OBJECT snuck into SUBJECT
+SUBJECT:	[[ LEGENDARY PICTURES | /m/0f3h3m ]]
+OBJECT:	[[ FILM | /m/02vxn ]]
+SUBJECT PATH: SUBJECT -> into -> snuck
+OBJECT  PATH: OBJECT -> snuck
+snuck
+
+
+OBJECT and OBJECT is accredited by SUBJECT , ENTITY1 and ENTITY2 
+SUBJECT:	[[ THE JOINT COMMISSION | /m/05k5y8 ]]
+OBJECT:	[[ HEALTH CARE | /m/01mw2x ]]
+ENTITY1:	[[ AMERICAN COLLEGE OF SURGEONS | /m/02q84zk ]]
+ENTITY2:	[[ AMERICAN COLLEGE OF RADIOLOGY | /m/0ddf6c ]]
+SUBJECT PATH: SUBJECT -> by -> accredited
+OBJECT  PATH: OBJECT -> OBJECT -> accredited
+accredited
+
+
+OBJECT is available through SUBJECT , telephone 885-3757.
+SUBJECT:	[[ COX COMMUNICATIONS | /m/03lvmp ]]
+OBJECT:	[[ CABLE TELEVISION | /m/024bm ]]
+SUBJECT PATH: SUBJECT -> through -> available -> is
+OBJECT  PATH: OBJECT -> is
+is
+
+
+The project has brought together a number of OBJECT initiatives carried out within SUBJECT .
+SUBJECT:	[[ QINETIQ | /m/030xdt ]]
+OBJECT:	[[ RESEARCH AND DEVELOPMENT | /m/01lr_q ]]
+SUBJECT PATH: SUBJECT -> within -> carried -> initiatives -> of -> number -> brought
+OBJECT  PATH: OBJECT -> initiatives -> of -> number -> brought
+initiatives
+
+
+SUBJECT   Half Jacket  OBJECT  at ENTITY1 's
+SUBJECT:	[[ OAKLEY, INC. | /m/028tf_ ]]
+OBJECT:	[[ SUNGLASSES | /m/017ftj ]]
+ENTITY1:	[[ CABELA | /m/06d7g1 ]]
+SUBJECT PATH: SUBJECT -> OBJECT
+OBJECT  PATH: OBJECT
+OBJECT
+
+
+SUBJECT  added within the OBJECT section of FMUG FM Links #2
+SUBJECT:	[[ GALLIFORD TRY | /m/05f2xnx ]]
+OBJECT:	[[ CONSTRUCTION | /m/01jnzj ]]
+SUBJECT PATH: SUBJECT -> added
+OBJECT  PATH: OBJECT -> section -> within -> added
+added
+
+
+I think that SUBJECT should make a ENTITY1 type of OBJECT .
+SUBJECT:	[[ WIZARDS OF THE COAST | /m/012pjw ]]
+OBJECT:	[[ ROLE-PLAYING GAME | /m/06c9r ]]
+ENTITY1:	[[ HARRY POTTER | /m/078ffw ]]
+SUBJECT PATH: SUBJECT -> make -> think
+OBJECT  PATH: OBJECT -> of -> type -> make -> think
+make
+
+
+SUBJECT and ENTITY1 Get Together for OBJECT
+SUBJECT:	[[ SPRINGCM | /m/026_z2h ]]
+OBJECT:	[[ SOFTWARE AS A SERVICE | /m/06_4c_ ]]
+ENTITY1:	[[ KODAK | /m/0ftdd ]]
+SUBJECT PATH: SUBJECT -> Get
+OBJECT  PATH: OBJECT -> for -> Get
+Get
+
+
+From cargo van to minivan is the well-known OBJECT in ENTITY1 called SUBJECT .
+SUBJECT:	[[ ENTERPRISE RENT-A-CAR | /m/049mwl ]]
+OBJECT:	[[ CAR RENTAL | /m/0drl1t ]]
+ENTITY1:	[[ BIRMINGHAM | /m/0199gx ]]
+SUBJECT PATH: SUBJECT -> called -> OBJECT -> is
+OBJECT  PATH: OBJECT -> is
+OBJECT
+
+
+SUBJECT launches OBJECT in the ENTITY1
+SUBJECT:	[[ CLEARWIRE | /m/0c5wjk ]]
+OBJECT:	[[ VOICE OVER IP | /m/0jzgd ]]
+ENTITY1:	[[ US | /m/09c7w0 ]]
+SUBJECT PATH: SUBJECT -> launches -> OBJECT
+OBJECT  PATH: OBJECT
+OBJECT
+
+
+To help solve this challenge, SUBJECT reached out to ENTITY1 , the world leader in OBJECT mapping technology.
+SUBJECT:	[[ GOOGLE | /m/045c7b ]]
+OBJECT:	[[ GEOGRAPHIC INFORMATION SYSTEM | /m/03821 ]]
+ENTITY1:	[[ ESRI | /m/011r1z ]]
+SUBJECT PATH: SUBJECT -> reached
+OBJECT  PATH: OBJECT -> technology -> in -> leader -> ENTITY1 -> to -> reached
+reached
+
+
+The OBJECT include ENTITY1 , Easy Jet, ENTITY2 and SUBJECT .
+SUBJECT:	[[ IBERIA | /m/0p87j ]]
+OBJECT:	[[ AIRLINE | /m/0vg8 ]]
+ENTITY1:	[[ BMI | /m/01pnw4 ]]
+ENTITY2:	[[ BRITISH AIRWAYS | /m/0198z ]]
+SUBJECT PATH: SUBJECT -> ENTITY2 -> Jet -> ENTITY1 -> include
+OBJECT  PATH: OBJECT -> include
+include
+
+
+Another example is SUBJECT , a leading supplier of OBJECT products to ENTITY1 
+SUBJECT:	[[ WEYERHAEUSER | /m/01qxq9 ]]
+OBJECT:	[[ LUMBER | /m/025tnyc ]]
+ENTITY1:	[[ HOME DEPOT | /m/01zj1t ]]
+SUBJECT PATH: SUBJECT -> is
+OBJECT  PATH: OBJECT -> products -> of -> supplier -> SUBJECT -> is
+SUBJECT
+
+
+SUBJECT  is the OBJECT  subsidiary of Infosys Technologies Ltd. ..
+SUBJECT:	[[ INFOSYS BPO LIMITED | /m/092zkv ]]
+OBJECT:	[[ BUSINESS PROCESS OUTSOURCING | /m/04fm00 ]]
+SUBJECT PATH: SUBJECT -> is
+OBJECT  PATH: OBJECT -> subsidiary -> is
+is
+
+
+OBJECT is more than SUBJECT and ENTITY1
+SUBJECT:	[[ KFC | /m/09b6t ]]
+OBJECT:	[[ FAST FOOD | /m/01_bhs ]]
+ENTITY1:	[[ MCDONALDS | /m/07gyp7 ]]
+SUBJECT PATH: SUBJECT -> than -> more -> is
+OBJECT  PATH: OBJECT -> is
+is
+
+
+SUBJECT provides ENTITY1 , OBJECT , Computer Based and Health & Safety programmes.
+SUBJECT:	[[ THALES GROUP | /m/01phj4 ]]
+OBJECT:	[[ INFORMATION TECHNOLOGY | /m/03ytc ]]
+ENTITY1:	[[ MANAGEMENT DEVELOPMENT | /m/02q428d ]]
+SUBJECT PATH: SUBJECT -> provides
+OBJECT  PATH: OBJECT -> ENTITY1 -> provides
+provides
+
+
+( ENTITY1 gets electronics / SUBJECT gets OBJECT )
+SUBJECT:	[[ THE WALT DISNEY COMPANY | /m/09b3v ]]
+OBJECT:	[[ MASS MEDIA | /m/04z0z ]]
+ENTITY1:	[[ APPLE | /m/0k8z ]]
+SUBJECT PATH: SUBJECT -> gets -> gets
+OBJECT  PATH: OBJECT -> gets -> gets
+gets
+
+
+SUBJECT is a world leader in ENTITY1 -critical information systems for the OBJECT , defence and security markets.
+SUBJECT:	[[ THALES GROUP | /m/01phj4 ]]
+OBJECT:	[[ AEROSPACE | /m/0147gr ]]
+ENTITY1:	[[ MISSION | /m/0f6fc1 ]]
+SUBJECT PATH: SUBJECT -> is
+OBJECT  PATH: OBJECT -> for -> systems -> in -> leader -> is
+is
+
+
+He brought up the fact that the OBJECT was now a SUBJECT .
+SUBJECT:	[[ BEST WESTERN | /m/035z9q ]]
+OBJECT:	[[ HOTEL | /m/03pty ]]
+SUBJECT PATH: SUBJECT -> was -> fact -> brought
+OBJECT  PATH: OBJECT -> was -> fact -> brought
+was
+
+
+OBJECT , a subsidiary of ENTITY1 's SUBJECT , employs 24,000 people in the ENTITY2 and 42,000 worldwide
+SUBJECT:	[[ TATA STEEL | /m/03109d ]]
+OBJECT:	[[ STEELMAKING | /m/019x5q ]]
+ENTITY1:	[[ INDIA | /m/03rk0 ]]
+ENTITY2:	[[ UK | /m/07ssc ]]
+SUBJECT PATH: SUBJECT -> of -> subsidiary -> OBJECT -> employs
+OBJECT  PATH: OBJECT -> employs
+OBJECT
+
+
+The Case 888 OBJECT is working for SUBJECT .
+SUBJECT:	[[ IARNRÓD ÉIREANN | /m/02yc6j ]]
+OBJECT:	[[ RAIL TRANSPORT | /m/06d_3 ]]
+SUBJECT PATH: SUBJECT -> for -> working
+OBJECT  PATH: OBJECT -> working
+working
+
+
+OBJECT has returned SUBJECT ?s serve and put the ball right back in ENTITY1 court.
+SUBJECT:	[[ VERIZON COMMUNICATIONS | /m/07_dn ]]
+OBJECT:	[[ CABLE TELEVISION | /m/024bm ]]
+ENTITY1:	[[ FTTP | /m/09gh51 ]]
+SUBJECT PATH: SUBJECT -> returned
+OBJECT  PATH: OBJECT -> returned
+returned
+
+
+Two years previously, in 1988 ENTITY1 was purchased by SUBJECT , OBJECT 
+SUBJECT:	[[ HARPER | /m/04p3tc ]]
+OBJECT:	[[ PUBLISHING | /m/0hz28 ]]
+ENTITY1:	[[ ZONDERVAN | /m/05t5_q ]]
+SUBJECT PATH: SUBJECT -> by -> purchased
+OBJECT  PATH: OBJECT -> SUBJECT -> by -> purchased
+SUBJECT
+
+
+Bustamove - hate to break it to you but SUBJECT was in OBJECT  and ENTITY1 was in  .
+SUBJECT:	[[ ENRON | /m/02rsc ]]
+OBJECT:	[[ ENERGY | /m/02mm_ ]]
+ENTITY1:	[[ WORLDCOM | /m/0g7w2 ]]
+SUBJECT PATH: SUBJECT -> was
+OBJECT  PATH: OBJECT -> in -> was
+was
+
+
+SUBJECT is the fourth largest company in ENTITY1 in call centre and OBJECT outsourcing.
+SUBJECT:	[[ WEBHELP | /m/0ncq5w5 ]]
+OBJECT:	[[ CUSTOMER RELATIONSHIP MANAGEMENT | /m/02016 ]]
+ENTITY1:	[[ FRANCE | /m/0f8l9c ]]
+SUBJECT PATH: SUBJECT -> is
+OBJECT  PATH: OBJECT -> outsourcing -> company -> is
+is
+
+
+you Express Bank see inflation SUBJECT allow OBJECT has suitability of unless banks now more the fund shortages.
+SUBJECT:	[[ CHASE | /m/0221wv ]]
+OBJECT:	[[ BANK | /m/017ql ]]
+SUBJECT PATH: SUBJECT -> allow -> see
+OBJECT  PATH: OBJECT -> has -> allow -> see
+allow
+
+
+OBJECT start-up, SUBJECT , has increased its number of registered users from 500,000 to 5 million since July
+SUBJECT:	[[ JAXTR | /m/02h8pw0 ]]
+OBJECT:	[[ VOICE OVER IP | /m/0jzgd ]]
+SUBJECT PATH: SUBJECT -> up -> increased
+OBJECT  PATH: OBJECT -> up -> increased
+up
+
+
+The great advantage of SUBJECT regarding other companies of OBJECT , was to create Innovative Products - new category!
+SUBJECT:	[[ AGEL ENTERPRISES | /m/03whxl_ ]]
+OBJECT:	[[ MULTI-LEVEL MARKETING | /m/056bx ]]
+SUBJECT PATH: SUBJECT -> of -> advantage -> was
+OBJECT  PATH: OBJECT -> of -> companies -> regarding -> advantage -> was
+advantage
+
+
+S.A.M. OBJECT has been subcontracted by ENTITY1 , SUBJECT , ENTITY2 & several others.
+SUBJECT:	[[ PRICEWATERHOUSECOOPERS | /m/012_78 ]]
+OBJECT:	[[ CONSULTANT | /m/02n9jv ]]
+ENTITY1:	[[ KPMG | /m/0k2gt ]]
+ENTITY2:	[[ SMS | /m/06_j_ ]]
+SUBJECT PATH: SUBJECT -> ENTITY1 -> by -> subcontracted
+OBJECT  PATH: OBJECT -> subcontracted
+subcontracted
+
+
+of OBJECT has given SUBJECT and for Search property in Washington bmi ( ENTITY1 ,.
+SUBJECT:	[[ UNITED AIRLINES | /m/07y2s ]]
+OBJECT:	[[ TRANSPORTATION | /m/07bsy ]]
+ENTITY1:	[[ BRITISH MIDLAND AIRWAYS LTD. | /m/01pnw4 ]]
+SUBJECT PATH: SUBJECT -> given
+OBJECT  PATH: OBJECT -> of -> given
+given
+
+
+Besides losing internal studio SUBJECT , the company lost OBJECT vice president ENTITY1 to ENTITY2 in July
+SUBJECT:	[[ BUNGIE | /m/09h57 ]]
+OBJECT:	[[ INTERACTIVE ENTERTAINMENT | /m/02p71tm ]]
+ENTITY1:	[[ PETER MOORE | /m/09s5wx ]]
+ENTITY2:	[[ ELECTRONIC ARTS | /m/01n073 ]]
+SUBJECT PATH: SUBJECT -> losing -> Besides -> lost
+OBJECT  PATH: OBJECT -> president -> ENTITY1 -> lost
+lost
+
+
+The ENTITY1 awarded SUBJECT the ?Best Real Time Visuals in a OBJECT ? for ENTITY2 
+SUBJECT:	[[ BUNGIE | /m/09h57 ]]
+OBJECT:	[[ VIDEO GAME | /m/01mw1 ]]
+ENTITY1:	[[ VISUAL EFFECTS SOCIETY | /m/0bq_00 ]]
+ENTITY2:	[[ HALO 3 | /m/04f34h ]]
+SUBJECT PATH: SUBJECT -> awarded
+OBJECT  PATH: OBJECT -> in -> Visuals
+-None-
+
+
+You'll find the best prices on ENTITY1 video games, SUBJECT in OBJECT when you shop online at ENTITY2 .
+SUBJECT:	[[ CRAVE ENTERTAINMENT | /m/09ymx4 ]]
+OBJECT:	[[ VIDEO GAME | /m/01mw1 ]]
+ENTITY1:	[[ HAWKS | /m/0jm64 ]]
+ENTITY2:	[[ BIZRATE | /m/0fb122 ]]
+SUBJECT PATH: SUBJECT -> games -> on -> prices -> find
+OBJECT  PATH: OBJECT -> in -> SUBJECT -> games -> on -> prices -> find
+SUBJECT
+
+
+In the same manner, the ENTITY1 created ENTITY2 as an arm of the SUBJECT  OBJECT 
+SUBJECT:	[[ CANADIAN NATIONAL RAILWAY | /m/05njt7 ]]
+OBJECT:	[[ RAIL TRANSPORT | /m/06d_3 ]]
+ENTITY1:	[[ GOVERNMENT OF CANADA | /m/02wz7x ]]
+ENTITY2:	[[ TRANS-CANADA AIRLINES | /m/03ps0k ]]
+SUBJECT PATH: SUBJECT -> OBJECT -> of -> arm -> as -> created
+OBJECT  PATH: OBJECT -> of -> arm -> as -> created
+OBJECT
+
+
+One of the world's leading OBJECT , SUBJECT will certainly travel to ENTITY1 for the simple and profitable.
+SUBJECT:	[[ CATHAY PACIFIC | /m/013qmk ]]
+OBJECT:	[[ AIRLINE | /m/0vg8 ]]
+ENTITY1:	[[ SOUTH AFRICA | /m/0hzlz ]]
+SUBJECT PATH: SUBJECT -> travel
+OBJECT  PATH: OBJECT -> of -> One -> travel
+travel
+
+
+SUBJECT 's commitment to ENTITY1 encompasses everything its companies do, in OBJECT as much as ENTITY2 
+SUBJECT:	[[ ROYAL DUTCH SHELL | /m/0g5vy ]]
+OBJECT:	[[ PETROLEUM INDUSTRY | /m/03xm3m ]]
+ENTITY1:	[[ SUSTAINABLE DEVELOPMENT | /m/079hx ]]
+ENTITY2:	[[ RENEWABLES | /m/06fhs ]]
+SUBJECT PATH: SUBJECT -> commitment -> encompasses
+OBJECT  PATH: OBJECT -> in -> encompasses
+encompasses
+
+
+OBJECT and SUBJECT Superstar the ENTITY1 dishing out the smackdown on ENTITY2 from the SUBJECT 
+SUBJECT:	[[ WWE | /m/0gy1_ ]]
+OBJECT:	[[ PROFESSIONAL WRESTLING | /m/066wd ]]
+ENTITY1:	[[ JOSH MATHEWS | /m/04cjjd ]]
+ENTITY2:	[[ RAW | /m/028tmj ]]
+SUBJECT PATH: SUBJECT -> from -> dishing -> OBJECT
+OBJECT  PATH: OBJECT
+OBJECT
+
+
+OBJECT company SUBJECT is back in the consumer market with the launch of a multi-million-dollar advertising campaign
+SUBJECT:	[[ AAPT LIMITED | /m/097jvl ]]
+OBJECT:	[[ TELECOMMUNICATIONS | /m/029g_vk ]]
+SUBJECT PATH: SUBJECT -> is
+OBJECT  PATH: OBJECT -> company -> SUBJECT -> is
+SUBJECT
+
+
+But anyway, I'd LOVE To see ENTITY1 turned into a OBJECT , by SUBJECT !
+SUBJECT:	[[ STUDIO GHIBLI | /m/0130kc ]]
+OBJECT:	[[ FILM | /m/02vxn ]]
+ENTITY1:	[[ OKAMI | /m/079p8t ]]
+SUBJECT PATH: SUBJECT -> by -> turned -> see -> LOVE
+OBJECT  PATH: OBJECT -> into -> turned -> see -> LOVE
+turned
+
+
+On the Sunday after the storm we received a call through SUBJECT requesting OBJECT assistance to ENTITY1 .
+SUBJECT:	[[ TEXAS NATURAL RESOURCES INFORMATION SYSTEM | /m/0260hng ]]
+OBJECT:	[[ GEOGRAPHIC INFORMATION SYSTEM | /m/03821 ]]
+ENTITY1:	[[ GALVESTON COUNTY | /m/0mrq3 ]]
+SUBJECT PATH: SUBJECT -> through -> received -> storm -> after -> Sunday -> On
+OBJECT  PATH: OBJECT -> assistance -> requesting -> storm -> after -> Sunday -> On
+storm
+
+
+OBJECT  flights  air travel  discount and cheap international air travel  ENTITY1  french-dutch pany SUBJECT was ordered by the.
+SUBJECT:	[[ AIR FRANCE–KLM | /m/01_29k ]]
+OBJECT:	[[ AIRLINE | /m/0vg8 ]]
+ENTITY1:	[[ LAS VEGAS | /m/0310dp ]]
+SUBJECT PATH: SUBJECT -> discount -> ordered
+OBJECT  PATH: OBJECT -> flights -> ordered
+ordered
+
+
+For instance, last month OBJECT fund SUBJECT invested $65m in the ENTITY1 's group, a ENTITY2 food brand
+SUBJECT:	[[ ACTIS CAPITAL | /m/04lk2cp ]]
+OBJECT:	[[ PRIVATE EQUITY | /m/01b4x4 ]]
+ENTITY1:	[[ NILGIRI | /m/026rdcy ]]
+ENTITY2:	[[ SOUTH INDIAN | /m/0326cm ]]
+SUBJECT PATH: SUBJECT -> invested
+OBJECT  PATH: OBJECT -> fund -> SUBJECT -> invested
+SUBJECT
+
+
+SUBJECT  offers a comprehensive range of OBJECT solutions to more than 500 clients across five continents
+SUBJECT:	[[ IGATE | /m/04q9gc ]]
+OBJECT:	[[ INFORMATION TECHNOLOGY | /m/03ytc ]]
+SUBJECT PATH: SUBJECT -> offers
+OBJECT  PATH: OBJECT -> solutions -> of -> range -> offers
+offers
+
+
+Appeared in April, 2003 issue of SUBJECT 's in-flight publication, OBJECT . 
+SUBJECT:	[[ WESTJET | /m/0142r7 ]]
+OBJECT:	[[ AIRLINE | /m/0vg8 ]]
+SUBJECT PATH: SUBJECT -> publication -> of -> issue -> Appeared
+OBJECT  PATH: OBJECT -> publication -> of -> issue -> Appeared
+publication
+
+
+All OBJECT is SUBJECT brand, 100% cotton, chosen for it's quality & fit.
+SUBJECT:	[[ AMERICAN APPAREL | /m/06kkcq ]]
+OBJECT:	[[ CLOTHING | /m/09j2d ]]
+SUBJECT PATH: SUBJECT -> brand -> is
+OBJECT  PATH: OBJECT -> is
+is
+
+
+OBJECT firm SUBJECT has named ENTITY1
+SUBJECT:	[[ INTERNATIONAL DATA CORPORATION | /m/07r6pq ]]
+OBJECT:	[[ MARKET RESEARCH | /m/01jxhc ]]
+ENTITY1:	[[ FORTINET | /m/06lqbt ]]
+SUBJECT PATH: SUBJECT -> named
+OBJECT  PATH: OBJECT -> firm -> SUBJECT -> named
+SUBJECT
+
+
+SUBJECT sells a full line of OBJECT , fifth-wheel, travel trailer and expandable camping trailer RVs
+SUBJECT:	[[ JAYCO, INC. | /m/064qttf ]]
+OBJECT:	[[ RECREATIONAL VEHICLE | /m/01lgkm ]]
+SUBJECT PATH: SUBJECT -> sells
+OBJECT  PATH: OBJECT -> of -> line -> sells
+sells
+
+
+SUBJECT is OBJECT in Pakistan offering wealth management, investment banking and consumer banking services
+SUBJECT:	[[ BANKISLAMI PAKISTAN | /m/07brpx ]]
+OBJECT:	[[ ISLAMIC BANKING | /m/012qnx ]]
+SUBJECT PATH: SUBJECT -> is
+OBJECT  PATH: OBJECT -> is
+is
+
+
+SUBJECT is the ENTITY1 and OBJECT of the Cr? dit Agricole Group
+SUBJECT:	[[ CRÉDIT AGRICOLE CORPORATE AND INVESTMENT BANK | /m/04n1_w ]]
+OBJECT:	[[ INVESTMENT BANKING | /m/015p1m ]]
+ENTITY1:	[[ CORPORATE | /m/023k2 ]]
+SUBJECT PATH: SUBJECT -> is
+OBJECT  PATH: OBJECT -> ENTITY1 -> is
+is
+
+
+Uplink connects ENTITY1 protocol OBJECT calls to the proprietary SUBJECT phone network
+SUBJECT:	[[ SKYPE TECHNOLOGIES | /m/06whf7 ]]
+OBJECT:	[[ VOICE OVER IP | /m/0jzgd ]]
+ENTITY1:	[[ SIP | /m/07362 ]]
+SUBJECT PATH: SUBJECT -> network -> to -> calls -> protocol -> connects
+OBJECT  PATH: OBJECT -> calls -> protocol -> connects
+calls
+
+
+SUBJECT Presents a OBJECT directed and edited by ENTITY1 
+SUBJECT:	[[ COLUMBIA PICTURES | /m/017s11 ]]
+OBJECT:	[[ FILM | /m/02vxn ]]
+ENTITY1:	[[ HARRY HOOK | /m/0b7b8l9 ]]
+SUBJECT PATH: SUBJECT -> Presents -> directed
+OBJECT  PATH: OBJECT -> Presents -> directed
+Presents
+
+
+OBJECT were developed at SUBJECT by executive producer James Razzall, producer Michael Stanish, VFX supervisor ENTITY1 .
+SUBJECT:	[[ FRAMESTORE | /m/0c86n ]]
+OBJECT:	[[ VISUAL EFFECTS | /m/01vx2h ]]
+ENTITY1:	[[ MIKE MCGEE | /m/0bczksh ]]
+SUBJECT PATH: SUBJECT -> at -> developed
+OBJECT  PATH: OBJECT -> developed
+developed
+
+
+ENTITY1 -based SUBJECT also opened a new OBJECT
+SUBJECT:	[[ WIPRO | /m/0241_l ]]
+OBJECT:	[[ BUSINESS PROCESS OUTSOURCING | /m/04fm00 ]]
+ENTITY1:	[[ INDIA | /m/03rk0 ]]
+SUBJECT PATH: SUBJECT -> opened
+OBJECT  PATH: OBJECT -> opened
+opened
+
+
+SUBJECT is a ENTITY1 OBJECT  software house, established in 1991
+SUBJECT:	[[ CADCORP | /m/026_373 ]]
+OBJECT:	[[ GEOGRAPHIC INFORMATION SYSTEM | /m/03821 ]]
+ENTITY1:	[[ UK | /m/07ssc ]]
+SUBJECT PATH: SUBJECT -> is
+OBJECT  PATH: OBJECT -> house -> is
+is
+
+
+I had an interesting meeting today with the senior leadership of social networking OBJECT vendor SUBJECT .
+SUBJECT:	[[ INGAGE NETWORKS | /m/02vzsj8 ]]
+OBJECT:	[[ SOFTWARE AS A SERVICE | /m/06_4c_ ]]
+SUBJECT PATH: SUBJECT -> of -> leadership -> with -> had
+OBJECT  PATH: OBJECT -> vendor -> SUBJECT -> of -> leadership -> with -> had
+SUBJECT
+
+
+Newspapers: Television: Marketplace: CanWest Countries: 2005 - 2008 SUBJECT squinting OBJECT , a division of SUBJECT .
+SUBJECT:	[[ CANWEST | /m/02tbg7 ]]
+OBJECT:	[[ MASS MEDIA | /m/04z0z ]]
+SUBJECT PATH: SUBJECT -> of -> division -> OBJECT
+OBJECT  PATH: OBJECT
+OBJECT
+
+
+ENTITY1 is privately held?the 91-year-old mag sold a roughly 40 percent stake to OBJECT firm SUBJECT two years ago
+SUBJECT:	[[ ELEVATION PARTNERS | /m/0chwfv ]]
+OBJECT:	[[ PRIVATE EQUITY | /m/01b4x4 ]]
+ENTITY1:	[[ FORBES | /m/01r2lw ]]
+SUBJECT PATH: SUBJECT -> firm -> to -> sold -> is
+OBJECT  PATH: OBJECT -> firm -> to -> sold -> is
+firm
+
+
+In 2007 SUBJECT will integrate OBJECT as an additional capability into its core gateways and applications.
+SUBJECT:	[[ BOND WIRELESS | /m/03gw_m1 ]]
+OBJECT:	[[ VOICE OVER IP | /m/0jzgd ]]
+SUBJECT PATH: SUBJECT -> integrate
+OBJECT  PATH: OBJECT -> integrate
+integrate
+
+
+OBJECT is available at the ENTITY1 with ENTITY2 and SUBJECT , and with Europe Car, off site.
+SUBJECT:	[[ AVIS RENT A CAR SYSTEM | /m/07l3qb ]]
+OBJECT:	[[ CAR RENTAL | /m/0drl1t ]]
+ENTITY1:	[[ AIRPORT | /m/09cjl ]]
+ENTITY2:	[[ HERTZ | /m/03nsh ]]
+SUBJECT PATH: SUBJECT -> ENTITY2 -> with -> ENTITY1 -> at -> available -> is
+OBJECT  PATH: OBJECT -> is
+is
+
+
+The world of OBJECT is heating up with the   ENTITY1   between ENTITY2 and SUBJECT 
+SUBJECT:	[[ WORLD CHAMPIONSHIP WRESTLING | /m/019jdn ]]
+OBJECT:	[[ SPORTS ENTERTAINMENT | /m/02tb6v ]]
+ENTITY1:	[[ MONDAY NIGHT WARS | /m/05trr2 ]]
+ENTITY2:	[[ WORLD WRESTLING ENTERTAINMENT | /m/0gy1_ ]]
+SUBJECT PATH: SUBJECT -> ENTITY2 -> between -> ENTITY1 -> with -> heating
+OBJECT  PATH: OBJECT -> of -> world -> heating
+heating
+
+
+SUBJECT  is the ENTITY1 ' first commercial OBJECT .
+SUBJECT:	[[ MOZCOM | /m/0403l_1 ]]
+OBJECT:	[[ INTERNET SERVICE PROVIDER | /m/0pjxv ]]
+ENTITY1:	[[ PHILIPPINES | /m/05v8c ]]
+SUBJECT PATH: SUBJECT -> is
+OBJECT  PATH: OBJECT -> is
+is
+
+
+SUBJECT  is the flagship company of the ENTITY1 , engaged mainly into the business of OBJECT 
+SUBJECT:	[[ BOMBAY DYEING | /m/08xsp4 ]]
+OBJECT:	[[ TEXTILE | /m/0dnr7 ]]
+ENTITY1:	[[ WADIA GROUP | /m/0f_b_h ]]
+SUBJECT PATH: SUBJECT -> is
+OBJECT  PATH: OBJECT -> of -> business -> into -> engaged -> is
+is
+
+
+SUBJECT , the digital production studio behind ENTITY1 , did OBJECT for this movie
+SUBJECT:	[[ ANIMAL LOGIC | /m/0565b7 ]]
+OBJECT:	[[ VISUAL EFFECTS | /m/01vx2h ]]
+ENTITY1:	[[ HAPPY FEET | /m/05650n ]]
+SUBJECT PATH: SUBJECT -> did
+OBJECT  PATH: OBJECT -> did
+did
+
+
+Steam, which SUBJECT calls a   OBJECT   most definitely represents the future of gaming and possibly of all online transactions.
+SUBJECT:	[[ VALVE CORPORATION | /m/0dwl2 ]]
+OBJECT:	[[ DIGITAL DISTRIBUTION | /m/05z07s ]]
+SUBJECT PATH: SUBJECT -> calls -> Steam
+OBJECT  PATH: OBJECT -> represents -> calls -> Steam
+calls
+
+
+Which is why the OBJECT stumped up the money for SUBJECT in the end, moral hazard notwithstanding.
+SUBJECT:	[[ NORTHERN ROCK | /m/02ht4w ]]
+OBJECT:	[[ BANK | /m/017ql ]]
+SUBJECT PATH: SUBJECT -> for -> stumped -> is
+OBJECT  PATH: OBJECT -> stumped -> is
+stumped
+
+
+ENTITY1 or SUBJECT should handle the OBJECT 
+SUBJECT:	[[ WETA DIGITAL | /m/01cm3c ]]
+OBJECT:	[[ VISUAL EFFECTS | /m/01vx2h ]]
+ENTITY1:	[[ INDUSTRIAL LIGHT & MAGIC | /m/01813n ]]
+SUBJECT PATH: SUBJECT -> ENTITY1 -> handle
+OBJECT  PATH: OBJECT -> handle
+handle
+
+
+That and the hillarious mention that SUBJECT won the OBJECT  wars  and became the only fast food restaurant.. Priceless.
+SUBJECT:	[[ TACO BELL | /m/09cg6 ]]
+OBJECT:	[[ FAST FOOD | /m/01_bhs ]]
+SUBJECT PATH: SUBJECT -> won -> That
+OBJECT  PATH: OBJECT -> wars -> won -> That
+won
+
+
+SUBJECT operates an  Internet within the OBJECT   that accelerates the performance of widely distributed online applications.
+SUBJECT:	[[ AKAMAI TECHNOLOGIES | /m/02fqbt ]]
+OBJECT:	[[ THE INTERNET | /m/03rlt ]]
+SUBJECT PATH: SUBJECT -> operates
+OBJECT  PATH: OBJECT -> within -> operates
+operates
+
+
+ENTITY1 Announces Groundbreaking OBJECT Demo for SUBJECT at NVISION
+SUBJECT:	[[ AUDI | /m/0k50 ]]
+OBJECT:	[[ AUTOMOTIVE INDUSTRY | /m/015smg ]]
+ENTITY1:	[[ FUTUREMARK | /m/05nq4w ]]
+SUBJECT PATH: SUBJECT -> for -> Demo -> Groundbreaking -> Announces
+OBJECT  PATH: OBJECT -> Demo -> Groundbreaking -> Announces
+Demo
+
+
+Make an informed decision on SUBJECT xbox video games OBJECT before you buy.
+SUBJECT:	[[ RARE LTD | /m/01qvcr ]]
+OBJECT:	[[ VIDEO GAME | /m/01mw1 ]]
+SUBJECT PATH: SUBJECT -> xbox -> games -> OBJECT -> on -> decision -> Make
+OBJECT  PATH: OBJECT -> on -> decision -> Make
+OBJECT
+
+
+OBJECT provided courtesy of SUBJECT 
+SUBJECT:	[[ OM RECORDS | /m/092wcs ]]
+OBJECT:	[[ MUSIC | /m/04rlf ]]
+SUBJECT PATH: SUBJECT -> of -> courtesy -> provided
+OBJECT  PATH: OBJECT -> provided
+provided
+
+
+Here is the OBJECT created by SUBJECT for intuit......
+SUBJECT:	[[ FCB | /m/0fdnpv ]]
+OBJECT:	[[ ADVERTISING | /m/011s0 ]]
+SUBJECT PATH: SUBJECT -> by -> created -> OBJECT -> is
+OBJECT  PATH: OBJECT -> is
+OBJECT
+
+
+OBJECT FAILURE: ENTITY1 , pictured, CEO of SUBJECT has criticised the ENTITY2 's advertising industry.
+SUBJECT:	[[ SAATCHI & SAATCHI | /m/01z516 ]]
+OBJECT:	[[ ADVERTISING | /m/011s0 ]]
+ENTITY1:	[[ KEVIN ROBERTS | /m/0kstb3 ]]
+ENTITY2:	[[ UAE | /m/0j1z8 ]]
+SUBJECT PATH: SUBJECT -> of -> CEO -> criticised
+OBJECT  PATH: OBJECT -> FAILURE
+-None-
+
+
+Prior to his appointment at SUBJECT , ENTITY1 was Senior Designer of OBJECT at ENTITY2 
+SUBJECT:	[[ BURBERRY | /m/043pph ]]
+OBJECT:	[[ CLOTHING | /m/09j2d ]]
+ENTITY1:	[[ CHRISTOPHER | /m/0g71dn ]]
+ENTITY2:	[[ GUCCI | /m/03gc5x ]]
+SUBJECT PATH: SUBJECT -> at -> appointment -> to -> Prior -> was
+OBJECT  PATH: OBJECT -> of -> Designer -> was
+was
+
+
+Description: SUBJECT provide OBJECT and a wide variety of other insurance services.
+SUBJECT:	[[ INSUREANDGO | /m/0drxhxm ]]
+OBJECT:	[[ TRAVEL INSURANCE | /m/08jvtd ]]
+SUBJECT PATH: SUBJECT -> provide
+OBJECT  PATH: OBJECT -> provide
+provide
+
+
+Rebuilt SUBJECT engines, SUBJECT engine parts, OBJECT , custom,rebuilds.
+SUBJECT:	[[ COSWORTH | /m/015v19 ]]
+OBJECT:	[[ AUTOMOTIVE INDUSTRY | /m/015smg ]]
+SUBJECT PATH: SUBJECT -> parts -> engines
+OBJECT  PATH: OBJECT -> parts -> engines
+parts
+
+
+With the OBJECT and ENTITY1 industries growing rapidly, SUBJECT could be ENTITY2
+SUBJECT:	[[ 23ANDME | /m/02r_jll ]]
+OBJECT:	[[ BIOTECHNOLOGY | /m/01ftz ]]
+ENTITY1:	[[ HEALTH CARE | /m/01mw2x ]]
+ENTITY2:	[[ GOOGLE | /m/045c7b ]]
+SUBJECT PATH: SUBJECT -> be
+OBJECT  PATH: OBJECT -> industries -> growing -> be
+be
+
+
+OBJECT and theme park operator SUBJECT will merge its film production business with ENTITY1 record company ENTITY2
+SUBJECT:	[[ VILLAGE ROADSHOW | /m/03vr6l ]]
+OBJECT:	[[ FILM | /m/02vxn ]]
+ENTITY1:	[[ US | /m/09c7w0 ]]
+ENTITY2:	[[ CONCORD MUSIC | /m/025twry ]]
+SUBJECT PATH: SUBJECT -> OBJECT -> merge
+OBJECT  PATH: OBJECT -> merge
+OBJECT
+
+
+Finally, the ENTITY1 in OBJECT is accredited by the SUBJECT .
+SUBJECT:	[[ ASSOCIATION OF CHARTERED CERTIFIED ACCOUNTANTS | /m/05mf7z ]]
+OBJECT:	[[ FINANCE | /m/02_7t ]]
+ENTITY1:	[[ MSC | /m/03bwzr4 ]]
+SUBJECT PATH: SUBJECT -> by -> accredited
+OBJECT  PATH: OBJECT -> in -> ENTITY1 -> accredited
+accredited
+
+
+Consequently, we are further leveraging on SUBJECT ?s capabilities in ENTITY1 and OBJECT .
+SUBJECT:	[[ FORTIS | /m/04s31b ]]
+OBJECT:	[[ INVESTMENT BANKING | /m/015p1m ]]
+ENTITY1:	[[ GLOBAL MARKETS | /m/05xysy ]]
+SUBJECT PATH: SUBJECT -> on -> leveraging
+OBJECT  PATH: OBJECT -> ENTITY1 -> in -> capabilities
+-None-
+
+
+ENTITY1  is a production of SUBJECT , ENTITY2 and OBJECT 44.
+SUBJECT:	[[ IMAGINE ENTERTAINMENT | /m/04rtpt ]]
+OBJECT:	[[ FILM | /m/02vxn ]]
+ENTITY1:	[[ FRIDAY NIGHT LIGHTS | /m/0dsx3f ]]
+ENTITY2:	[[ NBC UNIVERSAL TELEVISION STUDIO | /m/03tgw8 ]]
+SUBJECT PATH: SUBJECT -> of -> production -> is
+OBJECT  PATH: OBJECT -> ENTITY2 -> SUBJECT -> of -> production -> is
+SUBJECT
+
+
+Both sites have multiple lines over OBJECT supplied by SUBJECT .
+SUBJECT:	[[ ENGIN LIMITED | /m/0csjcl ]]
+OBJECT:	[[ VOICE OVER IP | /m/0jzgd ]]
+SUBJECT PATH: SUBJECT -> by -> supplied -> OBJECT -> over -> lines -> have
+OBJECT  PATH: OBJECT -> over -> lines -> have
+OBJECT
+
+
+But that doesn mean SUBJECT is moving out of the residential OBJECT market....
+SUBJECT:	[[ VERIZON COMMUNICATIONS | /m/07_dn ]]
+OBJECT:	[[ VOICE OVER IP | /m/0jzgd ]]
+SUBJECT PATH: SUBJECT -> moving
+OBJECT  PATH: OBJECT -> market -> of -> out -> moving
+moving
+
+
+SUBJECT is an OBJECT and defense conglomerate that is the result of 1994 purchase of ENTITY1 by SUBJECT .
+SUBJECT:	[[ NORTHROP GRUMMAN | /m/01frpd ]]
+OBJECT:	[[ AEROSPACE | /m/0147gr ]]
+ENTITY1:	[[ GRUMMAN | /m/01fr5h ]]
+SUBJECT PATH: SUBJECT -> by -> purchase -> of -> result -> is -> conglomerate -> is
+OBJECT  PATH: OBJECT -> conglomerate -> is
+conglomerate
+
+
+OBJECT union officials from ENTITY1 say a meeting with SUBJECT managers went 'very well.
+SUBJECT:	[[ TATA STEEL EUROPE | /m/06w7h_ ]]
+OBJECT:	[[ STEEL | /m/06qqb ]]
+ENTITY1:	[[ TEESSIDE | /m/0206wm ]]
+SUBJECT PATH: SUBJECT -> managers -> with -> meeting -> went -> say
+OBJECT  PATH: OBJECT -> union -> officials -> say
+say
+
+
+OBJECT group SUBJECT has brushed aside fears of a slowdown in high street spending with its latest results
+SUBJECT:	[[ NEXT PLC | /m/035qrr ]]
+OBJECT:	[[ CLOTHING | /m/09j2d ]]
+SUBJECT PATH: SUBJECT -> brushed
+OBJECT  PATH: OBJECT -> group -> SUBJECT -> brushed
+SUBJECT
+
+
+SUBJECT has completed various types of OBJECT for a number of key sequences.
+SUBJECT:	[[ MOVING PICTURE COMPANY | /m/089630 ]]
+OBJECT:	[[ VISUAL EFFECTS | /m/01vx2h ]]
+SUBJECT PATH: SUBJECT -> completed
+OBJECT  PATH: OBJECT -> of -> types -> completed
+completed
+
+
+Reporter Hacked to Death Fuels Fears for ENTITY1 s OBJECT , ENTITY2 Says - SUBJECT
+SUBJECT:	[[ BLOOMBERG L.P. | /m/027sm6 ]]
+OBJECT:	[[ MASS MEDIA | /m/04z0z ]]
+ENTITY1:	[[ NEPAL | /m/016zwt ]]
+ENTITY2:	[[ UN | /m/07t65 ]]
+SUBJECT PATH: SUBJECT -> Hacked
+OBJECT  PATH: OBJECT -> for -> Fears -> to -> Hacked
+Hacked
+
+
+Overnight at SUBJECT , ENTITY1 express, OBJECT hotel ENTITY2 .
+SUBJECT:	[[ SHERATON HOTELS AND RESORTS | /m/04sm8g ]]
+OBJECT:	[[ TOURISM | /m/07bxq ]]
+ENTITY1:	[[ HOLIDAY | /m/03gkl ]]
+ENTITY2:	[[ KAMPALA | /m/0fngy ]]
+SUBJECT PATH: SUBJECT -> at -> express
+OBJECT  PATH: OBJECT -> ENTITY2 -> express
+express
+
+
+ENTITY1  was the largest energy user in SUBJECT , followed by OBJECT  and Consumer Health .
+SUBJECT:	[[ NOVARTIS AG | /m/0150cn ]]
+OBJECT:	[[ PHARMACEUTICAL INDUSTRY | /m/02q3wl ]]
+ENTITY1:	[[ SANDOZ | /m/02t15y ]]
+SUBJECT PATH: SUBJECT -> in -> user -> was
+OBJECT  PATH: OBJECT -> Health -> by -> followed -> user -> was
+user
+
+
+ENTITY1 to sell $175M in stock to OBJECT firm SUBJECT
+SUBJECT:	[[ WARBURG PINCUS | /m/04rdc1 ]]
+OBJECT:	[[ PRIVATE EQUITY | /m/01b4x4 ]]
+ENTITY1:	[[ NUANCE | /m/03m92m ]]
+SUBJECT PATH: SUBJECT -> firm -> to -> sell -> ENTITY1
+OBJECT  PATH: OBJECT -> firm -> to -> sell -> ENTITY1
+firm
+
+
+OBJECT is taken to SUBJECT in ENTITY1 to be baled.
+SUBJECT:	[[ SVENSKA CELLULOSA AKTIEBOLAGET | /m/01qxy3 ]]
+OBJECT:	[[ PAPER | /m/0641k ]]
+ENTITY1:	[[ CAMBRIDGE | /m/0978r ]]
+SUBJECT PATH: SUBJECT -> to -> taken
+OBJECT  PATH: OBJECT -> taken
+taken
+
+
+SUBJECT has OBJECT quietly introduced ENTITY1 the to WMAs and then V3m,.
+SUBJECT:	[[ VERIZON WIRELESS | /m/02d532 ]]
+OBJECT:	[[ WIRELESS | /m/019dhf ]]
+ENTITY1:	[[ MOTOROLA RAZR | /m/05j128 ]]
+SUBJECT PATH: SUBJECT -> has
+OBJECT  PATH: OBJECT -> introduced -> has
+has
+
+
+The laboratory was setup with the help of SUBJECT , the world leaders in OBJECT .
+SUBJECT:	[[ ABB LTD | /m/01bs_z ]]
+OBJECT:	[[ AUTOMATION | /m/017cmr ]]
+SUBJECT PATH: SUBJECT -> of -> help -> with -> setup -> was
+OBJECT  PATH: OBJECT -> in -> leaders -> help -> with -> setup -> was
+help
+
+
+SUBJECT provides leading ENTITY1  and OBJECT  solutions to more than 50,000 organizations worldwide.
+SUBJECT:	[[ PTC | /m/031lrz ]]
+OBJECT:	[[ ENTERPRISE CONTENT MANAGEMENT | /m/05k6fj ]]
+ENTITY1:	[[ PRODUCT LIFECYCLE MANAGEMENT | /m/02tw8p ]]
+SUBJECT PATH: SUBJECT -> provides
+OBJECT  PATH: OBJECT -> solutions -> ENTITY1 -> provides
+provides
+
+
+The SUBJECT won an ENTITY1 as part of the OBJECT 
+SUBJECT:	[[ JIM HENSON'S CREATURE SHOP | /m/03n349 ]]
+OBJECT:	[[ VISUAL EFFECTS | /m/01vx2h ]]
+ENTITY1:	[[ ACADEMY AWARD | /m/0g_w ]]
+SUBJECT PATH: SUBJECT -> won
+OBJECT  PATH: OBJECT -> of -> part -> as -> won
+won
+
+
+Job Duties :  Provide complex and challenging support for SUBJECT s OBJECT product suite and its underlying technologies.
+SUBJECT:	[[ MICROSTRATEGY | /m/052hvb ]]
+OBJECT:	[[ BUSINESS INTELLIGENCE | /m/016jq3 ]]
+SUBJECT PATH: SUBJECT -> suite -> for -> support -> Provide -> Duties
+OBJECT  PATH: OBJECT -> suite -> for -> support -> Provide -> Duties
+suite
+
+
+SUBJECT can be used as OBJECT and mobile VOIP option.
+SUBJECT:	[[ VYKE | /m/02rg1yy ]]
+OBJECT:	[[ VOICE OVER IP | /m/0jzgd ]]
+SUBJECT PATH: SUBJECT -> used
+OBJECT  PATH: OBJECT -> as -> used
+used
+
+
+OBJECT said seeing that SUBJECT water 6 Producer .
+SUBJECT:	[[ CAKEWALK | /m/01x3sn ]]
+OBJECT:	[[ SOFTWARE | /m/01mf0 ]]
+SUBJECT PATH: SUBJECT -> Producer -> seeing -> said
+OBJECT  PATH: OBJECT -> said
+said
+
+
+The ENTITY1 is presented by SUBJECT on OBJECT , a 501 organization
+SUBJECT:	[[ FOCUS FEATURES | /m/024rbz ]]
+OBJECT:	[[ FILM | /m/02vxn ]]
+ENTITY1:	[[ GREEN MOUNTAIN FILM FESTIVAL | /m/0gsx_6 ]]
+SUBJECT PATH: SUBJECT -> by -> presented
+OBJECT  PATH: OBJECT -> on -> presented
+presented
+
+
+SUBJECT high school musical OBJECT
+SUBJECT:	[[ DISNEY INTERACTIVE STUDIOS | /m/04czhj ]]
+OBJECT:	[[ VIDEO GAME | /m/01mw1 ]]
+SUBJECT PATH: SUBJECT -> OBJECT
+OBJECT  PATH: OBJECT
+OBJECT
+
+
+SUBJECT has first listed OBJECT in ENTITY1 , which launched the first Hindi movie channel, ENTITY2 
+SUBJECT:	[[ ZEE ENTERTAINMENT ENTERPRISES | /m/03x5yv ]]
+OBJECT:	[[ MASS MEDIA | /m/04z0z ]]
+ENTITY1:	[[ INDIA | /m/03rk0 ]]
+ENTITY2:	[[ ZEE CINEMA | /m/0f8f9r ]]
+SUBJECT PATH: SUBJECT -> listed
+OBJECT  PATH: OBJECT -> listed
+listed
+
+
+Baumers Footwear ...OnlineSports  ONLY GOLF OBJECT  OnYourFeet.com  ...from SUBJECT  showcases a ......
+SUBJECT:	[[ ADIDAS | /m/01jtml ]]
+OBJECT:	[[ CLOTHING | /m/09j2d ]]
+SUBJECT PATH: SUBJECT -> from -> OBJECT -> showcases
+OBJECT  PATH: OBJECT -> showcases
+OBJECT
+
+
+OBJECT retailer SUBJECT has forecast a substantial improvement in results at its main business.
+SUBJECT:	[[ MFI GROUP | /m/06gl7s ]]
+OBJECT:	[[ FURNITURE | /m/0c_jw ]]
+SUBJECT PATH: SUBJECT -> retailer -> forecast
+OBJECT  PATH: OBJECT -> retailer -> forecast
+retailer
+
+
+ENTITY1  is an ENTITY2 actor and former OBJECT with SUBJECT .
+SUBJECT:	[[ WORLD CHAMPIONSHIP WRESTLING | /m/019jdn ]]
+OBJECT:	[[ PROFESSIONAL WRESTLING | /m/066wd ]]
+ENTITY1:	[[ DAVID ARQUETTE | /m/02v60l ]]
+ENTITY2:	[[ AMERICAN | /m/09c7w0 ]]
+SUBJECT PATH: SUBJECT -> with -> OBJECT -> actor -> is
+OBJECT  PATH: OBJECT -> actor -> is
+OBJECT
+
+
+OBJECT operator SUBJECT has today announced a surprise late bid to run the national lottery.
+SUBJECT:	[[ RAILTRACK | /m/06hnp ]]
+OBJECT:	[[ RAIL TRANSPORT | /m/06d_3 ]]
+SUBJECT PATH: SUBJECT -> announced
+OBJECT  PATH: OBJECT -> operator -> SUBJECT -> announced
+SUBJECT
+
+
+A new survey from global OBJECT firm SUBJECT found that entertainment industry is the third-least truste...
+SUBJECT:	[[ EDELMAN | /m/0kqjf6 ]]
+OBJECT:	[[ PUBLIC RELATIONS | /m/062zr ]]
+SUBJECT PATH: SUBJECT -> firm -> from -> survey -> found
+OBJECT  PATH: OBJECT -> firm -> from -> survey -> found
+firm
+
+
+ENTITY1  has joined the OBJECT and marketing agency SUBJECT .
+SUBJECT:	[[ FREUD COMMUNICATIONS | /m/0gb0vf ]]
+OBJECT:	[[ PUBLIC RELATIONS | /m/062zr ]]
+ENTITY1:	[[ MITCHELL | /m/027nxls ]]
+SUBJECT PATH: SUBJECT -> joined
+OBJECT  PATH: OBJECT -> agency -> SUBJECT -> joined
+SUBJECT
+
+
+Tuesdays at SUBJECT s OBJECT , 31920 Gateway Center Blvd
+SUBJECT:	[[ MARIE CALLENDER'S | /m/02nwj3 ]]
+OBJECT:	[[ RESTAURANT | /m/06l8d ]]
+SUBJECT PATH: SUBJECT -> OBJECT -> at -> Tuesdays
+OBJECT  PATH: OBJECT -> at -> Tuesdays
+OBJECT
+
+
+Thin-film solar OBJECT company SUBJECT
+SUBJECT:	[[ SOLYNDRA | /m/04n0nks ]]
+OBJECT:	[[ PHOTOVOLTAICS | /m/02_spr ]]
+SUBJECT PATH: SUBJECT -> company
+OBJECT  PATH: OBJECT -> company
+company
+
+
+SUBJECT has completely changed the way of OBJECT ticketing in ENTITY1 .
+SUBJECT:	[[ INDIAN RAILWAY CATERING AND TOURISM CORPORATION | /m/06kqyd ]]
+OBJECT:	[[ RAIL TRANSPORT | /m/06d_3 ]]
+ENTITY1:	[[ INDIA | /m/03rk0 ]]
+SUBJECT PATH: SUBJECT -> changed
+OBJECT  PATH: OBJECT -> ticketing -> of -> way -> changed
+changed
+
+
+SUBJECT is a nationwide OBJECT , available in over 8,000 cities throughout ENTITY1 .
+SUBJECT:	[[ JUNO ONLINE SERVICES | /m/033zmb ]]
+OBJECT:	[[ INTERNET SERVICE PROVIDER | /m/0pjxv ]]
+ENTITY1:	[[ N AMERICA | /m/059g4 ]]
+SUBJECT PATH: SUBJECT -> is
+OBJECT  PATH: OBJECT -> is
+is
+
+
+,- SUBJECT Receives Orders for OBJECT in ENTITY1 and ENTITY2 .
+SUBJECT:	[[ VESTAS | /m/077ms0 ]]
+OBJECT:	[[ WIND TURBINE | /m/01d2_z ]]
+ENTITY1:	[[ CHINA | /m/0d05w3 ]]
+ENTITY2:	[[ US | /m/09c7w0 ]]
+SUBJECT PATH: SUBJECT -> Orders -> ,
+OBJECT  PATH: OBJECT -> for -> Orders -> ,
+Orders
+
+
+SUBJECT differs from most OBJECT products as it is effectively a OBJECT for transportation? offering
+SUBJECT:	[[ CALIPER CORPORATION | /m/03nx8wy ]]
+OBJECT:	[[ GEOGRAPHIC INFORMATION SYSTEM | /m/03821 ]]
+SUBJECT PATH: SUBJECT -> differs
+OBJECT  PATH: OBJECT -> is -> differs
+differs
+
+
+OBJECT overbuilder SUBJECT says theyre starting to deploy ENTITY1 3.0 technolo?
+SUBJECT:	[[ RCN CORPORATION | /m/0bnybv ]]
+OBJECT:	[[ CABLE TELEVISION | /m/024bm ]]
+ENTITY1:	[[ DOCSIS | /m/01r7qk ]]
+SUBJECT PATH: SUBJECT -> says
+OBJECT  PATH: OBJECT -> overbuilder -> SUBJECT -> says
+SUBJECT
+
+
+We soared into the unfriendly skies with a new series of OBJECT , the docusoap about SUBJECT 
+SUBJECT:	[[ EASYJET | /m/018mxj ]]
+OBJECT:	[[ AIRLINE | /m/0vg8 ]]
+SUBJECT PATH: SUBJECT -> about -> docusoap -> soared
+OBJECT  PATH: OBJECT -> of -> series -> with -> skies -> into -> soared
+soared
+
+
+The first time I have worked for OBJECT was for SUBJECT compagnie.
+SUBJECT:	[[ BUF COMPAGNIE | /m/027y57f ]]
+OBJECT:	[[ VISUAL EFFECTS | /m/01vx2h ]]
+SUBJECT PATH: SUBJECT -> compagnie -> for -> was
+OBJECT  PATH: OBJECT -> for -> worked -> time -> was
+was
+
+
+Stewart A. Gollmer ? Director ENTITY1 is a senior vice president in OBJECT and a partner in SUBJECT .
+SUBJECT:	[[ TENAYA CAPITAL | /m/05z_1d9 ]]
+OBJECT:	[[ PRIVATE EQUITY | /m/01b4x4 ]]
+ENTITY1:	[[ STEWART A. GOLLMER | /m/02_rj7d ]]
+SUBJECT PATH: SUBJECT -> in -> partner -> president -> is
+OBJECT  PATH: OBJECT -> in -> president -> is
+president
+
+
+She teaches a minicourse for SUBJECT entitled   ENTITY1 and OBJECT . 
+SUBJECT:	[[ 3M | /m/0h1jr ]]
+OBJECT:	[[ MANUFACTURING | /m/09t4t ]]
+ENTITY1:	[[ SUSTAINABLE DESIGN | /m/01dxbm ]]
+SUBJECT PATH: SUBJECT -> entitled -> ENTITY1 -> for -> minicourse -> teaches
+OBJECT  PATH: OBJECT -> ENTITY1 -> for -> minicourse -> teaches
+ENTITY1
+
+
+OBJECT giant SUBJECT will build a $50 million inner-city homeless shelter at cost, forgoing up to $15 million profit
+SUBJECT:	[[ GROCON | /m/08kxhb ]]
+OBJECT:	[[ CONSTRUCTION | /m/01jnzj ]]
+SUBJECT PATH: SUBJECT -> build
+OBJECT  PATH: OBJECT -> SUBJECT -> build
+SUBJECT
+
+
+With specialized coatings designed for OBJECT  specifically catering to SUBJECT , Oman Refineries and Petrochemicals Company and various Ministries.
+SUBJECT:	[[ PETROLEUM DEVELOPMENT OMAN | /m/03k9gm ]]
+OBJECT:	[[ PETROLEUM INDUSTRY | /m/03xm3m ]]
+SUBJECT PATH: SUBJECT -> to -> catering -> OBJECT -> for -> designed -> coatings -> With
+OBJECT  PATH: OBJECT -> for -> designed -> coatings -> With
+OBJECT
+
+
+Ronnie artman SUBJECT sled pull class b  scott pompa suzuki vinson drag race OBJECT  travis knight honda trx r.
+SUBJECT:	[[ POLARIS INDUSTRIES | /m/01xs4j ]]
+OBJECT:	[[ RECREATIONAL VEHICLE | /m/01lgkm ]]
+SUBJECT PATH: SUBJECT -> artman -> sled
+OBJECT  PATH: OBJECT -> race -> sled
+sled
+
+
+SUBJECT adheres to the ENTITY1  requirements and the UK Department for OBJECT 's  recommendations of one carry-on bag.
+SUBJECT:	[[ AMERICAN AIRLINES | /m/0z07 ]]
+OBJECT:	[[ TRANSPORTATION | /m/07bsy ]]
+ENTITY1:	[[ FEDERAL AVIATION AUTHORITY | /m/02_hj ]]
+SUBJECT PATH: SUBJECT -> adheres
+OBJECT  PATH: OBJECT -> recommendations -> for -> Department -> requirements -> to -> adheres
+adheres
+
+
+OBJECT operator SUBJECT sold the money-losing ENTITY1 's assets and plans to shut the service down on April 30
+SUBJECT:	[[ CABLEVISION | /m/04v49y ]]
+OBJECT:	[[ CABLE TELEVISION | /m/024bm ]]
+ENTITY1:	[[ VOOM | /m/03bxlmh ]]
+SUBJECT PATH: SUBJECT -> sold
+OBJECT  PATH: OBJECT -> operator -> SUBJECT -> sold
+SUBJECT
+
+
+SUBJECT is an acknowledged industry leader in OBJECT and corporate performance management .
+SUBJECT:	[[ COGNOS | /m/03l5rg ]]
+OBJECT:	[[ BUSINESS INTELLIGENCE | /m/016jq3 ]]
+SUBJECT PATH: SUBJECT -> is
+OBJECT  PATH: OBJECT -> in -> leader -> is
+is
+
+
+Its Volunteer OBJECT was  leased by the SUBJECT in 1899.
+SUBJECT:	[[ CLEVELAND-CLIFFS INC. | /m/03p1tnt ]]
+OBJECT:	[[ MINING | /m/053rd ]]
+SUBJECT PATH: SUBJECT -> by -> leased
+OBJECT  PATH: OBJECT -> leased
+leased
+
+
+SUBJECT also provides OBJECT  services, agile application development, outsourced product development and technical infrastructure
+SUBJECT:	[[ SMITH | /m/03mcrk0 ]]
+OBJECT:	[[ BUSINESS INTELLIGENCE | /m/016jq3 ]]
+SUBJECT PATH: SUBJECT -> provides
+OBJECT  PATH: OBJECT -> services -> provides
+provides
+
+
+SUBJECT receiving OBJECT and the Sports accuracy summer get ENTITY1 .
+SUBJECT:	[[ BALLY TOTAL FITNESS | /m/08t2jb ]]
+OBJECT:	[[ PHYSICAL FITNESS | /m/027x7n ]]
+ENTITY1:	[[ RITUXAN | /m/04k6q7 ]]
+SUBJECT PATH: SUBJECT -> get
+OBJECT  PATH: OBJECT -> receiving -> SUBJECT -> get
+SUBJECT
+
+
+While SUBJECT had fantastic OBJECT , they didn't have a marketing brain attached to these ideas.
+SUBJECT:	[[ PARC | /m/0878f ]]
+OBJECT:	[[ RESEARCH AND DEVELOPMENT | /m/01lr_q ]]
+SUBJECT PATH: SUBJECT -> had -> have
+OBJECT  PATH: OBJECT -> had -> have
+had
+
+
+Although SUBJECT  has been pushing OBJECT as the non-polluting solution to climate change, this is certainly not the case.
+SUBJECT:	[[ BNFL | /m/02sn3n ]]
+OBJECT:	[[ NUCLEAR POWER | /m/05k97 ]]
+SUBJECT PATH: SUBJECT -> pushing -> is
+OBJECT  PATH: OBJECT -> pushing -> is
+pushing
+
+
+OBJECT production company SUBJECT has plans to open a new theme park in , according to reports
+SUBJECT:	[[ UNIVERSAL STUDIOS | /m/016tw3 ]]
+OBJECT:	[[ FILM | /m/02vxn ]]
+SUBJECT PATH: SUBJECT -> has
+OBJECT  PATH: OBJECT -> company -> SUBJECT -> has
+SUBJECT
+
+
+OBJECT brings to mind ENTITY1 parties, SUBJECT supplies, and ENTITY2 .
+SUBJECT:	[[ AMWAY | /m/0tdx ]]
+OBJECT:	[[ MULTI-LEVEL MARKETING | /m/056bx ]]
+ENTITY1:	[[ TUPPERWARE | /m/02cj0_ ]]
+ENTITY2:	[[ MARY KAY COSMETICS | /m/05d8vj ]]
+SUBJECT PATH: SUBJECT -> supplies -> parties -> mind -> brings
+OBJECT  PATH: OBJECT -> brings
+brings
+
+
+OBJECT included SUBJECT 's Director 4.0.4,
+SUBJECT:	[[ MACROMEDIA | /m/0180df ]]
+OBJECT:	[[ SOFTWARE | /m/01mf0 ]]
+SUBJECT PATH: SUBJECT -> 4.0.4 -> included
+OBJECT  PATH: OBJECT -> included
+included
+
+
+OBJECT is south central ENTITY1 's #1 SUBJECT and computer store.
+SUBJECT:	[[ APPLE INC. | /m/0k8z ]]
+OBJECT:	[[ COMPUTER HARDWARE | /m/01mfj ]]
+ENTITY1:	[[ NEBRASKA | /m/05fhy ]]
+SUBJECT PATH: SUBJECT -> store -> is
+OBJECT  PATH: OBJECT -> is
+is
+
+
+OBJECT of the ENTITY1  describes SUBJECT s TAIL IO R&D partnership project.
+SUBJECT:	[[ STATOIL | /m/02rw4hw ]]
+OBJECT:	[[ PETROLEUM INDUSTRY | /m/03xm3m ]]
+ENTITY1:	[[ FUTURE | /m/015n_w ]]
+SUBJECT PATH: SUBJECT -> project -> describes
+OBJECT  PATH: OBJECT -> describes
+describes
+
+
+It divests ENTITY1 to ENTITY2 and the newly reorganized OBJECT replaces the old SUBJECT 
+SUBJECT:	[[ CREDIT SUISSE FIRST BOSTON | /m/03pnt_ ]]
+OBJECT:	[[ INVESTMENT BANKING | /m/015p1m ]]
+ENTITY1:	[[ WINTERTHUR | /m/02h_9x ]]
+ENTITY2:	[[ AXA | /m/04mn99 ]]
+SUBJECT PATH: SUBJECT -> replaces -> divests
+OBJECT  PATH: OBJECT -> ENTITY2 -> to -> divests
+divests
+
+
+OBJECT Friday: The ENTITY1 is SUBJECT 's Infiltrator
+SUBJECT:	[[ APPLE INC. | /m/0k8z ]]
+OBJECT:	[[ CONSUMER ELECTRONICS | /m/019z7b ]]
+ENTITY1:	[[ IPHONE | /m/027lnzs ]]
+SUBJECT PATH: SUBJECT -> Infiltrator -> is
+OBJECT  PATH: OBJECT
+-None-
+
+
+OBJECT is pleased to announce that SUBJECT ' ENTITY1 is now available on ENTITY2 !
+SUBJECT:	[[ EIDOS INTERACTIVE | /m/0225z1 ]]
+OBJECT:	[[ VIDEO GAME | /m/01mw1 ]]
+ENTITY1:	[[ COMMANDOS 2: MEN OF COURAGE | /m/09k9z7 ]]
+ENTITY2:	[[ YAHOO | /m/019rl6 ]]
+SUBJECT PATH: SUBJECT -> ENTITY1 -> is -> announce -> pleased -> is
+OBJECT  PATH: OBJECT -> is
+is
+
+
+OBJECT OBJECT , operated by the ENTITY1 cargo company SUBJECT
+SUBJECT:	[[ MISTRAL AIR | /m/05xpcb ]]
+OBJECT:	[[ AIRLINE | /m/0vg8 ]]
+ENTITY1:	[[ ITALIAN | /m/03rjj ]]
+SUBJECT PATH: SUBJECT -> company -> by -> operated -> OBJECT
+OBJECT  PATH: OBJECT
+OBJECT
+
+
+LEADING GREEK FRANCHISE SUBJECT has a long-standing presence in the ENTITY1 market, primarily through Private Clients and OBJECT services.
+SUBJECT:	[[ MERRILL LYNCH | /m/01kb4x ]]
+OBJECT:	[[ INVESTMENT BANKING | /m/015p1m ]]
+ENTITY1:	[[ GREEK | /m/035qy ]]
+SUBJECT PATH: SUBJECT -> has
+OBJECT  PATH: OBJECT -> services -> Clients -> through -> has
+has
+
+
+OBJECT owner SUBJECT , which is planning a new ENTITY1
+SUBJECT:	[[ REGENT INNS | /m/0bxjb6 ]]
+OBJECT:	[[ BAR | /m/01nz0z ]]
+ENTITY1:	[[ WALKABOUT | /m/0218hf ]]
+SUBJECT PATH: SUBJECT
+OBJECT  PATH: OBJECT -> owner -> SUBJECT
+SUBJECT
+
+
+- Based in ENTITY1 , ENTITY2 , SUBJECT is an OBJECT producer.
+SUBJECT:	[[ EOG RESOURCES | /m/0cqqsc ]]
+OBJECT:	[[ PETROLEUM INDUSTRY | /m/03xm3m ]]
+ENTITY1:	[[ HOUSTON | /m/03l2n ]]
+ENTITY2:	[[ TEXAS | /m/07b_l ]]
+SUBJECT PATH: SUBJECT -> is
+OBJECT  PATH: OBJECT -> producer -> is
+is
+
+
+I think the main OBJECT vendor on ENTITY1 was SUBJECT .
+SUBJECT:	[[ DIGITAL DOMAIN | /m/029f_1 ]]
+OBJECT:	[[ VISUAL EFFECTS | /m/01vx2h ]]
+ENTITY1:	[[ ZODIAC | /m/07vn_9 ]]
+SUBJECT PATH: SUBJECT -> was -> think
+OBJECT  PATH: OBJECT -> vendor -> was -> think
+was
+
+
+OBJECT and SUBJECT will  co-publish ENTITY1 in ENTITY2 ,  while   SUBJECT will publish the game in all other territories.
+SUBJECT:	[[ EIDOS INTERACTIVE | /m/0225z1 ]]
+OBJECT:	[[ INTERACTIVE ENTERTAINMENT | /m/02p71tm ]]
+ENTITY1:	[[ BATMAN: ARKHAM ASYLUM | /m/04gqlmf ]]
+ENTITY2:	[[ NORTH AMERICA | /m/059g4 ]]
+SUBJECT PATH: SUBJECT -> publish -> will
+OBJECT  PATH: OBJECT -> will
+will
+
+
+ENTITY1 telecom SUBJECT might have broken the OBJECT law in ENTITY2 .
+SUBJECT:	[[ KPN | /m/02s08w ]]
+OBJECT:	[[ TELECOMMUNICATIONS | /m/029g_vk ]]
+ENTITY1:	[[ DUTCH | /m/059j2 ]]
+ENTITY2:	[[ HOLLAND | /m/03gly ]]
+SUBJECT PATH: SUBJECT -> broken
+OBJECT  PATH: OBJECT -> law -> broken
+broken
+
+
+ENTITY1 eventually left SUBJECT to pursue freelance work in ENTITY2 and OBJECT and illustration
+SUBJECT:	[[ PACIFIC DATA IMAGES | /m/07yn6c ]]
+OBJECT:	[[ COMPUTER ANIMATION | /m/01zhp ]]
+ENTITY1:	[[ LEE | /m/02x4nhx ]]
+ENTITY2:	[[ 2D | /m/02hp39 ]]
+SUBJECT PATH: SUBJECT -> left
+OBJECT  PATH: OBJECT -> ENTITY2 -> in -> work -> pursue -> left
+left
+
+
+OBJECT company SUBJECT
+SUBJECT:	[[ GUNNS | /m/04pcl3 ]]
+OBJECT:	[[ LUMBER | /m/025tnyc ]]
+SUBJECT PATH: SUBJECT -> company
+OBJECT  PATH: OBJECT -> company
+company
+
+
+SUBJECT also offers a number of voice-only OBJECT plans starting at $19.95/month.
+SUBJECT:	[[ 8X8, INC. | /m/06c7xh ]]
+OBJECT:	[[ VOICE OVER IP | /m/0jzgd ]]
+SUBJECT PATH: SUBJECT -> offers
+OBJECT  PATH: OBJECT -> plans -> number -> offers
+offers
+
+
+Our OBJECT is administered by SUBJECT .
+SUBJECT:	[[ SHAREASALE | /m/027l3w_ ]]
+OBJECT:	[[ AFFILIATE MARKETING | /m/0344pd ]]
+SUBJECT PATH: SUBJECT -> by -> administered
+OBJECT  PATH: OBJECT -> administered
+administered
+
+
+SUBJECT and ENTITY1 bring together OBJECT and Business Information Search
+SUBJECT:	[[ XING | /m/083092 ]]
+OBJECT:	[[ BUSINESS NETWORKING | /m/027zn8w ]]
+ENTITY1:	[[ ZOOMINFO | /m/0cf7cd ]]
+SUBJECT PATH: SUBJECT -> bring
+OBJECT  PATH: OBJECT -> bring
+bring
+
+
+[ SUBJECT ] - OBJECT publishers ENTITY1 and ENTITY2 have both cut their dividend sharply
+SUBJECT:	[[ THE NEW YORK TIMES COMPANY | /m/07l1c ]]
+OBJECT:	[[ NEWSPAPER | /m/05jnl ]]
+ENTITY1:	[[ MEDIA GENERAL | /m/0553j8 ]]
+ENTITY2:	[[ BELO | /m/03052h ]]
+SUBJECT PATH: SUBJECT -> ENTITY1 -> cut
+OBJECT  PATH: OBJECT -> SUBJECT -> ENTITY1 -> cut
+SUBJECT
+
+
+SUBJECT offers a different approach to OBJECT 
+SUBJECT:	[[ KEANE | /m/0kqrx_ ]]
+OBJECT:	[[ BUSINESS PROCESS OUTSOURCING | /m/04fm00 ]]
+SUBJECT PATH: SUBJECT -> offers
+OBJECT  PATH: OBJECT -> to -> approach -> offers
+offers
+
+
+Our OBJECT  will commence twice weekly ENTITY1 service, and SUBJECT continues its weekly service to and from ENTITY2 .
+SUBJECT:	[[ FIJI AIRWAYS | /m/02hxgr ]]
+OBJECT:	[[ AIRLINE | /m/0vg8 ]]
+ENTITY1:	[[ BRISBANE | /m/01b8jj ]]
+ENTITY2:	[[ NADI | /m/022wr3 ]]
+SUBJECT PATH: SUBJECT -> continues -> commence
+OBJECT  PATH: OBJECT -> commence
+commence
+
+
+OBJECT operator SUBJECT has confirmed that high-speed broadband communication will be available in ENTITY1 from May 14.??more..
+SUBJECT:	[[ BT GROUP | /m/01g_3 ]]
+OBJECT:	[[ TELECOMMUNICATIONS | /m/029g_vk ]]
+ENTITY1:	[[ THIRSK | /m/02chp9 ]]
+SUBJECT PATH: SUBJECT -> confirmed
+OBJECT  PATH: OBJECT -> operator -> SUBJECT -> confirmed
+SUBJECT
+
+
+Cavalier Telephone SUBJECT is ENTITY1 's local, long distance telephone and OBJECT  based in ENTITY2 , ENTITY1 .
+SUBJECT:	[[ CAVALIER TELEPHONE | /m/03d0bxq ]]
+OBJECT:	[[ INTERNET SERVICE PROVIDER | /m/0pjxv ]]
+ENTITY1:	[[ VIRGINIA | /m/031tdl ]]
+ENTITY2:	[[ RICHMOND | /m/0dzt9 ]]
+SUBJECT PATH: SUBJECT -> is
+OBJECT  PATH: OBJECT -> telephone -> is
+is
+
+
+Gaslight Village is built on the site of the former SUBJECT s OBJECT .
+SUBJECT:	[[ JACOBSON'S | /m/066cvy ]]
+OBJECT:	[[ DEPARTMENT STORE | /m/01k_mv ]]
+SUBJECT PATH: SUBJECT -> OBJECT -> of -> site -> on -> built
+OBJECT  PATH: OBJECT -> of -> site -> on -> built
+OBJECT
+
+
+The utilities on this site are produced for use with SUBJECT 's range of OBJECT .
+SUBJECT:	[[ TSR | /m/0j4gj ]]
+OBJECT:	[[ ROLE-PLAYING GAME | /m/06c9r ]]
+SUBJECT PATH: SUBJECT -> range -> with -> use -> for -> produced
+OBJECT  PATH: OBJECT -> of -> range -> with -> use -> for -> produced
+range
+
+
+A follow flyer miles any questions OBJECT hit SUBJECT or companies and
+SUBJECT:	[[ CONTINENTAL AIRLINES | /m/0sy5v ]]
+OBJECT:	[[ AIRLINE | /m/0vg8 ]]
+SUBJECT PATH: SUBJECT -> hit -> questions -> miles
+OBJECT  PATH: OBJECT -> hit -> questions -> miles
+hit
+
+
+ENTITY1 has performed for SUBJECT OBJECT 's annual Feast of Sharing Holiday Dinners throughout the state of ENTITY2 .
+SUBJECT:	[[ H-E-B | /m/06g7cb ]]
+OBJECT:	[[ GROCERY STORE | /m/01jpn4 ]]
+ENTITY1:	[[ GARY | /m/01syq9_ ]]
+ENTITY2:	[[ TEXAS | /m/07b_l ]]
+SUBJECT PATH: SUBJECT -> OBJECT -> Feast -> for -> performed
+OBJECT  PATH: OBJECT -> Feast -> for -> performed
+OBJECT
+
+
+SUBJECT a division of SUBJECT is a leader in the OBJECT service industry.
+SUBJECT:	[[ BAKER HUGHES | /m/02yd0p ]]
+OBJECT:	[[ PETROLEUM INDUSTRY | /m/03xm3m ]]
+SUBJECT PATH: SUBJECT -> of -> division -> is
+OBJECT  PATH: OBJECT -> industry -> in -> leader -> is
+is
+
+
+To eliminate labor-intensive rigid tag commissioning and ease mass adoption of OBJECT technolgy, SUBJECT offers a tag commissioning process.
+SUBJECT:	[[ OMNI-ID | /m/05zwpp2 ]]
+OBJECT:	[[ RADIO-FREQUENCY IDENTIFICATION | /m/016p89 ]]
+SUBJECT PATH: SUBJECT -> offers
+OBJECT  PATH: OBJECT -> technolgy -> of -> adoption -> ease -> eliminate -> offers
+offers
+
+
+You'll find the best prices on ENTITY1 video games, SUBJECT in OBJECT when you shop online at ENTITY2 .
+SUBJECT:	[[ MIDWAY GAMES | /m/027lf1 ]]
+OBJECT:	[[ VIDEO GAME | /m/01mw1 ]]
+ENTITY1:	[[ ARCADE | /m/0d76r ]]
+ENTITY2:	[[ BIZRATE | /m/0fb122 ]]
+SUBJECT PATH: SUBJECT -> games -> on -> prices -> find
+OBJECT  PATH: OBJECT -> in -> SUBJECT -> games -> on -> prices -> find
+SUBJECT
+
+
+Still, when SUBJECT released ENTITY1 the OBJECT , I was in with a grin.
+SUBJECT:	[[ WEST END GAMES | /m/01xff7 ]]
+OBJECT:	[[ ROLE-PLAYING GAME | /m/06c9r ]]
+ENTITY1:	[[ STAR WARS | /m/05z0gd ]]
+SUBJECT PATH: SUBJECT -> released -> was
+OBJECT  PATH: OBJECT -> ENTITY1 -> released -> was
+released
+
+
+@Mac-nugget and CD: That's why I say that SUBJECT is a OBJECT company disguised as a ENTITY1 company
+SUBJECT:	[[ APPLE INC. | /m/0k8z ]]
+OBJECT:	[[ SOFTWARE | /m/01mf0 ]]
+ENTITY1:	[[ HARDWARE | /m/01mfj ]]
+SUBJECT PATH: SUBJECT -> is -> say -> 's
+OBJECT  PATH: OBJECT -> company -> is -> say -> 's
+is
+
+
+Have lunch or dinner at the SUBJECT or ENTITY1 each neighbouring the OBJECT 
+SUBJECT:	[[ HARD ROCK CAFE | /m/01lc9r ]]
+OBJECT:	[[ CASINO | /m/01lq3 ]]
+ENTITY1:	[[ PLANET HOLLYWOOD | /m/043j11 ]]
+SUBJECT PATH: SUBJECT -> at -> Have
+OBJECT  PATH: OBJECT -> neighbouring -> Have
+Have
+
+
+OBJECT will be processed securely through SUBJECT , an ENTITY1 company.
+SUBJECT:	[[ PAYPAL | /m/01btsf ]]
+OBJECT:	[[ ONLINE SHOPPING | /m/047m52 ]]
+ENTITY1:	[[ EBAY | /m/0z90c ]]
+SUBJECT PATH: SUBJECT -> through -> processed
+OBJECT  PATH: OBJECT -> processed
+processed
+
+
+OBJECT data collection software SUBJECT
+SUBJECT:	[[ LEICA GEOSYSTEMS | /m/02jv4n ]]
+OBJECT:	[[ GEOGRAPHIC INFORMATION SYSTEM | /m/03821 ]]
+SUBJECT PATH: SUBJECT
+OBJECT  PATH: OBJECT -> software -> SUBJECT
+SUBJECT
+
+
+ENTITY1 OBJECT provider SUBJECT announced an open ENTITY2 to their OBJECT
+SUBJECT:	[[ SIPGATE | /m/0b12tb ]]
+OBJECT:	[[ VOICE OVER IP | /m/0jzgd ]]
+ENTITY1:	[[ GERMAN | /m/0345h ]]
+ENTITY2:	[[ API | /m/0z5n ]]
+SUBJECT PATH: SUBJECT -> announced
+OBJECT  PATH: OBJECT -> to -> announced
+announced
+
+
+Manufacturing & OBJECT was represented by SUBJECT , ENTITY1 , ENTITY2 , VIP Industries and others.
+SUBJECT:	[[ TATA MOTORS | /m/03jxtm ]]
+OBJECT:	[[ AUTOMOTIVE INDUSTRY | /m/015smg ]]
+ENTITY1:	[[ ASHOK LEYLAND | /m/03wgd0 ]]
+ENTITY2:	[[ TELCON | /m/02qj70f ]]
+SUBJECT PATH: SUBJECT -> by -> represented
+OBJECT  PATH: OBJECT -> Manufacturing -> represented
+represented
+
+
+On the ENTITY1 retail front OBJECT 's SUBJECT reported sales in December down 21% compared with a year earlier
+SUBJECT:	[[ TIFFANY & CO. | /m/04g3zy ]]
+OBJECT:	[[ JEWELLERY | /m/0404d ]]
+ENTITY1:	[[ US | /m/09c7w0 ]]
+SUBJECT PATH: SUBJECT -> sales -> On
+OBJECT  PATH: OBJECT -> SUBJECT -> sales -> On
+SUBJECT
+
+
+Next, ENTITY1 should get the other half of the OBJECT record labels  SUBJECT and ENTITY2
+SUBJECT:	[[ EMI | /m/011k1h ]]
+OBJECT:	[[ MUSIC INDUSTRY | /m/0682j7 ]]
+ENTITY1:	[[ NOKIA | /m/05b5c ]]
+ENTITY2:	[[ WARNER MUSIC GROUP | /m/02bh8z ]]
+SUBJECT PATH: SUBJECT -> half -> get
+OBJECT  PATH: OBJECT -> labels -> of -> half -> get
+half
+
+
+MOST FAMOUSLY, OBJECT sports network SUBJECT , which has about a hundred satellite dishes.
+SUBJECT:	[[ ESPN | /m/0kc6x ]]
+OBJECT:	[[ CABLE TELEVISION | /m/024bm ]]
+SUBJECT PATH: SUBJECT -> FAMOUSLY
+OBJECT  PATH: OBJECT -> network -> SUBJECT -> FAMOUSLY
+SUBJECT
+
+
+facility recently selected OBJECT leader SUBJECT .
+SUBJECT:	[[ BATCHMASTER SOFTWARE | /m/02vkvkr ]]
+OBJECT:	[[ ENTERPRISE RESOURCE PLANNING | /m/02jv7 ]]
+SUBJECT PATH: SUBJECT -> selected
+OBJECT  PATH: OBJECT -> leader -> SUBJECT -> selected
+SUBJECT
+
+
+Web-based free scan virus uses OBJECT 's award-winning technology SUBJECT and virus Our list.
+SUBJECT:	[[ PANDA SECURITY | /m/04787q ]]
+OBJECT:	[[ SOFTWARE | /m/01mf0 ]]
+SUBJECT PATH: SUBJECT -> list -> technology -> uses
+OBJECT  PATH: OBJECT -> technology -> uses
+technology
+
+
+SUBJECT also got equal OBJECT .
+SUBJECT:	[[ ADBRITE | /m/025s8vy ]]
+OBJECT:	[[ ADVERTISING | /m/011s0 ]]
+SUBJECT PATH: SUBJECT -> got
+OBJECT  PATH: OBJECT -> got
+got
+
+
+In 1995, SUBJECT was recognized with an ENTITY1 for Achievement in OBJECT for its work on ENTITY2 .
+SUBJECT:	[[ RHYTHM AND HUES STUDIOS | /m/05v6fc ]]
+OBJECT:	[[ VISUAL EFFECTS | /m/01vx2h ]]
+ENTITY1:	[[ ACADEMY AWARD | /m/0g_w ]]
+ENTITY2:	[[ BABE | /m/011ydl ]]
+SUBJECT PATH: SUBJECT -> recognized
+OBJECT  PATH: OBJECT -> in -> Achievement -> for -> ENTITY1 -> with -> recognized
+recognized
+
+
+While not directly related to this story, OBJECT provider SUBJECT does count ENTITY1 as one of its customers.
+SUBJECT:	[[ PLEXUS CORP. | /m/05drpv ]]
+OBJECT:	[[ ELECTRONICS MANUFACTURING SERVICES | /m/08nq8w ]]
+ENTITY1:	[[ HONEYWELL | /m/01gx66 ]]
+SUBJECT PATH: SUBJECT -> count
+OBJECT  PATH: OBJECT -> provider -> SUBJECT -> count
+SUBJECT
+
+
+There is no doubt that SUBJECT is the most successful OBJECT company out there they are the best
+SUBJECT:	[[ APPLE INC. | /m/0k8z ]]
+OBJECT:	[[ TECHNOLOGY | /m/07c1v ]]
+SUBJECT PATH: SUBJECT -> is -> doubt -> is
+OBJECT  PATH: OBJECT -> company -> is -> doubt -> is
+is
+
+
+May OBJECT bought SUBJECT  - but bye-bye ENTITY1 
+SUBJECT:	[[ MARSHALL FIELD'S | /m/03v_kv ]]
+OBJECT:	[[ DEPARTMENT STORE | /m/01k_mv ]]
+ENTITY1:	[[ MERVYN'S | /m/01vsm7 ]]
+SUBJECT PATH: SUBJECT -> bought
+OBJECT  PATH: OBJECT -> bought
+bought
+
+
+SUBJECT replaced ENTITY1 s original OBJECT material provider in this program
+SUBJECT:	[[ GLOBAL SOLAR ENERGY | /m/04ctr9m ]]
+OBJECT:	[[ PHOTOVOLTAICS | /m/02_spr ]]
+ENTITY1:	[[ DOW | /m/01t080 ]]
+SUBJECT PATH: SUBJECT -> replaced
+OBJECT  PATH: OBJECT -> material -> provider -> replaced
+replaced
+
+
+Hosted version of new-generation system, SUBJECT helps OBJECT reduce costs...
+SUBJECT:	[[ LAN COLOMBIA | /m/0c5kfm ]]
+OBJECT:	[[ AIRLINE | /m/0vg8 ]]
+SUBJECT PATH: SUBJECT -> helps -> version
+OBJECT  PATH: OBJECT -> reduce -> helps -> version
+helps
+
+
+SUBJECT Designer ENTITY1 hands Resignation Papers to OBJECT
+SUBJECT:	[[ BMW | /m/017yh ]]
+OBJECT:	[[ AUTOMOTIVE INDUSTRY | /m/015smg ]]
+ENTITY1:	[[ CHRIS BANGLE | /m/0420hb ]]
+SUBJECT PATH: SUBJECT -> ENTITY1 -> hands
+OBJECT  PATH: OBJECT -> to -> hands
+hands
+
+
+ENTITY1 and OBJECT giant SUBJECT signed an exclusive cooperation agreement, to bring ENTITY1 's technologies to your TV screen.
+SUBJECT:	[[ ENDEMOL | /m/025504 ]]
+OBJECT:	[[ TELEVISION | /m/07c52 ]]
+ENTITY1:	[[ NEMESYSCO | /m/05f6hb3 ]]
+SUBJECT PATH: SUBJECT -> ENTITY1 -> signed
+OBJECT  PATH: OBJECT -> giant -> ENTITY1 -> signed
+ENTITY1
+
+
+Who was ENTITY1 's editor at SUBJECT 's OBJECT ?...
+SUBJECT:	[[ CHARLES SCRIBNER'S SONS | /m/05djqc ]]
+OBJECT:	[[ PUBLISHING | /m/0hz28 ]]
+ENTITY1:	[[ HEMINGWAY | /m/02kz_ ]]
+SUBJECT PATH: SUBJECT -> OBJECT -> at -> editor -> was
+OBJECT  PATH: OBJECT -> at -> editor -> was
+OBJECT
+
+
+SUBJECT had a stand in the OBJECT
+SUBJECT:	[[ RACHEL'S ORGANIC | /m/0bmjlhl ]]
+OBJECT:	[[ ORGANIC FOOD | /m/018325 ]]
+SUBJECT PATH: SUBJECT -> had
+OBJECT  PATH: OBJECT -> in -> stand -> had
+had
+
+
+I joined SUBJECT s ENTITY1 office as Systems Integration & Technology Consulting analyst, aligned with the OBJECT workgroup.
+SUBJECT:	[[ ACCENTURE | /m/01rp2c ]]
+OBJECT:	[[ INFORMATION TECHNOLOGY CONSULTING | /m/07k6dg ]]
+ENTITY1:	[[ NEW YORK | /m/02_286 ]]
+SUBJECT PATH: SUBJECT -> office -> joined
+OBJECT  PATH: OBJECT -> workgroup -> with -> aligned -> analyst -> as -> joined
+joined
+
+
+SUBJECT is the OBJECT subsidiary of ENTITY1 utility company, ENTITY2 
+SUBJECT:	[[ VERTEX | /m/0kqs3s ]]
+OBJECT:	[[ BUSINESS PROCESS OUTSOURCING | /m/04fm00 ]]
+ENTITY1:	[[ BRITISH | /m/07ssc ]]
+ENTITY2:	[[ UNITED UTILITIES | /m/0622v4 ]]
+SUBJECT PATH: SUBJECT -> is
+OBJECT  PATH: OBJECT -> subsidiary -> is
+is
+
+
+3. Is SUBJECT securing Private Equity liquidity protection for OBJECT liquidity risks
+SUBJECT:	[[ D. E. SHAW & CO. | /m/03nsfv ]]
+OBJECT:	[[ HEDGE FUND | /m/03r30 ]]
+SUBJECT PATH: SUBJECT -> Is -> securing
+OBJECT  PATH: OBJECT -> risks -> for -> protection -> securing
+securing
+
+
+SUBJECT will be handled by OBJECT , a Videocon subsidiary which also markets the ENTITY1 brand of colour televisions.
+SUBJECT:	[[ KELVINATOR | /m/043s3f ]]
+OBJECT:	[[ HOME APPLIANCE | /m/019dx1 ]]
+ENTITY1:	[[ SANSUI | /m/04bt2y ]]
+SUBJECT PATH: SUBJECT -> handled
+OBJECT  PATH: OBJECT -> by -> handled
+handled
+
+
+SUBJECT makes ENTITY1 a better fit for OBJECT 
+SUBJECT:	[[ RIGHTSCALE | /m/04n4ljy ]]
+OBJECT:	[[ SOFTWARE AS A SERVICE | /m/06_4c_ ]]
+ENTITY1:	[[ EC2 | /m/02rkll_ ]]
+SUBJECT PATH: SUBJECT -> makes
+OBJECT  PATH: OBJECT -> for -> fit -> makes
+makes
+
+
+Hawaiis leading OBJECT ? SUBJECT provides daily service between the ENTITY1 and ENTITY2 ...
+SUBJECT:	[[ HAWAIIAN AIRLINES, INC. | /m/03p29jd ]]
+OBJECT:	[[ AIRLINE | /m/0vg8 ]]
+ENTITY1:	[[ HAWAIIAN ISLANDS | /m/014wxc ]]
+ENTITY2:	[[ WESTERN UNITED STATES | /m/018hr_ ]]
+SUBJECT PATH: SUBJECT -> provides
+OBJECT  PATH: OBJECT
+-None-
+
+
+, which spent $3.3 billion on OBJECT leader SUBJECT last year
+SUBJECT:	[[ ORACLE HYPERION | /m/069xr6 ]]
+OBJECT:	[[ BUSINESS INTELLIGENCE | /m/016jq3 ]]
+SUBJECT PATH: SUBJECT -> on -> billion -> spent
+OBJECT  PATH: OBJECT -> leader -> SUBJECT -> on -> billion -> spent
+SUBJECT
+
+
+OBJECT occasion SUBJECT
+SUBJECT:	[[ HARLEY-DAVIDSON MOTOR COMPANY | /m/03ny2 ]]
+OBJECT:	[[ MOTORCYCLE | /m/04_sv ]]
+SUBJECT PATH: SUBJECT -> occasion
+OBJECT  PATH: OBJECT -> occasion
+occasion
+
+
+A goal is to establish a regional Center for Excellence in OBJECT modeled after SUBJECT ?s ENTITY1 plant
+SUBJECT:	[[ TOYOTA | /m/07mb6 ]]
+OBJECT:	[[ AUTOMOTIVE INDUSTRY | /m/015smg ]]
+ENTITY1:	[[ KENTUCKY | /m/0498y ]]
+SUBJECT PATH: SUBJECT -> after -> modeled -> Center -> establish -> is
+OBJECT  PATH: OBJECT -> in -> Center -> establish -> is
+Center
+
+
+And yet another article covering the OBJECT market? The ENTITY1 takes on SUBJECT .
+SUBJECT:	[[ AT&T CALLVANTAGE | /m/0c15yh ]]
+OBJECT:	[[ VOICE OVER IP | /m/0jzgd ]]
+ENTITY1:	[[ NYT | /m/07k2d ]]
+SUBJECT PATH: SUBJECT -> takes
+OBJECT  PATH: OBJECT -> market -> covering -> article
+-None-
+
+
+SUBJECT believes that OBJECT plays a vital role in helping organizations achieve high performance.
+SUBJECT:	[[ ACCENTURE | /m/01rp2c ]]
+OBJECT:	[[ INFORMATION TECHNOLOGY | /m/03ytc ]]
+SUBJECT PATH: SUBJECT -> believes
+OBJECT  PATH: OBJECT -> plays -> believes
+believes
+
+
+Previously I used an OBJECT called SUBJECT in ENTITY1 .
+SUBJECT:	[[ INTERNODE | /m/03ff_q ]]
+OBJECT:	[[ INTERNET SERVICE PROVIDER | /m/0pjxv ]]
+ENTITY1:	[[ AUSTRALIA | /m/0chghy ]]
+SUBJECT PATH: SUBJECT -> called -> OBJECT -> used
+OBJECT  PATH: OBJECT -> used
+OBJECT
+
+
+The SUBJECT is an agency of the ENTITY1 ENTITY2 , within the Division of Tourism, OBJECT and Sports Development
+SUBJECT:	[[ NORTH CAROLINA FILM OFFICE | /m/03d0sxc ]]
+OBJECT:	[[ FILM | /m/02vxn ]]
+ENTITY1:	[[ NORTH CAROLINA | /m/05fkf ]]
+ENTITY2:	[[ DEPARTMENT OF COMMERCE | /m/0j770 ]]
+SUBJECT PATH: SUBJECT -> is
+OBJECT  PATH: OBJECT -> Tourism -> of -> Division -> within -> agency -> is
+is
+
+
+OBJECT only began at SUBJECT in April 2007, when Watt and ENTITY1 were 24 years old.
+SUBJECT:	[[ BREWDOG | /m/04zyn8j ]]
+OBJECT:	[[ BREWING | /m/01d_x ]]
+ENTITY1:	[[ DICKIE | /m/0b68k4y ]]
+SUBJECT PATH: SUBJECT -> at -> began
+OBJECT  PATH: OBJECT -> began
+began
+
+
+> OBJECT operator SUBJECT has started a mass-market super-fast broadband service in Britan, offering 50 Mbps speed.
+SUBJECT:	[[ VIRGIN MEDIA | /m/0963jy ]]
+OBJECT:	[[ CABLE TELEVISION | /m/024bm ]]
+SUBJECT PATH: SUBJECT -> started
+OBJECT  PATH: OBJECT -> operator -> SUBJECT -> started
+SUBJECT
+
+
+It is being released in ENTITY1 in July and OBJECT will be released by SUBJECT .
+SUBJECT:	[[ T-SERIES | /m/05p3d__ ]]
+OBJECT:	[[ MUSIC | /m/04rlf ]]
+ENTITY1:	[[ J&K | /m/0djgt ]]
+SUBJECT PATH: SUBJECT -> by -> released -> released
+OBJECT  PATH: OBJECT -> released -> released
+released
+
+
+His first position was with Pennzoil E & P until SUBJECT bought the OBJECT part of Pennzoil in 1999.
+SUBJECT:	[[ DEVON ENERGY | /m/07vm_j ]]
+OBJECT:	[[ PETROLEUM INDUSTRY | /m/03xm3m ]]
+SUBJECT PATH: SUBJECT -> bought -> was
+OBJECT  PATH: OBJECT -> bought -> was
+bought
+
+
+Like ENTITY1 , SUBJECT will also offer the option of an ENTITY2 -only plan without OBJECT .
+SUBJECT:	[[ INTERNODE | /m/03ff_q ]]
+OBJECT:	[[ VOICE OVER IP | /m/0jzgd ]]
+ENTITY1:	[[ IPRIMUS | /m/03mdbjq ]]
+ENTITY2:	[[ INTERNET | /m/03rlt ]]
+SUBJECT PATH: SUBJECT -> offer
+OBJECT  PATH: OBJECT -> without -> option -> offer
+offer
+
+
+Special Business: SUBJECT sells ENTITY1 -owned OBJECT products.
+SUBJECT:	[[ GREAT-WEST LIFECO | /m/09j6vn ]]
+OBJECT:	[[ LIFE INSURANCE | /m/021wy4 ]]
+ENTITY1:	[[ BUSINESS | /m/09s1f ]]
+SUBJECT PATH: SUBJECT -> sells
+OBJECT  PATH: OBJECT -> products -> sells
+sells
+
+
+SUBJECT is the largest ENTITY1 life and OBJECT and serves s...
+SUBJECT:	[[ GREAT-WEST LIFECO | /m/09j6vn ]]
+OBJECT:	[[ HEALTH INSURANCE | /m/02gqxg ]]
+ENTITY1:	[[ CANADIAN | /m/0d060g ]]
+SUBJECT PATH: SUBJECT -> is
+OBJECT  PATH: OBJECT -> life -> is
+is
+
+
+SUBJECT offers several OBJECT calling products
+SUBJECT:	[[ JAJAH | /m/06ybtj ]]
+OBJECT:	[[ VOICE OVER IP | /m/0jzgd ]]
+SUBJECT PATH: SUBJECT -> offers
+OBJECT  PATH: OBJECT -> offers
+offers
+
+
+OBJECT is available through SUBJECT , or, if you like ENTITY1 , bring your own satellite dish.
+SUBJECT:	[[ BRIGHT HOUSE NETWORKS | /m/092cdc ]]
+OBJECT:	[[ CABLE TELEVISION | /m/024bm ]]
+ENTITY1:	[[ WIFI | /m/0h4d9 ]]
+SUBJECT PATH: SUBJECT -> through -> is
+OBJECT  PATH: OBJECT -> is
+is
+
+
+ENTITY1 OBJECT - SUBJECT / SUBJECT ? SUBJECT / SUBJECT is the SUBJECT .
+SUBJECT:	[[ NATIONAL RAILWAY COMPANY OF BELGIUM | /m/01vffh ]]
+OBJECT:	[[ RAIL TRANSPORT | /m/06d_3 ]]
+ENTITY1:	[[ BELGIAN | /m/0154j ]]
+SUBJECT PATH: SUBJECT -> is
+OBJECT  PATH: OBJECT -> SUBJECT -> SUBJECT
+-None-
+
+
+A leading figure in the OBJECT , ENTITY1 founded SUBJECT  in the early eighties.
+SUBJECT:	[[ ARGONAUT GAMES | /m/04630n ]]
+OBJECT:	[[ VIDEO GAME INDUSTRY | /m/020mfr ]]
+ENTITY1:	[[ JEZ | /m/046dg1 ]]
+SUBJECT PATH: SUBJECT -> founded
+OBJECT  PATH: OBJECT -> in -> figure -> founded
+founded
+
+
+SUBJECT puts ENTITY1 on the OBJECT !
+SUBJECT:	[[ NORTH STAR GAMES | /m/05p95sv ]]
+OBJECT:	[[ BOARD GAME | /m/015ll ]]
+ENTITY1:	[[ GREENBELT | /m/030yyv ]]
+SUBJECT PATH: SUBJECT -> puts
+OBJECT  PATH: OBJECT -> on -> puts
+puts
+
+
+SUBJECT lets you make OBJECT calls over ENTITY1 with your ENTITY2
+SUBJECT:	[[ ICALL | /m/0dcqvy ]]
+OBJECT:	[[ VOICE OVER IP | /m/0jzgd ]]
+ENTITY1:	[[ WI-FI | /m/0h4d9 ]]
+ENTITY2:	[[ IPHONE | /m/027lnzs ]]
+SUBJECT PATH: SUBJECT -> lets
+OBJECT  PATH: OBJECT -> calls -> make -> lets
+lets
+
+
+Reports on OBJECT published by SUBJECT , ENTITY1 .
+SUBJECT:	[[ WEBSENSE | /m/0968w0 ]]
+OBJECT:	[[ INFORMATION SECURITY | /m/03whm ]]
+ENTITY1:	[[ INC | /m/0135dr ]]
+SUBJECT PATH: SUBJECT -> by -> published -> OBJECT -> on -> Reports
+OBJECT  PATH: OBJECT -> on -> Reports
+OBJECT
+
+
+You'll find the best prices on ENTITY1 video games, SUBJECT in OBJECT when you shop online at ENTITY2 .
+SUBJECT:	[[ AGETEC | /m/0878vy ]]
+OBJECT:	[[ VIDEO GAME | /m/01mw1 ]]
+ENTITY1:	[[ FIRE | /m/02_41 ]]
+ENTITY2:	[[ BIZRATE | /m/0fb122 ]]
+SUBJECT PATH: SUBJECT -> games -> on -> prices -> find
+OBJECT  PATH: OBJECT -> in -> SUBJECT -> games -> on -> prices -> find
+SUBJECT
+
+
+ENTITY1 , Jan 20, 2009  , OBJECT player SUBJECT is looking for acquisitions in the personal healthcare business.
+SUBJECT:	[[ EMAMI | /m/09v97h7 ]]
+OBJECT:	[[ FAST-MOVING CONSUMER GOODS | /m/05gshm ]]
+ENTITY1:	[[ MUMBAI | /m/04vmp ]]
+SUBJECT PATH: SUBJECT -> ENTITY1 -> looking
+OBJECT  PATH: OBJECT -> player -> SUBJECT -> ENTITY1 -> looking
+SUBJECT
+
+
+Quoted: SUBJECT offers superior OBJECT , ENTITY1 , DSL and a range of broadband services customized for small businesses.
+SUBJECT:	[[ SPEAKEASY | /m/0bsch3 ]]
+OBJECT:	[[ VOICE OVER IP | /m/0jzgd ]]
+ENTITY1:	[[ T1 | /m/03nv1y ]]
+SUBJECT PATH: SUBJECT -> offers -> Quoted
+OBJECT  PATH: OBJECT -> offers -> Quoted
+offers
+
+
+Swap these gasoline points in order to pitier receive plane tickets casper of SUBJECT gasoline credit OBJECT .
+SUBJECT:	[[ NORTHWEST AIRLINES | /m/012lxn ]]
+OBJECT:	[[ AIRLINE | /m/0vg8 ]]
+SUBJECT PATH: SUBJECT -> OBJECT -> of -> casper -> receive -> order -> in -> Swap
+OBJECT  PATH: OBJECT -> of -> casper -> receive -> order -> in -> Swap
+OBJECT
+
+
+In fact, just this week, ENTITY1 OBJECT manufacturer, SUBJECT , announced that its 2005 profits nearly tripled from 2004.
+SUBJECT:	[[ SOLARWORLD | /m/0brsfx ]]
+OBJECT:	[[ PHOTOVOLTAICS | /m/02_spr ]]
+ENTITY1:	[[ GERMAN | /m/0345h ]]
+SUBJECT PATH: SUBJECT -> manufacturer -> announced
+OBJECT  PATH: OBJECT -> manufacturer -> announced
+manufacturer
+
+
+Third edition OBJECT icon ENTITY1 comes to SUBJECT with a new print edition of his popular ENTITY2 !
+SUBJECT:	[[ PAIZO PUBLISHING | /m/0f8dhq ]]
+OBJECT:	[[ ROLE-PLAYING GAME | /m/06c9r ]]
+ENTITY1:	[[ MONTE COOK | /m/01kzlf ]]
+ENTITY2:	[[ BOOKS OF EXPERIMENTAL MIGHT | /m/0djzlym ]]
+SUBJECT PATH: SUBJECT -> to -> comes
+OBJECT  PATH: OBJECT -> ENTITY1 -> comes
+comes
+
+
+EastEnders pips Dr Who on SUBJECT news story, ENTITY1 GETS A MAKEOVER FOR OBJECT 
+SUBJECT:	[[ PARAMOUNT PICTURES | /m/05qd_ ]]
+OBJECT:	[[ FILM | /m/02vxn ]]
+ENTITY1:	[[ GI JOE | /m/01gm69 ]]
+SUBJECT PATH: SUBJECT -> story -> on -> GETS
+OBJECT  PATH: OBJECT -> FOR -> GETS
+GETS
+
+
+SUBJECT is who ENTITY1 goes through, ENTITY2 goes through OBJECT , not sure who Sprint uses
+SUBJECT:	[[ ASURION | /m/0765wf ]]
+OBJECT:	[[ TELECOMMUNICATIONS | /m/029g_vk ]]
+ENTITY1:	[[ ALLTEL | /m/05sfff ]]
+ENTITY2:	[[ NEXTEL | /m/077w0b ]]
+SUBJECT PATH: SUBJECT -> is -> goes
+OBJECT  PATH: OBJECT -> through -> goes
+goes
+
+
+OBJECT group SUBJECT rewarded investors with a near-doubling in its annual dividend payout
+SUBJECT:	[[ SAGE GROUP | /m/030hnb ]]
+OBJECT:	[[ SOFTWARE | /m/01mf0 ]]
+SUBJECT PATH: SUBJECT -> group -> rewarded
+OBJECT  PATH: OBJECT -> group -> rewarded
+group
+
+
+... SUBJECT und ENTITY1 ... Forum   MOVIES &amp; more   OBJECT &amp; more Spam   Bester ... Forensoftware: Burning Board 2.3.6,
+SUBJECT:	[[ KINO INTERNATIONAL | /m/04ln_1 ]]
+OBJECT:	[[ FILM | /m/02vxn ]]
+ENTITY1:	[[ FILM FORUM | /m/08wt2l ]]
+SUBJECT PATH: SUBJECT -> ENTITY1
+OBJECT  PATH: OBJECT -> MOVIES
+-None-
+
+
+You'll find the best prices on ENTITY1 video games, SUBJECT in OBJECT when you shop online at ENTITY2 .
+SUBJECT:	[[ UBISOFT | /m/02qdyj ]]
+OBJECT:	[[ VIDEO GAME | /m/01mw1 ]]
+ENTITY1:	[[ FIRE | /m/02_41 ]]
+ENTITY2:	[[ BIZRATE | /m/0fb122 ]]
+SUBJECT PATH: SUBJECT -> games -> on -> prices -> find
+OBJECT  PATH: OBJECT -> in -> SUBJECT -> games -> on -> prices -> find
+SUBJECT
+
+
+SUBJECT unveils ENTITY1 integration plan | OBJECT | guardian.co.uk - SUBJECT 's [...]
+SUBJECT:	[[ AOL | /m/0plw ]]
+OBJECT:	[[ MASS MEDIA | /m/04z0z ]]
+ENTITY1:	[[ BEBO | /m/07w_gh ]]
+SUBJECT PATH: SUBJECT
+OBJECT  PATH: OBJECT -> plan
+-None-
+
+
+ENTITY1 and OBJECT push SUBJECT
+SUBJECT:	[[ PEARSON PLC | /m/03tpjp ]]
+OBJECT:	[[ EDUCATION | /m/02jfc ]]
+ENTITY1:	[[ PENGUIN | /m/03qq06 ]]
+SUBJECT PATH: SUBJECT -> push
+OBJECT  PATH: OBJECT -> ENTITY1 -> push
+push
+
+
+ENTITY1 , co-chairman of SUBJECT , and owner of the ENTITY2 basketball team, also spoke at OBJECT yesterday.
+SUBJECT:	[[ AOL | /m/0plw ]]
+OBJECT:	[[ WEB 2.0 | /m/05b058 ]]
+ENTITY1:	[[ TED LEONSIS | /m/0637kc ]]
+ENTITY2:	[[ WASHINGTON WIZARDS | /m/0jm5b ]]
+SUBJECT PATH: SUBJECT -> of -> chairman -> ENTITY1 -> spoke
+OBJECT  PATH: OBJECT -> at -> spoke
+spoke
+
+
+SUBJECT is the world's largest independent ENTITY1 ? focused OBJECT provider.
+SUBJECT:	[[ CD-ADAPCO | /m/080pgcz ]]
+OBJECT:	[[ COMPUTER-AIDED ENGINEERING | /m/02br93 ]]
+ENTITY1:	[[ CFD | /m/01sh_g ]]
+SUBJECT PATH: SUBJECT -> is
+OBJECT  PATH: OBJECT -> provider
+-None-
+
+
+SUBJECT was followed by ENTITY1 , which recently released a downloadable OBJECT version of its popular software.
+SUBJECT:	[[ FULL TILT POKER | /m/0b1j34 ]]
+OBJECT:	[[ ONLINE POKER | /m/02m37y ]]
+ENTITY1:	[[ PARTY POKER | /m/06btwh ]]
+SUBJECT PATH: SUBJECT -> followed
+OBJECT  PATH: OBJECT -> version -> released -> ENTITY1 -> by -> followed
+followed
+
+
+ENTITY1 is a Fantasy role-playing game, or OBJECT produced originally by SUBJECT 
+SUBJECT:	[[ FASA | /m/033hn ]]
+OBJECT:	[[ ROLE-PLAYING GAME | /m/06c9r ]]
+ENTITY1:	[[ EARTHDAWN | /m/02nvb ]]
+SUBJECT PATH: SUBJECT -> by -> produced -> OBJECT -> is
+OBJECT  PATH: OBJECT -> is
+OBJECT
+
+
+SUBJECT of OBJECT prestige ENTITY1
+SUBJECT:	[[ OMEGA SA | /m/03j79g ]]
+OBJECT:	[[ MANUFACTURING | /m/09t4t ]]
+ENTITY1:	[[ SWISS | /m/06mzp ]]
+SUBJECT PATH: SUBJECT
+OBJECT  PATH: OBJECT -> ENTITY1 -> of -> SUBJECT
+SUBJECT
+
+
+GOLD AUTOMATIC CALENDAR CENTRE SECONDS OBJECT signed SUBJECT , Chronometer Officially Certified, ENTITY1 , circa 1965.
+SUBJECT:	[[ OMEGA SA | /m/03j79g ]]
+OBJECT:	[[ WATCH | /m/0gjkl ]]
+ENTITY1:	[[ CONSTELLATION | /m/01m3b ]]
+SUBJECT PATH: SUBJECT -> signed
+OBJECT  PATH: OBJECT -> signed
+signed
+
+
+SUBJECT , ENTITY1 and ENTITY2 are examples of OBJECT 's
+SUBJECT:	[[ AOL | /m/0plw ]]
+OBJECT:	[[ ONLINE SERVICE PROVIDER | /m/01w7f5 ]]
+ENTITY1:	[[ COMPUSERVE | /m/0kbb8 ]]
+ENTITY2:	[[ PRODIGY | /m/01y0mb ]]
+SUBJECT PATH: SUBJECT -> are
+OBJECT  PATH: OBJECT -> of -> examples -> are
+are
+
+
+The table shows that SUBJECT top OBJECT  whereas Principal Asset Mgmt Co  gets the second position.
+SUBJECT:	[[ UNIT TRUST OF INDIA | /m/027pn9w ]]
+OBJECT:	[[ MUTUAL FUND | /m/01h13q ]]
+SUBJECT PATH: SUBJECT -> OBJECT -> gets -> shows
+OBJECT  PATH: OBJECT -> gets -> shows
+OBJECT
+
+
+SUBJECT 's commitment to ENTITY1 underlines the country's position as a leading OBJECT  hub in the region
+SUBJECT:	[[ TECH MAHINDRA | /m/0by3lt ]]
+OBJECT:	[[ INFORMATION TECHNOLOGY | /m/03ytc ]]
+ENTITY1:	[[ BAHRAIN | /m/0161c ]]
+SUBJECT PATH: SUBJECT -> commitment
+OBJECT  PATH: OBJECT -> hub -> as -> position -> commitment
+commitment
+
+
+SUBJECT provides best-in-class OBJECT solutions for secure information sharing and compliance, targeting small and medium size organizations.
+SUBJECT:	[[ COMPUTHINK | /m/04169xn ]]
+OBJECT:	[[ ENTERPRISE CONTENT MANAGEMENT | /m/05k6fj ]]
+SUBJECT PATH: SUBJECT -> provides
+OBJECT  PATH: OBJECT -> solutions -> provides
+provides
+
+
+OBJECT used at large ENTITY1 , like SUBJECT , and many businesses affect the accuracy of web site statistics.
+SUBJECT:	[[ AOL | /m/0plw ]]
+OBJECT:	[[ TECHNOLOGY | /m/07c1v ]]
+ENTITY1:	[[ INTERNET SERVICE PROVIDERS | /m/0pjxv ]]
+SUBJECT PATH: SUBJECT -> like -> ENTITY1 -> at -> used -> OBJECT -> affect
+OBJECT  PATH: OBJECT -> affect
+OBJECT
+
+
+- ENTITY1 and SUBJECT respond to the ENTITY2 / ENTITY2 threat...there's more than OBJECT at stake here
+SUBJECT:	[[ NEWS CORPORATION | /m/0sxdg ]]
+OBJECT:	[[ PUBLISHING | /m/0hz28 ]]
+ENTITY1:	[[ COMCAST | /m/01s73z ]]
+ENTITY2:	[[ GOOGLE | /m/045c7b ]]
+SUBJECT PATH: SUBJECT -> ENTITY1 -> respond
+OBJECT  PATH: OBJECT -> than -> more -> 's
+-None-
+
+
+OBJECT supplier SUBJECT has announced plans to raise around ?500m through a placing of 40 million new shares.
+SUBJECT:	[[ SSE PLC | /m/026pwms ]]
+OBJECT:	[[ ENERGY | /m/02mm_ ]]
+SUBJECT PATH: SUBJECT -> announced
+OBJECT  PATH: OBJECT -> SUBJECT -> announced
+SUBJECT
+
+
+His career in the OBJECT started with SUBJECT in the late 1980s
+SUBJECT:	[[ VIRGIN INTERACTIVE | /m/03_kl4 ]]
+OBJECT:	[[ VIDEO GAME INDUSTRY | /m/020mfr ]]
+SUBJECT PATH: SUBJECT -> with -> started
+OBJECT  PATH: OBJECT -> in -> career -> started
+started
+
+
+ENTITY1 Raghuraman is the lead executive for SUBJECT s Delivery Centres for OBJECT in ENTITY2 .
+SUBJECT:	[[ ACCENTURE | /m/01rp2c ]]
+OBJECT:	[[ BUSINESS PROCESS OUTSOURCING | /m/04fm00 ]]
+ENTITY1:	[[ PG | /m/02sf_r ]]
+ENTITY2:	[[ INDIA | /m/03rk0 ]]
+SUBJECT PATH: SUBJECT -> Centres -> for -> executive -> is
+OBJECT  PATH: OBJECT -> for -> Centres -> for -> executive -> is
+Centres
+
+
+I sometimes say that ENTITY1 / SUBJECT arguably has the worst reputation in the OBJECT industry.
+SUBJECT:	[[ AMWAY GLOBAL | /m/0qkg0 ]]
+OBJECT:	[[ MULTI-LEVEL MARKETING | /m/056bx ]]
+ENTITY1:	[[ AMWAY | /m/0tdx ]]
+SUBJECT PATH: SUBJECT -> arguably -> has -> say
+OBJECT  PATH: OBJECT -> industry -> in -> reputation -> has -> say
+has
+
+
+The OBJECT include SUBJECT , Easy Jet, ENTITY1 and ENTITY2 .
+SUBJECT:	[[ BMI | /m/01pnw4 ]]
+OBJECT:	[[ AIRLINE | /m/0vg8 ]]
+ENTITY1:	[[ BRITISH AIRWAYS | /m/0198z ]]
+ENTITY2:	[[ IBERIA | /m/0p87j ]]
+SUBJECT PATH: SUBJECT -> include
+OBJECT  PATH: OBJECT -> include
+include
+
+
+ENTITY1 also proposes tourist services such as OBJECT & Fly with the german railway   SUBJECT  
+SUBJECT:	[[ DEUTSCHE BAHN | /m/01744t ]]
+OBJECT:	[[ RAIL TRANSPORT | /m/06d_3 ]]
+ENTITY1:	[[ AIR BALTIC | /m/0168gq ]]
+SUBJECT PATH: SUBJECT -> railway -> with -> proposes
+OBJECT  PATH: OBJECT -> as -> services -> proposes
+proposes
+
+
+OBJECT group SUBJECT has won a multi-million pound contract to modify a coal-fired power station in ENTITY1 .
+SUBJECT:	[[ AMEC FOSTER WHEELER | /m/07vv9s ]]
+OBJECT:	[[ ENGINEERING | /m/02ky346 ]]
+ENTITY1:	[[ NORTHERN IRELAND | /m/05bcl ]]
+SUBJECT PATH: SUBJECT -> won
+OBJECT  PATH: OBJECT -> group -> SUBJECT -> won
+SUBJECT
+
+
+OBJECT und ENTITY1 - ENTITY2 , SUBJECT , MMA - Neuheiten und Reports ... NameNickname:, BARBIE STONE.
+SUBJECT:	[[ TOTAL NONSTOP ACTION WRESTLING | /m/02bgs8 ]]
+OBJECT:	[[ PROFESSIONAL WRESTLING | /m/066wd ]]
+ENTITY1:	[[ MIXED MARTIAL ARTS | /m/01h7lh ]]
+ENTITY2:	[[ WWE | /m/0gy1_ ]]
+SUBJECT PATH: SUBJECT -> ENTITY2
+OBJECT  PATH: OBJECT -> ENTITY2
+ENTITY2
+
+
+SUBJECT is a great ENTITY1 chain of OBJECT made famous by one ENTITY2 
+SUBJECT:	[[ RALPHS | /m/023wwb ]]
+OBJECT:	[[ GROCERY STORE | /m/01jpn4 ]]
+ENTITY1:	[[ CALIFORNIA | /m/01n7q ]]
+ENTITY2:	[[ JEFFREY LEBOWSKI | /m/07bwr ]]
+SUBJECT PATH: SUBJECT -> is
+OBJECT  PATH: OBJECT -> of -> chain -> is
+is
+
+
+OBJECT is provided through SUBJECT of ENTITY1 , ENTITY2 .
+SUBJECT:	[[ THOMAS WEISEL PARTNERS | /m/026g43_ ]]
+OBJECT:	[[ INVESTMENT BANKING | /m/015p1m ]]
+ENTITY1:	[[ SAN FRANCISCO | /m/0d6lp ]]
+ENTITY2:	[[ CALIFORNIA | /m/01n7q ]]
+SUBJECT PATH: SUBJECT -> through -> provided
+OBJECT  PATH: OBJECT -> provided
+provided
+
+
+Disruptive qualities: SUBJECT has found ways to connect with ENTITY1 burgeoning OBJECT population: 210 million users and growing!
+SUBJECT:	[[ ALIBABA GROUP | /m/07s6ctl ]]
+OBJECT:	[[ THE INTERNET | /m/03rlt ]]
+ENTITY1:	[[ CHINA | /m/0d05w3 ]]
+SUBJECT PATH: SUBJECT -> found
+OBJECT  PATH: OBJECT -> population -> with -> connect -> ways -> found
+found
+
+
+Gahtan's Technology and Inte Law Blog, Voice over IP  Update, Users can access SUBJECT using special OBJECT
+SUBJECT:	[[ FREE WORLD DIALUP | /m/0296sb ]]
+OBJECT:	[[ VOICE OVER IP | /m/0jzgd ]]
+SUBJECT PATH: SUBJECT -> access
+OBJECT  PATH: OBJECT -> using -> access
+access
+
+
+OBJECT maker SUBJECT announced today that ENTITY1 founder ENTITY2 has joined it as Chief Scientist
+SUBJECT:	[[ FUSION-IO | /m/07kczcl ]]
+OBJECT:	[[ SOLID-STATE DRIVE | /m/025_h00 ]]
+ENTITY1:	[[ APPLE | /m/0k8z ]]
+ENTITY2:	[[ STEVE WOZNIAK | /m/06y1l ]]
+SUBJECT PATH: SUBJECT -> maker -> announced
+OBJECT  PATH: OBJECT -> maker -> announced
+maker
+
+
+She?s no less the oilwoman than OBJECT was the OBJECT , her husband being a SUBJECT employee
+SUBJECT:	[[ BP | /m/0k5b5 ]]
+OBJECT:	[[ PETROLEUM INDUSTRY | /m/03xm3m ]]
+SUBJECT PATH: SUBJECT -> employee -> being -> , -> was
+OBJECT  PATH: OBJECT -> was
+was
+
+
+Many customers search for ENTITY1 using terms like ENTITY1 , ENTITY1 , OBJECT , and SUBJECT .
+SUBJECT:	[[ DISH TV | /m/0ctq8v ]]
+OBJECT:	[[ SATELLITE TELEVISION | /m/0l6bc ]]
+ENTITY1:	[[ DIRECTV | /m/0kc3l ]]
+SUBJECT PATH: SUBJECT -> OBJECT -> ENTITY1 -> ENTITY1 -> like -> terms -> using -> search
+OBJECT  PATH: OBJECT -> ENTITY1 -> ENTITY1 -> like -> terms -> using -> search
+OBJECT
+
+
+SUBJECT bought OBJECT who first commercially published the ENTITY1 after the recodification in 1990
+SUBJECT:	[[ LEXISNEXIS | /m/03hn9k ]]
+OBJECT:	[[ PUBLISHING | /m/0hz28 ]]
+ENTITY1:	[[ CODE | /m/04m7yl ]]
+SUBJECT PATH: SUBJECT -> bought
+OBJECT  PATH: OBJECT -> bought
+bought
+
+
+I do not think it is good policy either, since SUBJECT was an OBJECT firm
+SUBJECT:	[[ BEAR STEARNS | /m/03qv4n ]]
+OBJECT:	[[ INVESTMENT | /m/0g_fl ]]
+SUBJECT PATH: SUBJECT -> was -> think
+OBJECT  PATH: OBJECT -> firm -> was -> think
+was
+
+
+OBJECT company SUBJECT
+SUBJECT:	[[ DUBAI INTERNATIONAL CAPITAL | /m/07mc9j ]]
+OBJECT:	[[ INVESTMENT | /m/0g_fl ]]
+SUBJECT PATH: SUBJECT -> company
+OBJECT  PATH: OBJECT -> company
+company
+
+
+He joined SUBJECT in 1999 via SUBJECT 's acquisition of the OBJECT business of Bankers Trust Australia.
+SUBJECT:	[[ MACQUARIE GROUP | /m/03d9ln0 ]]
+OBJECT:	[[ INVESTMENT BANKING | /m/015p1m ]]
+SUBJECT PATH: SUBJECT -> acquisition -> via -> joined
+OBJECT  PATH: OBJECT -> business -> of -> acquisition -> via -> joined
+acquisition
+
+
+A healthy saving on your health insurance SUBJECT have a unique approach to OBJECT .
+SUBJECT:	[[ VITALITYHEALTH | /m/0dnhnv ]]
+OBJECT:	[[ HEALTH INSURANCE | /m/02gqxg ]]
+SUBJECT PATH: SUBJECT -> have
+OBJECT  PATH: OBJECT -> to -> approach -> have
+have
+
+
+Effective immediately, SUBJECT will separate the OBJECT corporate division into two operating units.
+SUBJECT:	[[ DEUTSCHE POST | /m/0210by ]]
+OBJECT:	[[ LOGISTICS | /m/0k9sx ]]
+SUBJECT PATH: SUBJECT -> separate
+OBJECT  PATH: OBJECT -> division -> separate
+separate
+
+
+SUBJECT is a OBJECT company located in ENTITY1 .
+SUBJECT:	[[ BUDGET RENT A CAR | /m/07sdf4 ]]
+OBJECT:	[[ CAR RENTAL | /m/0drl1t ]]
+ENTITY1:	[[ PERTH WA | /m/062qg ]]
+SUBJECT PATH: SUBJECT -> is
+OBJECT  PATH: OBJECT -> company -> is
+is
+
+
+Best prices on ENTITY1 games, SUBJECT in OBJECT 
+SUBJECT:	[[ SEGA | /m/06p8m ]]
+OBJECT:	[[ VIDEO GAME | /m/01mw1 ]]
+ENTITY1:	[[ PS2 | /m/066kp ]]
+SUBJECT PATH: SUBJECT -> games -> on -> prices
+OBJECT  PATH: OBJECT -> in -> SUBJECT -> games -> on -> prices
+SUBJECT
+
+
+Tags: 250-C20, ENTITY1 engines, OBJECT , SUBJECT , Aircraft engines...
+SUBJECT:	[[ AIRBUS | /m/015zfz ]]
+OBJECT:	[[ AEROSPACE | /m/0147gr ]]
+ENTITY1:	[[ AERO | /m/02h381 ]]
+SUBJECT PATH: SUBJECT -> OBJECT -> engines -> Tags -> engines
+OBJECT  PATH: OBJECT -> engines -> Tags -> engines
+OBJECT
+
+
+SUBJECT already has OBJECT community infrastructrure project s in ENTITY1 and ENTITY2 
+SUBJECT:	[[ BETTER PLACE | /m/03cqqfd ]]
+OBJECT:	[[ ELECTRIC VEHICLE | /m/01pmdg ]]
+ENTITY1:	[[ ISREAL | /m/03spz ]]
+ENTITY2:	[[ DENMARK | /m/0k6nt ]]
+SUBJECT PATH: SUBJECT -> has
+OBJECT  PATH: OBJECT -> community -> infrastructrure -> has
+has
+
+
+SUBJECT got involved in OBJECT traffic in 1998, says Geoffrey Hicks, senior vice president of network services and technology.
+SUBJECT:	[[ PRIMUS TELECOM | /m/07ydsp ]]
+OBJECT:	[[ VOICE OVER IP | /m/0jzgd ]]
+SUBJECT PATH: SUBJECT -> involved -> says
+OBJECT  PATH: OBJECT -> traffic -> in -> involved -> says
+involved
+
+
+SUBJECT provided most of the OBJECT panels, while Gestamp Asetym provided management and design engineering for the project.
+SUBJECT:	[[ TRINA SOLAR | /m/047p93n ]]
+OBJECT:	[[ PHOTOVOLTAICS | /m/02_spr ]]
+SUBJECT PATH: SUBJECT -> provided
+OBJECT  PATH: OBJECT -> panels -> of -> most -> provided
+provided
+
+
+Every time I walk into SUBJECT it reminds me of the OBJECT owned by the ENTITY1
+SUBJECT:	[[ WALMART | /m/0841v ]]
+OBJECT:	[[ DEPARTMENT STORE | /m/01k_mv ]]
+ENTITY1:	[[ COMMUNIST STATES | /m/01fkst ]]
+SUBJECT PATH: SUBJECT -> into -> walk -> time -> reminds
+OBJECT  PATH: OBJECT -> of -> reminds
+reminds
+
+
+Partnerships with global OBJECT leaders, ENTITY1 , SUBJECT and ENTITY2 further enhance our ability to deliver quality solutions world-wide.
+SUBJECT:	[[ OBS | /m/08zvyz ]]
+OBJECT:	[[ INFORMATION AND COMMUNICATIONS TECHNOLOGY | /m/02vk5n9 ]]
+ENTITY1:	[[ IBM | /m/03sc8 ]]
+ENTITY2:	[[ MICROSOFT | /m/04sv4 ]]
+SUBJECT PATH: SUBJECT -> ENTITY1 -> leaders -> with -> Partnerships -> enhance
+OBJECT  PATH: OBJECT -> leaders -> with -> Partnerships -> enhance
+leaders
+
+
+Best prices on SUBJECT , M  in OBJECT .
+SUBJECT:	[[ ATLUS | /m/0260p2 ]]
+OBJECT:	[[ VIDEO GAME | /m/01mw1 ]]
+SUBJECT PATH: SUBJECT -> on -> prices
+OBJECT  PATH: OBJECT -> in -> M -> prices
+prices
+
+
+OBJECT specialist SUBJECT has appointed Delicia Cordeaux as technical director for ENTITY1 .
+SUBJECT:	[[ OPEN TEXT CORPORATION | /m/03ctsj ]]
+OBJECT:	[[ ENTERPRISE CONTENT MANAGEMENT | /m/05k6fj ]]
+ENTITY1:	[[ ASIA PACIFIC | /m/055yrc ]]
+SUBJECT PATH: SUBJECT -> appointed
+OBJECT  PATH: OBJECT -> specialist -> SUBJECT -> appointed
+SUBJECT
+
+
+ENTITY1 : SUBJECT confirms ENTITY2 'concept' for production: OBJECT .
+SUBJECT:	[[ FORD MOTOR COMPANY | /m/02zs4 ]]
+OBJECT:	[[ AUTOMOTIVE INDUSTRY | /m/015smg ]]
+ENTITY1:	[[ US | /m/09c7w0 ]]
+ENTITY2:	[[ LINCOLN MKT | /m/03hhrcv ]]
+SUBJECT PATH: SUBJECT -> confirms
+OBJECT  PATH: OBJECT -> concept -> confirms
+confirms
+
+
+SUBJECT competes with incumbent OBJECT carrier, Satellite carrier, Telephone company, and ISPs.
+SUBJECT:	[[ ASTOUND BROADBAND | /m/0b8dfq ]]
+OBJECT:	[[ CABLE TELEVISION | /m/024bm ]]
+SUBJECT PATH: SUBJECT -> competes
+OBJECT  PATH: OBJECT -> carrier -> with -> competes
+competes
+
+
+SUBJECT provides OBJECT  virtual phone numbers in Brazil.
+SUBJECT:	[[ VOXBONE | /m/09q20r ]]
+OBJECT:	[[ VOICE OVER IP | /m/0jzgd ]]
+SUBJECT PATH: SUBJECT -> provides
+OBJECT  PATH: OBJECT -> numbers -> provides
+provides
+
+
+OBJECT group SUBJECT has launched a global consultancy called Mobile Behavior.
+SUBJECT:	[[ OMNICOM GROUP | /m/02__5r ]]
+OBJECT:	[[ ADVERTISING | /m/011s0 ]]
+SUBJECT PATH: SUBJECT -> launched
+OBJECT  PATH: OBJECT -> group -> SUBJECT -> launched
+SUBJECT
+
+
+Saint-Leon, Rhoda Marcus de,   SUBJECT : ENTITY1 Makes ENTITY2 ,  in American Fabrics and OBJECT , Fall 1983
+SUBJECT:	[[ COMME DES GARÇONS | /m/06r2ps ]]
+OBJECT:	[[ FASHION | /m/032tl ]]
+ENTITY1:	[[ REI KAWAKUBO | /m/06r2jf ]]
+ENTITY2:	[[ MAGIC | /m/0jm4b ]]
+SUBJECT PATH: SUBJECT -> Leon
+OBJECT  PATH: OBJECT -> Fabrics -> in -> Makes
+-None-
+
+
+SUBJECT and Cisco will provide an end-to-end solution for handling pre- and post-paid OBJECT calling services for ENTITY1 
+SUBJECT:	[[ VOCALTEC | /m/086449 ]]
+OBJECT:	[[ VOICE OVER IP | /m/0jzgd ]]
+ENTITY1:	[[ BELL ATLANTIC | /m/07_dn ]]
+SUBJECT PATH: SUBJECT -> provide
+OBJECT  PATH: OBJECT -> calling -> solution -> provide
+provide
+
+
+SUBJECT  is a global OBJECT , IT services and ENTITY1 organisation
+SUBJECT:	[[ TATA CONSULTANCY SERVICES | /m/01psx8 ]]
+OBJECT:	[[ INFORMATION TECHNOLOGY CONSULTING | /m/07k6dg ]]
+ENTITY1:	[[ BPO | /m/04fm00 ]]
+SUBJECT PATH: SUBJECT -> is
+OBJECT  PATH: OBJECT -> is
+is
+
+
+Now it is for Project B.Box! SUBJECT is distributing the next generation of this innovative OBJECT .
+SUBJECT:	[[ STEINBERG | /m/0236y5 ]]
+OBJECT:	[[ SOFTWARE | /m/01mf0 ]]
+SUBJECT PATH: SUBJECT -> distributing
+OBJECT  PATH: OBJECT -> of -> generation -> distributing
+distributing
+
+
+The bottom cell is filled with a proprietary polymer first disclosed last year by plastic OBJECT developer SUBJECT <http://www.konarkatech.com/>
+SUBJECT:	[[ KONARKA TECHNOLOGIES | /m/0287cmk ]]
+OBJECT:	[[ PHOTOVOLTAICS | /m/02_spr ]]
+SUBJECT PATH: SUBJECT -> http://www.konarkatech.com/
+OBJECT  PATH: OBJECT -> developer -> by -> disclosed -> polymer -> with -> filled
+-None-
+
+
+The SUBJECT has been operating in ENTITY1 , ENTITY2 since 1986, and has recently expanded into OBJECT
+SUBJECT:	[[ COMMONWEALTH BANK | /m/02rndw ]]
+OBJECT:	[[ RETAIL BANKING | /m/0ccf7n ]]
+ENTITY1:	[[ TOKYO | /m/07dfk ]]
+ENTITY2:	[[ JAPAN | /m/03_3d ]]
+SUBJECT PATH: SUBJECT -> operating
+OBJECT  PATH: OBJECT -> into -> expanded -> operating
+operating
+
+
+Welcome to SUBJECT 's online resource for OBJECT education!
+SUBJECT:	[[ AMERICAN MEDICAL RESPONSE | /m/044trm ]]
+OBJECT:	[[ EMERGENCY MEDICAL SERVICES | /m/0dxh1 ]]
+SUBJECT PATH: SUBJECT -> resource -> to -> Welcome
+OBJECT  PATH: OBJECT -> education -> for -> resource -> to -> Welcome
+resource
+
+
+The ENTITY1 based OBJECT provider, SUBJECT ,  today added 0800 number services to its widening range of telecommunication products
+SUBJECT:	[[ VOIPFONE | /m/02pm7tk ]]
+OBJECT:	[[ VOICE OVER IP | /m/0jzgd ]]
+ENTITY1:	[[ LONDON | /m/04jpl ]]
+SUBJECT PATH: SUBJECT -> provider -> based -> added
+OBJECT  PATH: OBJECT -> provider -> based -> added
+provider
+
+
+ENTITY1 named SUBJECT the OBJECT offering the 'Best Value,' and highlighted our 'first-rate technical support.'
+SUBJECT:	[[ MINDSPRING | /m/02m9sn ]]
+OBJECT:	[[ INTERNET SERVICE PROVIDER | /m/0pjxv ]]
+ENTITY1:	[[ CNET | /m/0by1jyj ]]
+SUBJECT PATH: SUBJECT -> named
+OBJECT  PATH: OBJECT -> named
+named
+
+
+Examples of OBJECT are SUBJECT
+SUBJECT:	[[ AOL | /m/0plw ]]
+OBJECT:	[[ INTERNET SERVICE PROVIDER | /m/0pjxv ]]
+SUBJECT PATH: SUBJECT -> are
+OBJECT  PATH: OBJECT -> of -> Examples -> are
+are
+
+
+Remember how people tell us that SUBJECT is an OBJECT company that only runs on one product line?
+SUBJECT:	[[ XANGO | /m/02m935 ]]
+OBJECT:	[[ MULTI-LEVEL MARKETING | /m/056bx ]]
+SUBJECT PATH: SUBJECT -> is -> tell -> Remember
+OBJECT  PATH: OBJECT -> company -> is -> tell -> Remember
+is
+
+
+* Journey to OBJECT ? is not a SUBJECT program, but a program designed by HealthMasters organization.
+SUBJECT:	[[ SHAKLEE | /m/03clgx7 ]]
+OBJECT:	[[ WELLNESS | /m/059z22 ]]
+SUBJECT PATH: SUBJECT -> program -> is
+OBJECT  PATH: OBJECT -> to -> Journey
+-None-
+
+
+The ENTITY1 SUBJECT branch recently organised a fruitful seminar on OBJECT 's future in ENTITY2 
+SUBJECT:	[[ AFFILIATED COMPUTER SERVICES | /m/07k24g ]]
+OBJECT:	[[ INFORMATION TECHNOLOGY | /m/03ytc ]]
+ENTITY1:	[[ VICTORIAN | /m/0chgr2 ]]
+ENTITY2:	[[ AUSTRALIA | /m/0chghy ]]
+SUBJECT PATH: SUBJECT -> branch -> organised
+OBJECT  PATH: OBJECT -> future -> on -> seminar -> organised
+organised
+
+
+SUBJECT is a OBJECT flying from ENTITY1 's, North Terminal.
+SUBJECT:	[[ EMIRATES | /m/011_65 ]]
+OBJECT:	[[ AIRLINE | /m/0vg8 ]]
+ENTITY1:	[[ GATWICK AIRPORT | /m/0pr6s ]]
+SUBJECT PATH: SUBJECT -> is
+OBJECT  PATH: OBJECT -> is
+is
+
+
+SUBJECT is the media agency for ENTITY1 while Flare Communicatios handles OBJECT .
+SUBJECT:	[[ PUBLICIS GROUPE | /m/03p307q ]]
+OBJECT:	[[ PUBLIC RELATIONS | /m/062zr ]]
+ENTITY1:	[[ PUMA | /m/03r_n_ ]]
+SUBJECT PATH: SUBJECT -> is
+OBJECT  PATH: OBJECT -> handles -> is
+is
+
+
+SUBJECT was a pioneer of the OBJECT and Health Industries.
+SUBJECT:	[[ SHAKLEE | /m/03clgx7 ]]
+OBJECT:	[[ MULTI-LEVEL MARKETING | /m/056bx ]]
+SUBJECT PATH: SUBJECT -> was
+OBJECT  PATH: OBJECT -> of -> pioneer -> was
+was
+
+
+In cooperation with SUBJECT , ENTITY1 supports greater use of sophisticated OBJECT  technology.
+SUBJECT:	[[ AUTODESK | /m/018nm3 ]]
+OBJECT:	[[ GEOGRAPHIC INFORMATION SYSTEM | /m/03821 ]]
+ENTITY1:	[[ ROOTS OF PEACE | /m/0201y3 ]]
+SUBJECT PATH: SUBJECT -> with -> cooperation -> In -> supports
+OBJECT  PATH: OBJECT -> technology -> of -> use -> supports
+supports
+
+
+... SUBJECT is a nationwide OBJECT , available in more than 8,000 ... www.netzero.net
+SUBJECT:	[[ NETZERO | /m/02x8q9 ]]
+OBJECT:	[[ INTERNET SERVICE PROVIDER | /m/0pjxv ]]
+SUBJECT PATH: SUBJECT -> is
+OBJECT  PATH: OBJECT -> is
+is
+
+
+OBJECT announced that the ENTITY1 videogame is in… SUBJECT and ENTITY2 
+SUBJECT:	[[ ELECTRONIC ARTS | /m/01n073 ]]
+OBJECT:	[[ INTERACTIVE ENTERTAINMENT | /m/02p71tm ]]
+ENTITY1:	[[ HARRY POTTER AND THE ORDER OF THE PHOENIX | /m/031hcx ]]
+ENTITY2:	[[ WARNER BROS | /m/086k8 ]]
+SUBJECT PATH: SUBJECT -> in -> is -> announced
+OBJECT  PATH: OBJECT -> announced
+announced
+
+
+SUBJECT 's approach to OBJECT may be unique, but it is certainly not the only exception
+SUBJECT:	[[ ZOOM TELEPHONICS | /m/02pvhdw ]]
+OBJECT:	[[ VOICE OVER IP | /m/0jzgd ]]
+SUBJECT PATH: SUBJECT -> approach -> be
+OBJECT  PATH: OBJECT -> to -> approach -> be
+approach
+
+
+Pipeline gas connections Mahanagar Gas Limited  and SUBJECT , ENTITY1 companies of ENTITY2 are supplying OBJECT  to 1.70 lakh...........................
+SUBJECT:	[[ INDRAPRASTHA GAS | /m/0gvv0z6 ]]
+OBJECT:	[[ NATURAL GAS | /m/05k4k ]]
+ENTITY1:	[[ JOINT VENTURE | /m/02mz24 ]]
+ENTITY2:	[[ GAIL (INDIA) LIMITED | /m/02vzp1l ]]
+SUBJECT PATH: SUBJECT -> Limited -> connections -> supplying
+OBJECT  PATH: OBJECT -> supplying
+supplying
+
+
+Travel ENTITY1 is now served by an ever growing number of OBJECT including SUBJECT and ENTITY2 
+SUBJECT:	[[ RYANAIR | /m/01m_zd ]]
+OBJECT:	[[ AIRLINE | /m/0vg8 ]]
+ENTITY1:	[[ MALTA | /m/04v3q ]]
+ENTITY2:	[[ EASYJET | /m/018mxj ]]
+SUBJECT PATH: SUBJECT -> including -> OBJECT -> of -> number -> by -> served
+OBJECT  PATH: OBJECT -> of -> number -> by -> served
+OBJECT
+
+
+SUBJECT is a global leader in OBJECT , ...
+SUBJECT:	[[ CAPGEMINI | /m/03vlk0 ]]
+OBJECT:	[[ INFORMATION TECHNOLOGY CONSULTING | /m/07k6dg ]]
+SUBJECT PATH: SUBJECT -> is
+OBJECT  PATH: OBJECT -> in -> leader -> is
+is
+
+
+First OBJECT is the official franchise partner of SUBJECT in ENTITY1 .
+SUBJECT:	[[ SIXT | /m/04k512 ]]
+OBJECT:	[[ CAR RENTAL | /m/0drl1t ]]
+ENTITY1:	[[ SOUTH AFRICA | /m/0hzlz ]]
+SUBJECT PATH: SUBJECT -> of -> partner -> is
+OBJECT  PATH: OBJECT -> is
+is
+
+
+ENTITY1 works with ENTITY2 on the core-banking front and SUBJECT  for its OBJECT functions.
+SUBJECT:	[[ MPHASIS | /m/089_77 ]]
+OBJECT:	[[ BUSINESS PROCESS OUTSOURCING | /m/04fm00 ]]
+ENTITY1:	[[ STATE BANK OF INDIA | /m/0242kb ]]
+ENTITY2:	[[ INFOSYS | /m/01k8x6 ]]
+SUBJECT PATH: SUBJECT -> front -> on -> works
+OBJECT  PATH: OBJECT -> functions -> for -> works
+works
+
+
+Under Steves leadership, SUBJECT s OBJECT and ENTITY1 divisions routinely exceeded projections and still remain market share leaders today.
+SUBJECT:	[[ MICHELIN | /m/0kpxt ]]
+OBJECT:	[[ TRUCK | /m/07r04 ]]
+ENTITY1:	[[ EARTHMOVER | /m/02gx17 ]]
+SUBJECT PATH: SUBJECT -> divisions -> exceeded
+OBJECT  PATH: OBJECT -> divisions -> exceeded
+divisions
+
+
+Best prices on ENTITY1 wii, SUBJECT in OBJECT 
+SUBJECT:	[[ ELECTRONIC ARTS | /m/01n073 ]]
+OBJECT:	[[ VIDEO GAME | /m/01mw1 ]]
+ENTITY1:	[[ WARS | /m/082cb ]]
+SUBJECT PATH: SUBJECT
+OBJECT  PATH: OBJECT -> in -> SUBJECT
+SUBJECT
+
+
+SUBJECT  is a government-owned organization that is mandated to promote ENTITY1 s OBJECT  industry
+SUBJECT:	[[ PAKISTAN SOFTWARE EXPORT BOARD | /m/03ydcvp ]]
+OBJECT:	[[ INFORMATION TECHNOLOGY | /m/03ytc ]]
+ENTITY1:	[[ PAKISTAN | /m/05sb1 ]]
+SUBJECT PATH: SUBJECT -> is
+OBJECT  PATH: OBJECT -> industry -> promote -> mandated -> organization -> is
+is
+
+
+SUBJECT has openings for ENTITY1 , ENTITY2 and OBJECT engineers and engineering technicians.
+SUBJECT:	[[ AAI CORPORATION | /m/03h263 ]]
+OBJECT:	[[ AEROSPACE | /m/0147gr ]]
+ENTITY1:	[[ MECHANICAL | /m/04x_3 ]]
+ENTITY2:	[[ ELECTRONIC | /m/02lkt ]]
+SUBJECT PATH: SUBJECT -> has
+OBJECT  PATH: OBJECT -> engineers -> ENTITY2 -> ENTITY1 -> for -> openings -> has
+has
+
+
+It's partnering with ENTITY1 OBJECT equipment manufacturer SUBJECT 
+SUBJECT:	[[ FRESHTEL | /m/027whd_ ]]
+OBJECT:	[[ VOICE OVER IP | /m/0jzgd ]]
+ENTITY1:	[[ AUSTRALIAN | /m/0chghy ]]
+SUBJECT PATH: SUBJECT -> with -> partnering
+OBJECT  PATH: OBJECT -> equipment -> manufacturer -> SUBJECT -> with -> partnering
+SUBJECT
+
+
+SUBJECT has been providing a host of OBJECT services for the ENTITY1 since May of 2002.
+SUBJECT:	[[ AFFILIATED COMPUTER SERVICES | /m/07k24g ]]
+OBJECT:	[[ BUSINESS PROCESS OUTSOURCING | /m/04fm00 ]]
+ENTITY1:	[[ APOLLO GROUP | /m/07ydt0 ]]
+SUBJECT PATH: SUBJECT -> providing
+OBJECT  PATH: OBJECT -> services -> of -> host -> providing
+providing
+
+
+SUBJECT is pioneering the OBJECT , sometimes referred to as ENTITY1 .
+SUBJECT:	[[ RADAR NETWORKS | /m/02211b3 ]]
+OBJECT:	[[ SEMANTIC WEB | /m/076k0 ]]
+ENTITY1:	[[ WEB 3.0 | /m/022q90l ]]
+SUBJECT PATH: SUBJECT -> pioneering
+OBJECT  PATH: OBJECT -> pioneering
+pioneering
+
+
+OBJECT firm SUBJECT has put on ice plans to divide into two businesses
+SUBJECT:	[[ CABLE & WIRELESS WORLDWIDE | /m/0201yx ]]
+OBJECT:	[[ TELECOMMUNICATIONS | /m/029g_vk ]]
+SUBJECT PATH: SUBJECT -> put
+OBJECT  PATH: OBJECT -> firm -> SUBJECT -> put
+SUBJECT
+
+
+The whole OBJECT would be a lot better off without SUBJECT
+SUBJECT:	[[ SOUTHWEST AIRLINES | /m/0gztl ]]
+OBJECT:	[[ AIRLINE | /m/0vg8 ]]
+SUBJECT PATH: SUBJECT -> without -> better -> be
+OBJECT  PATH: OBJECT -> be
+be
+
+
+www.robotron-2084.co.uk - Preserving Williams, ENTITY1 and SUBJECT 1980's OBJECT and ENTITY2 for the future!
+SUBJECT:	[[ TAITO CORPORATION | /m/07rfp ]]
+OBJECT:	[[ VIDEO GAME | /m/01mw1 ]]
+ENTITY1:	[[ ATARI | /m/01scmq ]]
+ENTITY2:	[[ PINBALL MACHINES | /m/0gfk5 ]]
+SUBJECT PATH: SUBJECT -> 1980 -> OBJECT -> ENTITY1 -> Williams
+OBJECT  PATH: OBJECT -> ENTITY1 -> Williams
+OBJECT
+
+
+(cargo shipping company that among other things ran a dedicated cold chain set up for OBJECT company SUBJECT ).
+SUBJECT:	[[ RANBAXY LABORATORIES | /m/0243xw ]]
+OBJECT:	[[ PHARMACEUTICAL INDUSTRY | /m/02q3wl ]]
+SUBJECT PATH: SUBJECT -> for -> set -> chain -> ran
+OBJECT  PATH: OBJECT -> company -> SUBJECT -> for -> set -> chain -> ran
+SUBJECT
+
+
+ENTITY1 Gives SUBJECT an Unstable Lab for Genetics in OBJECT 
+SUBJECT:	[[ MONSANTO | /m/0n8m6 ]]
+OBJECT:	[[ AGRICULTURE | /m/0hkf ]]
+ENTITY1:	[[ INDIA | /m/03rk0 ]]
+SUBJECT PATH: SUBJECT -> Gives
+OBJECT  PATH: OBJECT -> in -> Genetics -> for -> Lab -> Gives
+Gives
+
+
+ENTITY1 is who SUBJECT goes through, ENTITY2 goes through OBJECT , not sure who Sprint uses
+SUBJECT:	[[ ALLTEL | /m/05sfff ]]
+OBJECT:	[[ TELECOMMUNICATIONS | /m/029g_vk ]]
+ENTITY1:	[[ ASURION | /m/0765wf ]]
+ENTITY2:	[[ NEXTEL | /m/077w0b ]]
+SUBJECT PATH: SUBJECT -> goes -> is -> goes
+OBJECT  PATH: OBJECT -> through -> goes
+goes
+
+
+Email a copy of OBJECT firm SUBJECT sees gold in beaten-up buyout debt to a friend.
+SUBJECT:	[[ ONEX CORPORATION | /m/06phlm ]]
+OBJECT:	[[ PRIVATE EQUITY | /m/01b4x4 ]]
+SUBJECT PATH: SUBJECT -> firm -> of -> copy -> sees -> Email
+OBJECT  PATH: OBJECT -> firm -> of -> copy -> sees -> Email
+firm
+
+
+Alpinesportinggoods.com carries SUBJECT 's line of OBJECT boots including the ENTITY1 and ENTITY2 series.
+SUBJECT:	[[ BURTON SNOWBOARDS | /m/0781kl ]]
+OBJECT:	[[ SNOWBOARD | /m/06__v ]]
+ENTITY1:	[[ FREESTYLE | /m/01t4m0 ]]
+ENTITY2:	[[ MOTO | /m/04_sv ]]
+SUBJECT PATH: SUBJECT -> line -> carries
+OBJECT  PATH: OBJECT -> boots -> of -> line -> carries
+line
+
+
+The shut down of its network operations follows the closure of OBJECT provider SUBJECT 
+SUBJECT:	[[ SUNROCKET | /m/0cwg4f ]]
+OBJECT:	[[ VOICE OVER IP | /m/0jzgd ]]
+SUBJECT PATH: SUBJECT -> of -> closure -> follows
+OBJECT  PATH: OBJECT -> provider -> SUBJECT -> of -> closure -> follows
+SUBJECT
+
+
+2001 -? OBJECT operator ENTITY1 mounted a $41 billion hostile bid to merge with SUBJECT 
+SUBJECT:	[[ AT&T BROADBAND | /m/09fwxt ]]
+OBJECT:	[[ CABLE TELEVISION | /m/024bm ]]
+ENTITY1:	[[ COMCAST | /m/01s73z ]]
+SUBJECT PATH: SUBJECT -> with -> merge -> bid -> mounted
+OBJECT  PATH: OBJECT -> operator -> ENTITY1 -> mounted
+mounted
+
+
+All you need to know about OBJECT was SUBJECT and ENTITY1 .
+SUBJECT:	[[ AMGEN | /m/03r820 ]]
+OBJECT:	[[ BIOTECHNOLOGY | /m/01ftz ]]
+ENTITY1:	[[ DNDN | /m/0kqkf3 ]]
+SUBJECT PATH: SUBJECT -> was
+OBJECT  PATH: OBJECT -> about -> know -> need -> All -> was
+was
+
+
+SUBJECT CLAIMS THE OBJECT CONTAINED IN THIS VIDEO IS INFRINGING.THEREFORE THE MUSIC HAS BEEN MUTED BY UMG.
+SUBJECT:	[[ UNIVERSAL MUSIC GROUP | /m/01dtcb ]]
+OBJECT:	[[ MUSIC | /m/04rlf ]]
+SUBJECT PATH: SUBJECT -> CLAIMS
+OBJECT  PATH: OBJECT -> CONTAINED -> IS
+-None-
+
+
+SUBJECT also offers different types of OBJECT  phone services
+SUBJECT:	[[ EARTHLINK | /m/02glvd ]]
+OBJECT:	[[ VOICE OVER IP | /m/0jzgd ]]
+SUBJECT PATH: SUBJECT -> offers
+OBJECT  PATH: OBJECT -> services -> of -> types -> offers
+offers
+
+
+SUBJECT is in the OBJECT industry in HOT SPRINGS NATIONAL PARK, ENTITY1 .
+SUBJECT:	[[ J. C. PENNEY | /m/026h1w ]]
+OBJECT:	[[ DEPARTMENT STORE | /m/01k_mv ]]
+ENTITY1:	[[ AR | /m/0vbk ]]
+SUBJECT PATH: SUBJECT -> is
+OBJECT  PATH: OBJECT -> industry -> in -> is
+is
+
+
+OBJECT : SUBJECT  is the ENTITY1
+SUBJECT:	[[ FERROVIE DELLO STATO ITALIANE | /m/06lmm2 ]]
+OBJECT:	[[ RAIL TRANSPORT | /m/06d_3 ]]
+ENTITY1:	[[ ITALIAN | /m/03rjj ]]
+SUBJECT PATH: SUBJECT -> is
+OBJECT  PATH: OBJECT
+-None-
+
+
+OBJECT manufactures? SUBJECT
+SUBJECT:	[[ PFIZER | /m/0gvbw ]]
+OBJECT:	[[ PHARMACEUTICAL INDUSTRY | /m/02q3wl ]]
+SUBJECT PATH: SUBJECT
+OBJECT  PATH: OBJECT -> manufactures
+-None-
+
+
+We all know of the exciting things SUBJECT is doing for the OBJECT world.
+SUBJECT:	[[ TESLA MOTORS | /m/0dr90d ]]
+OBJECT:	[[ AUTOMOTIVE INDUSTRY | /m/015smg ]]
+SUBJECT PATH: SUBJECT -> doing -> things -> of -> know
+OBJECT  PATH: OBJECT -> world -> for -> doing -> things -> of -> know
+doing
+
+
+SUBJECT hosts the ENTITY1 of OBJECT  annually.
+SUBJECT:	[[ POKERSTARS | /m/09jnvg ]]
+OBJECT:	[[ ONLINE POKER | /m/02m37y ]]
+ENTITY1:	[[ WORLD CHAMPIONSHIPS | /m/01gqqn ]]
+SUBJECT PATH: SUBJECT -> hosts
+OBJECT  PATH: OBJECT -> of -> ENTITY1 -> hosts
+hosts
+
+
+I get most of my services through SUBJECT including OBJECT , Internet and ENTITY1 .
+SUBJECT:	[[ TIME WARNER CABLE | /m/08gyry ]]
+OBJECT:	[[ CABLE TELEVISION | /m/024bm ]]
+ENTITY1:	[[ DIGITAL PHONE | /m/0jzgd ]]
+SUBJECT PATH: SUBJECT -> through -> get
+OBJECT  PATH: OBJECT -> including -> SUBJECT -> through -> get
+SUBJECT
+
+
+4. Blue Cross Health Plans - Quotes OBJECT quotes online from SUBJECT .
+SUBJECT:	[[ BLUE CROSS BLUE SHIELD ASSOCIATION | /m/09dscd ]]
+OBJECT:	[[ HEALTH INSURANCE | /m/02gqxg ]]
+SUBJECT PATH: SUBJECT -> from -> quotes
+OBJECT  PATH: OBJECT -> quotes
+quotes
+
+
+OBJECT interviews SUBJECT about its NovaLipid line of zero trans-fat oils.
+SUBJECT:	[[ ARCHER DANIELS MIDLAND | /m/01qg42 ]]
+OBJECT:	[[ FOOD PROCESSING | /m/02vjn0 ]]
+SUBJECT PATH: SUBJECT
+OBJECT  PATH: OBJECT -> interviews -> SUBJECT
+SUBJECT
+
+
+OBJECT  company SUBJECT
+SUBJECT:	[[ DIMENSION DATA HOLDINGS | /m/02qk4zq ]]
+OBJECT:	[[ INFORMATION TECHNOLOGY | /m/03ytc ]]
+SUBJECT PATH: SUBJECT -> company
+OBJECT  PATH: OBJECT -> company
+company
+
+
+www.robotron-2084.co.uk - Preserving Williams, SUBJECT and ENTITY1 1980's OBJECT and ENTITY2 for the future!
+SUBJECT:	[[ ATARI GAMES | /m/01scmq ]]
+OBJECT:	[[ VIDEO GAME | /m/01mw1 ]]
+ENTITY1:	[[ TAITO | /m/07rfp ]]
+ENTITY2:	[[ PINBALL MACHINES | /m/0gfk5 ]]
+SUBJECT PATH: SUBJECT -> Williams
+OBJECT  PATH: OBJECT -> Williams
+Williams
+
+
+While SUBJECT receives high marks from many OBJECT
+SUBJECT:	[[ VOICEPULSE | /m/08gjqb ]]
+OBJECT:	[[ VOICE OVER IP | /m/0jzgd ]]
+SUBJECT PATH: SUBJECT -> receives
+OBJECT  PATH: OBJECT -> from -> receives
+receives
+
+
+Hosting is a service provided by a OBJECT , such as SUBJECT a leading provider in ENTITY1 .
+SUBJECT:	[[ EARTHLINK | /m/02glvd ]]
+OBJECT:	[[ INTERNET SERVICE PROVIDER | /m/0pjxv ]]
+ENTITY1:	[[ ATLANTA | /m/013yq ]]
+SUBJECT PATH: SUBJECT -> as -> OBJECT -> by -> provided -> service -> is
+OBJECT  PATH: OBJECT -> by -> provided -> service -> is
+OBJECT
+
+
+One And Only Network - Appears to have been bought by Match.Com, whose OBJECT is run by SUBJECT .
+SUBJECT:	[[ COMMISSION JUNCTION | /m/08xnt8 ]]
+OBJECT:	[[ AFFILIATE MARKETING | /m/0344pd ]]
+SUBJECT PATH: SUBJECT -> by -> run -> Com
+OBJECT  PATH: OBJECT -> run -> Com
+run
+
+
+The SUBJECT is the best business accommodation among the OBJECT in ENTITY1 in ENTITY2 .
+SUBJECT:	[[ INTERCONTINENTAL | /m/04ykg6 ]]
+OBJECT:	[[ HOTEL | /m/03pty ]]
+ENTITY1:	[[ AMMAN | /m/047st18 ]]
+ENTITY2:	[[ JORDAN | /m/03__y ]]
+SUBJECT PATH: SUBJECT -> is
+OBJECT  PATH: OBJECT -> among -> accommodation -> is
+is
+
+
+Note that my OBJECT  was SUBJECT .
+SUBJECT:	[[ BELL INTERNET | /m/01lgnq ]]
+OBJECT:	[[ INTERNET SERVICE PROVIDER | /m/0pjxv ]]
+SUBJECT PATH: SUBJECT -> was -> Note
+OBJECT  PATH: OBJECT -> was -> Note
+was
+
+
+He is currently Chief Economist of IXIS Corporate amd OBJECT , a subsidary of SUBJECT .
+SUBJECT:	[[ NATIXIS | /m/026rj27 ]]
+OBJECT:	[[ INVESTMENT BANKING | /m/015p1m ]]
+SUBJECT PATH: SUBJECT -> of -> subsidary -> Economist -> is
+OBJECT  PATH: OBJECT -> of -> Economist -> is
+Economist
+
+
+boringloser: Daves Quest  1988 SUBJECT Made for ENTITY1 , and our  OBJECT
+SUBJECT:	[[ SIERRA ENTERTAINMENT | /m/0dwcl ]]
+OBJECT:	[[ VIDEO GAME | /m/01mw1 ]]
+ENTITY1:	[[ MOVIE NIGHT | /m/03l3dw ]]
+SUBJECT PATH: SUBJECT
+OBJECT  PATH: OBJECT -> SUBJECT
+SUBJECT
+
+
+I get most of my services through SUBJECT including ENTITY1 , Internet and OBJECT .
+SUBJECT:	[[ TIME WARNER CABLE | /m/08gyry ]]
+OBJECT:	[[ VOICE OVER IP | /m/0jzgd ]]
+ENTITY1:	[[ CABLE | /m/024bm ]]
+SUBJECT PATH: SUBJECT -> through -> get
+OBJECT  PATH: OBJECT -> Internet -> ENTITY1 -> including -> SUBJECT -> through -> get
+SUBJECT
+
+
+ENTITY1 operates a joint venture with SUBJECT , a leading maker of OBJECT , for renting to the public.
+SUBJECT:	[[ THOR INDUSTRIES | /m/0c_61d ]]
+OBJECT:	[[ RECREATIONAL VEHICLE | /m/01lgkm ]]
+ENTITY1:	[[ CRUISE AMERICA | /m/03cjbjs ]]
+SUBJECT PATH: SUBJECT -> with -> venture -> operates
+OBJECT  PATH: OBJECT -> of -> maker -> SUBJECT -> with -> venture -> operates
+SUBJECT
+
+
+SUBJECT CL A OBJECT Stock Prices Chart
+SUBJECT:	[[ E. W. SCRIPPS COMPANY | /m/060ppp ]]
+OBJECT:	[[ NEWSPAPER | /m/05jnl ]]
+SUBJECT PATH: SUBJECT -> CL -> A -> Prices
+OBJECT  PATH: OBJECT -> Prices
+Prices
+
+
+SUBJECT signs OBJECT in ENTITY1 , ENTITY2
+SUBJECT:	[[ JUMEIRAH | /m/0d1kbj ]]
+OBJECT:	[[ HOTEL | /m/03pty ]]
+ENTITY1:	[[ GLASGOW | /m/0hyxv ]]
+ENTITY2:	[[ SCOTLAND | /m/06q1r ]]
+SUBJECT PATH: SUBJECT -> signs -> OBJECT
+OBJECT  PATH: OBJECT
+OBJECT
+
+
+According to / OBJECT , SUBJECT s ENTITY1 is the newest to add something to lobby charm.
+SUBJECT:	[[ WALT DISNEY PICTURES | /m/01795t ]]
+OBJECT:	[[ FILM | /m/02vxn ]]
+ENTITY1:	[[ WALL-E | /m/027s39y ]]
+SUBJECT PATH: SUBJECT -> ENTITY1 -> is
+OBJECT  PATH: OBJECT -> to -> According -> is
+is
+
+
+SUBJECT is a front line player in the OBJECT .
+SUBJECT:	[[ QWEST | /m/01kk0d ]]
+OBJECT:	[[ TELECOMMUNICATIONS | /m/029g_vk ]]
+SUBJECT PATH: SUBJECT -> is
+OBJECT  PATH: OBJECT -> in -> player -> is
+is
+
+
+For 2007, the SUBJECT expects a further favorable development of both OBJECT and ENTITY1 economics
+SUBJECT:	[[ KUDELSKI GROUP | /m/02x8rcw ]]
+OBJECT:	[[ DIGITAL TELEVISION | /m/029j1 ]]
+ENTITY1:	[[ PUBLIC ACCESS | /m/027cx0 ]]
+SUBJECT PATH: SUBJECT -> expects
+OBJECT  PATH: OBJECT -> of -> development -> expects
+expects
+
+
+SUBJECT Could Become ENTITY1 -only OBJECT
+SUBJECT:	[[ LEXUS | /m/04n7g ]]
+OBJECT:	[[ AUTOMOTIVE INDUSTRY | /m/015smg ]]
+ENTITY1:	[[ HYBRID | /m/026t_c7 ]]
+SUBJECT PATH: SUBJECT -> Become
+OBJECT  PATH: OBJECT -> Become
+Become
+
+
+ENTITY1 did best among OBJECT firms , while SUBJECT did worst
+SUBJECT:	[[ SIEBEL SYSTEMS | /m/04svnf ]]
+OBJECT:	[[ SOFTWARE | /m/01mf0 ]]
+ENTITY1:	[[ MICROSOFT | /m/04sv4 ]]
+SUBJECT PATH: SUBJECT -> did -> did
+OBJECT  PATH: OBJECT -> firms -> among -> did
+did
+
+
+ENTITY1 teamed up with SUBJECT to provide the most complete OBJECT solution available.
+SUBJECT:	[[ OMNITURE | /m/0bchc7 ]]
+OBJECT:	[[ WEB ANALYTICS | /m/07gnl6 ]]
+ENTITY1:	[[ CORADIANT | /m/02875h4 ]]
+SUBJECT PATH: SUBJECT -> with -> teamed
+OBJECT  PATH: OBJECT -> solution -> provide -> teamed
+teamed
+
+
+Alloy Media + OBJECT commissioned a study by SUBJECT toward the end of the 2007 school year.
+SUBJECT:	[[ HARRIS INTERACTIVE INC. | /m/0bsrlb ]]
+OBJECT:	[[ MARKETING | /m/0g4gr ]]
+SUBJECT PATH: SUBJECT -> by -> study -> commissioned
+OBJECT  PATH: OBJECT -> Media -> commissioned
+commissioned
+
+
+Outline: History of Morgan Stanley Why is the SUBJECT a ENTITY1 ranked OBJECT 
+SUBJECT:	[[ MORGAN STANLEY | /m/0jvs0 ]]
+OBJECT:	[[ INVESTMENT BANKING | /m/015p1m ]]
+ENTITY1:	[[ TOP | /m/03gx245 ]]
+SUBJECT PATH: SUBJECT -> is -> ranked
+OBJECT  PATH: OBJECT -> ranked
+ranked
+
+
+ENTITY1 , ENTITY2 , and SUBJECT  were listed in the OBJECT category.
+SUBJECT:	[[ SYMANTEC CORPORATION | /m/01zpmq ]]
+OBJECT:	[[ SOFTWARE | /m/01mf0 ]]
+ENTITY1:	[[ MICROSOFT | /m/04sv4 ]]
+ENTITY2:	[[ ORACLE | /m/05njw ]]
+SUBJECT PATH: SUBJECT -> ENTITY2 -> ENTITY1 -> listed
+OBJECT  PATH: OBJECT -> category -> in -> listed
+listed
+
+
+Hardware : Sun E6500, OBJECT /6000, ENTITY1 's, and Pentium PCs, SUBJECT servers, ENTITY2 
+SUBJECT:	[[ HEWLETT-PACKARD | /m/03mnk ]]
+OBJECT:	[[ COMPUTER HARDWARE | /m/01mfj ]]
+ENTITY1:	[[ IBM PC | /m/03wg7 ]]
+ENTITY2:	[[ IBM PSERIES | /m/09xjr ]]
+SUBJECT PATH: SUBJECT -> servers -> PCs -> ENTITY1 -> E6500
+OBJECT  PATH: OBJECT -> E6500
+E6500
+
+
+SUBJECT is a OBJECT solution .
+SUBJECT:	[[ VONAGE | /m/0296t1 ]]
+OBJECT:	[[ VOICE OVER IP | /m/0jzgd ]]
+SUBJECT PATH: SUBJECT -> is
+OBJECT  PATH: OBJECT -> solution -> is
+is
+
+
+SUBJECT has the most comprehensive OBJECT solution in the industry.
+SUBJECT:	[[ HEWLETT-PACKARD | /m/03mnk ]]
+OBJECT:	[[ IT SERVICE MANAGEMENT | /m/049164 ]]
+SUBJECT PATH: SUBJECT -> has
+OBJECT  PATH: OBJECT -> solution -> has
+has
+
+
+SUBJECT IS A SUPPLIER OF ENTITY1 , WHICH ARE USED TO ENTITY2 AND COLLECT CONTAINERS FOR OBJECT .
+SUBJECT:	[[ TOMRA | /m/02vtxm ]]
+OBJECT:	[[ RECYCLING | /m/0j6v7 ]]
+ENTITY1:	[[ REVERSE VENDING MACHINES | /m/05yj5s ]]
+ENTITY2:	[[ SORT | /m/032rq7 ]]
+SUBJECT PATH: SUBJECT -> IS
+OBJECT  PATH: OBJECT -> FOR -> CONTAINERS -> TO -> USED -> IS
+IS
+
+
+SUBJECT , 1981: ENTITY1 , lowly crafts flunky on OBJECT 13.
+SUBJECT:	[[ LUCASFILM | /m/0kx4m ]]
+OBJECT:	[[ FILM | /m/02vxn ]]
+ENTITY1:	[[ RETURN OF THE JEDI | /m/0ddjy ]]
+SUBJECT PATH: SUBJECT
+OBJECT  PATH: OBJECT -> on -> flunky -> ENTITY1 -> SUBJECT
+SUBJECT
+
+
+SUBJECT is taking part in the   OBJECT   portion of the exhibition.
+SUBJECT:	[[ PANASONIC CORPORATION | /m/0nk5b ]]
+OBJECT:	[[ CONSUMER ELECTRONICS | /m/019z7b ]]
+SUBJECT PATH: SUBJECT -> taking
+OBJECT  PATH: OBJECT -> portion -> in -> taking
+taking
+
+
+SUBJECT follows these principles of OBJECT and and there is more information on the Kiva Site
+SUBJECT:	[[ KIVA | /m/0gy2kz ]]
+OBJECT:	[[ MICROFINANCE | /m/01l1w_ ]]
+SUBJECT PATH: SUBJECT -> follows
+OBJECT  PATH: OBJECT -> of -> principles -> follows
+follows
+
+
+The OBJECT is owned by SUBJECT and its suppliers and is protected by copyright laws and international treaties.
+SUBJECT:	[[ HEWLETT-PACKARD | /m/03mnk ]]
+OBJECT:	[[ SOFTWARE | /m/01mf0 ]]
+SUBJECT PATH: SUBJECT -> by -> owned
+OBJECT  PATH: OBJECT -> owned
+owned
+
+
+Today, the SUBJECT  released the ninth edition of OBJECT in ENTITY1 .
+SUBJECT:	[[ CANADIAN INSTITUTE FOR HEALTH INFORMATION | /m/0gv3z5 ]]
+OBJECT:	[[ HEALTH CARE | /m/01mw2x ]]
+ENTITY1:	[[ CANADA | /m/0jcpw ]]
+SUBJECT PATH: SUBJECT -> released
+OBJECT  PATH: OBJECT -> of -> edition -> released
+released
+
+
+Examples of a OBJECT are SUBJECT
+SUBJECT:	[[ VODAFONE GROUP PLC | /m/02d6ph ]]
+OBJECT:	[[ MOBILE NETWORK OPERATOR | /m/02fqqq ]]
+SUBJECT PATH: SUBJECT -> are
+OBJECT  PATH: OBJECT -> of -> Examples -> are
+are
+
+
+You'll find the best prices on ENTITY1 video games, SUBJECT in OBJECT when you shop online at ENTITY2 .
+SUBJECT:	[[ BANDAI NAMCO ENTERTAINMENT | /m/02pfymy ]]
+OBJECT:	[[ VIDEO GAME | /m/01mw1 ]]
+ENTITY1:	[[ GHOST | /m/038_l ]]
+ENTITY2:	[[ BIZRATE | /m/0fb122 ]]
+SUBJECT PATH: SUBJECT -> games -> on -> prices -> find
+OBJECT  PATH: OBJECT -> in -> SUBJECT -> games -> on -> prices -> find
+SUBJECT
+
+
+SUBJECT was voted ENTITY1 s Leading OBJECT .
+SUBJECT:	[[ AIR JAMAICA | /m/015pml ]]
+OBJECT:	[[ AIRLINE | /m/0vg8 ]]
+ENTITY1:	[[ CARIBBEAN | /m/0261m ]]
+SUBJECT PATH: SUBJECT -> voted
+OBJECT  PATH: OBJECT -> voted
+voted
+
+
+ENTITY1 : How is OBJECT security such as ENTITY2 functions addressed by SUBJECT ?
+SUBJECT:	[[ AUDIOCODES | /m/02wbgvc ]]
+OBJECT:	[[ VOICE OVER IP | /m/0jzgd ]]
+ENTITY1:	[[ Q | /m/02k1sj ]]
+ENTITY2:	[[ SESSION BORDER CONTROLLER | /m/055j59 ]]
+SUBJECT PATH: SUBJECT -> by -> addressed -> functions -> as -> security -> is
+OBJECT  PATH: OBJECT -> security -> is
+security
+
+
+SUBJECT publishes ENTITY1 , a super hero OBJECT .
+SUBJECT:	[[ HERO GAMES | /m/02kjkl ]]
+OBJECT:	[[ ROLE-PLAYING GAME | /m/06c9r ]]
+ENTITY1:	[[ CHAMPIONS | /m/016js1 ]]
+SUBJECT PATH: SUBJECT -> publishes
+OBJECT  PATH: OBJECT -> ENTITY1 -> publishes
+publishes
+
+
+The Holiday Inn Group of OBJECT is part of the famed SUBJECT .
+SUBJECT:	[[ INTERCONTINENTAL HOTELS GROUP | /m/0496hl ]]
+OBJECT:	[[ HOTEL | /m/03pty ]]
+SUBJECT PATH: SUBJECT -> of -> part -> is
+OBJECT  PATH: OBJECT -> of -> Group -> is
+is
+
+
+Then, my partner and I received a mailing from an agent for the OBJECT company SUBJECT .
+SUBJECT:	[[ NEWAYS | /m/0639r0 ]]
+OBJECT:	[[ MULTI-LEVEL MARKETING | /m/056bx ]]
+SUBJECT PATH: SUBJECT -> company -> for -> agent -> from -> received
+OBJECT  PATH: OBJECT -> company -> for -> agent -> from -> received
+company
+
+
+SUBJECT is a OBJECT company in ENTITY1 
+SUBJECT:	[[ GENPACT | /m/0bwgw7 ]]
+OBJECT:	[[ BUSINESS PROCESS OUTSOURCING | /m/04fm00 ]]
+ENTITY1:	[[ INDIA | /m/03rk0 ]]
+SUBJECT PATH: SUBJECT -> is
+OBJECT  PATH: OBJECT -> company -> is
+is
+
+
+SUBJECT provides OBJECT application lifecycle management, business process management and data management solutions for OBJECT customers and and?partners.
+SUBJECT:	[[ INTELLICORP | /m/0c683q ]]
+OBJECT:	[[ SAP ERP | /m/0dvl8x ]]
+SUBJECT PATH: SUBJECT -> provides
+OBJECT  PATH: OBJECT -> customers -> for -> solutions -> management -> provides
+provides
+
+
+Tags: 250-c20, SUBJECT engines, OBJECT , ENTITY1 , Aircraft engines...
+SUBJECT:	[[ AERO VODOCHODY | /m/02h381 ]]
+OBJECT:	[[ AEROSPACE | /m/0147gr ]]
+ENTITY1:	[[ AIRBUS | /m/015zfz ]]
+SUBJECT PATH: SUBJECT -> engines -> 250-c20 -> Tags
+OBJECT  PATH: OBJECT -> engines -> 250-c20 -> Tags
+engines
+
+
+OBJECT company SUBJECT has drawn up its top tips for improving business performance in 2009.
+SUBJECT:	[[ ATOS | /m/03mndf ]]
+OBJECT:	[[ IT SERVICE MANAGEMENT | /m/049164 ]]
+SUBJECT PATH: SUBJECT -> drawn
+OBJECT  PATH: OBJECT -> company -> SUBJECT -> drawn
+SUBJECT
+
+
+When you?re in the market for new performance clothing, check out SUBJECT ?s line of OBJECT with Recycled Content.
+SUBJECT:	[[ PATAGONIA, INC. | /m/0g152j ]]
+OBJECT:	[[ CLOTHING | /m/09j2d ]]
+SUBJECT PATH: SUBJECT -> check
+OBJECT  PATH: OBJECT -> of -> line -> s
+-None-
+
+
+Above, several posters suggested the rest of the OBJECT should support SUBJECT 
+SUBJECT:	[[ US AIRWAYS | /m/01qmg5 ]]
+OBJECT:	[[ AIRLINE | /m/0vg8 ]]
+SUBJECT PATH: SUBJECT -> support -> suggested
+OBJECT  PATH: OBJECT -> of -> rest -> support -> suggested
+support
+
+
+He was actively involved in developing Ultrasonic testing procedure for OBJECT tracks for SUBJECT as a consultant.
+SUBJECT:	[[ INDIAN RAILWAYS | /m/0303gp ]]
+OBJECT:	[[ RAIL TRANSPORT | /m/06d_3 ]]
+SUBJECT PATH: SUBJECT -> for -> tracks -> for -> procedure -> developing -> in -> involved
+OBJECT  PATH: OBJECT -> tracks -> for -> procedure -> developing -> in -> involved
+tracks
+
+
+Free OBJECT calls to other SUBJECT customers and OBJECT users worldwide.
+SUBJECT:	[[ PLUSNET | /m/05gmwk ]]
+OBJECT:	[[ VOICE OVER IP | /m/0jzgd ]]
+SUBJECT PATH: SUBJECT -> customers -> to -> calls
+OBJECT  PATH: OBJECT -> users -> customers -> to -> calls
+customers
+
+
+Top 5 OBJECT are SUBJECT
+SUBJECT:	[[ BODOG | /m/0d1x33 ]]
+OBJECT:	[[ ONLINE POKER | /m/02m37y ]]
+SUBJECT PATH: SUBJECT -> are
+OBJECT  PATH: OBJECT -> are
+are
+
+
+OBJECT integrator SUBJECT has announced that it has completed construction of a new OBJECT
+SUBJECT:	[[ IBC SOLAR | /m/0bhc91f ]]
+OBJECT:	[[ PHOTOVOLTAICS | /m/02_spr ]]
+SUBJECT PATH: SUBJECT -> announced
+OBJECT  PATH: OBJECT -> of -> construction -> completed -> announced
+announced
+
+
+Wed like to thank the ENTITY1 s Innovation Centre, and OBJECT company SUBJECT for sponsoring this report.
+SUBJECT:	[[ HILL+KNOWLTON STRATEGIES | /m/08sb5_ ]]
+OBJECT:	[[ PUBLIC RELATIONS | /m/062zr ]]
+ENTITY1:	[[ UNIVERSITY OF BATH | /m/0143hl ]]
+SUBJECT PATH: SUBJECT -> like
+OBJECT  PATH: OBJECT -> company -> SUBJECT -> like
+SUBJECT
+
+
+SUBJECT has a great variety of OBJECT both royalty free and rights managed by pro, agencies and amateurs
+SUBJECT:	[[ ALAMY | /m/04y04k ]]
+OBJECT:	[[ STOCK PHOTOGRAPHY | /m/036jvk ]]
+SUBJECT PATH: SUBJECT -> has
+OBJECT  PATH: OBJECT -> of -> variety -> has
+has
+
+
+In ENTITY1 , OBJECT is provided by SUBJECT , 1.800.332.0245.
+SUBJECT:	[[ MEDIACOM | /m/065qr_ ]]
+OBJECT:	[[ CABLE TELEVISION | /m/024bm ]]
+ENTITY1:	[[ MEDINA | /m/094vf ]]
+SUBJECT PATH: SUBJECT -> by -> provided
+OBJECT  PATH: OBJECT -> provided
+provided
+
+
+SUBJECT says that OBJECT can help organisations address both of these concerns.
+SUBJECT:	[[ INFOR | /m/026c3z3 ]]
+OBJECT:	[[ ENTERPRISE SOFTWARE | /m/0727xx ]]
+SUBJECT PATH: SUBJECT -> says
+OBJECT  PATH: OBJECT -> help -> says
+says
+
+
+The datasets are updated monthly on the website in OBJECT formats SUBJECT , ENTITY1 and ENTITY2 .
+SUBJECT:	[[ MAPINFO CORPORATION | /m/064bxj ]]
+OBJECT:	[[ GEOGRAPHIC INFORMATION SYSTEM | /m/03821 ]]
+ENTITY1:	[[ ESRI | /m/011r1z ]]
+ENTITY2:	[[ KML | /m/06pqd9 ]]
+SUBJECT PATH: SUBJECT -> website -> on -> updated
+OBJECT  PATH: OBJECT -> formats -> in -> website -> on -> updated
+website
+
+
+Jun. 2 - OBJECT king SUBJECT has died at the age of 71 after a long illness
+SUBJECT:	[[ YVES SAINT LAURENT | /m/03ccxvf ]]
+OBJECT:	[[ FASHION | /m/032tl ]]
+SUBJECT PATH: SUBJECT -> died
+OBJECT  PATH: OBJECT -> king -> SUBJECT -> died
+SUBJECT
+
+
+Currently: Designer at OBJECT company SUBJECT .
+SUBJECT:	[[ LIONHEAD STUDIOS | /m/04gyn ]]
+OBJECT:	[[ VIDEO GAME | /m/01mw1 ]]
+SUBJECT PATH: SUBJECT -> at -> Designer
+OBJECT  PATH: OBJECT -> company -> SUBJECT -> at -> Designer
+SUBJECT
+
+
+ENTITY1 was bought by ENTITY2 and OBJECT form SUBJECT last last year for £ 1.2 billion
+SUBJECT:	[[ APAX PARTNERS | /m/071ydh ]]
+OBJECT:	[[ PRIVATE EQUITY | /m/01b4x4 ]]
+ENTITY1:	[[ EMAP | /m/03vv73 ]]
+ENTITY2:	[[ GUARDIAN MEDIA GROUP | /m/01b3s6 ]]
+SUBJECT PATH: SUBJECT -> bought
+OBJECT  PATH: OBJECT -> form -> ENTITY2 -> by -> bought
+bought
+
+
+  SUBJECT sees the commercial grid-tied OBJECT market as an important element of our marketing strategy
+SUBJECT:	[[ EVERGREEN SOLAR, INC. | /m/03p231c ]]
+OBJECT:	[[ PHOTOVOLTAICS | /m/02_spr ]]
+SUBJECT PATH: SUBJECT -> sees
+OBJECT  PATH: OBJECT -> market -> sees
+sees
+
+
+OBJECT held by SUBJECT of ENTITY1 , ENTITY2 
+SUBJECT:	[[ TELE-COMMUNICATIONS INC. | /m/04hwzz ]]
+OBJECT:	[[ CABLE TELEVISION | /m/024bm ]]
+ENTITY1:	[[ HAWAII | /m/03gh4 ]]
+ENTITY2:	[[ INC | /m/0135dr ]]
+SUBJECT PATH: SUBJECT -> by -> held -> OBJECT
+OBJECT  PATH: OBJECT
+OBJECT
+
+
+OBJECT group SUBJECT sprang a better-than-expected profits report on the City yesterday but warned that uncertain times lay ahead
+SUBJECT:	[[ IMPERIAL CHEMICAL INDUSTRIES | /m/03yxp ]]
+OBJECT:	[[ CHEMICAL INDUSTRY | /m/0g10z ]]
+SUBJECT PATH: SUBJECT -> sprang
+OBJECT  PATH: OBJECT -> group -> sprang
+sprang
+
+
+The Australian firm SUBJECT offers residential OBJECT as well as business VOIP
+SUBJECT:	[[ FAKTORTEL | /m/027cpql ]]
+OBJECT:	[[ VOICE OVER IP | /m/0jzgd ]]
+SUBJECT PATH: SUBJECT -> firm -> offers
+OBJECT  PATH: OBJECT -> offers
+offers
+
+
+Despite some downturns in the ENTITY1 sector, SUBJECT has been able to maintain steady growth in OBJECT value-added services.
+SUBJECT:	[[ TENCENT | /m/0403vtn ]]
+OBJECT:	[[ THE INTERNET | /m/03rlt ]]
+ENTITY1:	[[ SP | /m/01jp_q ]]
+SUBJECT PATH: SUBJECT -> been
+OBJECT  PATH: OBJECT -> services -> in -> growth -> maintain -> able -> been
+been
+
+
+OBJECT ; Yes, ENTITY1 has a vested interest in SUBJECT especially
+SUBJECT:	[[ GENERAL MOTORS | /m/035nm ]]
+OBJECT:	[[ AUTOMOTIVE INDUSTRY | /m/015smg ]]
+ENTITY1:	[[ CANADA | /m/0d060g ]]
+SUBJECT PATH: SUBJECT -> in -> interest -> has
+OBJECT  PATH: OBJECT -> has
+has
+
+
+The ENTITY1 and SUBJECT has signed a new OBJECT and telecom...
+SUBJECT:	[[ ELECTRONIC DATA SYSTEMS | /m/02qwz ]]
+OBJECT:	[[ INFORMATION TECHNOLOGY | /m/03ytc ]]
+ENTITY1:	[[ COMMONWEALTH BANK OF AUSTRALIA | /m/02rndw ]]
+SUBJECT PATH: SUBJECT -> ENTITY1 -> signed
+OBJECT  PATH: OBJECT -> signed
+signed
+
+
+We can supply full range of SUBJECT shoes, OBJECT and ENTITY1 .
+SUBJECT:	[[ NIKE, INC. | /m/0lwkh ]]
+OBJECT:	[[ CLOTHING | /m/09j2d ]]
+ENTITY1:	[[ BAG | /m/080hkjn ]]
+SUBJECT PATH: SUBJECT -> shoes -> of -> range -> supply
+OBJECT  PATH: OBJECT -> shoes -> of -> range -> supply
+shoes
+
+
+SUBJECT is the marketplace for OBJECT .
+SUBJECT:	[[ ZOPA | /m/07fj2w ]]
+OBJECT:	[[ PEER-TO-PEER LENDING | /m/0gjq_7 ]]
+SUBJECT PATH: SUBJECT -> is
+OBJECT  PATH: OBJECT -> for -> marketplace -> is
+is
+
+
+9 on ENTITY1 , also, Skates, ENTITY2 , OBJECT  Check if SUBJECT BAUER VAPOR.
+SUBJECT:	[[ NIKE, INC. | /m/0lwkh ]]
+OBJECT:	[[ SPORTS EQUIPMENT | /m/05y5lj ]]
+ENTITY1:	[[ EBAY | /m/0z90c ]]
+ENTITY2:	[[ ICE HOCKEY | /m/03tmr ]]
+SUBJECT PATH: SUBJECT -> BAUER -> VAPOR -> Check
+OBJECT  PATH: OBJECT -> Check
+Check
+
+
+SUBJECT provides ENTITY1 language services centered around OBJECT content, community, and e-commerce
+SUBJECT:	[[ NETEASE | /m/07xm8h ]]
+OBJECT:	[[ THE INTERNET | /m/03rlt ]]
+ENTITY1:	[[ CHINESE | /m/0d05w3 ]]
+SUBJECT PATH: SUBJECT -> provides
+OBJECT  PATH: OBJECT -> content -> around -> centered -> services -> provides
+provides
+
+
+OBJECT bigwig, SUBJECT has sought ENTITY1 's Internet marketing services for one of its partner websites, EmPresent
+SUBJECT:	[[ HCL TECHNOLOGIES | /m/0698gv ]]
+OBJECT:	[[ INFORMATION TECHNOLOGY | /m/03ytc ]]
+ENTITY1:	[[ OLIVE | /m/05mln ]]
+SUBJECT PATH: SUBJECT -> bigwig -> sought
+OBJECT  PATH: OBJECT -> bigwig -> sought
+bigwig
+
+
+- OBJECT studio SUBJECT  announced on Thursday that it will release films on ENTITY1 's Blu-ray next-generation DVD format
+SUBJECT:	[[ METRO-GOLDWYN-MAYER | /m/0g1rw ]]
+OBJECT:	[[ FILM | /m/02vxn ]]
+ENTITY1:	[[ SONY | /m/06q07 ]]
+SUBJECT PATH: SUBJECT -> studio -> announced
+OBJECT  PATH: OBJECT -> studio -> announced
+studio
+
+
+OBJECT store SUBJECT in ENTITY1 will close.
+SUBJECT:	[[ LAND OF LEATHER | /m/05c55f_ ]]
+OBJECT:	[[ FURNITURE | /m/0c_jw ]]
+ENTITY1:	[[ KEW | /m/0crc47m ]]
+SUBJECT PATH: SUBJECT -> close
+OBJECT  PATH: OBJECT -> store -> SUBJECT -> close
+SUBJECT
+
+
+SUBJECT on OBJECT is great; SUBJECT also wrote ENTITY1 .
+SUBJECT:	[[ OGILVY & MATHER | /m/05qsqw ]]
+OBJECT:	[[ ADVERTISING | /m/011s0 ]]
+ENTITY1:	[[ CONFESSIONS OF AN ADVERTISING MAN | /m/06fk4s ]]
+SUBJECT PATH: SUBJECT -> wrote
+OBJECT  PATH: OBJECT -> on -> SUBJECT -> is -> wrote
+wrote
+
+
+The price was a Stressless chair, produced by the ENTITY1 company SUBJECT and donated by Macys OBJECT .
+SUBJECT:	[[ EKORNES | /m/07069n ]]
+OBJECT:	[[ FURNITURE | /m/0c_jw ]]
+ENTITY1:	[[ NORWEGIAN | /m/05b4w ]]
+SUBJECT PATH: SUBJECT -> company -> by -> produced -> chair -> was
+OBJECT  PATH: OBJECT -> by -> donated -> produced -> chair -> was
+produced
+
+
+By 1998, the ENTITY1 had SUBJECT revise the package insert to contain doctors about the way big OBJECT
+SUBJECT:	[[ ROCHE HOLDING AG | /m/02nyk6 ]]
+OBJECT:	[[ PHARMACEUTICAL INDUSTRY | /m/02q3wl ]]
+ENTITY1:	[[ ACCUTANE | /m/01hgfy ]]
+SUBJECT PATH: SUBJECT -> revise -> had
+OBJECT  PATH: OBJECT -> way -> about -> doctors -> contain -> insert -> revise -> had
+revise
+
+
+ENTITY1 partner of SUBJECT , a swedish based company known for its patented in-memory OBJECT platform, ENTITY2 .
+SUBJECT:	[[ QLIK | /m/0bqs19 ]]
+OBJECT:	[[ BUSINESS INTELLIGENCE | /m/016jq3 ]]
+ENTITY1:	[[ SOUTH EAST ASIA | /m/073q1 ]]
+ENTITY2:	[[ QLIKVIEW | /m/0bs82_g ]]
+SUBJECT PATH: SUBJECT -> of -> partner
+OBJECT  PATH: OBJECT -> platform -> for -> known -> company -> SUBJECT -> of -> partner
+SUBJECT
+
+
+? GData - Google BCM protocol | ENTITY1 | SUBJECT & ENTITY2 not thinking about OBJECT ?
+SUBJECT:	[[ MICROSOFT CORPORATION | /m/04sv4 ]]
+OBJECT:	[[ PUBLISHING | /m/0hz28 ]]
+ENTITY1:	[[ MAIN | /m/04zyx ]]
+ENTITY2:	[[ YAHOO | /m/019rl6 ]]
+SUBJECT PATH: SUBJECT -> thinking
+OBJECT  PATH: OBJECT -> about -> thinking
+thinking
+
+
+We? Provide Computer Training in most SUBJECT products, OBJECT , ENTITY1 , and much more...
+SUBJECT:	[[ MICROSOFT CORPORATION | /m/04sv4 ]]
+OBJECT:	[[ COMPUTER HARDWARE | /m/01mfj ]]
+ENTITY1:	[[ INTERNET | /m/03rlt ]]
+SUBJECT PATH: SUBJECT -> products -> in -> Provide
+OBJECT  PATH: OBJECT -> products -> in -> Provide
+products
+
+
+SUBJECT is a world leader in OBJECT , Technologies and ENTITY1 for the ENTITY2 .
+SUBJECT:	[[ TECHNIP | /m/0ct76r ]]
+OBJECT:	[[ ENGINEERING | /m/02ky346 ]]
+ENTITY1:	[[ PROJECT MANAGEMENT | /m/05_p2 ]]
+ENTITY2:	[[ OIL AND GAS INDUSTRY | /m/03xm3m ]]
+SUBJECT PATH: SUBJECT -> is
+OBJECT  PATH: OBJECT -> in -> leader -> is
+is
+
+
+SUBJECT is a world leader in OBJECT , focusing on Buyouts, ENTITY1 , Infrastructure and ENTITY2 .
+SUBJECT:	[[ 3I | /m/02ht0r ]]
+OBJECT:	[[ PRIVATE EQUITY | /m/01b4x4 ]]
+ENTITY1:	[[ GROWTH CAPITAL | /m/06wv44 ]]
+ENTITY2:	[[ QUOTED PRIVATE EQUITY | /m/04gr401 ]]
+SUBJECT PATH: SUBJECT -> is
+OBJECT  PATH: OBJECT -> in -> leader -> is
+is
+
+
+SUBJECT 's e-mail marketing solution, OBJECT , now offers enhanced suppression capabilities that automatically safeguard all mailings
+SUBJECT:	[[ SILVERPOP | /m/0k0k2z9 ]]
+OBJECT:	[[ MARKETING | /m/0g4gr ]]
+SUBJECT PATH: SUBJECT -> solution -> offers
+OBJECT  PATH: OBJECT -> solution -> offers
+solution
+
+
+A delegation from SUBJECT  visited ENTITY1 and had useful discussions with the Deputy Minister of OBJECT of ENTITY1 
+SUBJECT:	[[ INDIAN OIL CORPORATION | /m/026lzgq ]]
+OBJECT:	[[ PETROLEUM INDUSTRY | /m/03xm3m ]]
+ENTITY1:	[[ TURKMENISTAN | /m/01c4pv ]]
+SUBJECT PATH: SUBJECT -> from -> delegation -> visited
+OBJECT  PATH: OBJECT -> of -> Minister -> with -> discussions -> had -> visited
+visited
+
+
+SUBJECT manufactures a range of OBJECT products, primarily on the basis of open-standard ENTITY1 
+SUBJECT:	[[ SNOM | /m/02vrbjb ]]
+OBJECT:	[[ VOICE OVER IP | /m/0jzgd ]]
+ENTITY1:	[[ SIP | /m/07362 ]]
+SUBJECT PATH: SUBJECT -> manufactures
+OBJECT  PATH: OBJECT -> products -> of -> range -> manufactures
+manufactures
+
+
+6. LXR Luxury Resorts Official Site - Stay at the ENTITY1 's Premier SUBJECT and OBJECT .
+SUBJECT:	[[ LUXURY RESORTS | /m/05b_rrx ]]
+OBJECT:	[[ HOTEL | /m/03pty ]]
+ENTITY1:	[[ WORLD | /m/09nm_ ]]
+SUBJECT PATH: SUBJECT -> at -> Stay
+OBJECT  PATH: OBJECT -> SUBJECT -> at -> Stay
+SUBJECT
+
+
+ACTIVATION. SUBJECT has included features in the OBJECT to prevent unlicensed use of the Software
+SUBJECT:	[[ NUANCE COMMUNICATIONS | /m/03m92m ]]
+OBJECT:	[[ SOFTWARE | /m/01mf0 ]]
+SUBJECT PATH: SUBJECT -> included
+OBJECT  PATH: OBJECT -> in -> features -> included
+included
+
+
+ENTITY1 - OBJECT publisher SUBJECT says it will lay off 500 workers,...
+SUBJECT:	[[ A. H. BELO CORPORATION | /m/03bx0gj ]]
+OBJECT:	[[ NEWSPAPER | /m/05jnl ]]
+ENTITY1:	[[ LOS ANGELES | /m/030qb3t ]]
+SUBJECT PATH: SUBJECT -> says
+OBJECT  PATH: OBJECT -> publisher
+-None-
+
+
+The OBJECT also runs connecting flights from ENTITY1 via Entebbe in partnership with SUBJECT 
+SUBJECT:	[[ BRITISH AIRWAYS | /m/0198z ]]
+OBJECT:	[[ AIRLINE | /m/0vg8 ]]
+ENTITY1:	[[ LONDON | /m/04jpl ]]
+SUBJECT PATH: SUBJECT -> with -> partnership -> in -> connecting -> runs
+OBJECT  PATH: OBJECT -> runs
+runs
+
+
+ENTITY1 , ENTITY2 ? 04/14/08 ? SUBJECT , creators of next-generation OBJECT tools, today announced the arrival of mogul.
+SUBJECT:	[[ IMAGINEER SYSTEMS | /m/027bnw_ ]]
+OBJECT:	[[ VISUAL EFFECTS | /m/01vx2h ]]
+ENTITY1:	[[ LAS VEGAS | /m/0310dp ]]
+ENTITY2:	[[ NV | /m/059_c ]]
+SUBJECT PATH: SUBJECT -> announced
+OBJECT  PATH: OBJECT -> tools -> of -> creators -> announced
+announced
+
+
+ENTITY1  was SUBJECT s call signto differentiate it from ENTITY2 [ OBJECT
+SUBJECT:	[[ AMERICA WEST AIRLINES | /m/0ktcx ]]
+OBJECT:	[[ AIRLINE | /m/0vg8 ]]
+ENTITY1:	[[ CACTUS | /m/025_v ]]
+ENTITY2:	[[ AMERICAN | /m/09c7w0 ]]
+SUBJECT PATH: SUBJECT -> s -> signto -> was
+OBJECT  PATH: OBJECT -> from -> differentiate -> was
+was
+
+
+As the largest member of SUBJECT group, ENTITY1 is the leader in OBJECT and Defense industry.
+SUBJECT:	[[ AIRBUS GROUP | /m/0n3tb ]]
+OBJECT:	[[ AEROSPACE | /m/0147gr ]]
+ENTITY1:	[[ AIRBUS | /m/015zfz ]]
+SUBJECT PATH: SUBJECT -> group -> of -> member -> As -> is
+OBJECT  PATH: OBJECT -> industry -> in -> leader -> is
+is
+
+
+SUBJECT Delivers on OBJECT 's Promise of ROI with New Solution
+SUBJECT:	[[ KANA SOFTWARE | /m/0c6_j8 ]]
+OBJECT:	[[ CUSTOMER RELATIONSHIP MANAGEMENT | /m/02016 ]]
+SUBJECT PATH: SUBJECT -> Delivers
+OBJECT  PATH: OBJECT -> Promise -> on -> Delivers
+Delivers
+
+
+Kerstetter continues,   OBJECT pundit ENTITY1 predicted SUBJECT 's current predicament more than three years ago..
+SUBJECT:	[[ DELL | /m/0py9b ]]
+OBJECT:	[[ TECHNOLOGY | /m/07c1v ]]
+ENTITY1:	[[ NICHOLAS CARR | /m/04bckc ]]
+SUBJECT PATH: SUBJECT -> predicament -> predicted -> continues
+OBJECT  PATH: OBJECT -> pundit -> ENTITY1 -> predicted -> continues
+predicted
+
+
+SUBJECT made this OBJECT
+SUBJECT:	[[ WINNEBAGO INDUSTRIES | /m/02qc731 ]]
+OBJECT:	[[ RECREATIONAL VEHICLE | /m/01lgkm ]]
+SUBJECT PATH: SUBJECT -> made
+OBJECT  PATH: OBJECT -> made
+made
+
+
+OBJECT operators SUBJECT and ntl have joined forces to take on rivals ENTITY1 and BT.??more..
+SUBJECT:	[[ TELEWEST | /m/010rjl ]]
+OBJECT:	[[ CABLE TELEVISION | /m/024bm ]]
+ENTITY1:	[[ BSKYB | /m/03p1p8r ]]
+SUBJECT PATH: SUBJECT -> operators -> joined
+OBJECT  PATH: OBJECT -> operators -> joined
+operators
+
+
+Long-haul OBJECT regularly used include scheduled flights on ENTITY1 , SUBJECT and ENTITY2 .
+SUBJECT:	[[ AIR INDIA | /m/0k670 ]]
+OBJECT:	[[ AIRLINE | /m/0vg8 ]]
+ENTITY1:	[[ BRITISH AIRWAYS | /m/0198z ]]
+ENTITY2:	[[ EMIRATES | /m/011_65 ]]
+SUBJECT PATH: SUBJECT -> ENTITY1 -> on -> flights -> include -> used
+OBJECT  PATH: OBJECT -> used
+used
+
+
+As of Fall 2004, the Education Office of OBJECT is supporting SUBJECT Axim Pocket PCs.
+SUBJECT:	[[ DELL | /m/0py9b ]]
+OBJECT:	[[ INFORMATION TECHNOLOGY | /m/03ytc ]]
+SUBJECT PATH: SUBJECT -> Axim -> Pocket -> PCs -> supporting
+OBJECT  PATH: OBJECT -> of -> Office -> supporting
+supporting
+
+
+ENTITY1 in OBJECT  reports that SUBJECT has agreed to merge in 2008 with ENTITY2  under a holding company
+SUBJECT:	[[ KENWOOD CORPORATION | /m/0495fj ]]
+OBJECT:	[[ CONSUMER ELECTRONICS | /m/019z7b ]]
+ENTITY1:	[[ THIS WEEK | /m/05qv5f ]]
+ENTITY2:	[[ VICTOR COMPANY OF JAPAN | /m/0142vy ]]
+SUBJECT PATH: SUBJECT -> agreed -> reports
+OBJECT  PATH: OBJECT -> in -> ENTITY1 -> reports
+reports
+
+
+After graduating from journalism school at ENTITY1 , he worked for OBJECT company SUBJECT for several years
+SUBJECT:	[[ OGILVY & MATHER | /m/05qsqw ]]
+OBJECT:	[[ PUBLIC RELATIONS | /m/062zr ]]
+ENTITY1:	[[ COLUMBIA UNIVERSITY | /m/01w5m ]]
+SUBJECT PATH: SUBJECT -> for -> worked
+OBJECT  PATH: OBJECT -> company -> SUBJECT -> for -> worked
+SUBJECT
+
+
+Dennis is SUBJECT s OBJECT director for ENTITY1 , ENTITY2 .
+SUBJECT:	[[ RURAL METRO | /m/05s9l8 ]]
+OBJECT:	[[ EMERGENCY MEDICAL SERVICES | /m/0dxh1 ]]
+ENTITY1:	[[ LOUDON COUNTY | /m/0mt5n ]]
+ENTITY2:	[[ TENNESSEE | /m/07h34 ]]
+SUBJECT PATH: SUBJECT -> director -> is
+OBJECT  PATH: OBJECT -> director -> is
+director
+
+
+SUBJECT s new OBJECT
+SUBJECT:	[[ AUDEMARS PIGUET | /m/07x4hr ]]
+OBJECT:	[[ MANUFACTURING | /m/09t4t ]]
+SUBJECT PATH: SUBJECT -> OBJECT
+OBJECT  PATH: OBJECT
+OBJECT
+
+
+ENTITY1 is a technology standardized by SUBJECT , which makes OBJECT connections compatible with other OBJECT systems.
+SUBJECT:	[[ WI-FI ALLIANCE | /m/03dwnw ]]
+OBJECT:	[[ WIRELESS LAN | /m/0829v ]]
+ENTITY1:	[[ WI-FI | /m/0h4d9 ]]
+SUBJECT PATH: SUBJECT -> by -> standardized -> technology -> is
+OBJECT  PATH: OBJECT -> systems -> with -> compatible -> makes -> SUBJECT -> by -> standardized -> technology -> is
+SUBJECT
+
+
+( ENTITY1 and SUBJECT technologies, ENTITY2 , Data warehousing, Business intelligence, OBJECT ).
+SUBJECT:	[[ MICROSOFT CORPORATION | /m/04sv4 ]]
+OBJECT:	[[ GEOGRAPHIC INFORMATION SYSTEM | /m/03821 ]]
+ENTITY1:	[[ ORACLE | /m/05njw ]]
+ENTITY2:	[[ JAVA | /m/07sbkfb ]]
+SUBJECT PATH: SUBJECT -> ENTITY1 -> technologies
+OBJECT  PATH: OBJECT -> intelligence -> warehousing -> ENTITY2 -> technologies
+technologies
+
+
+SUBJECT used OBJECT tags and readers from ENTITY1 and ENTITY2 
+SUBJECT:	[[ BLUEBEAN | /m/0fq2qdy ]]
+OBJECT:	[[ RADIO-FREQUENCY IDENTIFICATION | /m/016p89 ]]
+ENTITY1:	[[ ALIEN TECHNOLOGY | /m/01p57m ]]
+ENTITY2:	[[ IMPINJ | /m/0ch2y4q ]]
+SUBJECT PATH: SUBJECT -> used
+OBJECT  PATH: OBJECT -> tags -> used
+used
+
+
+SUBJECT is a global OBJECT  leader
+SUBJECT:	[[ SITEL | /m/020cfy ]]
+OBJECT:	[[ BUSINESS PROCESS OUTSOURCING | /m/04fm00 ]]
+SUBJECT PATH: SUBJECT -> is
+OBJECT  PATH: OBJECT -> leader -> is
+is
+
+
+The Data security company, ENTITY1 , has signed an OBJECT agreement with the ENTITY2 telecom group, SUBJECT .
+SUBJECT:	[[ TELIASONERA | /m/07cxn ]]
+OBJECT:	[[ INTERNET SERVICE PROVIDER | /m/0pjxv ]]
+ENTITY1:	[[ NORMAN ASA | /m/02x34lz ]]
+ENTITY2:	[[ SWEDISH | /m/0d0vqn ]]
+SUBJECT PATH: SUBJECT -> group -> with -> agreement -> signed
+OBJECT  PATH: OBJECT -> agreement -> signed
+agreement
+
+
+... SUBJECT is the OBJECT for Dr ENTITY1 children's books.
+SUBJECT:	[[ RANDOM HOUSE | /m/018_d0 ]]
+OBJECT:	[[ PUBLISHING | /m/0hz28 ]]
+ENTITY1:	[[ SEUSS | /m/02g3w ]]
+SUBJECT PATH: SUBJECT -> is
+OBJECT  PATH: OBJECT -> is
+is
+
+
+SUBJECT analyzes all of OBJECT makes it.
+SUBJECT:	[[ MINT.COM | /m/03cj4p7 ]]
+OBJECT:	[[ PERSONAL FINANCE | /m/01y6cq ]]
+SUBJECT PATH: SUBJECT -> analyzes
+OBJECT  PATH: OBJECT -> of -> all -> analyzes
+analyzes
+
+

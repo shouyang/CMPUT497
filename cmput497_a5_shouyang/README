@@ -1,0 +1,25 @@
+### Authors
+    - Shouyang Zhou (ccid: shouyang)
+
+### How To Run
+
+    - Run the "script.py", it takes no inputs
+        - This script uses the filepaths of the files "trainBBC.csv", "testBBC.csv", and "evalBBC.csv" which are hardcoded into the script.
+
+        - This script will print the results of the cross validation procedure to the terminal.
+            - I reconmend piping the terminal output to a text file.
+            - Since there is no identifier associated with each sample, my script will print these to the terminal generating likely more lines than the terminal buffer.
+
+        - This script will generate two csv files in the local directory.
+            - output_testBBC.csv -> As requested per the assignment
+            - output_evalBBC.csv -> Used in my analysis for the report, in the same form as the previous file. 
+
+### References
+
+    - I originally used the NLTK classifier before I saw the Carrie's post in the disscusion forum.
+        - Hence these references influenced my design. 
+
+        - nltk NaiveBayesClassifier:  https://stackoverflow.com/questions/20827741/nltk-naivebayesclassifier-training-for-sentiment-analysis
+        - nltk Classifiers: https://www.nltk.org/book/ch06.html
+        - nltk Estimators (Smoothing Related): https://stats.stackexchange.com/questions/366552/nlp-various-probabilities-estimators-in-nltk
+    
